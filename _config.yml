@@ -1,0 +1,16 @@
+title: "Concordia247"
+description: "Noticias de Concordia (Entre Ríos) — neutral, informativo."
+url: "https://eugegit2027.github.io"
+baseurl: "/concordia247"
+lang: es-AR
+timezone: America/Argentina/Buenos_Aires
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+minima:
+  skin: auto
+
+# Build settings
+markdown: kramdown
