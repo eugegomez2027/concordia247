@@ -1,6 +1,3 @@
-Pegá **todo esto** dentro de `script/generate.py` (reemplazando el contenido completo del archivo) y después “Commit changes”.
-
-```python
 #!/usr/bin/env python3
 """Concordia247 generator.
 
@@ -27,10 +24,10 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 
-import feedparser
 import requests
 import yaml
 from bs4 import BeautifulSoup
+import feedparser
 
 ROOT = Path(__file__).resolve().parents[1]
 POSTS = ROOT / "_posts"
@@ -38,17 +35,7 @@ DATA = ROOT / "_data"
 
 HEADERS = {"User-Agent": "Concordia247Bot/0.1 (+https://eugegomez2027.github.io/concordia247/)"}
 
-BLOCK_URL_FRAGMENTS = [
-    "/policial",
-    "/policiales",
-    "/judicial",
-    "/tribun",
-    "/crimen",
-    "/homic",
-    "/abuso",
-    "/viol",
-    "/denunc",
-]
+BLOCK_URL_FRAGMENTS = ["/policial", "/policiales", "/judicial", "/tribun", "/crimen", "/homic", "/abuso", "/viol", "/denunc"]
 BLOCK_KEYWORDS = [
     # crimen / policiales
     "policía",
@@ -117,12 +104,10 @@ def parse_sitemap(feed_url: str, source_name: str, hours: int = 12) -> list[Item
     soup = BeautifulSoup(xml, "xml")
     cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=hours)
     out: list[Item] = []
-
     for urltag in soup.find_all("url"):
         loc = (urltag.loc.text or "").strip() if urltag.loc else ""
         if not loc:
             continue
-
         lastmod = (urltag.lastmod.text or "").strip() if urltag.lastmod else ""
         published = None
         if lastmod:
@@ -132,12 +117,9 @@ def parse_sitemap(feed_url: str, source_name: str, hours: int = 12) -> list[Item
                     published = published.replace(tzinfo=dt.timezone.utc)
             except Exception:
                 published = None
-
         if published and published < cutoff:
             continue
-
         out.append(Item(source=source_name, url=loc, published=published))
-
     return out
 
 
@@ -158,7 +140,6 @@ def looks_blocked(url: str, title: str | None, description: str | None) -> str |
     for frag in BLOCK_URL_FRAGMENTS:
         if frag in u:
             return f"URL contiene '{frag}'"
-
     hay = " ".join([title or "", description or ""]).lower()
     for kw in BLOCK_KEYWORDS:
         if kw in hay:
@@ -167,6 +148,7 @@ def looks_blocked(url: str, title: str | None, description: str | None) -> str |
 
 
 def focus_ok(url: str, title: str | None, description: str | None) -> bool:
+    # prioridad: Concordia explícito
     if FOCUS_RE.search(url):
         return True
     hay = " ".join([title or "", description or ""])[:300]
@@ -175,7 +157,6 @@ def focus_ok(url: str, title: str | None, description: str | None) -> bool:
 
 def extract_title_desc(html: str) -> tuple[str | None, str | None, str | None]:
     soup = BeautifulSoup(html, "html.parser")
-
     title = None
     og = soup.find("meta", property="og:title")
     if og and og.get("content"):
@@ -188,6 +169,7 @@ def extract_title_desc(html: str) -> tuple[str | None, str | None, str | None]:
     if md and md.get("content"):
         desc = md["content"].strip()
 
+    # intento de primer párrafo
     first_p = None
     p = soup.find("p")
     if p and p.get_text(strip=True):
@@ -203,7 +185,7 @@ def slug_from_url(url: str) -> str:
 
 
 def build_post(title_raw: str, source: str, url: str, desc: str | None, first_p: str | None) -> str:
-    # título “tipo diario”
+    # Título “tipo diario”
     t = title_raw.strip()
     if len(t) > 120:
         t = t[:117].rstrip() + "…"
@@ -241,7 +223,6 @@ def append_revisar(lines: list[str]) -> None:
         txt = revisar.read_text(encoding="utf-8").rstrip() + "\n"
     else:
         txt = "# REVISAR\n\n"
-
     stamp = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     txt += f"\n\n## Tanda {stamp}\n"
     txt += "\n".join(lines) + "\n"
@@ -259,11 +240,11 @@ def main() -> int:
         elif s.get("feed") == "sitemap":
             candidates.extend(parse_sitemap(s["feed_url"], s["name"]))
 
+    # orden: más nuevos primero si hay published
     candidates.sort(key=lambda it: it.published or dt.datetime.now(dt.timezone.utc), reverse=True)
 
     revisar_lines: list[str] = []
     new_posts = 0
-
     for it in candidates:
         if it.url in seen:
             continue
@@ -276,16 +257,19 @@ def main() -> int:
         title, desc, first_p = extract_title_desc(html)
         title = it.title or title or it.url
 
+        # foco
         if not focus_ok(it.url, title, desc):
             seen.add(it.url)
             continue
 
+        # bloqueos
         reason = looks_blocked(it.url, title, desc)
         if reason:
             revisar_lines.append(f"- {title} — {it.url} _(bloqueado: {reason})_")
             seen.add(it.url)
             continue
 
+        # crear post
         slug = slug_from_url(it.url)
         date = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d")
         out = POSTS / f"{date}-{slug}.md"
@@ -297,7 +281,7 @@ def main() -> int:
         seen.add(it.url)
         new_posts += 1
 
-        # límite por tanda: 5
+        # por ahora limitamos por tanda (para no inundar): 5
         if new_posts >= 5:
             break
 
@@ -311,11 +295,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-```
-
-Cuando termines de pegarlo, abajo poné:
-- **Commit message:** `Generate posts + REVISAR from feeds`
-- Commit directamente a `main`
-
-Si no encontrás la carpeta `script/` en GitHub:
-- En vez de editar, creá el archivo nuevo con ruta exacta: `script/generate.py` (GitHub crea la carpeta automáticamente).
