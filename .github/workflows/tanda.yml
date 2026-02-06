@@ -9,6 +9,10 @@ permissions:
   contents: write
   pull-requests: write
 
+concurrency:
+  group: tanda-concordia247
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -31,15 +35,21 @@ jobs:
         run: |
           python3 script/generate.py
 
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v6
-        with:
-          commit-message: "Tanda automática (cada 6h)"
-          title: "Tanda automática Concordia247"
-          body: |
-            PR generado automáticamente.
+      - name: Commit & push to main (publicación automática)
+        run: |
+          # Si no hay cambios, no hacemos nada
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes to commit"
+            exit 0
+          fi
 
-            - Borradores nuevos en `_posts/`
-            - `revisar.md` actualizado (items bloqueados)
-          branch: "auto/tanda"
-          delete-branch: false
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+          git commit -m "Tanda automática (cada 6h)"
+
+          # Traer cambios remotos por si alguien mergeó algo entre checkout y commit
+          git pull --rebase origin main
+
+          git push origin HEAD:main
