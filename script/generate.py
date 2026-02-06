@@ -230,6 +230,8 @@ def append_revisar(lines: list[str]) -> None:
 
 
 def main() -> int:
+    POSTS.mkdir(parents=True, exist_ok=True)
+
     sources = load_sources()
     seen = load_seen()
 
