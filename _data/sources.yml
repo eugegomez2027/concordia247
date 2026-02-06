@@ -1,19 +1,26 @@
 # Fuentes permitidas (v1) — Eugenia valida.
-# Formato: name, url, rss (si aplica), type (official|media)
+# Formato: name, url, type (official|media), feed (rss|sitemap), feed_url
 
 - name: "Diario Río Uruguay"
   type: media
-  url: "https://www.diarioriouruguay.com.ar/"
-  rss: ""
+  url: "https://www.diarioriouruguay.com/"
+  feed: sitemap
+  feed_url: "https://www.diarioriouruguay.com/sitemap.xml"
 
 - name: "Diario Junio"
   type: media
   url: "https://www.diariojunio.com.ar/"
-  rss: ""
+  feed: rss
+  feed_url: "https://www.diariojunio.com.ar/feed/"
 
 - name: "El Entre Ríos"
   type: media
   url: "https://www.elentrerios.com/"
-  rss: ""
+  feed: sitemap
+  feed_url: "https://www.elentrerios.com/sitemap.xml"
 
-# TODO: agregar oficiales (Municipalidad, Concejo, Gobierno ER) con URLs/RSS.
+- name: "Municipalidad de Concordia"
+  type: official
+  url: "https://www.concordia.gob.ar/"
+  feed: rss
+  feed_url: "https://www.concordia.gob.ar/rss.xml"
