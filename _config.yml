@@ -9,6 +9,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
+show_excerpts: true
+
 minima:
   skin: auto
 
