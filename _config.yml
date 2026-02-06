@@ -9,6 +9,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Mostrar resumen (excerpt) en la home
 show_excerpts: true
 
 minima:
