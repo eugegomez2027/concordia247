@@ -20,6 +20,11 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install deps
+        run: |
+          python3 -m pip install --upgrade pip
+          pip install beautifulsoup4 pyyaml feedparser requests
+
       - name: Run generator
         run: |
           python3 script/generate.py
@@ -32,7 +37,7 @@ jobs:
           body: |
             PR generado automáticamente.
 
-            - Nuevos borradores en _posts (cuando esté conectado RSS)
-            - Lista REVISAR actualizada
+            - Borradores nuevos en `_posts/`
+            - `revisar.md` actualizado (items bloqueados)
           branch: "auto/tanda"
           delete-branch: false
