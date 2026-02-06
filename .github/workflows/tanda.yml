@@ -23,7 +23,7 @@ jobs:
       - name: Install deps
         run: |
           python3 -m pip install --upgrade pip
-          pip install beautifulsoup4 pyyaml feedparser requests
+          pip install beautifulsoup4 pyyaml feedparser requests lxml
 
       - name: Run generator
         run: |
