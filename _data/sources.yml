@@ -26,3 +26,21 @@
   feed_url: "https://www.concordia.gob.ar/rss.xml"
 
 # Falta: Concejo Deliberante (pasanos link de comunicados/prensa para sumarlo)
+
+- name: "El Heraldo"
+  type: media
+  url: "https://www.elheraldo.com.ar/"
+  feed: sitemap
+  feed_url: "https://www.elheraldo.com.ar/sitemap.xml"
+
+- name: "Diario El Sol"
+  type: media
+  url: "https://diarioelsol.com.ar/"
+  feed: sitemap
+  feed_url: "https://diarioelsol.com.ar/sitemap.xml"
+
+- name: "Concordia24"
+  type: media
+  url: "https://concordia24.com.ar/"
+  feed: rss
+  feed_url: "https://concordia24.com.ar/feed/"

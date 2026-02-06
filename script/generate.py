@@ -79,6 +79,7 @@ FOCUS_RE = re.compile(r"concord", re.IGNORECASE)
 @dataclass
 class Item:
     source: str
+    source_type: str
     url: str
     title: str | None = None
     published: dt.datetime | None = None
@@ -109,7 +110,7 @@ def fetch_text(url: str) -> str:
     return r.text
 
 
-def parse_sitemap(feed_url: str, source_name: str, hours: int = 12) -> list[Item]:
+def parse_sitemap(feed_url: str, source_name: str, source_type: str, hours: int = 12) -> list[Item]:
     xml = fetch_text(feed_url)
     soup = BeautifulSoup(xml, "xml")
     cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=hours)
@@ -129,11 +130,11 @@ def parse_sitemap(feed_url: str, source_name: str, hours: int = 12) -> list[Item
                 published = None
         if published and published < cutoff:
             continue
-        out.append(Item(source=source_name, url=loc, published=published))
+        out.append(Item(source=source_name, source_type=source_type, url=loc, published=published))
     return out
 
 
-def parse_rss(feed_url: str, source_name: str) -> list[Item]:
+def parse_rss(feed_url: str, source_name: str, source_type: str) -> list[Item]:
     d = feedparser.parse(feed_url)
     out: list[Item] = []
     for e in d.entries:
@@ -141,7 +142,7 @@ def parse_rss(feed_url: str, source_name: str) -> list[Item]:
         if not link:
             continue
         title = getattr(e, "title", "").strip() or None
-        out.append(Item(source=source_name, url=link, title=title))
+        out.append(Item(source=source_name, source_type=source_type, url=link, title=title))
     return out
 
 
@@ -340,16 +341,22 @@ def main() -> int:
 
     candidates: list[Item] = []
     for s in sources:
+        stype = s.get("type", "media")
         if s.get("feed") == "rss":
-            candidates.extend(parse_rss(s["feed_url"], s["name"]))
+            candidates.extend(parse_rss(s["feed_url"], s["name"], stype))
         elif s.get("feed") == "sitemap":
-            candidates.extend(parse_sitemap(s["feed_url"], s["name"]))
+            candidates.extend(parse_sitemap(s["feed_url"], s["name"], stype))
 
     # orden: más nuevos primero si hay published
     candidates.sort(key=lambda it: it.published or dt.datetime.now(dt.timezone.utc), reverse=True)
 
     revisar_lines: list[str] = []
     new_posts = 0
+
+    # cuota por tipo de fuente: priorizar medios sobre "official"
+    max_official = 1
+    official_posts = 0
+
     for it in candidates:
         if it.url in seen:
             continue
@@ -361,6 +368,11 @@ def main() -> int:
 
         title, desc, first_p, extra_paras = extract_title_desc(html)
         title = it.title or title or it.url
+
+        # cuota por tipo (official)
+        if it.source_type == "official" and official_posts >= max_official:
+            # no marcamos como seen: que pueda entrar en una tanda futura
+            continue
 
         # foco
         if not focus_ok(it.url, title, desc):
@@ -385,6 +397,8 @@ def main() -> int:
         out.write_text(build_post(title, it.source, it.url, desc, first_p, extra_paras), encoding="utf-8")
         seen.add(it.url)
         new_posts += 1
+        if it.source_type == "official":
+            official_posts += 1
 
         # por ahora limitamos por tanda (para no inundar): 5
         if new_posts >= 5:
