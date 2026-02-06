@@ -11,8 +11,8 @@ Este script:
   - bloqueos → `revisar.md` (denuncias/menores/crimen/acusaciones) por heurística
 - Genera posts Jekyll en `_posts/`
 
-Nota: el resumen es heurístico (meta description / primer párrafo). Si después
-querés redacción “más humana”, lo mejor es sumar un LLM vía GitHub Secrets.
+Nota: el resumen es heurístico. Si después querés una redacción “más humana”,
+lo ideal es sumar un LLM vía GitHub Secrets.
 """
 
 from __future__ import annotations
@@ -24,10 +24,10 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 
+import feedparser
 import requests
 import yaml
 from bs4 import BeautifulSoup
-import feedparser
 
 ROOT = Path(__file__).resolve().parents[1]
 POSTS = ROOT / "_posts"
@@ -35,7 +35,17 @@ DATA = ROOT / "_data"
 
 HEADERS = {"User-Agent": "Concordia247Bot/0.1 (+https://eugegomez2027.github.io/concordia247/)"}
 
-BLOCK_URL_FRAGMENTS = ["/policial", "/policiales", "/judicial", "/tribun", "/crimen", "/homic", "/abuso", "/viol", "/denunc"]
+BLOCK_URL_FRAGMENTS = [
+    "/policial",
+    "/policiales",
+    "/judicial",
+    "/tribun",
+    "/crimen",
+    "/homic",
+    "/abuso",
+    "/viol",
+    "/denunc",
+]
 BLOCK_KEYWORDS = [
     # crimen / policiales
     "policía",
@@ -155,27 +165,60 @@ def focus_ok(url: str, title: str | None, description: str | None) -> bool:
     return bool(FOCUS_RE.search(hay))
 
 
-def extract_title_desc(html: str) -> tuple[str | None, str | None, str | None]:
+def extract_title_desc(html: str) -> tuple[str | None, str | None, str | None, list[str]]:
     soup = BeautifulSoup(html, "html.parser")
+
+    # ---- title ----
     title = None
     og = soup.find("meta", property="og:title")
     if og and og.get("content"):
         title = og["content"].strip()
+    if not title:
+        tw = soup.find("meta", attrs={"name": "twitter:title"})
+        if tw and tw.get("content"):
+            title = tw["content"].strip()
     if not title and soup.title and soup.title.text:
         title = soup.title.text.strip()
 
+    # ---- description ----
     desc = None
-    md = soup.find("meta", attrs={"name": "description"})
-    if md and md.get("content"):
-        desc = md["content"].strip()
+    # prioridad: OG/Twitter suelen estar mejor que meta description
+    for meta in [
+        ("meta", {"property": "og:description"}, "content"),
+        ("meta", {"name": "twitter:description"}, "content"),
+        ("meta", {"name": "description"}, "content"),
+    ]:
+        tag = soup.find(meta[0], attrs=meta[1])
+        if tag and tag.get(meta[2]):
+            val = tag[meta[2]].strip()
+            if val:
+                desc = val
+                break
 
-    # intento de primer párrafo
+    # ---- first paragraph (mejorado) ----
     first_p = None
-    p = soup.find("p")
-    if p and p.get_text(strip=True):
-        first_p = p.get_text(" ", strip=True)
+    # Tomamos el primer <p> "largo" para evitar cosas tipo "Suscribite" / menús.
+    for p in soup.find_all("p"):
+        txt = p.get_text(" ", strip=True)
+        if not txt:
+            continue
+        txt = re.sub(r"\s+", " ", txt).strip()
+        if len(txt) < 80:
+            continue
+        first_p = txt
+        break
 
-    return title, desc, first_p
+    # ---- extra paragraphs (para resumen "periodístico") ----
+    extra_paras: list[str] = []
+    for p in soup.find_all("p"):
+        txt = re.sub(r"\s+", " ", p.get_text(" ", strip=True)).strip()
+        if len(txt) < 120:
+            continue
+        extra_paras.append(txt)
+        if len(extra_paras) >= 8:
+            break
+
+    return title, desc, first_p, extra_paras
 
 
 def slug_from_url(url: str) -> str:
@@ -184,26 +227,85 @@ def slug_from_url(url: str) -> str:
     return s[:80]
 
 
-def build_post(title_raw: str, source: str, url: str, desc: str | None, first_p: str | None) -> str:
+def make_press_bullets(desc: str | None, first_p: str | None, extra_paras: list[str]) -> tuple[str, list[str]]:
+    """Genera un lead + 3-4 bullets en estilo "periodístico" sin LLM.
+
+    Heurística: junta descripción + párrafos largos y toma oraciones "buenas".
+    """
+
+    chunks: list[str] = []
+    if desc:
+        chunks.append(desc)
+    if first_p:
+        chunks.append(first_p)
+    chunks.extend(extra_paras[:4])
+
+    text = re.sub(r"\s+", " ", " ".join([c for c in chunks if c])).strip()
+
+    # Split simple por puntuación fuerte.
+    sents = re.split(r"(?<=[\.\!\?])\s+", text)
+    sents = [s.strip(" -–•\t") for s in sents if len(s.strip()) >= 40]
+
+    lead = (sents[0] if sents else (desc or first_p or "")).strip()
+    if not lead:
+        lead = "Resumen pendiente: la fuente no trae texto claro para extraer automáticamente."
+    if len(lead) > 220:
+        lead = lead[:217].rstrip() + "…"
+
+    bullets: list[str] = []
+    for s in sents[1:10]:
+        if len(bullets) >= 4:
+            break
+        if not s:
+            continue
+        # evitar duplicar el lead
+        if lead and s[:60] in lead:
+            continue
+        if len(s) > 180:
+            s = s[:177].rstrip() + "…"
+        bullets.append(s)
+
+    if not bullets:
+        bullets = ["Seguir la fuente para detalles completos."]
+
+    return lead, bullets
+
+
+def build_post(
+    title_raw: str,
+    source: str,
+    url: str,
+    desc: str | None,
+    first_p: str | None,
+    extra_paras: list[str],
+) -> str:
     # Título “tipo diario”
-    t = title_raw.strip()
+    t = (title_raw or "").strip() or url
     if len(t) > 120:
         t = t[:117].rstrip() + "…"
     title = f"Qué se sabe: {t}"
 
-    summary = desc or first_p or ""
-    summary = re.sub(r"\s+", " ", summary).strip()
-    if len(summary) > 320:
-        summary = summary[:317].rstrip() + "…"
+    lead, bullets = make_press_bullets(desc, first_p, extra_paras)
 
     body_parts: list[str] = []
-    if summary:
-        body_parts.append(summary)
+    if lead:
+        body_parts.append(lead)
         body_parts.append("")
 
-    body_parts.append("- **Datos clave:** (en desarrollo)")
-    body_parts.append("- **Contexto local:** (en desarrollo)")
-    body_parts.append(f"- **Fuente:** [{source}]({url})")
+    body_parts.append("## Resumen (4 puntos)")
+    for b in bullets:
+        body_parts.append(f"- {b}")
+    body_parts.append("")
+
+    body_parts.append("## Por qué importa (local)")
+    body_parts.append("- (en desarrollo)")
+    body_parts.append("")
+
+    body_parts.append("## Qué falta confirmar")
+    body_parts.append("- (en desarrollo)")
+    body_parts.append("")
+
+    body_parts.append(f"**Fuente:** [{source}]({url})")
 
     fm = {
         "layout": "post",
@@ -230,6 +332,7 @@ def append_revisar(lines: list[str]) -> None:
 
 
 def main() -> int:
+    # Asegurar que exista el directorio de salida (Git no guarda carpetas vacías)
     POSTS.mkdir(parents=True, exist_ok=True)
 
     sources = load_sources()
@@ -256,7 +359,7 @@ def main() -> int:
         except Exception:
             continue
 
-        title, desc, first_p = extract_title_desc(html)
+        title, desc, first_p, extra_paras = extract_title_desc(html)
         title = it.title or title or it.url
 
         # foco
@@ -279,7 +382,7 @@ def main() -> int:
             seen.add(it.url)
             continue
 
-        out.write_text(build_post(title, it.source, it.url, desc, first_p), encoding="utf-8")
+        out.write_text(build_post(title, it.source, it.url, desc, first_p, extra_paras), encoding="utf-8")
         seen.add(it.url)
         new_posts += 1
 
