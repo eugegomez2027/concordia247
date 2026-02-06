@@ -23,7 +23,9 @@ jobs:
       - name: Install deps
         run: |
           python3 -m pip install --upgrade pip
-          pip install beautifulsoup4 pyyaml feedparser requests lxml
+          python3 -m pip install beautifulsoup4 pyyaml feedparser requests lxml
+          python3 -m pip show lxml
+          python3 -c "from bs4 import BeautifulSoup; BeautifulSoup('<root/>','xml'); print('BS4 xml parser OK')"
 
       - name: Run generator
         run: |
