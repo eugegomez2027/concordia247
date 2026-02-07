@@ -31,3 +31,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Buscaban un supuesto arma de fuego exhibido en las redes sociales y se encontraron con lo de siempre: DROGAS. — https://diarioelsol.com.ar/contenido/56910/buscaban-un-supuesto-arma-de-fuego-exhibido-en-las-redes-sociales-y-se-encontrar _(bloqueado: contiene keyword 'allanamiento')_
 - Dictaron sesenta días de prisión preventiva para la "viuda negra" que le robó una fortuna en dólares y su camioneta a un contacto. — https://diarioelsol.com.ar/contenido/56986/dictaron-sesenta-dias-de-prision-preventiva-para-la-viuda-negra-que-le-robo-una- _(bloqueado: contiene keyword 'asesin')_
 - Los dos "pesos pesados" de la Policía de Entre Ríos: Rosatelli y Miño, seguirán a cargo de la Departamental Concordia de la Policía de ER. — https://diarioelsol.com.ar/contenido/57006/los-dos-pesos-pesados-de-la-policia-de-entre-rios-rosatelli-y-mino-seguiran-a-ca _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-02-07 15:43 UTC
+- Detenido por abuso sexual y lesiones en contexto de violencia de género — https://concordia24.com.ar/detenido-por-abuso-sexual-y-lesiones-en-contexto-de-violencia-de-genero/ _(bloqueado: contiene keyword 'detenido')_
