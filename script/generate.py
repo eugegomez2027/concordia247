@@ -249,7 +249,10 @@ def make_press_bullets(desc: str | None, first_p: str | None, extra_paras: list[
 
     lead = (sents[0] if sents else (desc or first_p or "")).strip()
     if not lead:
-        lead = "Resumen pendiente: la fuente no trae texto claro para extraer automáticamente."
+        lead = (
+            "No se pudo extraer un resumen automático de esta fuente (estructura/metadata insuficiente). "
+            "Ver Fuente para el texto completo."
+        )
     if len(lead) > 220:
         lead = lead[:217].rstrip() + "…"
 
@@ -284,11 +287,13 @@ def build_post(
     t = (title_raw or "").strip() or url
     if len(t) > 120:
         t = t[:117].rstrip() + "…"
-    title = f"Qué se sabe: {t}"
+    title = t
 
     lead, bullets = make_press_bullets(desc, first_p, extra_paras)
 
     body_parts: list[str] = []
+
+    # Si no hay texto usable, igual publicamos un post "cerrado" sin placeholders.
     if lead:
         body_parts.append(lead)
         body_parts.append("")
@@ -296,14 +301,6 @@ def build_post(
     body_parts.append("## Resumen (4 puntos)")
     for b in bullets:
         body_parts.append(f"- {b}")
-    body_parts.append("")
-
-    body_parts.append("## Por qué importa (local)")
-    body_parts.append("- (en desarrollo)")
-    body_parts.append("")
-
-    body_parts.append("## Qué falta confirmar")
-    body_parts.append("- (en desarrollo)")
     body_parts.append("")
 
     body_parts.append(f"**Fuente:** [{source}]({url})")
