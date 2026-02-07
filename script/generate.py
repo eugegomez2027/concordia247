@@ -274,24 +274,19 @@ def slug_from_url(url: str) -> str:
     return s[:80]
 
 
-def make_press_bullets(desc: str | None, first_p: str | None, extra_paras: list[str]) -> tuple[str, list[str]]:
-    """Genera un lead + 3-4 bullets "tipo diario" sin LLM.
-
-    Mejora vs v0:
-    - deduplica oraciones
-    - evita basura de sidebar/"te puede interesar" (ya filtrado en extracción)
-    """
+def make_press_text(desc: str | None, first_p: str | None, extra_paras: list[str]) -> tuple[str, list[str]]:
+    """Genera un lead + 2-4 párrafos cortos (sin bullets) sin LLM."""
 
     chunks: list[str] = []
     if desc:
         chunks.append(desc)
     if first_p:
         chunks.append(first_p)
-    chunks.extend(extra_paras[:5])
+    chunks.extend(extra_paras[:6])
 
     text = re.sub(r"\s+", " ", " ".join([c for c in chunks if c])).strip()
 
-    # Split simple por puntuación fuerte.
+    # Oraciones candidatas.
     sents = re.split(r"(?<=[\.\!\?])\s+", text)
     sents = [re.sub(r"\s+", " ", s).strip(" -–•\t") for s in sents]
     sents = [s for s in sents if len(s) >= 40]
@@ -302,42 +297,38 @@ def make_press_bullets(desc: str | None, first_p: str | None, extra_paras: list[
             "No se pudo extraer un resumen automático de esta fuente (estructura/metadata insuficiente). "
             "Ver Fuente para el texto completo."
         )
-    if len(lead) > 240:
-        lead = lead[:237].rstrip() + "…"
+    if len(lead) > 260:
+        lead = lead[:257].rstrip() + "…"
 
     def norm(s: str) -> str:
         s = s.lower()
         s = re.sub(r"\s+", " ", s).strip()
-        # normalización liviana para dedupe
         s = re.sub(r"[\W_]+", " ", s)
         return s.strip()
 
-    seen_norm: set[str] = set()
-    bullets: list[str] = []
+    seen_norm: list[str] = []
+    paras: list[str] = []
 
-    for s in sents[1:20]:
-        if len(bullets) >= 4:
+    for s in sents[1:30]:
+        if len(paras) >= 4:
             break
-        if not s:
-            continue
-        # evitar duplicar el lead
-        if lead and s[:70] in lead:
+        if lead and s[:80] in lead:
             continue
         ns = norm(s)
-        if not ns or ns in seen_norm:
+        if not ns:
             continue
-        # dedupe por prefijo (frases casi idénticas)
-        if any(ns.startswith(prev[:80]) or prev.startswith(ns[:80]) for prev in seen_norm):
+        # dedupe por igualdad o prefijo aproximado
+        if any(ns == prev or ns.startswith(prev[:90]) or prev.startswith(ns[:90]) for prev in seen_norm):
             continue
-        seen_norm.add(ns)
-        if len(s) > 190:
-            s = s[:187].rstrip() + "…"
-        bullets.append(s)
+        seen_norm.append(ns)
+        if len(s) > 320:
+            s = s[:317].rstrip() + "…"
+        paras.append(s)
 
-    if not bullets:
-        bullets = ["Seguir la fuente para detalles completos."]
+    if not paras:
+        paras = ["Ver Fuente para el texto completo."]
 
-    return lead, bullets
+    return lead, paras
 
 
 def build_post(
@@ -354,19 +345,18 @@ def build_post(
         t = t[:117].rstrip() + "…"
     title = t
 
-    lead, bullets = make_press_bullets(desc, first_p, extra_paras)
+    lead, paras = make_press_text(desc, first_p, extra_paras)
 
     body_parts: list[str] = []
 
-    # Si no hay texto usable, igual publicamos un post "cerrado" sin placeholders.
+    # Texto estilo nota breve (sin bullets)
     if lead:
         body_parts.append(lead)
         body_parts.append("")
 
-    body_parts.append("## Resumen (4 puntos)")
-    for b in bullets:
-        body_parts.append(f"- {b}")
-    body_parts.append("")
+    for p in paras:
+        body_parts.append(p)
+        body_parts.append("")
 
     body_parts.append(f"**Fuente:** [{source}]({url})")
 
