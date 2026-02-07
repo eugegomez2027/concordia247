@@ -35,3 +35,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-02-07 15:43 UTC
 - Detenido por abuso sexual y lesiones en contexto de violencia de género — https://concordia24.com.ar/detenido-por-abuso-sexual-y-lesiones-en-contexto-de-violencia-de-genero/ _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-02-07 16:21 UTC
+- En Federal robaron seis terneros que la Policía Rural recuperó de las manos de un conocido por este tipo de delitos. — https://diarioelsol.com.ar/contenido/56929/en-federal-robaron-seis-terneros-que-la-policia-rural-recupero-de-las-manos-de-u _(bloqueado: contiene keyword 'policía')_
+- Un detenido por resistencia a  la autoridad en un operativo policial en el que secuestraron otras 29 motocicletas. — https://diarioelsol.com.ar/contenido/56939/un-detenido-por-resistencia-a-la-autoridad-en-un-operativo-policial-en-el-que-se _(bloqueado: contiene keyword 'policial')_
+- FATAL TIROTEO en Bondi Beach, Australia: 10 muertos y al menos 60 heridos — https://diarioelsol.com.ar/contenido/56936/fatal-tiroteo-en-bondi-beach-australia-10-muertos-y-al-menos-60-heridos _(bloqueado: contiene keyword 'policía')_
+- En tres días consecutivos los operativos policiales dejaron a pie a 91 familias al secuestrarles sus motocicletas. — https://diarioelsol.com.ar/contenido/56945/en-tres-dias-consecutivos-los-operativos-policiales-dejaron-a-pie-a-91-familias- _(bloqueado: contiene keyword 'policía')_
