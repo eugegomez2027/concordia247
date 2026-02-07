@@ -11,3 +11,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-02-07 02:30 UTC
 - El último día de clases generó la algarabía juvenil y bocinas en caravanas de alumnos por el centro de Concordia. — https://diarioelsol.com.ar/contenido/56762/el-ultimo-dia-de-clases-genero-la-algarabia-juvenil-y-bocinas-en-caravanas-de-al _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-02-07 04:54 UTC
+- Dramático vuelco en Concordia: un joven y un menor resultaron heridos — https://diarioelsol.com.ar/contenido/56803/dramatico-vuelco-en-concordia-un-joven-y-un-menor-resultaron-heridos _(bloqueado: contiene keyword 'menor')_
+- Dos accidentes simultáneos en las Termas del Ayuí pusieron en riesgo la vida de dos niños — https://diarioelsol.com.ar/contenido/56812/dos-accidentes-simultaneos-en-las-termas-del-ayui-pusieron-en-riesgo-la-vida-de- _(bloqueado: contiene keyword 'menor')_
