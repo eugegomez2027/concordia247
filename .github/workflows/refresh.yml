@@ -1,0 +1,52 @@
+name: Re-redactar posts (manual)
+
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Fecha YYYY-MM-DD a re-redactar"
+        required: true
+        default: "2026-02-07"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-concordia247
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: |
+          python3 -m pip install --upgrade pip
+          python3 -m pip install beautifulsoup4 pyyaml feedparser requests lxml
+
+      - name: Re-redact
+        run: |
+          python3 script/refresh_latest.py --date "${{ inputs.date }}"
+
+      - name: Commit & push (si hay cambios)
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+          git commit -m "Re-redactar posts (${{ inputs.date }})" || true
+
+          git pull --rebase origin main
+          git push origin HEAD:main

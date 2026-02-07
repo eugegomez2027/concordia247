@@ -24,7 +24,6 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 
-import feedparser
 import requests
 import yaml
 from bs4 import BeautifulSoup
@@ -145,6 +144,8 @@ def parse_sitemap(feed_url: str, source_name: str, source_type: str, hours: int 
 
 
 def parse_rss(feed_url: str, source_name: str, source_type: str) -> list[Item]:
+    import feedparser  # lazy import (solo necesario en el workflow de GitHub Actions)
+
     d = feedparser.parse(feed_url)
     out: list[Item] = []
     for e in d.entries:
@@ -213,27 +214,55 @@ def extract_title_desc(html: str) -> tuple[str | None, str | None, str | None, l
                 desc = val
                 break
 
+    # ---- elegir un contenedor "principal" para evitar sidebar/"lo más visto" ----
+    container = soup.find("article") or soup.find("main") or soup
+
+    def is_noise_paragraph(t: str) -> bool:
+        tl = t.lower()
+        noise_markers = [
+            "te puede interesar",
+            "lo más visto",
+            "más visto",
+            "suscrib",
+            "iniciar sesión",
+            "publicidad",
+            "compartir",
+            "facebook",
+            "instagram",
+            "twitter",
+        ]
+        if any(m in tl for m in noise_markers):
+            return True
+        # párrafos que son básicamente links/URLs
+        if re.fullmatch(r"https?://\S+", t.strip()):
+            return True
+        return False
+
     # ---- first paragraph (mejorado) ----
     first_p = None
     # Tomamos el primer <p> "largo" para evitar cosas tipo "Suscribite" / menús.
-    for p in soup.find_all("p"):
+    for p in container.find_all("p"):
         txt = p.get_text(" ", strip=True)
         if not txt:
             continue
         txt = re.sub(r"\s+", " ", txt).strip()
         if len(txt) < 80:
             continue
+        if is_noise_paragraph(txt):
+            continue
         first_p = txt
         break
 
     # ---- extra paragraphs (para resumen "periodístico") ----
     extra_paras: list[str] = []
-    for p in soup.find_all("p"):
+    for p in container.find_all("p"):
         txt = re.sub(r"\s+", " ", p.get_text(" ", strip=True)).strip()
         if len(txt) < 120:
             continue
+        if is_noise_paragraph(txt):
+            continue
         extra_paras.append(txt)
-        if len(extra_paras) >= 8:
+        if len(extra_paras) >= 10:
             break
 
     return title, desc, first_p, extra_paras
@@ -246,9 +275,11 @@ def slug_from_url(url: str) -> str:
 
 
 def make_press_bullets(desc: str | None, first_p: str | None, extra_paras: list[str]) -> tuple[str, list[str]]:
-    """Genera un lead + 3-4 bullets en estilo "periodístico" sin LLM.
+    """Genera un lead + 3-4 bullets "tipo diario" sin LLM.
 
-    Heurística: junta descripción + párrafos largos y toma oraciones "buenas".
+    Mejora vs v0:
+    - deduplica oraciones
+    - evita basura de sidebar/"te puede interesar" (ya filtrado en extracción)
     """
 
     chunks: list[str] = []
@@ -256,13 +287,14 @@ def make_press_bullets(desc: str | None, first_p: str | None, extra_paras: list[
         chunks.append(desc)
     if first_p:
         chunks.append(first_p)
-    chunks.extend(extra_paras[:4])
+    chunks.extend(extra_paras[:5])
 
     text = re.sub(r"\s+", " ", " ".join([c for c in chunks if c])).strip()
 
     # Split simple por puntuación fuerte.
     sents = re.split(r"(?<=[\.\!\?])\s+", text)
-    sents = [s.strip(" -–•\t") for s in sents if len(s.strip()) >= 40]
+    sents = [re.sub(r"\s+", " ", s).strip(" -–•\t") for s in sents]
+    sents = [s for s in sents if len(s) >= 40]
 
     lead = (sents[0] if sents else (desc or first_p or "")).strip()
     if not lead:
@@ -270,20 +302,36 @@ def make_press_bullets(desc: str | None, first_p: str | None, extra_paras: list[
             "No se pudo extraer un resumen automático de esta fuente (estructura/metadata insuficiente). "
             "Ver Fuente para el texto completo."
         )
-    if len(lead) > 220:
-        lead = lead[:217].rstrip() + "…"
+    if len(lead) > 240:
+        lead = lead[:237].rstrip() + "…"
 
+    def norm(s: str) -> str:
+        s = s.lower()
+        s = re.sub(r"\s+", " ", s).strip()
+        # normalización liviana para dedupe
+        s = re.sub(r"[\W_]+", " ", s)
+        return s.strip()
+
+    seen_norm: set[str] = set()
     bullets: list[str] = []
-    for s in sents[1:10]:
+
+    for s in sents[1:20]:
         if len(bullets) >= 4:
             break
         if not s:
             continue
         # evitar duplicar el lead
-        if lead and s[:60] in lead:
+        if lead and s[:70] in lead:
             continue
-        if len(s) > 180:
-            s = s[:177].rstrip() + "…"
+        ns = norm(s)
+        if not ns or ns in seen_norm:
+            continue
+        # dedupe por prefijo (frases casi idénticas)
+        if any(ns.startswith(prev[:80]) or prev.startswith(ns[:80]) for prev in seen_norm):
+            continue
+        seen_norm.add(ns)
+        if len(s) > 190:
+            s = s[:187].rstrip() + "…"
         bullets.append(s)
 
     if not bullets:
