@@ -53,3 +53,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - "Hacen lo que se les cantan las pelotas": José Mayans cruzó a Patricia Bullrich en el debate de la reforma laboral — https://diarioelsol.com.ar/contenido/56964/hacen-lo-que-se-les-cantan-las-pelotas-jose-mayans-cruzo-a-patricia-bullrich-en- _(bloqueado: contiene keyword 'denunció')_
 - Tensión en la Unidad Penal N°1 de Paraná: fuga de internos, persecución policial y refuerzo de seguridad — https://diarioelsol.com.ar/contenido/56966/tension-en-la-unidad-penal-n1-de-parana-fuga-de-internos-persecucion-policial-y- _(bloqueado: contiene keyword 'policial')_
 - Fueron trasladados los ocho presos de la superpoblada cárcel de Paraná tras el intento de fuga y dos vienen a la UP3. — https://diarioelsol.com.ar/contenido/56972/fueron-trasladados-los-ocho-presos-de-la-superpoblada-carcel-de-parana-tras-el-i _(bloqueado: contiene keyword 'homicidio')_
+
+
+## Tanda 2026-02-07 19:05 UTC
+- Se quedó sin nafta en la moto, la llevaba a pie y lo paró la Policía: tenía pedido por robo desde noviembre del año pasado. — https://diarioelsol.com.ar/contenido/56990/se-quedo-sin-nafta-en-la-moto-la-llevaba-a-pie-y-lo-paro-la-policia-tenia-pedido _(bloqueado: contiene keyword 'policía')_
