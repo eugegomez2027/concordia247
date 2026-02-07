@@ -42,3 +42,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Un detenido por resistencia a  la autoridad en un operativo policial en el que secuestraron otras 29 motocicletas. — https://diarioelsol.com.ar/contenido/56939/un-detenido-por-resistencia-a-la-autoridad-en-un-operativo-policial-en-el-que-se _(bloqueado: contiene keyword 'policial')_
 - FATAL TIROTEO en Bondi Beach, Australia: 10 muertos y al menos 60 heridos — https://diarioelsol.com.ar/contenido/56936/fatal-tiroteo-en-bondi-beach-australia-10-muertos-y-al-menos-60-heridos _(bloqueado: contiene keyword 'policía')_
 - En tres días consecutivos los operativos policiales dejaron a pie a 91 familias al secuestrarles sus motocicletas. — https://diarioelsol.com.ar/contenido/56945/en-tres-dias-consecutivos-los-operativos-policiales-dejaron-a-pie-a-91-familias- _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-02-07 16:27 UTC
+- Aumenta la tensión en el Caribe: una isla cercana a Venezuela autorizó a EE.UU. a usar sus aeropuertos — https://diarioelsol.com.ar/contenido/56956/aumenta-la-tension-en-el-caribe-una-isla-cercana-a-venezuela-autorizo-a-eeuu-a-u _(bloqueado: contiene keyword 'acusación')_
