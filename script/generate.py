@@ -75,6 +75,16 @@ BLOCK_KEYWORDS = [
 
 FOCUS_RE = re.compile(r"concord", re.IGNORECASE)
 
+# Si la fuente es hiper-local (Concordia), aceptamos aunque el título/desc no mencione "Concordia".
+LOCAL_SOURCE_HOST_HINTS = [
+    "concordia24.com.ar",
+    "diarioelsol.com.ar",
+    "elheraldo.com.ar",
+    "diarioriouruguay.com",
+    "diariojunio.com.ar",
+    "concordia.gob.ar",
+]
+
 
 @dataclass
 class Item:
@@ -159,9 +169,16 @@ def looks_blocked(url: str, title: str | None, description: str | None) -> str |
 
 
 def focus_ok(url: str, title: str | None, description: str | None) -> bool:
-    # prioridad: Concordia explícito
-    if FOCUS_RE.search(url):
+    u = url.lower()
+
+    # 1) Fuentes hiper-locales: aceptamos directo.
+    if any(h in u for h in LOCAL_SOURCE_HOST_HINTS):
         return True
+
+    # 2) Si no, exigimos Concordia explícito.
+    if FOCUS_RE.search(u):
+        return True
+
     hay = " ".join([title or "", description or ""])[:300]
     return bool(FOCUS_RE.search(hay))
 
