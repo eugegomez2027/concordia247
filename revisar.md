@@ -68,3 +68,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-02-08 13:58 UTC
 - Venezuela, con días contados, relatos parciales y augurios fatales — https://diarioelsol.com.ar/contenido/57020/venezuela-con-dias-contados-relatos-parciales-y-augurios-fatales _(bloqueado: contiene keyword 'acusó')_
 - Operativo antidrogas en Concordia: detuvieron a una pareja y secuestraron casi un kilo de cocaína de alta pureza — https://diarioelsol.com.ar/contenido/57025/operativo-antidrogas-en-concordia-detuvieron-a-una-pareja-y-secuestraron-casi-un _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-02-08 19:15 UTC
+- Fue la "niña más bella del mundo", pero ahora enfrenta críticas por su apariencia: así está a los 26 años — https://diarioelsol.com.ar/contenido/57034/fue-la-nina-mas-bella-del-mundo-pero-ahora-enfrenta-criticas-por-su-apariencia-a _(bloqueado: contiene keyword 'niña')_
+- Continúa grave el niño rescatado con signos de ahogamiento en las termas de Federación — https://diarioelsol.com.ar/contenido/57037/continua-grave-el-nino-rescatado-con-signos-de-ahogamiento-en-las-termas-de-fede _(bloqueado: contiene keyword 'niño')_
