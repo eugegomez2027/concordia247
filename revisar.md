@@ -57,3 +57,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-02-07 19:05 UTC
 - Se quedó sin nafta en la moto, la llevaba a pie y lo paró la Policía: tenía pedido por robo desde noviembre del año pasado. — https://diarioelsol.com.ar/contenido/56990/se-quedo-sin-nafta-en-la-moto-la-llevaba-a-pie-y-lo-paro-la-policia-tenia-pedido _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-02-08 05:19 UTC
+- Tres Allanamientos por droga y billetes falso — https://concordia24.com.ar/tres-allanamientos-por-droga-y-billetes-falso/ _(bloqueado: contiene keyword 'allanamiento')_
+- OPERATIVO POLICIAL "NAVIDAD A PIE" LA POLICIA VOLVIO A SECUESTRAR 19 MOTOS. — https://diarioelsol.com.ar/contenido/56992/operativo-policial-navidad-a-pie-la-policia-volvio-a-secuestrar-19-motos _(bloqueado: contiene keyword 'policial')_
+- Ex empleada judicial presentó una nueva denuncia contra Susana Medina y pide juicio político — https://diarioelsol.com.ar/contenido/56997/ex-empleada-judicial-presento-una-nueva-denuncia-contra-susana-medina-y-pide-jui _(bloqueado: contiene keyword 'denuncia')_
