@@ -91,3 +91,11 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - “Aumentó el número de niños en situación de Adopción” y sólo 47 nuevas familias están inscriptas — https://diarioelsol.com.ar/contenido/57054/aumento-el-numero-de-ninos-en-situacion-de-adopcion-y-solo-47-nuevas-familias-es _(bloqueado: contiene keyword 'adolescente')_
 - Brutal triple crimen en Las Flores: asesinaron a tiros a tres personas y una quedó internada — https://diarioelsol.com.ar/contenido/57058/brutal-triple-crimen-en-las-flores-asesinaron-a-tiros-a-tres-personas-y-una-qued _(bloqueado: contiene keyword 'crimen')_
 - Deniegan Probation a fiscal propuesto por el Gobierno que tiene una denuncia por millonaria estafa con un fideicomiso — https://diarioelsol.com.ar/contenido/57063/deniegan-probation-a-fiscal-propuesto-por-el-gobierno-que-tiene-una-denuncia-por _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-02-09 20:07 UTC
+- Multisectorial de Derechos Humanos denunció al gobierno provincial por despidos en áreas de Memoria — https://diarioelsol.com.ar/contenido/57066/multisectorial-de-derechos-humanos-denuncio-al-gobierno-provincial-por-despidos- _(bloqueado: contiene keyword 'denunció')_
+- Afiliados reclamaron por "problemas en prestaciones y cobertura de OSER" — https://diarioelsol.com.ar/contenido/57065/afiliados-reclamaron-por-problemas-en-prestaciones-y-cobertura-de-oser _(bloqueado: contiene keyword 'denuncia')_
+- Madre denunció a su hijo de 50 años por agredirla y echarla de su propia casa — https://diarioelsol.com.ar/contenido/57071/madre-denuncio-a-su-hijo-de-50-anos-por-agredirla-y-echarla-de-su-propia-casa _(bloqueado: contiene keyword 'denunció')_
+- Contó que su amiga la llevó engañada, la abusaron y mantuvieron cautiva — https://diarioelsol.com.ar/contenido/57070/conto-que-su-amiga-la-llevo-enganada-la-abusaron-y-mantuvieron-cautiva _(bloqueado: contiene keyword 'policía')_
+- Falleció el niño de 3 años que se había ahogado en las termas de Federación — https://diarioelsol.com.ar/contenido/57069/fallecio-el-nino-de-3-anos-que-se-habia-ahogado-en-las-termas-de-federacion _(bloqueado: contiene keyword 'niño')_
