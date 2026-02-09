@@ -73,3 +73,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-02-08 19:15 UTC
 - Fue la "niña más bella del mundo", pero ahora enfrenta críticas por su apariencia: así está a los 26 años — https://diarioelsol.com.ar/contenido/57034/fue-la-nina-mas-bella-del-mundo-pero-ahora-enfrenta-criticas-por-su-apariencia-a _(bloqueado: contiene keyword 'niña')_
 - Continúa grave el niño rescatado con signos de ahogamiento en las termas de Federación — https://diarioelsol.com.ar/contenido/57037/continua-grave-el-nino-rescatado-con-signos-de-ahogamiento-en-las-termas-de-fede _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-02-09 05:27 UTC
+- Allanamiento por amenazas y préstamos clandestinos: una investigación que se profundiza en la Justicia. — https://diarioelsol.com.ar/contenido/57042/allanamiento-por-amenazas-y-prestamos-clandestinos-una-investigacion-que-se-prof _(bloqueado: contiene keyword 'allanamiento')_
+- Hallaron a un hombre sin vida dentro de un taller de electricidad. — https://diarioelsol.com.ar/contenido/57040/hallaron-a-un-hombre-sin-vida-dentro-de-un-taller-de-electricidad _(bloqueado: contiene keyword 'policía')_
