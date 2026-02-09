@@ -78,3 +78,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-02-09 05:27 UTC
 - Allanamiento por amenazas y préstamos clandestinos: una investigación que se profundiza en la Justicia. — https://diarioelsol.com.ar/contenido/57042/allanamiento-por-amenazas-y-prestamos-clandestinos-una-investigacion-que-se-prof _(bloqueado: contiene keyword 'allanamiento')_
 - Hallaron a un hombre sin vida dentro de un taller de electricidad. — https://diarioelsol.com.ar/contenido/57040/hallaron-a-un-hombre-sin-vida-dentro-de-un-taller-de-electricidad _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-02-09 08:07 UTC
+- “La bala atravesó la puerta y le dio en el pecho a la víctima”: el agresor está prófugo — https://diarioelsol.com.ar/contenido/57049/la-bala-atraveso-la-puerta-y-le-dio-en-el-pecho-a-la-victima-el-agresor-esta-pro _(bloqueado: contiene keyword 'policía')_
+- Secuestraron plantas de marihuana y cocaína lista para su venta, además de una motocicleta denunciada como robada. — https://diarioelsol.com.ar/contenido/57047/secuestraron-plantas-de-marihuana-y-cocaina-lista-para-su-venta-ademas-de-una-mo _(bloqueado: contiene keyword 'denuncia')_
+- La Policía desaloja un grupo de personas que ocupaba ilegalmente un terreno por reclamo de vecinos. — https://diarioelsol.com.ar/contenido/57052/la-policia-desaloja-un-grupo-de-personas-que-ocupaba-ilegalmente-un-terreno-por- _(bloqueado: contiene keyword 'policía')_
