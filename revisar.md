@@ -84,3 +84,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - “La bala atravesó la puerta y le dio en el pecho a la víctima”: el agresor está prófugo — https://diarioelsol.com.ar/contenido/57049/la-bala-atraveso-la-puerta-y-le-dio-en-el-pecho-a-la-victima-el-agresor-esta-pro _(bloqueado: contiene keyword 'policía')_
 - Secuestraron plantas de marihuana y cocaína lista para su venta, además de una motocicleta denunciada como robada. — https://diarioelsol.com.ar/contenido/57047/secuestraron-plantas-de-marihuana-y-cocaina-lista-para-su-venta-ademas-de-una-mo _(bloqueado: contiene keyword 'denuncia')_
 - La Policía desaloja un grupo de personas que ocupaba ilegalmente un terreno por reclamo de vecinos. — https://diarioelsol.com.ar/contenido/57052/la-policia-desaloja-un-grupo-de-personas-que-ocupaba-ilegalmente-un-terreno-por- _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-02-09 15:15 UTC
+- ALLANAMIENTO POR MALTRATO ANIMAL: RESCATE DE UN CAN EN GRAVE ESTADO DE ABANDONO — https://diarioelsol.com.ar/contenido/57053/allanamiento-por-maltrato-animal-rescate-de-un-can-en-grave-estado-de-abandono _(bloqueado: contiene keyword 'policial')_
+- “Aumentó el número de niños en situación de Adopción” y sólo 47 nuevas familias están inscriptas — https://diarioelsol.com.ar/contenido/57054/aumento-el-numero-de-ninos-en-situacion-de-adopcion-y-solo-47-nuevas-familias-es _(bloqueado: contiene keyword 'adolescente')_
+- Brutal triple crimen en Las Flores: asesinaron a tiros a tres personas y una quedó internada — https://diarioelsol.com.ar/contenido/57058/brutal-triple-crimen-en-las-flores-asesinaron-a-tiros-a-tres-personas-y-una-qued _(bloqueado: contiene keyword 'crimen')_
+- Deniegan Probation a fiscal propuesto por el Gobierno que tiene una denuncia por millonaria estafa con un fideicomiso — https://diarioelsol.com.ar/contenido/57063/deniegan-probation-a-fiscal-propuesto-por-el-gobierno-que-tiene-una-denuncia-por _(bloqueado: contiene keyword 'denuncia')_
