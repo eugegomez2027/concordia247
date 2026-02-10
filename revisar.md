@@ -99,3 +99,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Madre denunció a su hijo de 50 años por agredirla y echarla de su propia casa — https://diarioelsol.com.ar/contenido/57071/madre-denuncio-a-su-hijo-de-50-anos-por-agredirla-y-echarla-de-su-propia-casa _(bloqueado: contiene keyword 'denunció')_
 - Contó que su amiga la llevó engañada, la abusaron y mantuvieron cautiva — https://diarioelsol.com.ar/contenido/57070/conto-que-su-amiga-la-llevo-enganada-la-abusaron-y-mantuvieron-cautiva _(bloqueado: contiene keyword 'policía')_
 - Falleció el niño de 3 años que se había ahogado en las termas de Federación — https://diarioelsol.com.ar/contenido/57069/fallecio-el-nino-de-3-anos-que-se-habia-ahogado-en-las-termas-de-federacion _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-02-10 08:08 UTC
+- Una nena está internada tras recibir el impacto de una bala perdida. — https://diarioelsol.com.ar/contenido/57082/una-nena-esta-internada-tras-recibir-el-impacto-de-una-bala-perdida _(bloqueado: contiene keyword 'menor')_
