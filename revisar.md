@@ -103,3 +103,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-02-10 08:08 UTC
 - Una nena está internada tras recibir el impacto de una bala perdida. — https://diarioelsol.com.ar/contenido/57082/una-nena-esta-internada-tras-recibir-el-impacto-de-una-bala-perdida _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-02-10 15:48 UTC
+- La Abogacía entrerriana repudia los dichos del Presidente de OSER y denuncia una gestión deficiente — https://concordia24.com.ar/la-abogacia-entrerriana-repudia-los-dichos-del-presidente-de-oser-y-denuncia-una-gestion-deficiente/ _(bloqueado: contiene keyword 'denuncia')_
+- Un hombre mató a su vecino de un disparo tras una discusión por el uso de pirotecnia — https://diarioelsol.com.ar/contenido/57085/un-hombre-mato-a-su-vecino-de-un-disparo-tras-una-discusion-por-el-uso-de-pirote _(bloqueado: contiene keyword 'homicidio')_
+- Chocó un auto estacionado, quiso fugarse y fue atrapado: tenía 1,84 de alcohol en sangre — https://diarioelsol.com.ar/contenido/57095/choco-un-auto-estacionado-quiso-fugarse-y-fue-atrapado-tenia-184-de-alcohol-en-s _(bloqueado: contiene keyword 'policía')_
