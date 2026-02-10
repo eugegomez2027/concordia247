@@ -109,3 +109,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - La Abogacía entrerriana repudia los dichos del Presidente de OSER y denuncia una gestión deficiente — https://concordia24.com.ar/la-abogacia-entrerriana-repudia-los-dichos-del-presidente-de-oser-y-denuncia-una-gestion-deficiente/ _(bloqueado: contiene keyword 'denuncia')_
 - Un hombre mató a su vecino de un disparo tras una discusión por el uso de pirotecnia — https://diarioelsol.com.ar/contenido/57085/un-hombre-mato-a-su-vecino-de-un-disparo-tras-una-discusion-por-el-uso-de-pirote _(bloqueado: contiene keyword 'homicidio')_
 - Chocó un auto estacionado, quiso fugarse y fue atrapado: tenía 1,84 de alcohol en sangre — https://diarioelsol.com.ar/contenido/57095/choco-un-auto-estacionado-quiso-fugarse-y-fue-atrapado-tenia-184-de-alcohol-en-s _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-02-10 20:09 UTC
+- Robó un maletín con una suma importante de dinero, se alojó en un hotel y fue detenido — https://diarioelsol.com.ar/contenido/57092/robo-un-maletin-con-una-suma-importante-de-dinero-se-alojo-en-un-hotel-y-fue-det _(bloqueado: contiene keyword 'detenido')_
+- Secuestran una tumbera y 3 millones doscientos mil pesos supuestamente producto del narcomenudeo, se lleva un hombre preso. — https://diarioelsol.com.ar/contenido/57101/secuestran-una-tumbera-y-3-millones-doscientos-mil-pesos-supuestamente-producto- _(bloqueado: contiene keyword 'policía')_
