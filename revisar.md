@@ -121,3 +121,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Conductor evadió controles, se metió a contramano y chocó un patrullero — https://diarioelsol.com.ar/contenido/57106/conductor-evadio-controles-se-metio-a-contramano-y-choco-un-patrullero _(bloqueado: contiene keyword 'policial')_
 - Operativo de Saturación en Barrio Independencia: un detenido, arma secuestrada y cocaína incautada — https://diarioelsol.com.ar/contenido/57104/operativo-de-saturacion-en-barrio-independencia-un-detenido-arma-secuestrada-y-c _(bloqueado: contiene keyword 'detenido')_
 - Chajarí: robaron más de $4 millones de una casa en Nochebuena — https://diarioelsol.com.ar/contenido/57108/chajari-robaron-mas-de-4-millones-de-una-casa-en-nochebuena _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-02-11 08:05 UTC
+- Cuatro allanamientos por lavado de activos: una investigación que une divisas ilegales, autos robados y operaciones en la zona del lago — https://diarioelsol.com.ar/contenido/57114/cuatro-allanamientos-por-lavado-de-activos-una-investigacion-que-une-divisas-ile _(bloqueado: contiene keyword 'policial')_
+- Conducía borracho, lo quiso detener la Policía y les sacó un cuchillo para amenazarlos — https://diarioelsol.com.ar/contenido/57116/conducia-borracho-lo-quiso-detener-la-policia-y-les-saco-un-cuchillo-para-amenaz _(bloqueado: contiene keyword 'policía')_
