@@ -126,3 +126,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-02-11 08:05 UTC
 - Cuatro allanamientos por lavado de activos: una investigación que une divisas ilegales, autos robados y operaciones en la zona del lago — https://diarioelsol.com.ar/contenido/57114/cuatro-allanamientos-por-lavado-de-activos-una-investigacion-que-une-divisas-ile _(bloqueado: contiene keyword 'policial')_
 - Conducía borracho, lo quiso detener la Policía y les sacó un cuchillo para amenazarlos — https://diarioelsol.com.ar/contenido/57116/conducia-borracho-lo-quiso-detener-la-policia-y-les-saco-un-cuchillo-para-amenaz _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-02-11 15:18 UTC
+- Allanaron al director del Servicio Penitenciario Federal por presuntos vínculos con una empresa que provee comida en mal estado a los presos — https://diarioelsol.com.ar/contenido/57125/allanaron-al-director-del-servicio-penitenciario-federal-por-presuntos-vinculos- _(bloqueado: contiene keyword 'detenido')_
+- Un allanamiento derivado de un simple robo de cables terminó revelando una escena mucho más compleja en la tarde de ayer. — https://diarioelsol.com.ar/contenido/57127/un-allanamiento-derivado-de-un-simple-robo-de-cables-termino-revelando-una-escen _(bloqueado: contiene keyword 'robo')_
+- El PJ Paraná criticó la cesantía de cien trabajadores que tenían contrato con el Estado provincial — https://diarioelsol.com.ar/contenido/57129/el-pj-parana-critico-la-cesantia-de-cien-trabajadores-que-tenian-contrato-con-el _(bloqueado: contiene keyword 'acusó')_
