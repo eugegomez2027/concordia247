@@ -114,3 +114,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-02-10 20:09 UTC
 - Robó un maletín con una suma importante de dinero, se alojó en un hotel y fue detenido — https://diarioelsol.com.ar/contenido/57092/robo-un-maletin-con-una-suma-importante-de-dinero-se-alojo-en-un-hotel-y-fue-det _(bloqueado: contiene keyword 'detenido')_
 - Secuestran una tumbera y 3 millones doscientos mil pesos supuestamente producto del narcomenudeo, se lleva un hombre preso. — https://diarioelsol.com.ar/contenido/57101/secuestran-una-tumbera-y-3-millones-doscientos-mil-pesos-supuestamente-producto- _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-02-11 05:24 UTC
+- Operativo nocturno: control vehicular, intento de fuga y secuestro de un arma de fuego — https://diarioelsol.com.ar/contenido/57103/operativo-nocturno-control-vehicular-intento-de-fuga-y-secuestro-de-un-arma-de-f _(bloqueado: contiene keyword 'policial')_
+- Conductor evadió controles, se metió a contramano y chocó un patrullero — https://diarioelsol.com.ar/contenido/57106/conductor-evadio-controles-se-metio-a-contramano-y-choco-un-patrullero _(bloqueado: contiene keyword 'policial')_
+- Operativo de Saturación en Barrio Independencia: un detenido, arma secuestrada y cocaína incautada — https://diarioelsol.com.ar/contenido/57104/operativo-de-saturacion-en-barrio-independencia-un-detenido-arma-secuestrada-y-c _(bloqueado: contiene keyword 'detenido')_
+- Chajarí: robaron más de $4 millones de una casa en Nochebuena — https://diarioelsol.com.ar/contenido/57108/chajari-robaron-mas-de-4-millones-de-una-casa-en-nochebuena _(bloqueado: contiene keyword 'policial')_
