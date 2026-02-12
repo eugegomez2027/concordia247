@@ -141,3 +141,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-02-12 08:02 UTC
 - Naufragio fatal en el sur de Paraguay: tres ciudadanas argentinas murieron ahogadas — https://diarioelsol.com.ar/contenido/57145/naufragio-fatal-en-el-sur-de-paraguay-tres-ciudadanas-argentinas-murieron-ahogad _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-02-12 14:40 UTC
+- Un auto denunciado como robado hace más de 20 años fue interceptado por personal del Paso Cerrito — https://diarioelsol.com.ar/contenido/57147/un-auto-denunciado-como-robado-hace-mas-de-20-anos-fue-interceptado-por-personal _(bloqueado: contiene keyword 'denuncia')_
+- En Villa Busti, un allanamiento derivado de un robo en un vivero terminó con el secuestro de cocaína y un arma de fuego, y la aprehensión de un sospechosoo. — https://diarioelsol.com.ar/contenido/57156/en-villa-busti-un-allanamiento-derivado-de-un-robo-en-un-vivero-termino-con-el-s _(bloqueado: contiene keyword 'robo')_
+- Un vecino y su perro frustraron el robo de garrafas en una vivienda de la zona noroeste, en un episodio que terminó con un joven de 21 años aprehendido gracias a la rápida intervención policial. — https://diarioelsol.com.ar/contenido/57155/un-vecino-y-su-perro-frustraron-el-robo-de-garrafas-en-una-vivienda-de-la-zona-n _(bloqueado: contiene keyword 'policial')_
+- Como correspondía: De prisión efectiva a condicional. Casación redujo la condena a Ocampo y Barrios. En 2 de los 10 hechos fueron absueltoss — https://diarioelsol.com.ar/contenido/57154/como-correspondia-de-prision-efectiva-a-condicional-casacion-redujo-la-condena-a _(bloqueado: contiene keyword 'policial')_
