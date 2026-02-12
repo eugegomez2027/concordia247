@@ -132,3 +132,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Allanaron al director del Servicio Penitenciario Federal por presuntos vínculos con una empresa que provee comida en mal estado a los presos — https://diarioelsol.com.ar/contenido/57125/allanaron-al-director-del-servicio-penitenciario-federal-por-presuntos-vinculos- _(bloqueado: contiene keyword 'detenido')_
 - Un allanamiento derivado de un simple robo de cables terminó revelando una escena mucho más compleja en la tarde de ayer. — https://diarioelsol.com.ar/contenido/57127/un-allanamiento-derivado-de-un-simple-robo-de-cables-termino-revelando-una-escen _(bloqueado: contiene keyword 'robo')_
 - El PJ Paraná criticó la cesantía de cien trabajadores que tenían contrato con el Estado provincial — https://diarioelsol.com.ar/contenido/57129/el-pj-parana-critico-la-cesantia-de-cien-trabajadores-que-tenian-contrato-con-el _(bloqueado: contiene keyword 'acusó')_
+
+
+## Tanda 2026-02-12 05:19 UTC
+- El regreso del Pity Álvarez terminó en la justicia: denunciaron penalmente a la productora — https://diarioelsol.com.ar/contenido/57136/el-regreso-del-pity-alvarez-termino-en-la-justicia-denunciaron-penalmente-a-la-p _(bloqueado: contiene keyword 'policía')_
+- Violencia en el Sindicato de la Fruta de Concordia: intervención gremial, tensión interna y custodia policial para evitar confrontaciones. — https://diarioelsol.com.ar/contenido/57134/violencia-en-el-sindicato-de-la-fruta-de-concordia-intervencion-gremial-tension- _(bloqueado: URL contiene '/viol')_
