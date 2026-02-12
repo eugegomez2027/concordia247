@@ -137,3 +137,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-02-12 05:19 UTC
 - El regreso del Pity Álvarez terminó en la justicia: denunciaron penalmente a la productora — https://diarioelsol.com.ar/contenido/57136/el-regreso-del-pity-alvarez-termino-en-la-justicia-denunciaron-penalmente-a-la-p _(bloqueado: contiene keyword 'policía')_
 - Violencia en el Sindicato de la Fruta de Concordia: intervención gremial, tensión interna y custodia policial para evitar confrontaciones. — https://diarioelsol.com.ar/contenido/57134/violencia-en-el-sindicato-de-la-fruta-de-concordia-intervencion-gremial-tension- _(bloqueado: URL contiene '/viol')_
+
+
+## Tanda 2026-02-12 08:02 UTC
+- Naufragio fatal en el sur de Paraguay: tres ciudadanas argentinas murieron ahogadas — https://diarioelsol.com.ar/contenido/57145/naufragio-fatal-en-el-sur-de-paraguay-tres-ciudadanas-argentinas-murieron-ahogad _(bloqueado: contiene keyword 'menor')_
