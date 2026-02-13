@@ -161,3 +161,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-02-13 08:01 UTC
 - Un hombre murió al ser arrollado en la Ruta 14 cuando caminaba por la cinta asfáltica — https://diarioelsol.com.ar/contenido/57172/un-hombre-murio-al-ser-arrollado-en-la-ruta-14-cuando-caminaba-por-la-cinta-asfa _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-02-13 14:28 UTC
+- Allanamientos con resultado positivo: secuestro de un arma y un aprehendido — https://diarioelsol.com.ar/contenido/57175/allanamientos-con-resultado-positivo-secuestro-de-un-arma-y-un-aprehendido _(bloqueado: contiene keyword 'allanamiento')_
+- El reclamo por una moto generó una gresca con dos heridos graves de arma blanca en un barrio de Concordia — https://diarioelsol.com.ar/contenido/57179/el-reclamo-por-una-moto-genero-una-gresca-con-dos-heridos-graves-de-arma-blanca- _(bloqueado: contiene keyword 'policía')_
+- Conceden recurso de casación a represor condenado en la Noche del Mimeógrafo — https://diarioelsol.com.ar/contenido/57178/conceden-recurso-de-casacion-a-represor-condenado-en-la-noche-del-mimeografo _(bloqueado: contiene keyword 'policía')_
