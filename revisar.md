@@ -167,3 +167,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Allanamientos con resultado positivo: secuestro de un arma y un aprehendido — https://diarioelsol.com.ar/contenido/57175/allanamientos-con-resultado-positivo-secuestro-de-un-arma-y-un-aprehendido _(bloqueado: contiene keyword 'allanamiento')_
 - El reclamo por una moto generó una gresca con dos heridos graves de arma blanca en un barrio de Concordia — https://diarioelsol.com.ar/contenido/57179/el-reclamo-por-una-moto-genero-una-gresca-con-dos-heridos-graves-de-arma-blanca- _(bloqueado: contiene keyword 'policía')_
 - Conceden recurso de casación a represor condenado en la Noche del Mimeógrafo — https://diarioelsol.com.ar/contenido/57178/conceden-recurso-de-casacion-a-represor-condenado-en-la-noche-del-mimeografo _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-02-13 19:55 UTC
+- Cerca de 40 personas murieron y 115 resultaron heridas por un incendio durante una fiesta de Año Nuevo en una estación de esquí en Suiza — https://diarioelsol.com.ar/contenido/57192/cerca-de-40-personas-murieron-y-115-resultaron-heridas-por-un-incendio-durante-u _(bloqueado: contiene keyword 'policía')_
