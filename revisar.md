@@ -157,3 +157,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-02-13 05:13 UTC
 - Grave accidente en Federación dejó a una menor internada en "estado delicado" — https://diarioelsol.com.ar/contenido/57171/grave-accidente-en-federacion-dejo-a-una-menor-internada-en-estado-delicado _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-02-13 08:01 UTC
+- Un hombre murió al ser arrollado en la Ruta 14 cuando caminaba por la cinta asfáltica — https://diarioelsol.com.ar/contenido/57172/un-hombre-murio-al-ser-arrollado-en-la-ruta-14-cuando-caminaba-por-la-cinta-asfa _(bloqueado: contiene keyword 'policía')_
