@@ -153,3 +153,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-02-12 19:54 UTC
 - OPERATIVO DE SATURACIÓN: Continúa el despliegue policial de operativos preventivos — https://diarioelsol.com.ar/contenido/57160/operativo-de-saturacion-continua-el-despliegue-policial-de-operativos-preventivo _(bloqueado: contiene keyword 'policial')_
 - Jovecinto de Concordia, de14 años, que viajaba en moto con su padre chocó en la ruta 14 y murió — https://diarioelsol.com.ar/contenido/57158/jovecinto-de-concordia-de14-anos-que-viajaba-en-moto-con-su-padre-choco-en-la-ru _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-02-13 05:13 UTC
+- Grave accidente en Federación dejó a una menor internada en "estado delicado" — https://diarioelsol.com.ar/contenido/57171/grave-accidente-en-federacion-dejo-a-una-menor-internada-en-estado-delicado _(bloqueado: contiene keyword 'menor')_
