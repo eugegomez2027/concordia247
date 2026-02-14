@@ -184,3 +184,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-02-14 13:56 UTC
 - La oposición rechazó la reforma de la SIDE por decreto y denunció la creación de una “policía política” — https://diarioelsol.com.ar/contenido/57209/la-oposicion-rechazo-la-reforma-de-la-side-por-decreto-y-denuncio-la-creacion-de _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-02-14 19:04 UTC
+- Se pelearon en la vía pública y un joven le propinó dos puñaladas a otro que fue trasladado al Masvernat. — https://diarioelsol.com.ar/contenido/57210/se-pelearon-en-la-via-publica-y-un-joven-le-propino-dos-punaladas-a-otro-que-fue _(bloqueado: contiene keyword 'policía')_
+- Trump asegura que Washington gobernará Venezuela hasta que haya “una transición segura” — https://diarioelsol.com.ar/contenido/57215/trump-asegura-que-washington-gobernara-venezuela-hasta-que-haya-una-transicion-s _(bloqueado: contiene keyword 'detenido')_
+- Tres hombres y una mujer fueron apresados tras un impresionante operativo policial en el barrio "Los Pájaros" — https://diarioelsol.com.ar/contenido/57216/tres-hombres-y-una-mujer-fueron-apresados-tras-un-impresionante-operativo-polici _(bloqueado: contiene keyword 'policía')_
+- En otro "operativo de prevención" la Policía revisó 45 motos y retuvo 10. — https://diarioelsol.com.ar/contenido/57220/en-otro-operativo-de-prevencion-la-policia-reviso-45-motos-y-retuvo-10 _(bloqueado: contiene keyword 'policía')_
