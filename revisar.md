@@ -176,3 +176,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-02-14 05:00 UTC
 - El ex jefe de policía de Concordia será juzgado en 2026 por un jurado popular de Chajarí — https://diarioelsol.com.ar/contenido/57195/el-ex-jefe-de-policia-de-concordia-sera-juzgado-en-2026-por-un-jurado-popular-de _(bloqueado: contiene keyword 'policía')_
 - Notifican a la jueza Arroyo Salgado del inicio de un expediente en su contra por posible mal desempeño y abuso de autoridad — https://diarioelsol.com.ar/contenido/57199/notifican-a-la-jueza-arroyo-salgado-del-inicio-de-un-expediente-en-su-contra-por _(bloqueado: contiene keyword 'acusación')_
+
+
+## Tanda 2026-02-14 07:50 UTC
+- La Policía desarmó una vivienda de madera instalada en un terreno municipal tras denuncia de vecinos de que allí se vendían drogas. — https://diarioelsol.com.ar/contenido/57202/la-policia-desarmo-una-vivienda-de-madera-instalada-en-un-terreno-municipal-tras _(bloqueado: contiene keyword 'policía')_
