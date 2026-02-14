@@ -171,3 +171,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-02-13 19:55 UTC
 - Cerca de 40 personas murieron y 115 resultaron heridas por un incendio durante una fiesta de Año Nuevo en una estación de esquí en Suiza — https://diarioelsol.com.ar/contenido/57192/cerca-de-40-personas-murieron-y-115-resultaron-heridas-por-un-incendio-durante-u _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-02-14 05:00 UTC
+- El ex jefe de policía de Concordia será juzgado en 2026 por un jurado popular de Chajarí — https://diarioelsol.com.ar/contenido/57195/el-ex-jefe-de-policia-de-concordia-sera-juzgado-en-2026-por-un-jurado-popular-de _(bloqueado: contiene keyword 'policía')_
+- Notifican a la jueza Arroyo Salgado del inicio de un expediente en su contra por posible mal desempeño y abuso de autoridad — https://diarioelsol.com.ar/contenido/57199/notifican-a-la-jueza-arroyo-salgado-del-inicio-de-un-expediente-en-su-contra-por _(bloqueado: contiene keyword 'acusación')_
