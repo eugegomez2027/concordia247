@@ -180,3 +180,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-02-14 07:50 UTC
 - La Policía desarmó una vivienda de madera instalada en un terreno municipal tras denuncia de vecinos de que allí se vendían drogas. — https://diarioelsol.com.ar/contenido/57202/la-policia-desarmo-una-vivienda-de-madera-instalada-en-un-terreno-municipal-tras _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-02-14 13:56 UTC
+- La oposición rechazó la reforma de la SIDE por decreto y denunció la creación de una “policía política” — https://diarioelsol.com.ar/contenido/57209/la-oposicion-rechazo-la-reforma-de-la-side-por-decreto-y-denuncio-la-creacion-de _(bloqueado: contiene keyword 'policía')_
