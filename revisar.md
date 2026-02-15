@@ -197,3 +197,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Allanamientos positivos en Las Colinas y El Silencio: secuestran droga y hay siete detenidos — https://concordia24.com.ar/allanamientos-positivos-en-las-colinas-y-el-silencio-secuestran-droga-y-hay-siete-detenidos/ _(bloqueado: contiene keyword 'detenido')_
 - “Muy graves”: dos adolescentes pelean por su vida tras el choque frontal — https://diarioelsol.com.ar/contenido/57225/muy-graves-dos-adolescentes-pelean-por-su-vida-tras-el-choque-frontal _(bloqueado: contiene keyword 'adolescente')_
 - Domingo trágico: identifican a las víctimas del impactante choque frontal — https://diarioelsol.com.ar/contenido/57223/domingo-tragico-identifican-a-las-victimas-del-impactante-choque-frontal _(bloqueado: contiene keyword 'adolescente')_
+
+
+## Tanda 2026-02-15 07:51 UTC
+- El hambre como botín político: radiografía de una estructura que desvió alimentos sociales en Entre Ríos — https://diarioelsol.com.ar/contenido/57231/el-hambre-como-botin-politico-radiografia-de-una-estructura-que-desvio-alimentos _(bloqueado: contiene keyword 'allanamiento')_
+- Caso Loan: fijaron fecha para la primera audiencia preliminar camino al juicio — https://diarioelsol.com.ar/contenido/57234/caso-loan-fijaron-fecha-para-la-primera-audiencia-preliminar-camino-al-juicio _(bloqueado: contiene keyword 'niño')_
+- Dieron el alta médica al nene que sobrevivió a la tragedia vial sobre Ruta 136 — https://diarioelsol.com.ar/contenido/57232/dieron-el-alta-medica-al-nene-que-sobrevivio-a-la-tragedia-vial-sobre-ruta-136 _(bloqueado: contiene keyword 'menor')_
+- Delta Force, la unidad secreta de EE UU detrás de la captura de Nicolás Maduro — https://diarioelsol.com.ar/contenido/57238/delta-force-la-unidad-secreta-de-ee-uu-detras-de-la-captura-de-nicolas-maduro _(bloqueado: contiene keyword 'asalto')_
