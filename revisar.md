@@ -204,3 +204,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Caso Loan: fijaron fecha para la primera audiencia preliminar camino al juicio — https://diarioelsol.com.ar/contenido/57234/caso-loan-fijaron-fecha-para-la-primera-audiencia-preliminar-camino-al-juicio _(bloqueado: contiene keyword 'niño')_
 - Dieron el alta médica al nene que sobrevivió a la tragedia vial sobre Ruta 136 — https://diarioelsol.com.ar/contenido/57232/dieron-el-alta-medica-al-nene-que-sobrevivio-a-la-tragedia-vial-sobre-ruta-136 _(bloqueado: contiene keyword 'menor')_
 - Delta Force, la unidad secreta de EE UU detrás de la captura de Nicolás Maduro — https://diarioelsol.com.ar/contenido/57238/delta-force-la-unidad-secreta-de-ee-uu-detras-de-la-captura-de-nicolas-maduro _(bloqueado: contiene keyword 'asalto')_
+
+
+## Tanda 2026-02-15 19:05 UTC
+- Ya son diez los muertos por accidentes en rutas de Entre Ríos en los primeros cinco días del 2026 — https://diarioelsol.com.ar/contenido/57245/ya-son-diez-los-muertos-por-accidentes-en-rutas-de-entre-rios-en-los-primeros-ci _(bloqueado: contiene keyword 'policía')_
