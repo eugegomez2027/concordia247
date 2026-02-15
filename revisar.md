@@ -191,3 +191,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Trump asegura que Washington gobernará Venezuela hasta que haya “una transición segura” — https://diarioelsol.com.ar/contenido/57215/trump-asegura-que-washington-gobernara-venezuela-hasta-que-haya-una-transicion-s _(bloqueado: contiene keyword 'detenido')_
 - Tres hombres y una mujer fueron apresados tras un impresionante operativo policial en el barrio "Los Pájaros" — https://diarioelsol.com.ar/contenido/57216/tres-hombres-y-una-mujer-fueron-apresados-tras-un-impresionante-operativo-polici _(bloqueado: contiene keyword 'policía')_
 - En otro "operativo de prevención" la Policía revisó 45 motos y retuvo 10. — https://diarioelsol.com.ar/contenido/57220/en-otro-operativo-de-prevencion-la-policia-reviso-45-motos-y-retuvo-10 _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-02-15 05:12 UTC
+- Allanamientos positivos en Las Colinas y El Silencio: secuestran droga y hay siete detenidos — https://concordia24.com.ar/allanamientos-positivos-en-las-colinas-y-el-silencio-secuestran-droga-y-hay-siete-detenidos/ _(bloqueado: contiene keyword 'detenido')_
+- “Muy graves”: dos adolescentes pelean por su vida tras el choque frontal — https://diarioelsol.com.ar/contenido/57225/muy-graves-dos-adolescentes-pelean-por-su-vida-tras-el-choque-frontal _(bloqueado: contiene keyword 'adolescente')_
+- Domingo trágico: identifican a las víctimas del impactante choque frontal — https://diarioelsol.com.ar/contenido/57223/domingo-tragico-identifican-a-las-victimas-del-impactante-choque-frontal _(bloqueado: contiene keyword 'adolescente')_
