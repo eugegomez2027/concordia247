@@ -222,3 +222,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-02-16 14:31 UTC
 - Convocan a una marcha en reclamo de justicia por la adolescente baleada en Paraná — https://diarioelsol.com.ar/contenido/57271/convocan-a-una-marcha-en-reclamo-de-justicia-por-la-adolescente-baleada-en-paran _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-02-16 19:46 UTC
+- Las víctimas del accidente fatal en Chajarí viajaban hacia Misiones a reencontrarse con familiares — https://diarioelsol.com.ar/contenido/57272/las-victimas-del-accidente-fatal-en-chajari-viajaban-hacia-misiones-a-reencontra _(bloqueado: contiene keyword 'adolescente')_
