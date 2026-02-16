@@ -208,3 +208,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-02-15 19:05 UTC
 - Ya son diez los muertos por accidentes en rutas de Entre Ríos en los primeros cinco días del 2026 — https://diarioelsol.com.ar/contenido/57245/ya-son-diez-los-muertos-por-accidentes-en-rutas-de-entre-rios-en-los-primeros-ci _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-02-16 05:23 UTC
+- Venció el plazo para resolver el juicio político y cayeron las denuncias contra Susana Medina — https://diarioelsol.com.ar/contenido/57256/vencio-el-plazo-para-resolver-el-juicio-politico-y-cayeron-las-denuncias-contra- _(bloqueado: contiene keyword 'denuncia')_
+- Concejal Satalía Méndez denunció que dos de sus colaboradores fueron injustamente despedidos — https://diarioelsol.com.ar/contenido/57260/concejal-satalia-mendez-denuncio-que-dos-de-sus-colaboradores-fueron-injustament _(bloqueado: contiene keyword 'denunció')_
