@@ -213,3 +213,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-02-16 05:23 UTC
 - Venció el plazo para resolver el juicio político y cayeron las denuncias contra Susana Medina — https://diarioelsol.com.ar/contenido/57256/vencio-el-plazo-para-resolver-el-juicio-politico-y-cayeron-las-denuncias-contra- _(bloqueado: contiene keyword 'denuncia')_
 - Concejal Satalía Méndez denunció que dos de sus colaboradores fueron injustamente despedidos — https://diarioelsol.com.ar/contenido/57260/concejal-satalia-mendez-denuncio-que-dos-de-sus-colaboradores-fueron-injustament _(bloqueado: contiene keyword 'denunció')_
+
+
+## Tanda 2026-02-16 08:05 UTC
+- Una emboscada a tiros dejó dos chicas heridas, una muy grave y un menor detenido que ya cometió un homicidio — https://diarioelsol.com.ar/contenido/57263/una-emboscada-a-tiros-dejo-dos-chicas-heridas-una-muy-grave-y-un-menor-detenido- _(bloqueado: contiene keyword 'policía')_
+- Guardavidas de Los Sauces salvó a un adolescente que se atrevió adentrar más allá de lo permitido sin saber nadar. — https://diarioelsol.com.ar/contenido/57266/guardavidas-de-los-sauces-salvo-a-un-adolescente-que-se-atrevio-adentrar-mas-all _(bloqueado: contiene keyword 'adolescente')_
