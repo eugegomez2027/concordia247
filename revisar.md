@@ -218,3 +218,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-02-16 08:05 UTC
 - Una emboscada a tiros dejó dos chicas heridas, una muy grave y un menor detenido que ya cometió un homicidio — https://diarioelsol.com.ar/contenido/57263/una-emboscada-a-tiros-dejo-dos-chicas-heridas-una-muy-grave-y-un-menor-detenido- _(bloqueado: contiene keyword 'policía')_
 - Guardavidas de Los Sauces salvó a un adolescente que se atrevió adentrar más allá de lo permitido sin saber nadar. — https://diarioelsol.com.ar/contenido/57266/guardavidas-de-los-sauces-salvo-a-un-adolescente-que-se-atrevio-adentrar-mas-all _(bloqueado: contiene keyword 'adolescente')_
+
+
+## Tanda 2026-02-16 14:31 UTC
+- Convocan a una marcha en reclamo de justicia por la adolescente baleada en Paraná — https://diarioelsol.com.ar/contenido/57271/convocan-a-una-marcha-en-reclamo-de-justicia-por-la-adolescente-baleada-en-paran _(bloqueado: contiene keyword 'menor')_
