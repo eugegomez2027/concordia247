@@ -236,3 +236,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-02-17 08:06 UTC
 - Insólito: un policía robó las gomas de su patrullero para pagar una deuda y fue condenado y NO PASO EN CONCORDIA. — https://diarioelsol.com.ar/contenido/57290/insolito-un-policia-robo-las-gomas-de-su-patrullero-para-pagar-una-deuda-y-fue-c _(bloqueado: contiene keyword 'policía')_
 - Allanamientos logran secuestros de municiones de FAL y envoltorios de cocaína y marihuana. — https://diarioelsol.com.ar/contenido/57293/allanamientos-logran-secuestros-de-municiones-de-fal-y-envoltorios-de-cocaina-y- _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-02-17 14:38 UTC
+- Una niña grave tras despiste del auto en el que viajaba mientras transitaba la destrozada calzada de la ruta 14. — https://diarioelsol.com.ar/contenido/57296/una-nina-grave-tras-despiste-del-auto-en-el-que-viajaba-mientras-transitaba-la-d _(bloqueado: contiene keyword 'menor')_
+- La Policía informó que tiene toda su gente en las calles y siguen secuestrando motocicletas. — https://diarioelsol.com.ar/contenido/57301/la-policia-informo-que-tiene-toda-su-gente-en-las-calles-y-siguen-secuestrando-m _(bloqueado: contiene keyword 'policía')_
