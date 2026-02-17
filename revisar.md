@@ -226,3 +226,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-02-16 19:46 UTC
 - Las víctimas del accidente fatal en Chajarí viajaban hacia Misiones a reencontrarse con familiares — https://diarioelsol.com.ar/contenido/57272/las-victimas-del-accidente-fatal-en-chajari-viajaban-hacia-misiones-a-reencontra _(bloqueado: contiene keyword 'adolescente')_
+
+
+## Tanda 2026-02-17 05:14 UTC
+- Disturbios frente a Minoridad: dos heridos por balas de goma y traslado de los menores implicados en balacera — https://diarioelsol.com.ar/contenido/57284/disturbios-frente-a-minoridad-dos-heridos-por-balas-de-goma-y-traslado-de-los-me _(bloqueado: contiene keyword 'policía')_
+- Llegó a la puerta de la comisaría para pedir ayuda tras ser apuñalado — https://diarioelsol.com.ar/contenido/57286/llego-a-la-puerta-de-la-comisaria-para-pedir-ayuda-tras-ser-apunalado _(bloqueado: contiene keyword 'policial')_
