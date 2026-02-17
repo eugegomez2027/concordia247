@@ -231,3 +231,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-02-17 05:14 UTC
 - Disturbios frente a Minoridad: dos heridos por balas de goma y traslado de los menores implicados en balacera — https://diarioelsol.com.ar/contenido/57284/disturbios-frente-a-minoridad-dos-heridos-por-balas-de-goma-y-traslado-de-los-me _(bloqueado: contiene keyword 'policía')_
 - Llegó a la puerta de la comisaría para pedir ayuda tras ser apuñalado — https://diarioelsol.com.ar/contenido/57286/llego-a-la-puerta-de-la-comisaria-para-pedir-ayuda-tras-ser-apunalado _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-02-17 08:06 UTC
+- Insólito: un policía robó las gomas de su patrullero para pagar una deuda y fue condenado y NO PASO EN CONCORDIA. — https://diarioelsol.com.ar/contenido/57290/insolito-un-policia-robo-las-gomas-de-su-patrullero-para-pagar-una-deuda-y-fue-c _(bloqueado: contiene keyword 'policía')_
+- Allanamientos logran secuestros de municiones de FAL y envoltorios de cocaína y marihuana. — https://diarioelsol.com.ar/contenido/57293/allanamientos-logran-secuestros-de-municiones-de-fal-y-envoltorios-de-cocaina-y- _(bloqueado: contiene keyword 'allanamiento')_
