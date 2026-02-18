@@ -249,3 +249,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-02-18 14:35 UTC
 - Tensión en el Palacio Municipal: trabajadores marcharon contra los despidos y el municipio amaneció cercado por la policía — https://diarioelsol.com.ar/contenido/57323/tension-en-el-palacio-municipal-trabajadores-marcharon-contra-los-despidos-y-el- _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-02-18 20:00 UTC
+- Violenta pelea entre choferes provocó el despiste de un micro en la Ruta 14 — https://diarioelsol.com.ar/contenido/57331/violenta-pelea-entre-choferes-provoco-el-despiste-de-un-micro-en-la-ruta-14 _(bloqueado: URL contiene '/viol')_
