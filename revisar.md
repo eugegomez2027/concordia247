@@ -241,3 +241,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-02-17 14:38 UTC
 - Una niña grave tras despiste del auto en el que viajaba mientras transitaba la destrozada calzada de la ruta 14. — https://diarioelsol.com.ar/contenido/57296/una-nina-grave-tras-despiste-del-auto-en-el-que-viajaba-mientras-transitaba-la-d _(bloqueado: contiene keyword 'menor')_
 - La Policía informó que tiene toda su gente en las calles y siguen secuestrando motocicletas. — https://diarioelsol.com.ar/contenido/57301/la-policia-informo-que-tiene-toda-su-gente-en-las-calles-y-siguen-secuestrando-m _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-02-18 08:02 UTC
+- Amenazó a su ex pareja, se atrincheró con un arma blanca y terminó detenido tras un operativo de la Guardia Especial — https://diarioelsol.com.ar/contenido/57314/amenazo-a-su-ex-pareja-se-atrinchero-con-un-arma-blanca-y-termino-detenido-tras- _(bloqueado: contiene keyword 'detenido')_
