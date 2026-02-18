@@ -245,3 +245,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-02-18 08:02 UTC
 - Amenazó a su ex pareja, se atrincheró con un arma blanca y terminó detenido tras un operativo de la Guardia Especial — https://diarioelsol.com.ar/contenido/57314/amenazo-a-su-ex-pareja-se-atrinchero-con-un-arma-blanca-y-termino-detenido-tras- _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-02-18 14:35 UTC
+- Tensión en el Palacio Municipal: trabajadores marcharon contra los despidos y el municipio amaneció cercado por la policía — https://diarioelsol.com.ar/contenido/57323/tension-en-el-palacio-municipal-trabajadores-marcharon-contra-los-despidos-y-el- _(bloqueado: contiene keyword 'policía')_
