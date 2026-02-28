@@ -253,3 +253,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-02-18 20:00 UTC
 - Violenta pelea entre choferes provocó el despiste de un micro en la Ruta 14 — https://diarioelsol.com.ar/contenido/57331/violenta-pelea-entre-choferes-provoco-el-despiste-de-un-micro-en-la-ruta-14 _(bloqueado: URL contiene '/viol')_
+
+
+## Tanda 2026-02-28 04:35 UTC
+- Allanamientos en barrio Nebel: secuestran cocaína, un arma casera y detienen a dos personas — https://diarioelsol.com.ar/contenido/57342/allanamientos-en-barrio-nebel-secuestran-cocaina-un-arma-casera-y-detienen-a-dos _(bloqueado: contiene keyword 'allanamiento')_
+- ATE denuncia persecución ideológica del Intendente Francisco Azcué. — https://diarioelsol.com.ar/contenido/57341/ate-denuncia-persecucion-ideologica-del-intendente-francisco-azcue _(bloqueado: contiene keyword 'denuncia')_
