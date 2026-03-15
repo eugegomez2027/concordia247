@@ -1,0 +1,62 @@
+---
+layout: default
+---
+ 
+<article class="np-article">
+ 
+  <header class="np-article-header">
+    {% if page.categories.size > 0 %}
+    <div class="np-kicker">{{ page.categories | first }}</div>
+    {% endif %}
+    <h1 class="np-article-headline">{{ page.title }}</h1>
+    {% if page.description %}
+    <p class="np-article-deck">{{ page.description }}</p>
+    {% endif %}
+    <div class="np-article-meta">
+      {% if page.author %}<span>Por {{ page.author }}</span>{% endif %}
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d de %B de %Y, %H:%M" }}</time>
+      {% if page.source %}<span>Fuente: <a href="{{ page.source_url }}" target="_blank" rel="noopener">{{ page.source }}</a></span>{% endif %}
+    </div>
+  </header>
+ 
+  {% if page.image %}
+  <div class="np-article-img">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+    {% if page.image_caption %}
+    <p class="np-img-caption">{{ page.image_caption }}</p>
+    {% endif %}
+  </div>
+  {% endif %}
+ 
+  <div class="np-article-body">
+    {{ content }}
+  </div>
+ 
+  <footer class="np-article-footer">
+    <a href="{{ '/' | relative_url }}" class="np-back">← Volver al inicio</a>
+  </footer>
+ 
+</article>
+ 
+<!-- RELACIONADAS -->
+{% assign related = site.posts | where_exp: "post", "post.url != page.url" | limit: 3 %}
+{% if related.size > 0 %}
+<div class="np-related">
+  <div class="np-more-heading">Otras noticias</div>
+  <div class="np-row2">
+    {% for post in related %}
+    <article class="np-col">
+      {% if post.categories.size > 0 %}
+      <div class="np-kicker">{{ post.categories | first }}</div>
+      {% endif %}
+      <h3 class="np-headline np-headline-md">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h3>
+      <p class="np-byline">
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d/%m/%Y" }}</time>
+      </p>
+    </article>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
