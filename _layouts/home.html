@@ -1,0 +1,116 @@
+---
+layout: default
+---
+ 
+{% assign posts = site.posts | limit: 10 %}
+{% assign featured = posts | first %}
+{% assign secondary = posts | slice: 1, 3 %}
+{% assign rest = posts | slice: 4, 6 %}
+ 
+{% if site.breaking_news %}
+<div class="np-breaking">
+  <span class="np-breaking-label">Último momento</span>
+  <span class="np-breaking-text">{{ site.breaking_news }}</span>
+</div>
+{% endif %}
+ 
+<!-- FEATURE + SIDEBAR -->
+<div class="np-grid-main">
+ 
+  {% if featured %}
+  <article class="np-feature">
+    {% if featured.categories.size > 0 %}
+    <div class="np-kicker">{{ featured.categories | first }}</div>
+    {% endif %}
+    <h1 class="np-headline np-headline-xl">
+      <a href="{{ featured.url | relative_url }}">{{ featured.title }}</a>
+    </h1>
+    {% if featured.description %}
+    <p class="np-deck">{{ featured.description }}</p>
+    {% elsif featured.excerpt %}
+    <p class="np-deck">{{ featured.excerpt | strip_html | truncatewords: 30 }}</p>
+    {% endif %}
+    {% if featured.image %}
+    <div class="np-img">
+      <img src="{{ featured.image | relative_url }}" alt="{{ featured.title }}">
+    </div>
+    {% if featured.image_caption %}
+    <p class="np-img-caption">{{ featured.image_caption }}</p>
+    {% endif %}
+    {% endif %}
+    <p class="np-body">{{ featured.content | strip_html | truncatewords: 60 }}</p>
+    <p class="np-byline">
+      {% if featured.author %}Por {{ featured.author }} · {% endif %}
+      <time datetime="{{ featured.date | date_to_xmlschema }}">{{ featured.date | date: "%d de %B de %Y" }}</time>
+    </p>
+  </article>
+  {% endif %}
+ 
+  <div class="np-divider-v"></div>
+ 
+  <!-- SIDEBAR -->
+  <aside class="np-sidebar">
+    <div class="np-sidebar-heading">También hoy</div>
+    {% for post in secondary %}
+    <div class="np-sidebar-item">
+      {% if post.categories.size > 0 %}
+      <span class="np-tag np-tag-local">{{ post.categories | first }}</span>
+      {% endif %}
+      <h3 class="np-headline np-headline-sm">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h3>
+      {% if post.description %}
+      <p class="np-sidebar-body">{{ post.description | truncatewords: 20 }}</p>
+      {% elsif post.excerpt %}
+      <p class="np-sidebar-body">{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </aside>
+ 
+</div>
+ 
+<!-- SEGUNDA FILA -->
+{% if rest.size > 0 %}
+<div class="np-row2">
+  {% for post in rest %}
+  <article class="np-col">
+    {% if post.categories.size > 0 %}
+    <div class="np-kicker">{{ post.categories | first }}</div>
+    {% endif %}
+    <h2 class="np-headline np-headline-md">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </h2>
+    {% if post.description %}
+    <p class="np-body np-body-sm">{{ post.description | truncatewords: 25 }}</p>
+    {% elsif post.excerpt %}
+    <p class="np-body np-body-sm">{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+    {% endif %}
+    <p class="np-byline">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d/%m/%Y" }}</time>
+    </p>
+  </article>
+  {% endfor %}
+</div>
+{% endif %}
+ 
+<!-- MÁS NOTICIAS -->
+{% assign more = posts | slice: 7, 3 %}
+{% if more.size > 0 %}
+<div class="np-more-heading">Más noticias</div>
+<div class="np-list">
+  {% for post in more %}
+  <article class="np-list-item">
+    {% if post.categories.size > 0 %}
+    <span class="np-tag np-tag-local">{{ post.categories | first }}</span>
+    {% endif %}
+    <h3 class="np-headline np-headline-sm">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </h3>
+    <p class="np-byline">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d/%m/%Y" }}</time>
+    </p>
+  </article>
+  {% endfor %}
+</div>
+{% endif %}
