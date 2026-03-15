@@ -1,5 +1,5 @@
 ---
 layout: home
-title: "Últimas"
+title: "Últimas noticias"
 ---
 
