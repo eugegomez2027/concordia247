@@ -258,3 +258,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-02-28 04:35 UTC
 - Allanamientos en barrio Nebel: secuestran cocaína, un arma casera y detienen a dos personas — https://diarioelsol.com.ar/contenido/57342/allanamientos-en-barrio-nebel-secuestran-cocaina-un-arma-casera-y-detienen-a-dos _(bloqueado: contiene keyword 'allanamiento')_
 - ATE denuncia persecución ideológica del Intendente Francisco Azcué. — https://diarioelsol.com.ar/contenido/57341/ate-denuncia-persecucion-ideologica-del-intendente-francisco-azcue _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-03-22 01:45 UTC
+- Dos detenidos por actuar como “entregadores” en un intento de robo al Club San Martín — https://concordia24.com.ar/dos-detenidos-por-actuar-como-entregadores-en-un-intento-de-robo-al-club-san-martin/ _(bloqueado: contiene keyword 'robo')_
+- Tres detenidos y secuestro de armamento en el Puente Internacional Salto Grande — https://diarioelsol.com.ar/contenido/57620/tres-detenidos-y-secuestro-de-armamento-en-el-puente-internacional-salto-grande _(bloqueado: contiene keyword 'detenido')_
