@@ -269,3 +269,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Noche de caza, terminó  con el secuestro de la carabina 22 y la munición por la Policía. — https://diarioelsol.com.ar/contenido/57636/noche-de-caza-termino-con-el-secuestro-de-la-carabina-22-y-la-municion-por-la-po _(bloqueado: contiene keyword 'policía')_
 - El robo de un termo y un mate a su expareja derivó en un allanamiento y la detención del presunto autor — https://diarioelsol.com.ar/contenido/57634/el-robo-de-un-termo-y-un-mate-a-su-expareja-derivo-en-un-allanamiento-y-la-deten _(bloqueado: contiene keyword 'robo')_
 - Paran la actividad en el Puerto de Concepción del Uruguay — https://diarioelsol.com.ar/contenido/57639/paran-la-actividad-en-el-puerto-de-concepcion-del-uruguay _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-03-22 18:28 UTC
+- Confirmaron seis detenidos y policías heridos tras incidentes en el puerto de Concepción del Uruguay — https://diarioelsol.com.ar/contenido/57640/confirmaron-seis-detenidos-y-policias-heridos-tras-incidentes-en-el-puerto-de-co _(bloqueado: contiene keyword 'policía')_
