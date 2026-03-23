@@ -273,3 +273,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-03-22 18:28 UTC
 - Confirmaron seis detenidos y policías heridos tras incidentes en el puerto de Concepción del Uruguay — https://diarioelsol.com.ar/contenido/57640/confirmaron-seis-detenidos-y-policias-heridos-tras-incidentes-en-el-puerto-de-co _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-03-23 07:02 UTC
+- Allanamientos por amenazas: secuestraron un búho, un loro y plantas de marihuana — https://diarioelsol.com.ar/contenido/57650/allanamientos-por-amenazas-secuestraron-un-buho-un-loro-y-plantas-de-marihuana _(bloqueado: contiene keyword 'policía')_
