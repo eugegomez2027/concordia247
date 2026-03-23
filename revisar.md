@@ -284,3 +284,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Lanzaron el "ICE argentino": 11 detenidos en un operativo de control migratorio en una feria clandestina — https://diarioelsol.com.ar/contenido/57657/lanzaron-el-ice-argentino-11-detenidos-en-un-operativo-de-control-migratorio-en- _(bloqueado: contiene keyword 'detenido')_
 - Críticas al Gobierno provincial por los incidentes en el puerto de Concepción del Uruguay: “La inacción política genera violencia” — https://diarioelsol.com.ar/contenido/57663/criticas-al-gobierno-provincial-por-los-incidentes-en-el-puerto-de-concepcion-de _(bloqueado: contiene keyword 'policial')_
 - UPCN denunció un nuevo recorte de horas extras en la Administración Pública de la Provincia — https://diarioelsol.com.ar/contenido/57661/upcn-denuncio-un-nuevo-recorte-de-horas-extras-en-la-administracion-publica-de-l _(bloqueado: contiene keyword 'denunció')_
+
+
+## Tanda 2026-03-23 18:44 UTC
+- Robertito Funes denunció y colocó una perimetral contra su vecino: "Es un mafioso, violento" — https://diarioelsol.com.ar/contenido/57667/robertito-funes-denuncio-y-coloco-una-perimetral-contra-su-vecino-es-un-mafioso- _(bloqueado: contiene keyword 'denunció')_
+- Vaca Muerta: Techint evalúa denunciar dumping en una obra beneficiada por el RIGI — https://diarioelsol.com.ar/contenido/57666/vaca-muerta-techint-evalua-denunciar-dumping-en-una-obra-beneficiada-por-el-rigi _(bloqueado: contiene keyword 'denuncia')_
