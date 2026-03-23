@@ -277,3 +277,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-03-23 07:02 UTC
 - Allanamientos por amenazas: secuestraron un búho, un loro y plantas de marihuana — https://diarioelsol.com.ar/contenido/57650/allanamientos-por-amenazas-secuestraron-un-buho-un-loro-y-plantas-de-marihuana _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-03-23 12:53 UTC
+- Concepción del Uruguay: vecinos de barrio Planta Emisora reclaman obras urgentes y denuncian calles intransitables — https://concordia24.com.ar/concepcion-del-uruguay-vecinos-de-barrio-planta-emisora-reclaman-obras-urgentes-y-denuncian-calles-intransitables/ _(bloqueado: contiene keyword 'denuncia')_
+- Lanzaron el "ICE argentino": 11 detenidos en un operativo de control migratorio en una feria clandestina — https://diarioelsol.com.ar/contenido/57657/lanzaron-el-ice-argentino-11-detenidos-en-un-operativo-de-control-migratorio-en- _(bloqueado: contiene keyword 'detenido')_
+- Críticas al Gobierno provincial por los incidentes en el puerto de Concepción del Uruguay: “La inacción política genera violencia” — https://diarioelsol.com.ar/contenido/57663/criticas-al-gobierno-provincial-por-los-incidentes-en-el-puerto-de-concepcion-de _(bloqueado: contiene keyword 'policial')_
+- UPCN denunció un nuevo recorte de horas extras en la Administración Pública de la Provincia — https://diarioelsol.com.ar/contenido/57661/upcn-denuncio-un-nuevo-recorte-de-horas-extras-en-la-administracion-publica-de-l _(bloqueado: contiene keyword 'denunció')_
