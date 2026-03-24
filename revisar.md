@@ -289,3 +289,11 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-03-23 18:44 UTC
 - Robertito Funes denunció y colocó una perimetral contra su vecino: "Es un mafioso, violento" — https://diarioelsol.com.ar/contenido/57667/robertito-funes-denuncio-y-coloco-una-perimetral-contra-su-vecino-es-un-mafioso- _(bloqueado: contiene keyword 'denunció')_
 - Vaca Muerta: Techint evalúa denunciar dumping en una obra beneficiada por el RIGI — https://diarioelsol.com.ar/contenido/57666/vaca-muerta-techint-evalua-denunciar-dumping-en-una-obra-beneficiada-por-el-rigi _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-03-24 06:57 UTC
+- En los barrios de Concordia se venden cebollines de cocaína como si fueran caramelos. — https://diarioelsol.com.ar/contenido/57681/en-los-barrios-de-concordia-se-venden-cebollines-de-cocaina-como-si-fueran-caram _(bloqueado: contiene keyword 'allanamiento')_
+- Buscaban un teléfono celular hurtado y se toparon con un narcokiosco. — https://diarioelsol.com.ar/contenido/57680/buscaban-un-telefono-celular-hurtado-y-se-toparon-con-un-narcokiosco _(bloqueado: contiene keyword 'allanamiento')_
+- Conmoción por un parricidio en Diamante: mató al padre, tiró el cuerpo al río y está prófugo — https://diarioelsol.com.ar/contenido/57679/conmocion-por-un-parricidio-en-diamante-mato-al-padre-tiro-el-cuerpo-al-rio-y-es _(bloqueado: contiene keyword 'policía')_
+- Llevaba la droga en una media, la arrojó al ver a la policía y quedaron a la vista 57 cebollines — https://diarioelsol.com.ar/contenido/57683/llevaba-la-droga-en-una-media-la-arrojo-al-ver-a-la-policia-y-quedaron-a-la-vist _(bloqueado: contiene keyword 'policía')_
+- Encontraron al presunto autor del parricidio en Diamante — https://diarioelsol.com.ar/contenido/57687/encontraron-al-presunto-autor-del-parricidio-en-diamante _(bloqueado: contiene keyword 'asesin')_
