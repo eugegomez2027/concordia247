@@ -297,3 +297,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Conmoción por un parricidio en Diamante: mató al padre, tiró el cuerpo al río y está prófugo — https://diarioelsol.com.ar/contenido/57679/conmocion-por-un-parricidio-en-diamante-mato-al-padre-tiro-el-cuerpo-al-rio-y-es _(bloqueado: contiene keyword 'policía')_
 - Llevaba la droga en una media, la arrojó al ver a la policía y quedaron a la vista 57 cebollines — https://diarioelsol.com.ar/contenido/57683/llevaba-la-droga-en-una-media-la-arrojo-al-ver-a-la-policia-y-quedaron-a-la-vist _(bloqueado: contiene keyword 'policía')_
 - Encontraron al presunto autor del parricidio en Diamante — https://diarioelsol.com.ar/contenido/57687/encontraron-al-presunto-autor-del-parricidio-en-diamante _(bloqueado: contiene keyword 'asesin')_
+
+
+## Tanda 2026-03-24 18:54 UTC
+- Nahir Galarza denunció perfiles en redes sociales que difunden sus fotos modificadas por IA: “No soy yo” — https://diarioelsol.com.ar/contenido/57696/nahir-galarza-denuncio-perfiles-en-redes-sociales-que-difunden-sus-fotos-modific _(bloqueado: contiene keyword 'crimen')_
+- Horror en España: un feriante fue sorprendido mientras violaba una vaca preñada — https://diarioelsol.com.ar/contenido/57695/horror-en-espana-un-feriante-fue-sorprendido-mientras-violaba-una-vaca-prenada _(bloqueado: contiene keyword 'denunció')_
+- Parricidio en Diamante: la fiscal reveló detalles de la entrevista con el testigo — https://diarioelsol.com.ar/contenido/57699/parricidio-en-diamante-la-fiscal-revelo-detalles-de-la-entrevista-con-el-testigo _(bloqueado: contiene keyword 'asesin')_
