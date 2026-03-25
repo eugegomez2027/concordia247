@@ -303,3 +303,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Nahir Galarza denunció perfiles en redes sociales que difunden sus fotos modificadas por IA: “No soy yo” — https://diarioelsol.com.ar/contenido/57696/nahir-galarza-denuncio-perfiles-en-redes-sociales-que-difunden-sus-fotos-modific _(bloqueado: contiene keyword 'crimen')_
 - Horror en España: un feriante fue sorprendido mientras violaba una vaca preñada — https://diarioelsol.com.ar/contenido/57695/horror-en-espana-un-feriante-fue-sorprendido-mientras-violaba-una-vaca-prenada _(bloqueado: contiene keyword 'denunció')_
 - Parricidio en Diamante: la fiscal reveló detalles de la entrevista con el testigo — https://diarioelsol.com.ar/contenido/57699/parricidio-en-diamante-la-fiscal-revelo-detalles-de-la-entrevista-con-el-testigo _(bloqueado: contiene keyword 'asesin')_
+
+
+## Tanda 2026-03-25 01:44 UTC
+- Una denuncia por personal de la Subsecretaría de Seguridad Ciudadana permitió la detención de un narco uruguayo con pedido de captura de Interpol — https://concordia24.com.ar/una-denuncia-por-personal-de-la-subsecretaria-de-seguridad-ciudadana-permitio-la-detencion-de-un-narco-uruguayo-con-pedido-de-captura-de-interpol/ _(bloqueado: contiene keyword 'denuncia')_
