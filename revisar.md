@@ -307,3 +307,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-03-25 01:44 UTC
 - Una denuncia por personal de la Subsecretaría de Seguridad Ciudadana permitió la detención de un narco uruguayo con pedido de captura de Interpol — https://concordia24.com.ar/una-denuncia-por-personal-de-la-subsecretaria-de-seguridad-ciudadana-permitio-la-detencion-de-un-narco-uruguayo-con-pedido-de-captura-de-interpol/ _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-03-25 12:55 UTC
+- Dos detenidos: La policía llevó a cabo dos procedimientos importantes en la ciudad de Federal — https://concordia24.com.ar/dos-detenidos-la-policia-llevo-a-cabo-dos-procedimientos-importantes-en-la-ciudad-de-federal/ _(bloqueado: contiene keyword 'policía')_
+- Jesuita italiano abusó sexualmente de 30 mujeres, algunas menores, según informe interno — https://diarioelsol.com.ar/contenido/57719/jesuita-italiano-abuso-sexualmente-de-30-mujeres-algunas-menores-segun-informe-i _(bloqueado: contiene keyword 'menor')_
