@@ -312,3 +312,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-03-25 12:55 UTC
 - Dos detenidos: La policía llevó a cabo dos procedimientos importantes en la ciudad de Federal — https://concordia24.com.ar/dos-detenidos-la-policia-llevo-a-cabo-dos-procedimientos-importantes-en-la-ciudad-de-federal/ _(bloqueado: contiene keyword 'policía')_
 - Jesuita italiano abusó sexualmente de 30 mujeres, algunas menores, según informe interno — https://diarioelsol.com.ar/contenido/57719/jesuita-italiano-abuso-sexualmente-de-30-mujeres-algunas-menores-segun-informe-i _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-03-26 07:00 UTC
+- Rescatan a un pitbull en grave estado de abandono tras un allanamiento en Concordia — https://concordia24.com.ar/rescatan-a-un-pitbull-en-grave-estado-de-abandono-tras-un-allanamiento-en-concordia/ _(bloqueado: contiene keyword 'allanamiento')_
