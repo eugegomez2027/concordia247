@@ -316,3 +316,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-03-26 07:00 UTC
 - Rescatan a un pitbull en grave estado de abandono tras un allanamiento en Concordia — https://concordia24.com.ar/rescatan-a-un-pitbull-en-grave-estado-de-abandono-tras-un-allanamiento-en-concordia/ _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-03-26 13:00 UTC
+- La Policía recuperó un auto que había robado el 26 de enero en Buenos Aires — https://diarioelsol.com.ar/contenido/57735/la-policia-recupero-un-auto-que-habia-robado-el-26-de-enero-en-buenos-aires _(bloqueado: contiene keyword 'policía')_
+- La Policía oficialmente comunicó que el asalto y robo de un auto en la entrada de Concordia nunca existió. — https://diarioelsol.com.ar/contenido/57744/la-policia-oficialmente-comunico-que-el-asalto-y-robo-de-un-auto-en-la-entrada-d _(bloqueado: contiene keyword 'policía')_
+- Insólito: fueron a denunciar el robo de un auto y terminaron detenidos — https://diarioelsol.com.ar/contenido/57743/insolito-fueron-a-denunciar-el-robo-de-un-auto-y-terminaron-detenidos _(bloqueado: contiene keyword 'robo')_
