@@ -322,3 +322,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - La Policía recuperó un auto que había robado el 26 de enero en Buenos Aires — https://diarioelsol.com.ar/contenido/57735/la-policia-recupero-un-auto-que-habia-robado-el-26-de-enero-en-buenos-aires _(bloqueado: contiene keyword 'policía')_
 - La Policía oficialmente comunicó que el asalto y robo de un auto en la entrada de Concordia nunca existió. — https://diarioelsol.com.ar/contenido/57744/la-policia-oficialmente-comunico-que-el-asalto-y-robo-de-un-auto-en-la-entrada-d _(bloqueado: contiene keyword 'policía')_
 - Insólito: fueron a denunciar el robo de un auto y terminaron detenidos — https://diarioelsol.com.ar/contenido/57743/insolito-fueron-a-denunciar-el-robo-de-un-auto-y-terminaron-detenidos _(bloqueado: contiene keyword 'robo')_
+
+
+## Tanda 2026-03-27 01:51 UTC
+- Otro allanamiento que confirma la frase: "En los barrios de Concordia se venden drogas como caramelos". — https://diarioelsol.com.ar/contenido/57750/otro-allanamiento-que-confirma-la-frase-en-los-barrios-de-concordia-se-venden-dr _(bloqueado: contiene keyword 'allanamiento')_
+- Grave hecho en Miramar: una turista adolescente fue violada en una playa cuando estaba con su novio — https://diarioelsol.com.ar/contenido/57756/grave-hecho-en-miramar-una-turista-adolescente-fue-violada-en-una-playa-cuando-e _(bloqueado: contiene keyword 'adolescente')_
