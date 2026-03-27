@@ -327,3 +327,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-03-27 01:51 UTC
 - Otro allanamiento que confirma la frase: "En los barrios de Concordia se venden drogas como caramelos". — https://diarioelsol.com.ar/contenido/57750/otro-allanamiento-que-confirma-la-frase-en-los-barrios-de-concordia-se-venden-dr _(bloqueado: contiene keyword 'allanamiento')_
 - Grave hecho en Miramar: una turista adolescente fue violada en una playa cuando estaba con su novio — https://diarioelsol.com.ar/contenido/57756/grave-hecho-en-miramar-una-turista-adolescente-fue-violada-en-una-playa-cuando-e _(bloqueado: contiene keyword 'adolescente')_
+
+
+## Tanda 2026-03-27 12:51 UTC
+- Bullrich empuja la baja de la edad punible, pero las provincias reclaman fondos para los nuevos centros de detención — https://diarioelsol.com.ar/contenido/57761/bullrich-empuja-la-baja-de-la-edad-punible-pero-las-provincias-reclaman-fondos-p _(bloqueado: contiene keyword 'asesin')_
+- Denuncian brutal ataque a un periodista en pleno centro de Chajarí — https://diarioelsol.com.ar/contenido/57768/denuncian-brutal-ataque-a-un-periodista-en-pleno-centro-de-chajari _(bloqueado: URL contiene '/denunc')_
+- SINIESTRO VIAL EN AUTOVÍA ARTIGAS – KM 275: EL CONOCIDO TRIANGULO DE LAS BERMUDAS. — https://diarioelsol.com.ar/contenido/57766/siniestro-vial-en-autovia-artigas-km-275-el-conocido-triangulo-de-las-bermudas _(bloqueado: contiene keyword 'policial')_
