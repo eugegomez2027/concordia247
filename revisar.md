@@ -333,3 +333,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Bullrich empuja la baja de la edad punible, pero las provincias reclaman fondos para los nuevos centros de detención — https://diarioelsol.com.ar/contenido/57761/bullrich-empuja-la-baja-de-la-edad-punible-pero-las-provincias-reclaman-fondos-p _(bloqueado: contiene keyword 'asesin')_
 - Denuncian brutal ataque a un periodista en pleno centro de Chajarí — https://diarioelsol.com.ar/contenido/57768/denuncian-brutal-ataque-a-un-periodista-en-pleno-centro-de-chajari _(bloqueado: URL contiene '/denunc')_
 - SINIESTRO VIAL EN AUTOVÍA ARTIGAS – KM 275: EL CONOCIDO TRIANGULO DE LAS BERMUDAS. — https://diarioelsol.com.ar/contenido/57766/siniestro-vial-en-autovia-artigas-km-275-el-conocido-triangulo-de-las-bermudas _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-03-27 18:50 UTC
+- Persecución policial en una ruta entrerriana: cuatro jóvenes evadieron varios controles a la madrugada, al final, fueron detenidos. — https://diarioelsol.com.ar/contenido/57770/persecucion-policial-en-una-ruta-entrerriana-cuatro-jovenes-evadieron-varios-con _(bloqueado: contiene keyword 'policial')_
+- La Iglesia volvió a cuestionar la baja de la edad de imputabilidad y pidió más educación — https://diarioelsol.com.ar/contenido/57769/la-iglesia-volvio-a-cuestionar-la-baja-de-la-edad-de-imputabilidad-y-pidio-mas-e _(bloqueado: contiene keyword 'niño')_
