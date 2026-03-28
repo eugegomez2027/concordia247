@@ -338,3 +338,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-03-27 18:50 UTC
 - Persecución policial en una ruta entrerriana: cuatro jóvenes evadieron varios controles a la madrugada, al final, fueron detenidos. — https://diarioelsol.com.ar/contenido/57770/persecucion-policial-en-una-ruta-entrerriana-cuatro-jovenes-evadieron-varios-con _(bloqueado: contiene keyword 'policial')_
 - La Iglesia volvió a cuestionar la baja de la edad de imputabilidad y pidió más educación — https://diarioelsol.com.ar/contenido/57769/la-iglesia-volvio-a-cuestionar-la-baja-de-la-edad-de-imputabilidad-y-pidio-mas-e _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-03-28 01:43 UTC
+- Detienen a dos mujeres y un hombre en el barrio Pampa Soler y los imputan por narcomenudeo. — https://diarioelsol.com.ar/contenido/57780/detienen-a-dos-mujeres-y-un-hombre-en-el-barrio-pampa-soler-y-los-imputan-por-na _(bloqueado: contiene keyword 'allanamiento')_
+- Secuestran dos "armas", uno de fogueo y la otra de aire comprimido en múltiples allanamientos — https://diarioelsol.com.ar/contenido/57779/secuestran-dos-armas-uno-de-fogueo-y-la-otra-de-aire-comprimido-en-multiples-all _(bloqueado: contiene keyword 'policial')_
