@@ -355,3 +355,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-03-29 12:42 UTC
 - Detienen a una pareja que tenía drogas para supuesta comercialización — https://diarioelsol.com.ar/contenido/57812/detienen-a-una-pareja-que-tenia-drogas-para-supuesta-comercializacion _(bloqueado: contiene keyword 'policial')_
 - Detienen a un descamisado que rapiñó unas encomiendas de un camión de Andreani y salió a la carrera. — https://diarioelsol.com.ar/contenido/57817/detienen-a-un-descamisado-que-rapino-unas-encomiendas-de-un-camion-de-andreani-y _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-03-29 18:33 UTC
+- Allanamientos por narcomenudeo en Federal: Tres personas detenidas — https://concordia24.com.ar/allanamientos-por-narcomenudeo-en-federal-tres-personas-detenidas/ _(bloqueado: contiene keyword 'allanamiento')_
+- Horror en Cerrito: la principal hipótesis es la de homicidio — https://diarioelsol.com.ar/contenido/57824/horror-en-cerrito-la-principal-hipotesis-es-la-de-homicidio _(bloqueado: contiene keyword 'homicidio')_
