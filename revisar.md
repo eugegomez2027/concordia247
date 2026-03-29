@@ -350,3 +350,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Demandan a una clínica de fertilidad luego descubrir que su bebé no es genéticamente de ellos — https://diarioelsol.com.ar/contenido/57787/demandan-a-una-clinica-de-fertilidad-luego-descubrir-que-su-bebe-no-es-geneticam _(bloqueado: contiene keyword 'niña')_
 - "Matalo, matalo": así planearon y ejecutaron el crimen de Jeremías — https://diarioelsol.com.ar/contenido/57794/matalo-matalo-asi-planearon-y-ejecutaron-el-crimen-de-jeremias _(bloqueado: contiene keyword 'crimen')_
 - Triple femicidio: la Justicia de Perú aprobó la extradición de "Pequeño J "a la Argentina — https://diarioelsol.com.ar/contenido/57793/triple-femicidio-la-justicia-de-peru-aprobo-la-extradicion-de-pequeno-j-a-la-arg _(bloqueado: contiene keyword 'crimen')_
+
+
+## Tanda 2026-03-29 12:42 UTC
+- Detienen a una pareja que tenía drogas para supuesta comercialización — https://diarioelsol.com.ar/contenido/57812/detienen-a-una-pareja-que-tenia-drogas-para-supuesta-comercializacion _(bloqueado: contiene keyword 'policial')_
+- Detienen a un descamisado que rapiñó unas encomiendas de un camión de Andreani y salió a la carrera. — https://diarioelsol.com.ar/contenido/57817/detienen-a-un-descamisado-que-rapino-unas-encomiendas-de-un-camion-de-andreani-y _(bloqueado: contiene keyword 'detenido')_
