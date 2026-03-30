@@ -369,3 +369,11 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-03-30 07:19 UTC
 - Una multitud exigió justicia por la joven que fue víctima de abuso sexual en Santa Elena — https://diarioelsol.com.ar/contenido/57832/una-multitud-exigio-justicia-por-la-joven-que-fue-victima-de-abuso-sexual-en-san _(bloqueado: contiene keyword 'menor')_
 - Chats entre acusados de percibir adicionales indebidos en la Policía complicarían a superiores de la fuerza — https://diarioelsol.com.ar/contenido/57837/chats-entre-acusados-de-percibir-adicionales-indebidos-en-la-policia-complicaria _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-03-30 13:05 UTC
+- Federal: La Policía trabaja para desarticular maniobras peligrosas de los motociclistas — https://concordia24.com.ar/federal-la-policia-trabaja-para-desarticular-maniobras-peligrosas-de-los-motociclistas/ _(bloqueado: contiene keyword 'policía')_
+- Consecuencia de las drogas: Detuvieron a un menor que agredió a su madre y destrozó la vivienda — https://diarioelsol.com.ar/contenido/57840/consecuencia-de-las-drogas-detuvieron-a-un-menor-que-agredio-a-su-madre-y-destro _(bloqueado: contiene keyword 'menor')_
+- Allanaron la casa de un motochorro sindicado de haber participado en el asalto a una joven. — https://diarioelsol.com.ar/contenido/57860/allanaron-la-casa-de-un-motochorro-sindicado-de-haber-participado-en-el-asalto-a _(bloqueado: contiene keyword 'asalto')_
+- Violento siniestro: pisó la banquina, chocó el guardarrail y volcó — https://diarioelsol.com.ar/contenido/57841/violento-siniestro-piso-la-banquina-choco-el-guardarrail-y-volco _(bloqueado: URL contiene '/viol')_
+- Homicidio en Cerrito: dictaron 30 días de prisión preventiva para el único sospechoso — https://diarioelsol.com.ar/contenido/57846/homicidio-en-cerrito-dictaron-30-dias-de-prision-preventiva-para-el-unico-sospec _(bloqueado: URL contiene '/homic')_
