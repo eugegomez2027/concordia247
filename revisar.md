@@ -364,3 +364,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-03-30 01:56 UTC
 - “Pa’, me lastimaron”, el terrible mensaje de la adolescente víctima de una violación — https://diarioelsol.com.ar/contenido/57825/pa-me-lastimaron-el-terrible-mensaje-de-la-adolescente-victima-de-una-violacion _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-03-30 07:19 UTC
+- Una multitud exigió justicia por la joven que fue víctima de abuso sexual en Santa Elena — https://diarioelsol.com.ar/contenido/57832/una-multitud-exigio-justicia-por-la-joven-que-fue-victima-de-abuso-sexual-en-san _(bloqueado: contiene keyword 'menor')_
+- Chats entre acusados de percibir adicionales indebidos en la Policía complicarían a superiores de la fuerza — https://diarioelsol.com.ar/contenido/57837/chats-entre-acusados-de-percibir-adicionales-indebidos-en-la-policia-complicaria _(bloqueado: contiene keyword 'policía')_
