@@ -360,3 +360,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-03-29 18:33 UTC
 - Allanamientos por narcomenudeo en Federal: Tres personas detenidas — https://concordia24.com.ar/allanamientos-por-narcomenudeo-en-federal-tres-personas-detenidas/ _(bloqueado: contiene keyword 'allanamiento')_
 - Horror en Cerrito: la principal hipótesis es la de homicidio — https://diarioelsol.com.ar/contenido/57824/horror-en-cerrito-la-principal-hipotesis-es-la-de-homicidio _(bloqueado: contiene keyword 'homicidio')_
+
+
+## Tanda 2026-03-30 01:56 UTC
+- “Pa’, me lastimaron”, el terrible mensaje de la adolescente víctima de una violación — https://diarioelsol.com.ar/contenido/57825/pa-me-lastimaron-el-terrible-mensaje-de-la-adolescente-victima-de-una-violacion _(bloqueado: contiene keyword 'detenido')_
