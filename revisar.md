@@ -387,3 +387,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-03-31 13:03 UTC
 - Un hombre está grave tras ser golpeado por su hijastro en Nogoyá — https://diarioelsol.com.ar/contenido/57868/un-hombre-esta-grave-tras-ser-golpeado-por-su-hijastro-en-nogoya _(bloqueado: contiene keyword 'denunció')_
 - Japón dijo basta al turismo masivo y canceló uno de sus festivales más famosos — https://diarioelsol.com.ar/contenido/57872/japon-dijo-basta-al-turismo-masivo-y-cancelo-uno-de-sus-festivales-mas-famosos _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-03-31 18:53 UTC
+- El incendio en la planta recicladora de Urdinarrain fue intencional y hay un sospechoso — https://diarioelsol.com.ar/contenido/57874/el-incendio-en-la-planta-recicladora-de-urdinarrain-fue-intencional-y-hay-un-sos _(bloqueado: contiene keyword 'presunto')_
