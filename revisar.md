@@ -382,3 +382,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-03-31 07:05 UTC
 - Habló el policía que rescató al nene encerrado en una camioneta: "Estaba totalmente mojado de la transpiración" — https://diarioelsol.com.ar/contenido/57857/hablo-el-policia-que-rescato-al-nene-encerrado-en-una-camioneta-estaba-totalment _(bloqueado: contiene keyword 'policía')_
 - Compraban con billetes falsos, los allanaron y descubrieron gran cantidad de plata apócrifa y cocaína, fueron detenidos. — https://diarioelsol.com.ar/contenido/57864/compraban-con-billetes-falsos-los-allanaron-y-descubrieron-gran-cantidad-de-plat _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-03-31 13:03 UTC
+- Un hombre está grave tras ser golpeado por su hijastro en Nogoyá — https://diarioelsol.com.ar/contenido/57868/un-hombre-esta-grave-tras-ser-golpeado-por-su-hijastro-en-nogoya _(bloqueado: contiene keyword 'denunció')_
+- Japón dijo basta al turismo masivo y canceló uno de sus festivales más famosos — https://diarioelsol.com.ar/contenido/57872/japon-dijo-basta-al-turismo-masivo-y-cancelo-uno-de-sus-festivales-mas-famosos _(bloqueado: contiene keyword 'denuncia')_
