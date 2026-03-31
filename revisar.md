@@ -377,3 +377,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Allanaron la casa de un motochorro sindicado de haber participado en el asalto a una joven. — https://diarioelsol.com.ar/contenido/57860/allanaron-la-casa-de-un-motochorro-sindicado-de-haber-participado-en-el-asalto-a _(bloqueado: contiene keyword 'asalto')_
 - Violento siniestro: pisó la banquina, chocó el guardarrail y volcó — https://diarioelsol.com.ar/contenido/57841/violento-siniestro-piso-la-banquina-choco-el-guardarrail-y-volco _(bloqueado: URL contiene '/viol')_
 - Homicidio en Cerrito: dictaron 30 días de prisión preventiva para el único sospechoso — https://diarioelsol.com.ar/contenido/57846/homicidio-en-cerrito-dictaron-30-dias-de-prision-preventiva-para-el-unico-sospec _(bloqueado: URL contiene '/homic')_
+
+
+## Tanda 2026-03-31 07:05 UTC
+- Habló el policía que rescató al nene encerrado en una camioneta: "Estaba totalmente mojado de la transpiración" — https://diarioelsol.com.ar/contenido/57857/hablo-el-policia-que-rescato-al-nene-encerrado-en-una-camioneta-estaba-totalment _(bloqueado: contiene keyword 'policía')_
+- Compraban con billetes falsos, los allanaron y descubrieron gran cantidad de plata apócrifa y cocaína, fueron detenidos. — https://diarioelsol.com.ar/contenido/57864/compraban-con-billetes-falsos-los-allanaron-y-descubrieron-gran-cantidad-de-plat _(bloqueado: contiene keyword 'detenido')_
