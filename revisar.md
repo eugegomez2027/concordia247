@@ -391,3 +391,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-03-31 18:53 UTC
 - El incendio en la planta recicladora de Urdinarrain fue intencional y hay un sospechoso — https://diarioelsol.com.ar/contenido/57874/el-incendio-en-la-planta-recicladora-de-urdinarrain-fue-intencional-y-hay-un-sos _(bloqueado: contiene keyword 'presunto')_
+
+
+## Tanda 2026-04-01 07:12 UTC
+- Doble crimen en Pilar: mataron a dos hermanos por una deuda de 230 mil pesos — https://diarioelsol.com.ar/contenido/57889/doble-crimen-en-pilar-mataron-a-dos-hermanos-por-una-deuda-de-230-mil-pesos _(bloqueado: contiene keyword 'crimen')_
+- Tragedia en Mar del Plata: un joven murió tras una golpiza a la salida de un boliche — https://diarioelsol.com.ar/contenido/57888/tragedia-en-mar-del-plata-un-joven-murio-tras-una-golpiza-a-la-salida-de-un-boli _(bloqueado: contiene keyword 'homicidio')_
