@@ -396,3 +396,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-04-01 07:12 UTC
 - Doble crimen en Pilar: mataron a dos hermanos por una deuda de 230 mil pesos — https://diarioelsol.com.ar/contenido/57889/doble-crimen-en-pilar-mataron-a-dos-hermanos-por-una-deuda-de-230-mil-pesos _(bloqueado: contiene keyword 'crimen')_
 - Tragedia en Mar del Plata: un joven murió tras una golpiza a la salida de un boliche — https://diarioelsol.com.ar/contenido/57888/tragedia-en-mar-del-plata-un-joven-murio-tras-una-golpiza-a-la-salida-de-un-boli _(bloqueado: contiene keyword 'homicidio')_
+
+
+## Tanda 2026-04-01 18:53 UTC
+- Allanamientos en el Barrio Pampa Soler, con Secuestro de dinero y Estupefacientes — https://diarioelsol.com.ar/contenido/57896/allanamientos-en-el-barrio-pampa-soler-con-secuestro-de-dinero-y-estupefacientes _(bloqueado: contiene keyword 'allanamiento')_
+- La Iglesia se metió en el debate por la imputabilidad de menores: "Bajar la edad no baja el delito" — https://diarioelsol.com.ar/contenido/57901/la-iglesia-se-metio-en-el-debate-por-la-imputabilidad-de-menores-bajar-la-edad-n _(bloqueado: contiene keyword 'menor')_
