@@ -401,3 +401,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-04-01 18:53 UTC
 - Allanamientos en el Barrio Pampa Soler, con Secuestro de dinero y Estupefacientes — https://diarioelsol.com.ar/contenido/57896/allanamientos-en-el-barrio-pampa-soler-con-secuestro-de-dinero-y-estupefacientes _(bloqueado: contiene keyword 'allanamiento')_
 - La Iglesia se metió en el debate por la imputabilidad de menores: "Bajar la edad no baja el delito" — https://diarioelsol.com.ar/contenido/57901/la-iglesia-se-metio-en-el-debate-por-la-imputabilidad-de-menores-bajar-la-edad-n _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-04-02 07:05 UTC
+- El asesor presidencial Demian Reidel renunció al directorio de Nucleoeléctrica tras las denuncias por los sobreprecios — https://diarioelsol.com.ar/contenido/57907/el-asesor-presidencial-demian-reidel-renuncio-al-directorio-de-nucleoelectrica-t _(bloqueado: contiene keyword 'denuncia')_
+- Los fajos de dólares de Ornella Calvete, la ex funcionaria desplazada por el escándalo en Discapacidad — https://diarioelsol.com.ar/contenido/57908/los-fajos-de-dolares-de-ornella-calvete-la-ex-funcionaria-desplazada-por-el-esca _(bloqueado: contiene keyword 'policía')_
