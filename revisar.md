@@ -420,3 +420,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Elevan a juicio la causa por el secuestro y asesinato del empresario que gerenció el puerto de La Histórica — https://diarioelsol.com.ar/contenido/57927/elevan-a-juicio-la-causa-por-el-secuestro-y-asesinato-del-empresario-que-gerenci _(bloqueado: contiene keyword 'asesin')_
 - En Entre Ríos policías anunciaron una manifestación pacífica para marzo — https://diarioelsol.com.ar/contenido/57933/en-entre-rios-policias-anunciaron-una-manifestacion-pacifica-para-marzo _(bloqueado: contiene keyword 'policía')_
 - Tensión en Rosario por el reclamo salarial de la Policía en Santa Fe: "Sueldos miserables" — https://diarioelsol.com.ar/contenido/57935/tension-en-rosario-por-el-reclamo-salarial-de-la-policia-en-santa-fe-sueldos-mis _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-04-03 12:49 UTC
+- Máxima tensión en Colombia: el presidente Gustavo Petro denunció que escapó de un intento de asesinato — https://diarioelsol.com.ar/contenido/57947/maxima-tension-en-colombia-el-presidente-gustavo-petro-denuncio-que-escapo-de-un _(bloqueado: contiene keyword 'asesin')_
+- Vecinos golpearon a un ladrón que había entrado a robar una casa y lo dejaron en terapia intensiva — https://diarioelsol.com.ar/contenido/57946/vecinos-golpearon-a-un-ladron-que-habia-entrado-a-robar-una-casa-y-lo-dejaron-en _(bloqueado: contiene keyword 'policía')_
+- Se extiende la protesta policial en Santa Fe y hay acuartelamientos en varias localidades — https://diarioelsol.com.ar/contenido/57944/se-extiende-la-protesta-policial-en-santa-fe-y-hay-acuartelamientos-en-varias-lo _(bloqueado: contiene keyword 'policial')_
