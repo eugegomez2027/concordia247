@@ -410,3 +410,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-02 12:58 UTC
 - Se filtró el "audio del terror" con el que extorsionaban al soldado fallecido en Quinta de Olivos — https://diarioelsol.com.ar/contenido/57915/se-filtro-el-audio-del-terror-con-el-que-extorsionaban-al-soldado-fallecido-en-q _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-04-03 01:50 UTC
+- PESCADOS: Tres personas fueron detenidas en Federación tras robar elementos de pesca. — https://diarioelsol.com.ar/contenido/57922/pescados-tres-personas-fueron-detenidas-en-federacion-tras-robar-elementos-de-pe _(bloqueado: contiene keyword 'policial')_
