@@ -426,3 +426,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Máxima tensión en Colombia: el presidente Gustavo Petro denunció que escapó de un intento de asesinato — https://diarioelsol.com.ar/contenido/57947/maxima-tension-en-colombia-el-presidente-gustavo-petro-denuncio-que-escapo-de-un _(bloqueado: contiene keyword 'asesin')_
 - Vecinos golpearon a un ladrón que había entrado a robar una casa y lo dejaron en terapia intensiva — https://diarioelsol.com.ar/contenido/57946/vecinos-golpearon-a-un-ladron-que-habia-entrado-a-robar-una-casa-y-lo-dejaron-en _(bloqueado: contiene keyword 'policía')_
 - Se extiende la protesta policial en Santa Fe y hay acuartelamientos en varias localidades — https://diarioelsol.com.ar/contenido/57944/se-extiende-la-protesta-policial-en-santa-fe-y-hay-acuartelamientos-en-varias-lo _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-04-03 18:38 UTC
+- Allanamientos en barrio Los Pájaros: secuestran armas, droga y hay detenidos — https://concordia24.com.ar/allanamientos-en-barrio-los-pajaros-secuestran-armas-droga-y-hay-detenidos/ _(bloqueado: contiene keyword 'detenido')_
