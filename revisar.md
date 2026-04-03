@@ -414,3 +414,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-03 01:50 UTC
 - PESCADOS: Tres personas fueron detenidas en Federación tras robar elementos de pesca. — https://diarioelsol.com.ar/contenido/57922/pescados-tres-personas-fueron-detenidas-en-federacion-tras-robar-elementos-de-pe _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-04-03 07:00 UTC
+- Elevan a juicio la causa por el secuestro y asesinato del empresario que gerenció el puerto de La Histórica — https://diarioelsol.com.ar/contenido/57927/elevan-a-juicio-la-causa-por-el-secuestro-y-asesinato-del-empresario-que-gerenci _(bloqueado: contiene keyword 'asesin')_
+- En Entre Ríos policías anunciaron una manifestación pacífica para marzo — https://diarioelsol.com.ar/contenido/57933/en-entre-rios-policias-anunciaron-una-manifestacion-pacifica-para-marzo _(bloqueado: contiene keyword 'policía')_
+- Tensión en Rosario por el reclamo salarial de la Policía en Santa Fe: "Sueldos miserables" — https://diarioelsol.com.ar/contenido/57935/tension-en-rosario-por-el-reclamo-salarial-de-la-policia-en-santa-fe-sueldos-mis _(bloqueado: contiene keyword 'policía')_
