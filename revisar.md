@@ -440,3 +440,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-04 06:53 UTC
 - En Santa Fe, Pullaro confirmó un aumento de sueldo y personal de la Policía levantó la protesta — https://diarioelsol.com.ar/contenido/57974/en-santa-fe-pullaro-confirmo-un-aumento-de-sueldo-y-personal-de-la-policia-levan _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-04-04 18:32 UTC
+- Intentó asesinar a su pareja en contexto de violencia de género — https://concordia24.com.ar/intento-asesinar-a-su-pareja-en-contexto-de-violencia-de-genero/ _(bloqueado: contiene keyword 'asesin')_
