@@ -430,3 +430,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-03 18:38 UTC
 - Allanamientos en barrio Los Pájaros: secuestran armas, droga y hay detenidos — https://concordia24.com.ar/allanamientos-en-barrio-los-pajaros-secuestran-armas-droga-y-hay-detenidos/ _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-04-04 01:43 UTC
+- Por qué protesta la Policía de Santa Fe: salarios y salud mental, los ejes del conflicto — https://diarioelsol.com.ar/contenido/57957/por-que-protesta-la-policia-de-santa-fe-salarios-y-salud-mental-los-ejes-del-con _(bloqueado: contiene keyword 'policía')_
+- Qué reclamos hacen los policías en Entre Ríos — https://diarioelsol.com.ar/contenido/57956/que-reclamos-hacen-los-policias-en-entre-rios _(bloqueado: contiene keyword 'policía')_
+- En otro operativo de "saturación" la Policía detuvo a un hombre que descartó una media llena de drogas. — https://diarioelsol.com.ar/contenido/57961/en-otro-operativo-de-saturacion-la-policia-detuvo-a-un-hombre-que-descarto-una-m _(bloqueado: contiene keyword 'policía')_
