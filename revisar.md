@@ -444,3 +444,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-04 18:32 UTC
 - Intentó asesinar a su pareja en contexto de violencia de género — https://concordia24.com.ar/intento-asesinar-a-su-pareja-en-contexto-de-violencia-de-genero/ _(bloqueado: contiene keyword 'asesin')_
+
+
+## Tanda 2026-04-05 06:58 UTC
+- Mataron a una mujer en Gualeguay y buscan a un sospechoso que se dio a la fuga. — https://diarioelsol.com.ar/contenido/57991/mataron-a-una-mujer-en-gualeguay-y-buscan-a-un-sospechoso-que-se-dio-a-la-fuga _(bloqueado: contiene keyword 'policía')_
+- Extienden otros 90 días la prisión preventiva del uruguayo Laurta quien mató a Palacio en jurisdicción de Concordia — https://diarioelsol.com.ar/contenido/57989/extienden-otros-90-dias-la-prision-preventiva-del-uruguayo-laurta-quien-mato-a-p _(bloqueado: contiene keyword 'asesin')_
+- Confirmaron la identidad de la mujer asesinada en Gualeguay y detienen al sospechoso — https://diarioelsol.com.ar/contenido/57993/confirmaron-la-identidad-de-la-mujer-asesinada-en-gualeguay-y-detienen-al-sospec _(bloqueado: contiene keyword 'asesin')_
+- Pablo Laurta pidió perdón a la familia de Martín Palacio: “Lo siento muchísimo, de verdad” — https://diarioelsol.com.ar/contenido/57997/pablo-laurta-pidio-perdon-a-la-familia-de-martin-palacio-lo-siento-muchisimo-de- _(bloqueado: contiene keyword 'crimen')_
