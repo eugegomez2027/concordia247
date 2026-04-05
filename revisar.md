@@ -451,3 +451,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Extienden otros 90 días la prisión preventiva del uruguayo Laurta quien mató a Palacio en jurisdicción de Concordia — https://diarioelsol.com.ar/contenido/57989/extienden-otros-90-dias-la-prision-preventiva-del-uruguayo-laurta-quien-mato-a-p _(bloqueado: contiene keyword 'asesin')_
 - Confirmaron la identidad de la mujer asesinada en Gualeguay y detienen al sospechoso — https://diarioelsol.com.ar/contenido/57993/confirmaron-la-identidad-de-la-mujer-asesinada-en-gualeguay-y-detienen-al-sospec _(bloqueado: contiene keyword 'asesin')_
 - Pablo Laurta pidió perdón a la familia de Martín Palacio: “Lo siento muchísimo, de verdad” — https://diarioelsol.com.ar/contenido/57997/pablo-laurta-pidio-perdon-a-la-familia-de-martin-palacio-lo-siento-muchisimo-de- _(bloqueado: contiene keyword 'crimen')_
+
+
+## Tanda 2026-04-05 12:42 UTC
+- Internado bajo custodia quedó el detenido por el femicidio de Vanesa López en Gualeguay — https://diarioelsol.com.ar/contenido/58005/internado-bajo-custodia-quedo-el-detenido-por-el-femicidio-de-vanesa-lopez-en-gu _(bloqueado: contiene keyword 'detenido')_
