@@ -460,3 +460,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-04-06 12:57 UTC
 - "Hay mucho dinero falso circulando en Concordia", advirtió el Jefe de la Comisaría 7ma. David Ortiz. — https://diarioelsol.com.ar/contenido/58023/hay-mucho-dinero-falso-circulando-en-concordia-advirtio-el-jefe-de-la-comisaria- _(bloqueado: contiene keyword 'policía')_
 - Dolor en Gualeguay por el femicidio de Vanesa López — https://diarioelsol.com.ar/contenido/58022/por-el-femicidio-de-vanesa-lopez-en-gualeguay _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-04-06 18:49 UTC
+- Macabro hallazgo en el río Paraná: encontraron un cuerpo atado y con la cabeza cubierta — https://diarioelsol.com.ar/contenido/58035/macabro-hallazgo-en-el-rio-parana-encontraron-un-cuerpo-atado-y-con-la-cabeza-cu _(bloqueado: contiene keyword 'policía')_
