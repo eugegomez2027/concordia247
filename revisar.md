@@ -469,3 +469,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-04-07 01:53 UTC
 - El bloque de UxP denunció “censura” por la quita de la acreditación a periodistas en la Casa Rosada — https://concordia24.com.ar/el-bloque-de-uxp-denuncio-censura-por-la-quita-de-la-acreditacion-a-periodistas-en-la-casa-rosada/ _(bloqueado: contiene keyword 'denunció')_
 - La noche previa del crimen de Vanesa, llamaron a la Policía más de cincuenta veces, cuando vinieron la llevaron al hospital pero no detuvieron al agresor que a la mañana, la mató a mazazos. — https://diarioelsol.com.ar/contenido/58036/la-noche-previa-del-crimen-de-vanesa-llamaron-a-la-policia-mas-de-cincuenta-vece _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-04-07 07:07 UTC
+- Una mujer de 31 años presa por tenencia de arma de fuego y un hombre mayor detenido por infringir la prisión domiciliaria. — https://diarioelsol.com.ar/contenido/58044/una-mujer-de-31-anos-presa-por-tenencia-de-arma-de-fuego-y-un-hombre-mayor-deten _(bloqueado: contiene keyword 'detenido')_
+- Federación: operativo policial con secuestro de drogas, dinero y armas — https://diarioelsol.com.ar/contenido/58048/federacion-operativo-policial-con-secuestro-de-drogas-dinero-y-armas _(bloqueado: contiene keyword 'policía')_
+- Juicio por jurados: sin definición en el caso de los dos policías acusados de abuso sexual en el ferrocarril — https://diarioelsol.com.ar/contenido/58047/juicio-por-jurados-sin-definicion-en-el-caso-de-los-dos-policias-acusados-de-abu _(bloqueado: contiene keyword 'policía')_
+- En 24 horas secuestraron tres camionetas robadas en Buenos Aires que llevaban a Paraguay — https://diarioelsol.com.ar/contenido/58049/en-24-horas-secuestraron-tres-camionetas-robadas-en-buenos-aires-que-llevaban-a- _(bloqueado: contiene keyword 'policía')_
