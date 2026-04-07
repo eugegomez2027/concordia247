@@ -464,3 +464,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-06 18:49 UTC
 - Macabro hallazgo en el río Paraná: encontraron un cuerpo atado y con la cabeza cubierta — https://diarioelsol.com.ar/contenido/58035/macabro-hallazgo-en-el-rio-parana-encontraron-un-cuerpo-atado-y-con-la-cabeza-cu _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-04-07 01:53 UTC
+- El bloque de UxP denunció “censura” por la quita de la acreditación a periodistas en la Casa Rosada — https://concordia24.com.ar/el-bloque-de-uxp-denuncio-censura-por-la-quita-de-la-acreditacion-a-periodistas-en-la-casa-rosada/ _(bloqueado: contiene keyword 'denunció')_
+- La noche previa del crimen de Vanesa, llamaron a la Policía más de cincuenta veces, cuando vinieron la llevaron al hospital pero no detuvieron al agresor que a la mañana, la mató a mazazos. — https://diarioelsol.com.ar/contenido/58036/la-noche-previa-del-crimen-de-vanesa-llamaron-a-la-policia-mas-de-cincuenta-vece _(bloqueado: contiene keyword 'policía')_
