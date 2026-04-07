@@ -476,3 +476,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Federación: operativo policial con secuestro de drogas, dinero y armas — https://diarioelsol.com.ar/contenido/58048/federacion-operativo-policial-con-secuestro-de-drogas-dinero-y-armas _(bloqueado: contiene keyword 'policía')_
 - Juicio por jurados: sin definición en el caso de los dos policías acusados de abuso sexual en el ferrocarril — https://diarioelsol.com.ar/contenido/58047/juicio-por-jurados-sin-definicion-en-el-caso-de-los-dos-policias-acusados-de-abu _(bloqueado: contiene keyword 'policía')_
 - En 24 horas secuestraron tres camionetas robadas en Buenos Aires que llevaban a Paraguay — https://diarioelsol.com.ar/contenido/58049/en-24-horas-secuestraron-tres-camionetas-robadas-en-buenos-aires-que-llevaban-a- _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-04-07 18:55 UTC
+- Abuso sexual agravado Declaran culpables a policías de Paraná que abusaron a adolescentes de 13 y 15 años — https://diarioelsol.com.ar/contenido/58063/abuso-sexual-agravado-declaran-culpables-a-policias-de-parana-que-abusaron-a-ado _(bloqueado: URL contiene '/abuso')_
