@@ -492,3 +492,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-08 13:08 UTC
 - Incendió la casa de su pareja y la vivienda quedó destruida — https://diarioelsol.com.ar/contenido/58078/incendio-la-casa-de-su-pareja-y-la-vivienda-quedo-destruida _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-04-08 19:06 UTC
+- Choque fatal: murieron dos mujeres y un hombre que volvían del carnaval — https://diarioelsol.com.ar/contenido/58085/choque-fatal-murieron-dos-mujeres-y-un-hombre-que-volvian-del-carnaval _(bloqueado: contiene keyword 'niña')_
