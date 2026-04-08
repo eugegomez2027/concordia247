@@ -484,3 +484,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-08 01:53 UTC
 - Mujer policía perdió el control de su auto y provocó un choque en cadena — https://diarioelsol.com.ar/contenido/58064/mujer-policia-perdio-el-control-de-su-auto-y-provoco-un-choque-en-cadena _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-04-08 07:10 UTC
+- Tragedia en Ruta 2: un muerto y dos heridos por un choque frontal — https://diarioelsol.com.ar/contenido/58074/tragedia-en-ruta-2-un-muerto-y-dos-heridos-por-un-choque-frontal _(bloqueado: contiene keyword 'homicidio')_
