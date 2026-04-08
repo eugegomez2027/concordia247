@@ -480,3 +480,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-07 18:55 UTC
 - Abuso sexual agravado Declaran culpables a policías de Paraná que abusaron a adolescentes de 13 y 15 años — https://diarioelsol.com.ar/contenido/58063/abuso-sexual-agravado-declaran-culpables-a-policias-de-parana-que-abusaron-a-ado _(bloqueado: URL contiene '/abuso')_
+
+
+## Tanda 2026-04-08 01:53 UTC
+- Mujer policía perdió el control de su auto y provocó un choque en cadena — https://diarioelsol.com.ar/contenido/58064/mujer-policia-perdio-el-control-de-su-auto-y-provoco-un-choque-en-cadena _(bloqueado: contiene keyword 'policía')_
