@@ -496,3 +496,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-08 19:06 UTC
 - Choque fatal: murieron dos mujeres y un hombre que volvían del carnaval — https://diarioelsol.com.ar/contenido/58085/choque-fatal-murieron-dos-mujeres-y-un-hombre-que-volvian-del-carnaval _(bloqueado: contiene keyword 'niña')_
+
+
+## Tanda 2026-04-09 01:46 UTC
+- Reconocimiento internacional: autoridades de Salto felicitaron a la Policía de Concordia por la captura de un prófugo con alerta roja — https://concordia24.com.ar/el-juez-jefe-de-policia-y-autoridades-de-la-ciudad-de-salto-se-hicieron-presentes-en-la-jefatura-concordia-para-felicitar-al-personal-que-capturo-al-profugo-araujo-carlos/ _(bloqueado: contiene keyword 'policía')_
