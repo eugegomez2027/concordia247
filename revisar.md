@@ -500,3 +500,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-09 01:46 UTC
 - Reconocimiento internacional: autoridades de Salto felicitaron a la Policía de Concordia por la captura de un prófugo con alerta roja — https://concordia24.com.ar/el-juez-jefe-de-policia-y-autoridades-de-la-ciudad-de-salto-se-hicieron-presentes-en-la-jefatura-concordia-para-felicitar-al-personal-que-capturo-al-profugo-araujo-carlos/ _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-04-09 13:11 UTC
+- Horror en pleno carnaval: mataron de un tiro a un joven de 18 años y detuvieron a una madre y su hijo — https://diarioelsol.com.ar/contenido/58098/horror-en-pleno-carnaval-mataron-de-un-tiro-a-un-joven-de-18-anos-y-detuvieron-a _(bloqueado: contiene keyword 'crimen')_
