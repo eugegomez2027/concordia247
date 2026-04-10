@@ -504,3 +504,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-09 13:11 UTC
 - Horror en pleno carnaval: mataron de un tiro a un joven de 18 años y detuvieron a una madre y su hijo — https://diarioelsol.com.ar/contenido/58098/horror-en-pleno-carnaval-mataron-de-un-tiro-a-un-joven-de-18-anos-y-detuvieron-a _(bloqueado: contiene keyword 'crimen')_
+
+
+## Tanda 2026-04-10 01:58 UTC
+- Secuestro de casi 1 kilo de cocaína: Allanamientos en la zona sur dejaron tres detenidos — https://concordia24.com.ar/secuestro-de-casi-1-kilo-de-cocaina-allanamientos-en-la-zona-sur-dejaron-tres-detenidos/ _(bloqueado: contiene keyword 'detenido')_
+- El desgarrador pedido de la hermana de Brian, el joven asesinado en un corso en Mercedes: "Que se pudran en la cárcel" — https://diarioelsol.com.ar/contenido/58113/el-desgarrador-pedido-de-la-hermana-de-brian-el-joven-asesinado-en-un-corso-en-m _(bloqueado: contiene keyword 'crimen')_
+- El Papa recibió a la cúpula del Opus Dei mientras avanza en Argentina una causa por trata — https://diarioelsol.com.ar/contenido/58116/el-papa-recibio-a-la-cupula-del-opus-dei-mientras-avanza-en-argentina-una-causa- _(bloqueado: contiene keyword 'denuncia')_
