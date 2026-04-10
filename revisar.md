@@ -510,3 +510,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Secuestro de casi 1 kilo de cocaína: Allanamientos en la zona sur dejaron tres detenidos — https://concordia24.com.ar/secuestro-de-casi-1-kilo-de-cocaina-allanamientos-en-la-zona-sur-dejaron-tres-detenidos/ _(bloqueado: contiene keyword 'detenido')_
 - El desgarrador pedido de la hermana de Brian, el joven asesinado en un corso en Mercedes: "Que se pudran en la cárcel" — https://diarioelsol.com.ar/contenido/58113/el-desgarrador-pedido-de-la-hermana-de-brian-el-joven-asesinado-en-un-corso-en-m _(bloqueado: contiene keyword 'crimen')_
 - El Papa recibió a la cúpula del Opus Dei mientras avanza en Argentina una causa por trata — https://diarioelsol.com.ar/contenido/58116/el-papa-recibio-a-la-cupula-del-opus-dei-mientras-avanza-en-argentina-una-causa- _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-04-10 07:18 UTC
+- Un cantante folklórico criticó la visita de Victoria Villarruel en La Rioja: “Somos una provincia montonera y peronista” — https://diarioelsol.com.ar/contenido/58117/un-cantante-folklorico-critico-la-visita-de-victoria-villarruel-en-la-rioja-somo _(bloqueado: contiene keyword 'acusó')_
+- Una mujer denunció a su pareja, llamó la Policía y después que lo redujeron, les dijo donde guardaba drogas y un pedazo de revólver. — https://diarioelsol.com.ar/contenido/58121/una-mujer-denuncio-a-su-pareja-llamo-la-policia-y-despues-que-lo-redujeron-les-d _(bloqueado: contiene keyword 'policía')_
