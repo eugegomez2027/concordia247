@@ -515,3 +515,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-04-10 07:18 UTC
 - Un cantante folklórico criticó la visita de Victoria Villarruel en La Rioja: “Somos una provincia montonera y peronista” — https://diarioelsol.com.ar/contenido/58117/un-cantante-folklorico-critico-la-visita-de-victoria-villarruel-en-la-rioja-somo _(bloqueado: contiene keyword 'acusó')_
 - Una mujer denunció a su pareja, llamó la Policía y después que lo redujeron, les dijo donde guardaba drogas y un pedazo de revólver. — https://diarioelsol.com.ar/contenido/58121/una-mujer-denuncio-a-su-pareja-llamo-la-policia-y-despues-que-lo-redujeron-les-d _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-04-10 12:56 UTC
+- Tras allanamientos en barrio Sarmiento, secuestraron un arma y cocaína: un detenido — https://diarioelsol.com.ar/contenido/58122/tras-allanamientos-en-barrio-sarmiento-secuestraron-un-arma-y-cocaina-un-detenid _(bloqueado: contiene keyword 'detenido')_
