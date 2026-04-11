@@ -532,3 +532,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-04-11 12:42 UTC
 - Tragedia en Aldea San Antonio: La identidad del hombre que murió tras caer con su vehículo a un arroyo — https://diarioelsol.com.ar/contenido/58147/tragedia-en-aldea-san-antonio-la-identidad-del-hombre-que-murio-tras-caer-con-su _(bloqueado: contiene keyword 'policía')_
 - Cómo sigue el operativo de búsqueda para encontrar a Chiara — https://diarioelsol.com.ar/contenido/58146/como-sigue-el-operativo-de-busqueda-para-encontrar-a-chiara _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-04-11 18:35 UTC
+- Una pareja fue detenida tras haber sido denunciados de alquilar un departamento "fantasma" en Punta del Este. — https://diarioelsol.com.ar/contenido/58154/una-pareja-fue-detenida-tras-haber-sido-denunciados-de-alquilar-un-departamento- _(bloqueado: contiene keyword 'policía')_
+- Lo detuvieron por amenazar a su vecina quien lo había denunciado por conexión ilegal de energía. — https://diarioelsol.com.ar/contenido/58158/lo-detuvieron-por-amenazar-a-su-vecina-quien-lo-habia-denunciado-por-conexion-il _(bloqueado: contiene keyword 'denuncia')_
+- Denunció que desconocidos entraron a la casa del padre y robaron elementos y se comprobó que los había retirado el mismo. — https://diarioelsol.com.ar/contenido/58157/denuncio-que-desconocidos-entraron-a-la-casa-del-padre-y-robaron-elementos-y-se- _(bloqueado: URL contiene '/denunc')_
