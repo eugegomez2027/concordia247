@@ -527,3 +527,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-11 06:54 UTC
 - Un supuesto ladrón encontrado dentro de una casa fue baleado por el dueño con cuatro tiros, está grave. — https://diarioelsol.com.ar/contenido/58143/un-supuesto-ladron-encontrado-dentro-de-una-casa-fue-baleado-por-el-dueno-con-cu _(bloqueado: contiene keyword 'presunto')_
+
+
+## Tanda 2026-04-11 12:42 UTC
+- Tragedia en Aldea San Antonio: La identidad del hombre que murió tras caer con su vehículo a un arroyo — https://diarioelsol.com.ar/contenido/58147/tragedia-en-aldea-san-antonio-la-identidad-del-hombre-que-murio-tras-caer-con-su _(bloqueado: contiene keyword 'policía')_
+- Cómo sigue el operativo de búsqueda para encontrar a Chiara — https://diarioelsol.com.ar/contenido/58146/como-sigue-el-operativo-de-busqueda-para-encontrar-a-chiara _(bloqueado: contiene keyword 'policía')_
