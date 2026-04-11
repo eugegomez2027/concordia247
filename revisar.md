@@ -519,3 +519,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-10 12:56 UTC
 - Tras allanamientos en barrio Sarmiento, secuestraron un arma y cocaína: un detenido — https://diarioelsol.com.ar/contenido/58122/tras-allanamientos-en-barrio-sarmiento-secuestraron-un-arma-y-cocaina-un-detenid _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-04-11 01:48 UTC
+- Pablo Laurta sumó una nueva imputación por abuso sexual infantil tras las pericias a su celular — https://diarioelsol.com.ar/contenido/58133/pablo-laurta-sumo-una-nueva-imputacion-por-abuso-sexual-infantil-tras-las-perici _(bloqueado: contiene keyword 'homicidio')_
