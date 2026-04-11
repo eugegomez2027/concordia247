@@ -523,3 +523,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-11 01:48 UTC
 - Pablo Laurta sumó una nueva imputación por abuso sexual infantil tras las pericias a su celular — https://diarioelsol.com.ar/contenido/58133/pablo-laurta-sumo-una-nueva-imputacion-por-abuso-sexual-infantil-tras-las-perici _(bloqueado: contiene keyword 'homicidio')_
+
+
+## Tanda 2026-04-11 06:54 UTC
+- Un supuesto ladrón encontrado dentro de una casa fue baleado por el dueño con cuatro tiros, está grave. — https://diarioelsol.com.ar/contenido/58143/un-supuesto-ladron-encontrado-dentro-de-una-casa-fue-baleado-por-el-dueno-con-cu _(bloqueado: contiene keyword 'presunto')_
