@@ -550,3 +550,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - La trastienda de la denuncia del "Tavi" Celis a Leonardo Airaldi por el presunto plan para matar funcionarios — https://diarioelsol.com.ar/contenido/58173/la-trastienda-de-la-denuncia-del-tavi-celis-a-leonardo-airaldi-por-el-presunto-p _(bloqueado: contiene keyword 'denuncia')_
 - Pidió prestado y no podía devolver las cifras que le pedía el prestamista, lo denunció y la Policía se llevó todo el dinero del "banquito" privado. — https://diarioelsol.com.ar/contenido/58171/pidio-prestado-y-no-podia-devolver-las-cifras-que-le-pedia-el-prestamista-lo-den _(bloqueado: contiene keyword 'policía')_
 - Tiroteo en la residencia de Donald Trump: murió un intruso armado — https://diarioelsol.com.ar/contenido/58178/tiroteo-en-la-residencia-de-donald-trump-murio-un-intruso-armado _(bloqueado: contiene keyword 'tiroteo')_
+
+
+## Tanda 2026-04-12 12:48 UTC
+- Operativo de Saturación en Barrio Constitución: un hombre detenido con 50 envoltorios de estupefaciente — https://diarioelsol.com.ar/contenido/58181/operativo-de-saturacion-en-barrio-constitucion-un-hombre-detenido-con-50-envolto _(bloqueado: contiene keyword 'detenido')_
+- Asesinan al "Mencho" líder del cartel Jalisco Nueva Generación y se generó un pandemonium — https://diarioelsol.com.ar/contenido/58180/asesinan-al-mencho-lider-del-cartel-jalisco-nueva-generacion-y-se-genero-un-pand _(bloqueado: contiene keyword 'asesin')_
+- Dos policías de Delitos Rurales resultaron heridos por disparos en una estancia de Santa Elena — https://diarioelsol.com.ar/contenido/58184/dos-policias-de-delitos-rurales-resultaron-heridos-por-disparos-en-una-estancia- _(bloqueado: contiene keyword 'policía')_
