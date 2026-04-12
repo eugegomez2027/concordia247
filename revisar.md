@@ -543,3 +543,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-04-12 02:00 UTC
 - Operativo contra la caza furtiva en Federal: En allanamientos secuestraron armas y carne — https://concordia24.com.ar/operativo-contra-la-caza-furtiva-en-federal-en-allanamientos-secuestraron-armas-y-carne/ _(bloqueado: contiene keyword 'allanamiento')_
 - Hallaron el cuerpo de Kiara Barrios, la niña desaparecida tras el temporal en Paraná — https://diarioelsol.com.ar/contenido/58163/hallaron-el-cuerpo-de-kiara-barrios-la-nina-desaparecida-tras-el-temporal-en-par _(bloqueado: contiene keyword 'niña')_
+
+
+## Tanda 2026-04-12 07:06 UTC
+- Un preso frustró el supuesto plan de Leonardo Airaldi para matar a un juez y un fiscal — https://diarioelsol.com.ar/contenido/58168/un-preso-frustro-el-supuesto-plan-de-leonardo-airaldi-para-matar-a-un-juez-y-un- _(bloqueado: contiene keyword 'presunto')_
+- La trastienda de la denuncia del "Tavi" Celis a Leonardo Airaldi por el presunto plan para matar funcionarios — https://diarioelsol.com.ar/contenido/58173/la-trastienda-de-la-denuncia-del-tavi-celis-a-leonardo-airaldi-por-el-presunto-p _(bloqueado: contiene keyword 'denuncia')_
+- Pidió prestado y no podía devolver las cifras que le pedía el prestamista, lo denunció y la Policía se llevó todo el dinero del "banquito" privado. — https://diarioelsol.com.ar/contenido/58171/pidio-prestado-y-no-podia-devolver-las-cifras-que-le-pedia-el-prestamista-lo-den _(bloqueado: contiene keyword 'policía')_
+- Tiroteo en la residencia de Donald Trump: murió un intruso armado — https://diarioelsol.com.ar/contenido/58178/tiroteo-en-la-residencia-de-donald-trump-murio-un-intruso-armado _(bloqueado: contiene keyword 'tiroteo')_
