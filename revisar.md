@@ -538,3 +538,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Una pareja fue detenida tras haber sido denunciados de alquilar un departamento "fantasma" en Punta del Este. — https://diarioelsol.com.ar/contenido/58154/una-pareja-fue-detenida-tras-haber-sido-denunciados-de-alquilar-un-departamento- _(bloqueado: contiene keyword 'policía')_
 - Lo detuvieron por amenazar a su vecina quien lo había denunciado por conexión ilegal de energía. — https://diarioelsol.com.ar/contenido/58158/lo-detuvieron-por-amenazar-a-su-vecina-quien-lo-habia-denunciado-por-conexion-il _(bloqueado: contiene keyword 'denuncia')_
 - Denunció que desconocidos entraron a la casa del padre y robaron elementos y se comprobó que los había retirado el mismo. — https://diarioelsol.com.ar/contenido/58157/denuncio-que-desconocidos-entraron-a-la-casa-del-padre-y-robaron-elementos-y-se- _(bloqueado: URL contiene '/denunc')_
+
+
+## Tanda 2026-04-12 02:00 UTC
+- Operativo contra la caza furtiva en Federal: En allanamientos secuestraron armas y carne — https://concordia24.com.ar/operativo-contra-la-caza-furtiva-en-federal-en-allanamientos-secuestraron-armas-y-carne/ _(bloqueado: contiene keyword 'allanamiento')_
+- Hallaron el cuerpo de Kiara Barrios, la niña desaparecida tras el temporal en Paraná — https://diarioelsol.com.ar/contenido/58163/hallaron-el-cuerpo-de-kiara-barrios-la-nina-desaparecida-tras-el-temporal-en-par _(bloqueado: contiene keyword 'niña')_
