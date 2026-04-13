@@ -560,3 +560,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-13 07:53 UTC
 - El "Mencho" cayó por una mujer convocada a la cabaña en que la esperaba, junto a ella, vino la Policía, el Ejército y la Fuerza Aérea. — https://diarioelsol.com.ar/contenido/58199/el-mencho-cayo-por-una-mujer-convocada-a-la-cabana-en-que-la-esperaba-junto-a-el _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-04-13 13:11 UTC
+- Bomba en el fútbol argentino: la Liga Profesional suspendió la fecha 9 en respaldo a la AFA — https://diarioelsol.com.ar/contenido/58206/bomba-en-el-futbol-argentino-la-liga-profesional-suspendio-la-fecha-9-en-respald _(bloqueado: contiene keyword 'denuncia')_
