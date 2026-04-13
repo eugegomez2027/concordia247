@@ -556,3 +556,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Operativo de Saturación en Barrio Constitución: un hombre detenido con 50 envoltorios de estupefaciente — https://diarioelsol.com.ar/contenido/58181/operativo-de-saturacion-en-barrio-constitucion-un-hombre-detenido-con-50-envolto _(bloqueado: contiene keyword 'detenido')_
 - Asesinan al "Mencho" líder del cartel Jalisco Nueva Generación y se generó un pandemonium — https://diarioelsol.com.ar/contenido/58180/asesinan-al-mencho-lider-del-cartel-jalisco-nueva-generacion-y-se-genero-un-pand _(bloqueado: contiene keyword 'asesin')_
 - Dos policías de Delitos Rurales resultaron heridos por disparos en una estancia de Santa Elena — https://diarioelsol.com.ar/contenido/58184/dos-policias-de-delitos-rurales-resultaron-heridos-por-disparos-en-una-estancia- _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-04-13 07:53 UTC
+- El "Mencho" cayó por una mujer convocada a la cabaña en que la esperaba, junto a ella, vino la Policía, el Ejército y la Fuerza Aérea. — https://diarioelsol.com.ar/contenido/58199/el-mencho-cayo-por-una-mujer-convocada-a-la-cabana-en-que-la-esperaba-junto-a-el _(bloqueado: contiene keyword 'policía')_
