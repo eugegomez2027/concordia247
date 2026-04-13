@@ -564,3 +564,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-13 13:11 UTC
 - Bomba en el fútbol argentino: la Liga Profesional suspendió la fecha 9 en respaldo a la AFA — https://diarioelsol.com.ar/contenido/58206/bomba-en-el-futbol-argentino-la-liga-profesional-suspendio-la-fecha-9-en-respald _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-04-13 19:06 UTC
+- Operativo contra "El Mencho" deja 62 muertes; las autoridades reportan 70 detenidos y 85 bloqueos en el país — https://diarioelsol.com.ar/contenido/58211/operativo-contra-el-mencho-deja-62-muertes-las-autoridades-reportan-70-detenidos _(bloqueado: contiene keyword 'detenido')_
