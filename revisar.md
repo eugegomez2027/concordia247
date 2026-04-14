@@ -568,3 +568,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-13 19:06 UTC
 - Operativo contra "El Mencho" deja 62 muertes; las autoridades reportan 70 detenidos y 85 bloqueos en el país — https://diarioelsol.com.ar/contenido/58211/operativo-contra-el-mencho-deja-62-muertes-las-autoridades-reportan-70-detenidos _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-04-14 01:59 UTC
+- Concordia más "blindada" que Juanajato: Operativo Interfuerzas en los ingresos arroja 7 motos secuestradas. — https://diarioelsol.com.ar/contenido/58220/concordia-mas-blindada-que-juanajato-operativo-interfuerzas-en-los-ingresos-arro _(bloqueado: contiene keyword 'policía')_
