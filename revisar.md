@@ -572,3 +572,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-14 01:59 UTC
 - Concordia más "blindada" que Juanajato: Operativo Interfuerzas en los ingresos arroja 7 motos secuestradas. — https://diarioelsol.com.ar/contenido/58220/concordia-mas-blindada-que-juanajato-operativo-interfuerzas-en-los-ingresos-arro _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-04-14 13:13 UTC
+- Condena firme: el STJ de Corrientes ratificó la sentencia por la muerte de un niño tras fumigaciones con agrotóxicos — https://diarioelsol.com.ar/contenido/58229/condena-firme-el-stj-de-corrientes-ratifico-la-sentencia-por-la-muerte-de-un-nin _(bloqueado: contiene keyword 'homicidio')_
+- El Gobierno Nacional lanzó una web para denunciar tasas municipales confiscatorias — https://diarioelsol.com.ar/contenido/58233/el-gobierno-nacional-lanzo-una-web-para-denunciar-tasas-municipales-confiscatori _(bloqueado: contiene keyword 'denuncia')_
