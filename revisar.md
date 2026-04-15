@@ -582,3 +582,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-04-15 01:56 UTC
 - Quién es María Julissa, la influencer acusada de entregar a "El Mencho" en México — https://diarioelsol.com.ar/contenido/58235/quien-es-maria-julissa-la-influencer-acusada-de-entregar-a-el-mencho-en-mexico _(bloqueado: contiene keyword 'policía')_
 - Retención de servicio en el CGE por reclamo de recorte en pagos de horas extras — https://diarioelsol.com.ar/contenido/58241/retencion-de-servicio-en-el-cge-por-reclamo-de-recorte-en-pagos-de-horas-extras _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-04-15 19:06 UTC
+- Tres detenidos tras encontrar casi 50 envoltorios de cocaína — https://diarioelsol.com.ar/contenido/58260/tres-detenidos-tras-encontrar-casi-50-envoltorios-de-cocaina _(bloqueado: contiene keyword 'detenido')_
+- Un hombre reconoció que fotografiaba y abusaba de adolescente a cambio de darles droga — https://diarioelsol.com.ar/contenido/58259/un-hombre-reconocio-que-fotografiaba-y-abusaba-de-adolescente-a-cambio-de-darles _(bloqueado: contiene keyword 'adolescente')_
