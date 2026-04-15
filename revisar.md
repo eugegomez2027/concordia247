@@ -577,3 +577,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-04-14 13:13 UTC
 - Condena firme: el STJ de Corrientes ratificó la sentencia por la muerte de un niño tras fumigaciones con agrotóxicos — https://diarioelsol.com.ar/contenido/58229/condena-firme-el-stj-de-corrientes-ratifico-la-sentencia-por-la-muerte-de-un-nin _(bloqueado: contiene keyword 'homicidio')_
 - El Gobierno Nacional lanzó una web para denunciar tasas municipales confiscatorias — https://diarioelsol.com.ar/contenido/58233/el-gobierno-nacional-lanzo-una-web-para-denunciar-tasas-municipales-confiscatori _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-04-15 01:56 UTC
+- Quién es María Julissa, la influencer acusada de entregar a "El Mencho" en México — https://diarioelsol.com.ar/contenido/58235/quien-es-maria-julissa-la-influencer-acusada-de-entregar-a-el-mencho-en-mexico _(bloqueado: contiene keyword 'policía')_
+- Retención de servicio en el CGE por reclamo de recorte en pagos de horas extras — https://diarioelsol.com.ar/contenido/58241/retencion-de-servicio-en-el-cge-por-reclamo-de-recorte-en-pagos-de-horas-extras _(bloqueado: contiene keyword 'denuncia')_
