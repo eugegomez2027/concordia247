@@ -591,3 +591,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-16 02:05 UTC
 - Ahora cayó el padre de dos de los líderes de “La Banda del Millón” por un robo en una casa de Martínez — https://diarioelsol.com.ar/contenido/58261/ahora-cayo-el-padre-de-dos-de-los-lideres-de-la-banda-del-millon-por-un-robo-en- _(bloqueado: contiene keyword 'crimen')_
+
+
+## Tanda 2026-04-16 13:18 UTC
+- El Senado aprobó el Régimen Penal Juvenil y la edad de imputabilidad bajará a 14 años — https://diarioelsol.com.ar/contenido/58273/el-senado-debate-hoy-la-reforma-laboral-y-la-baja-de-imputabilidad-en-una-sesion _(bloqueado: contiene keyword 'adolescente')_
