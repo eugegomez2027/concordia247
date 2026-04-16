@@ -587,3 +587,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-04-15 19:06 UTC
 - Tres detenidos tras encontrar casi 50 envoltorios de cocaína — https://diarioelsol.com.ar/contenido/58260/tres-detenidos-tras-encontrar-casi-50-envoltorios-de-cocaina _(bloqueado: contiene keyword 'detenido')_
 - Un hombre reconoció que fotografiaba y abusaba de adolescente a cambio de darles droga — https://diarioelsol.com.ar/contenido/58259/un-hombre-reconocio-que-fotografiaba-y-abusaba-de-adolescente-a-cambio-de-darles _(bloqueado: contiene keyword 'adolescente')_
+
+
+## Tanda 2026-04-16 02:05 UTC
+- Ahora cayó el padre de dos de los líderes de “La Banda del Millón” por un robo en una casa de Martínez — https://diarioelsol.com.ar/contenido/58261/ahora-cayo-el-padre-de-dos-de-los-lideres-de-la-banda-del-millon-por-un-robo-en- _(bloqueado: contiene keyword 'crimen')_
