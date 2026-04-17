@@ -605,3 +605,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - CUATRO HOMBRES Y UNAMUJER DETENIDOS POR REGENTEAR UN KIOSCO DONDE VENDIAN COCA COMO SI FUERAN CARAMELOS — https://diarioelsol.com.ar/contenido/58299/cuatro-hombres-y-unamujer-detenidos-por-regentear-un-kiosco-donde-vendian-coca-c _(bloqueado: contiene keyword 'detenido')_
 - Estados Unidos e Israel asesinaron al líder iraní Ali Khamenei, tras el bombardeo de su residencia en Teherán — https://diarioelsol.com.ar/contenido/58298/estados-unidos-e-israel-asesinaron-al-lider-irani-ali-khamenei-tras-el-bombardeo _(bloqueado: contiene keyword 'asesin')_
 - Detienen a un ciudadano sospechado de tener cocaína en un envoltorio que arrojó al percatarse de la presencia policial. — https://diarioelsol.com.ar/contenido/58297/detienen-a-un-ciudadano-sospechado-de-tener-cocaina-en-un-envoltorio-que-arrojo- _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-04-17 18:51 UTC
+- El FEF advirtió que el allanamiento a Bordet «responde a un claro propósito de desgaste político» — https://concordia24.com.ar/el-fef-advirtio-que-el-allanamiento-a-bordet-responde-a-un-claro-proposito-de-desgaste-politico/ _(bloqueado: contiene keyword 'allanamiento')_
