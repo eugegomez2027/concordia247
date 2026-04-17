@@ -595,3 +595,13 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-16 13:18 UTC
 - El Senado aprobó el Régimen Penal Juvenil y la edad de imputabilidad bajará a 14 años — https://diarioelsol.com.ar/contenido/58273/el-senado-debate-hoy-la-reforma-laboral-y-la-baja-de-imputabilidad-en-una-sesion _(bloqueado: contiene keyword 'adolescente')_
+
+
+## Tanda 2026-04-17 07:23 UTC
+- Condenaron a 12 y 10 años de prisión a dos policías en Paraná por abuso sexual con acceso carnal — https://diarioelsol.com.ar/contenido/58292/condenaron-a-12-y-10-anos-de-prision-a-dos-policias-en-parana-por-abuso-sexual-c _(bloqueado: contiene keyword 'policía')_
+- Hércules C-130 que se accidentó en El Alto, Bolivia, trasladaba billetes para el Banco Central Boliviano, fueron incinerados por la Policía ante el saqueo. — https://diarioelsol.com.ar/contenido/58291/hercules-c-130-que-se-accidento-en-el-alto-bolivia-trasladaba-billetes-para-el-b _(bloqueado: contiene keyword 'policía')_
+- La Policía volvió a secuestrar dinero apócrifo en un allanamiento, pero detienen a dos personas por narcomenudeo. — https://diarioelsol.com.ar/contenido/58294/la-policia-volvio-a-secuestrar-dinero-apocrifo-en-un-allanamiento-pero-detienen- _(bloqueado: contiene keyword 'policía')_
+- Caso Loan Peña: el Tribunal reconsidera la fecha y el juicio será antes de octubre — https://diarioelsol.com.ar/contenido/58293/caso-loan-pena-el-tribunal-reconsidera-la-fecha-y-el-juicio-sera-antes-de-octubr _(bloqueado: contiene keyword 'menor')_
+- CUATRO HOMBRES Y UNAMUJER DETENIDOS POR REGENTEAR UN KIOSCO DONDE VENDIAN COCA COMO SI FUERAN CARAMELOS — https://diarioelsol.com.ar/contenido/58299/cuatro-hombres-y-unamujer-detenidos-por-regentear-un-kiosco-donde-vendian-coca-c _(bloqueado: contiene keyword 'detenido')_
+- Estados Unidos e Israel asesinaron al líder iraní Ali Khamenei, tras el bombardeo de su residencia en Teherán — https://diarioelsol.com.ar/contenido/58298/estados-unidos-e-israel-asesinaron-al-lider-irani-ali-khamenei-tras-el-bombardeo _(bloqueado: contiene keyword 'asesin')_
+- Detienen a un ciudadano sospechado de tener cocaína en un envoltorio que arrojó al percatarse de la presencia policial. — https://diarioelsol.com.ar/contenido/58297/detienen-a-un-ciudadano-sospechado-de-tener-cocaina-en-un-envoltorio-que-arrojo- _(bloqueado: contiene keyword 'policial')_
