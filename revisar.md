@@ -609,3 +609,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-17 18:51 UTC
 - El FEF advirtió que el allanamiento a Bordet «responde a un claro propósito de desgaste político» — https://concordia24.com.ar/el-fef-advirtio-que-el-allanamiento-a-bordet-responde-a-un-claro-proposito-de-desgaste-politico/ _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-04-18 06:59 UTC
+- Allanaron una vivienda tras una foto en Instagram y secuestraron un arma: un joven fue detenido — https://concordia24.com.ar/allanaron-una-vivienda-tras-una-foto-en-instagram-y-secuestraron-un-arma-un-joven-fue-detenido/ _(bloqueado: contiene keyword 'detenido')_
+- El gendarme argentino Nahuel Gallo fue liberado tras 448 días detenido en Venezuela — https://diarioelsol.com.ar/contenido/58322/el-gendarme-argentino-nahuel-gallo-fue-liberado-tras-448-dias-detenido-en-venezu _(bloqueado: contiene keyword 'detenido')_
+- Detuvieron a un hombre por apuñalar a su ex pareja en Concordia — https://diarioelsol.com.ar/contenido/58327/detuvieron-a-un-hombre-por-apunalar-a-su-ex-pareja-en-concordia _(bloqueado: contiene keyword 'detenido')_
