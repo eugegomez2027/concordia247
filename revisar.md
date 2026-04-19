@@ -615,3 +615,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Allanaron una vivienda tras una foto en Instagram y secuestraron un arma: un joven fue detenido — https://concordia24.com.ar/allanaron-una-vivienda-tras-una-foto-en-instagram-y-secuestraron-un-arma-un-joven-fue-detenido/ _(bloqueado: contiene keyword 'detenido')_
 - El gendarme argentino Nahuel Gallo fue liberado tras 448 días detenido en Venezuela — https://diarioelsol.com.ar/contenido/58322/el-gendarme-argentino-nahuel-gallo-fue-liberado-tras-448-dias-detenido-en-venezu _(bloqueado: contiene keyword 'detenido')_
 - Detuvieron a un hombre por apuñalar a su ex pareja en Concordia — https://diarioelsol.com.ar/contenido/58327/detuvieron-a-un-hombre-por-apunalar-a-su-ex-pareja-en-concordia _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-04-19 02:05 UTC
+- Adolescente resultó con lesiones graves tras chocar en una esquina con su moto a una camioneta. — https://diarioelsol.com.ar/contenido/58343/adolescente-resulto-con-lesiones-graves-tras-chocar-en-una-esquina-con-su-moto-a _(bloqueado: contiene keyword 'adolescente')_
