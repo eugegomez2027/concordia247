@@ -619,3 +619,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-19 02:05 UTC
 - Adolescente resultó con lesiones graves tras chocar en una esquina con su moto a una camioneta. — https://diarioelsol.com.ar/contenido/58343/adolescente-resulto-con-lesiones-graves-tras-chocar-en-una-esquina-con-su-moto-a _(bloqueado: contiene keyword 'adolescente')_
+
+
+## Tanda 2026-04-19 07:10 UTC
+- Identificaron a la mujer asesinada en un femicidio seguido de suicidio en barrio Los Pájaros — https://diarioelsol.com.ar/contenido/58344/identificaron-a-la-mujer-asesinada-en-un-femicidio-seguido-de-suicidio-en-barrio _(bloqueado: contiene keyword 'policía')_
