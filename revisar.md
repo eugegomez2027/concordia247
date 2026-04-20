@@ -633,3 +633,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-20 13:17 UTC
 - Camioneta retenida por maniobras peligrosas: conductor dio 2,28 de alcohol en sangre — https://concordia24.com.ar/camioneta-retenida-por-maniobras-peligrosas-conductor-dio-228-de-alcohol-en-sangre/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-04-20 18:58 UTC
+- Conmoción en una escuela: un alumno de 17 años se disparó en el pecho frente a sus compañeros — https://diarioelsol.com.ar/contenido/58370/conmocion-en-una-escuela-un-alumno-de-17-anos-se-disparo-en-el-pecho-frente-a-su _(bloqueado: contiene keyword 'adolescente')_
