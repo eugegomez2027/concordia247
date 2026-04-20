@@ -629,3 +629,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Tres allanamientos en Concordia: un detenido, secuestran más de un kilo de cocaína y una pistola robada a un comisario — https://concordia24.com.ar/tres-allanamientos-en-concordia-un-detenido-secuestran-mas-de-un-kilo-de-cocaina-y-una-pistola-robada-a-un-comisario/ _(bloqueado: contiene keyword 'detenido')_
 - Nueve detenidos en allanamientos por narcomenudeo en el barrio 17 de Octubre — https://concordia24.com.ar/nueve-detenidos-en-allanamientos-por-narcomenudeo-en-el-barrio-17-de-octubre/ _(bloqueado: contiene keyword 'detenido')_
 - San Salvador: localizaron a una adolescente de 15 años tras activar un operativo de búsqueda — https://concordia24.com.ar/san-salvador-localizaron-a-una-adolescente-de-15-anos-tras-activar-un-operativo-de-busqueda/ _(bloqueado: contiene keyword 'adolescente')_
+
+
+## Tanda 2026-04-20 13:17 UTC
+- Camioneta retenida por maniobras peligrosas: conductor dio 2,28 de alcohol en sangre — https://concordia24.com.ar/camioneta-retenida-por-maniobras-peligrosas-conductor-dio-228-de-alcohol-en-sangre/ _(bloqueado: contiene keyword 'policial')_
