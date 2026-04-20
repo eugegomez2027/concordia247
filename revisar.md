@@ -623,3 +623,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-19 07:10 UTC
 - Identificaron a la mujer asesinada en un femicidio seguido de suicidio en barrio Los Pájaros — https://diarioelsol.com.ar/contenido/58344/identificaron-a-la-mujer-asesinada-en-un-femicidio-seguido-de-suicidio-en-barrio _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-04-20 07:57 UTC
+- Tres allanamientos en Concordia: un detenido, secuestran más de un kilo de cocaína y una pistola robada a un comisario — https://concordia24.com.ar/tres-allanamientos-en-concordia-un-detenido-secuestran-mas-de-un-kilo-de-cocaina-y-una-pistola-robada-a-un-comisario/ _(bloqueado: contiene keyword 'detenido')_
+- Nueve detenidos en allanamientos por narcomenudeo en el barrio 17 de Octubre — https://concordia24.com.ar/nueve-detenidos-en-allanamientos-por-narcomenudeo-en-el-barrio-17-de-octubre/ _(bloqueado: contiene keyword 'detenido')_
+- San Salvador: localizaron a una adolescente de 15 años tras activar un operativo de búsqueda — https://concordia24.com.ar/san-salvador-localizaron-a-una-adolescente-de-15-anos-tras-activar-un-operativo-de-busqueda/ _(bloqueado: contiene keyword 'adolescente')_
