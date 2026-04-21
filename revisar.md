@@ -644,3 +644,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Cuatro detenidos tras allanamientos con secuestro de cocaína y marihuana en barrio Fátima 2 — https://concordia24.com.ar/cuatro-detenidos-tras-allanamientos-con-secuestro-de-cocaina-y-marihuana-en-barrio-fatima-2/ _(bloqueado: contiene keyword 'detenido')_
 - Denunció a dos hombres por violación, pero era falso y terminó condenada a tres años de prisión — https://diarioelsol.com.ar/contenido/58381/denuncio-a-dos-hombres-por-violacion-pero-era-falso-y-termino-condenada-a-tres-a _(bloqueado: URL contiene '/denunc')_
 - Otro hecho trágico en Concordia: Mataron de una pedrada en la cabeza a un hombre. — https://diarioelsol.com.ar/contenido/58379/otro-hecho-tragico-en-concordia-mataron-de-una-pedrada-en-la-cabeza-a-un-hombre _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-04-21 13:10 UTC
+- Allanaron viviendas de empleados de una concesionaria de autos por un hurto millonario — https://diarioelsol.com.ar/contenido/58384/allanaron-viviendas-de-empleados-de-una-concesionaria-de-autos-por-un-hurto-mill _(bloqueado: contiene keyword 'robo')_
+- Federación: una joven denunció que manipulan sus fotos para difundir falsos desnudos en redes — https://diarioelsol.com.ar/contenido/58394/federacion-una-joven-denuncio-que-manipulan-sus-fotos-para-difundir-falsos-desnu _(bloqueado: contiene keyword 'denunció')_
+- Deshidratado y casi inconsciente, hallaron a jubilado que estaba desaparecido en Chajarí — https://diarioelsol.com.ar/contenido/58393/deshidratado-y-casi-inconsciente-hallaron-a-jubilado-que-estaba-desaparecido-en- _(bloqueado: contiene keyword 'policía')_
