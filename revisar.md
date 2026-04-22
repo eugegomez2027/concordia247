@@ -655,3 +655,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-04-22 07:24 UTC
 - Encontraron una persona fallecida en el Parque San Carlos hace minutos. — https://diarioelsol.com.ar/contenido/58401/encontraron-una-persona-fallecida-en-el-parque-san-carlos-hace-minutos _(bloqueado: contiene keyword 'policial')_
 - Quiso cambiar un teléfono que había encontrado por plata y lo llevaron preso. — https://diarioelsol.com.ar/contenido/58398/quiso-cambiar-un-telefono-que-habia-encontrado-por-plata-y-lo-llevaron-preso _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-04-22 13:14 UTC
+- Allanamientos positivos en Villa Busti: un detenido, cocaína secuestrada y recuperación de elementos robados — https://diarioelsol.com.ar/contenido/58408/allanamientos-positivos-en-villa-busti-un-detenido-cocaina-secuestrada-y-recuper _(bloqueado: contiene keyword 'detenido')_
