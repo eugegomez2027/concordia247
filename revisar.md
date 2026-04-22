@@ -650,3 +650,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Allanaron viviendas de empleados de una concesionaria de autos por un hurto millonario — https://diarioelsol.com.ar/contenido/58384/allanaron-viviendas-de-empleados-de-una-concesionaria-de-autos-por-un-hurto-mill _(bloqueado: contiene keyword 'robo')_
 - Federación: una joven denunció que manipulan sus fotos para difundir falsos desnudos en redes — https://diarioelsol.com.ar/contenido/58394/federacion-una-joven-denuncio-que-manipulan-sus-fotos-para-difundir-falsos-desnu _(bloqueado: contiene keyword 'denunció')_
 - Deshidratado y casi inconsciente, hallaron a jubilado que estaba desaparecido en Chajarí — https://diarioelsol.com.ar/contenido/58393/deshidratado-y-casi-inconsciente-hallaron-a-jubilado-que-estaba-desaparecido-en- _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-04-22 07:24 UTC
+- Encontraron una persona fallecida en el Parque San Carlos hace minutos. — https://diarioelsol.com.ar/contenido/58401/encontraron-una-persona-fallecida-en-el-parque-san-carlos-hace-minutos _(bloqueado: contiene keyword 'policial')_
+- Quiso cambiar un teléfono que había encontrado por plata y lo llevaron preso. — https://diarioelsol.com.ar/contenido/58398/quiso-cambiar-un-telefono-que-habia-encontrado-por-plata-y-lo-llevaron-preso _(bloqueado: contiene keyword 'policía')_
