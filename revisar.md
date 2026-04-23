@@ -659,3 +659,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-22 13:14 UTC
 - Allanamientos positivos en Villa Busti: un detenido, cocaína secuestrada y recuperación de elementos robados — https://diarioelsol.com.ar/contenido/58408/allanamientos-positivos-en-villa-busti-un-detenido-cocaina-secuestrada-y-recuper _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-04-23 02:03 UTC
+- Con amplia participación, se realizó la audiencia pública por la temporada de caza menor 2026 — https://concordia24.com.ar/con-amplia-participacion-se-realizo-la-audiencia-publica-por-la-temporada-de-caza-menor-2026/ _(bloqueado: contiene keyword 'menor')_
