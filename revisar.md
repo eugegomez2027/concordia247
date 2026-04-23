@@ -668,3 +668,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-04-23 13:12 UTC
 - Allanamientos en barrio José Hernández por presunta venta de menores y droga: una mujer detenida — https://concordia24.com.ar/allanamientos-en-barrio-jose-hernandez-por-presunta-venta-de-menores-y-droga-una-mujer-detenida/ _(bloqueado: contiene keyword 'allanamiento')_
 - Venía en moto y llevaba una suma importante de dinero, intento sobornar al Personal Policial y quedó detenido — https://concordia24.com.ar/venia-en-moto-y-llevaba-una-suma-importante-de-dinero-intento-sobornar-al-personal-policial-y-quedo-detenido/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-04-23 18:59 UTC
+- Desarticulan venta ilegal de terrenos municipales y desarman casillas usadas como búnker de narcomenudeo — https://diarioelsol.com.ar/contenido/58409/desarticulan-venta-ilegal-de-terrenos-municipales-y-desarman-casillas-usadas-com _(bloqueado: contiene keyword 'policía')_
