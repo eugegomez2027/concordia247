@@ -663,3 +663,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-23 02:03 UTC
 - Con amplia participación, se realizó la audiencia pública por la temporada de caza menor 2026 — https://concordia24.com.ar/con-amplia-participacion-se-realizo-la-audiencia-publica-por-la-temporada-de-caza-menor-2026/ _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-04-23 13:12 UTC
+- Allanamientos en barrio José Hernández por presunta venta de menores y droga: una mujer detenida — https://concordia24.com.ar/allanamientos-en-barrio-jose-hernandez-por-presunta-venta-de-menores-y-droga-una-mujer-detenida/ _(bloqueado: contiene keyword 'allanamiento')_
+- Venía en moto y llevaba una suma importante de dinero, intento sobornar al Personal Policial y quedó detenido — https://concordia24.com.ar/venia-en-moto-y-llevaba-una-suma-importante-de-dinero-intento-sobornar-al-personal-policial-y-quedo-detenido/ _(bloqueado: contiene keyword 'policial')_
