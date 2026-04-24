@@ -672,3 +672,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-23 18:59 UTC
 - Desarticulan venta ilegal de terrenos municipales y desarman casillas usadas como búnker de narcomenudeo — https://diarioelsol.com.ar/contenido/58409/desarticulan-venta-ilegal-de-terrenos-municipales-y-desarman-casillas-usadas-com _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-04-24 02:05 UTC
+- Principio de incendio en una secadora de granos en General Campos — https://concordia24.com.ar/principio-de-incendio-en-una-secadora-de-granos-en-general-campos/ _(bloqueado: contiene keyword 'policial')_
+- Conmoción en Rosario: asesinaron a un bebé de un año en una balacera y hay múltiples detenidos — https://diarioelsol.com.ar/contenido/58416/conmocion-en-rosario-asesinaron-a-un-bebe-de-un-ano-en-una-balacera-y-hay-multip _(bloqueado: contiene keyword 'policía')_
