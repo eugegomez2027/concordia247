@@ -682,3 +682,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-04-24 13:08 UTC
 - La sorprendente historia del concordiense "Yuyo", el primer hacker argentino que estafó a aerolíneas y viajó gratis por el mundo — https://diarioelsol.com.ar/contenido/58421/la-sorprendente-historia-del-concordiense-yuyo-el-primer-hacker-argentino-que-es _(bloqueado: contiene keyword 'policía')_
 - Tensión en la Unidad Penal de Paraná con los familiares del interno asesinado — https://diarioelsol.com.ar/contenido/58432/tension-en-la-unidad-penal-de-parana-con-los-familiares-del-interno-asesinado _(bloqueado: contiene keyword 'asesin')_
+
+
+## Tanda 2026-04-24 18:41 UTC
+- OTRO ACCIDENTE MOTO-AUTO CON CONSECUENCIAS GRAVES PARA EL MOTOCICLISTA QUE FUE INTERNADO EN EL MASVERNAT — https://diarioelsol.com.ar/contenido/58434/otro-accidente-moto-auto-con-consecuencias-graves-para-el-motociclista-que-fue-i _(bloqueado: contiene keyword 'policial')_
