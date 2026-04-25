@@ -700,3 +700,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-04-25 12:51 UTC
 - Allanamiento positivo en la zona de Alvear y Pirovano: secuestran un arma y detienen a un hombre — https://diarioelsol.com.ar/contenido/58443/allanamiento-positivo-en-la-zona-de-alvear-y-pirovano-secuestran-un-arma-y-detie _(bloqueado: contiene keyword 'allanamiento')_
 - Jurado popular declaró culpable a Miguel Rosales por asesinar a un juez de paz — https://diarioelsol.com.ar/contenido/58453/jurado-popular-declaro-culpable-a-miguel-rosales-por-asesinar-a-un-juez-de-paz _(bloqueado: contiene keyword 'homicidio')_
+
+
+## Tanda 2026-04-25 18:40 UTC
+- Motochorros al acecho: detuvieron a "Kuki" y sigue  prófugo "Kiko" tras un violento asalto en Concordia — https://diarioelsol.com.ar/contenido/58450/motochorros-al-acecho-detuvieron-a-kuki-y-sigue-profugo-kiko-tras-un-violento-as _(bloqueado: contiene keyword 'asalto')_
+- Asesinato de un interno en la cárcel de Paraná: qué habría desatado el ataque — https://diarioelsol.com.ar/contenido/58454/asesinato-de-un-interno-en-la-carcel-de-parana-que-habria-desatado-el-ataque _(bloqueado: contiene keyword 'asesin')_
