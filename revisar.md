@@ -686,3 +686,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-24 18:41 UTC
 - OTRO ACCIDENTE MOTO-AUTO CON CONSECUENCIAS GRAVES PARA EL MOTOCICLISTA QUE FUE INTERNADO EN EL MASVERNAT — https://diarioelsol.com.ar/contenido/58434/otro-accidente-moto-auto-con-consecuencias-graves-para-el-motociclista-que-fue-i _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-04-25 01:54 UTC
+- Vecinos del barrio Prefectura denuncian crecimiento de microbasurales y falta de respuestas — https://concordia24.com.ar/vecinos-del-barrio-prefectura-denuncian-crecimiento-de-microbasurales-y-falta-de-respuestas/ _(bloqueado: contiene keyword 'denuncia')_
