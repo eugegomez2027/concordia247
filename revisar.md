@@ -690,3 +690,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-25 01:54 UTC
 - Vecinos del barrio Prefectura denuncian crecimiento de microbasurales y falta de respuestas — https://concordia24.com.ar/vecinos-del-barrio-prefectura-denuncian-crecimiento-de-microbasurales-y-falta-de-respuestas/ _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-04-25 07:06 UTC
+- Hombre detenido tras sustraer el auto a su padre y tomar de rehén a su hijo de 11 años — https://concordia24.com.ar/hombre-detenido-tras-sustraer-el-auto-a-su-padre-y-tomar-de-rehen-a-su-hijo-de-11-anos/ _(bloqueado: contiene keyword 'policial')_
+- Allanamiento por denuncia de maltrato animal: rescataron ocho perros y cachorros — https://concordia24.com.ar/allanamiento-por-denuncia-de-maltrato-animal-rescataron-ocho-perros-y-cachorros/ _(bloqueado: contiene keyword 'allanamiento')_
