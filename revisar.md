@@ -695,3 +695,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-04-25 07:06 UTC
 - Hombre detenido tras sustraer el auto a su padre y tomar de rehén a su hijo de 11 años — https://concordia24.com.ar/hombre-detenido-tras-sustraer-el-auto-a-su-padre-y-tomar-de-rehen-a-su-hijo-de-11-anos/ _(bloqueado: contiene keyword 'policial')_
 - Allanamiento por denuncia de maltrato animal: rescataron ocho perros y cachorros — https://concordia24.com.ar/allanamiento-por-denuncia-de-maltrato-animal-rescataron-ocho-perros-y-cachorros/ _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-04-25 12:51 UTC
+- Allanamiento positivo en la zona de Alvear y Pirovano: secuestran un arma y detienen a un hombre — https://diarioelsol.com.ar/contenido/58443/allanamiento-positivo-en-la-zona-de-alvear-y-pirovano-secuestran-un-arma-y-detie _(bloqueado: contiene keyword 'allanamiento')_
+- Jurado popular declaró culpable a Miguel Rosales por asesinar a un juez de paz — https://diarioelsol.com.ar/contenido/58453/jurado-popular-declaro-culpable-a-miguel-rosales-por-asesinar-a-un-juez-de-paz _(bloqueado: contiene keyword 'homicidio')_
