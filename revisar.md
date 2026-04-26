@@ -715,3 +715,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-04-26 12:53 UTC
 - Alerta en Australia por inundaciones y cocodrilos en áreas pobladas — https://diarioelsol.com.ar/contenido/58473/alerta-en-australia-por-inundaciones-y-cocodrilos-en-areas-pobladas _(bloqueado: contiene keyword 'policía')_
 - Las mujeres concentran los ingresos más bajos y enfrentan mayor desempleo — https://diarioelsol.com.ar/contenido/58472/las-mujeres-concentran-los-ingresos-mas-bajos-y-enfrentan-mayor-desempleo _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-04-26 18:41 UTC
+- Recuperaron ganado denunciado como faltante en General Campos — https://concordia24.com.ar/recuperaron-ganado-denunciado-como-faltante-en-general-campos/ _(bloqueado: contiene keyword 'denuncia')_
+- Camioneta retenida: conductor alcoholizado realizaba maniobras peligrosas en Concordia — https://concordia24.com.ar/camioneta-retenida-conductor-alcoholizado-realizaba-maniobras-peligrosas-en-concordia/ _(bloqueado: contiene keyword 'policial')_
