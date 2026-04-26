@@ -705,3 +705,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-04-25 18:40 UTC
 - Motochorros al acecho: detuvieron a "Kuki" y sigue  prófugo "Kiko" tras un violento asalto en Concordia — https://diarioelsol.com.ar/contenido/58450/motochorros-al-acecho-detuvieron-a-kuki-y-sigue-profugo-kiko-tras-un-violento-as _(bloqueado: contiene keyword 'asalto')_
 - Asesinato de un interno en la cárcel de Paraná: qué habría desatado el ataque — https://diarioelsol.com.ar/contenido/58454/asesinato-de-un-interno-en-la-carcel-de-parana-que-habria-desatado-el-ataque _(bloqueado: contiene keyword 'asesin')_
+
+
+## Tanda 2026-04-26 07:20 UTC
+- Allanamientos en el barrio Martín Fierro: secuestran droga, hallan dos cráneos y detienen a 16 personas — https://diarioelsol.com.ar/contenido/58463/allanamientos-en-el-barrio-martin-fierro-secuestran-droga-hallan-dos-craneos-y-d _(bloqueado: contiene keyword 'allanamiento')_
+- La Policía fue a clausurar una fiesta clandestina y los atacaron a pedradas en Paraná. — https://diarioelsol.com.ar/contenido/58465/la-policia-fue-a-clausurar-una-fiesta-clandestina-y-los-atacaron-a-pedradas-en-p _(bloqueado: contiene keyword 'policía')_
