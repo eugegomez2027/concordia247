@@ -720,3 +720,12 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-04-26 18:41 UTC
 - Recuperaron ganado denunciado como faltante en General Campos — https://concordia24.com.ar/recuperaron-ganado-denunciado-como-faltante-en-general-campos/ _(bloqueado: contiene keyword 'denuncia')_
 - Camioneta retenida: conductor alcoholizado realizaba maniobras peligrosas en Concordia — https://concordia24.com.ar/camioneta-retenida-conductor-alcoholizado-realizaba-maniobras-peligrosas-en-concordia/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-04-27 02:09 UTC
+- Horror en Paraná: familiares y amigos de un preso muerto se prendieron fuego frente a la cárcel — https://diarioelsol.com.ar/contenido/58476/horror-en-parana-familiares-y-amigos-de-un-preso-muerto-se-prendieron-fuego-fren _(bloqueado: contiene keyword 'asesin')_
+- Identificaron al adolescente que murió tras un choque entre camioneta y moto en Feliciano — https://diarioelsol.com.ar/contenido/58483/identificaron-al-adolescente-que-murio-tras-un-choque-entre-camioneta-y-moto-en- _(bloqueado: contiene keyword 'menor')_
+- El Gobierno promulgó el nuevo régimen penal juvenil a 10 días de su sanción en el Senado — https://diarioelsol.com.ar/contenido/58482/el-gobierno-promulgo-el-nuevo-regimen-penal-juvenil-a-10-dias-de-su-sancion-en-e _(bloqueado: contiene keyword 'adolescente')_
+- Piden condena para una pareja de Villa del Rosario por ingresar e intentar adoptar ilegalmente a dos niñas de República Dominicana — https://diarioelsol.com.ar/contenido/58488/piden-condena-para-una-pareja-de-villa-del-rosario-por-ingresar-e-intentar-adopt _(bloqueado: contiene keyword 'niña')_
+- Niño electrocutado en Paraná: vecinos cuestionan vivienda con malla eletrificada — https://diarioelsol.com.ar/contenido/58486/nino-electrocutado-en-parana-vecinos-cuestionan-vivienda-con-malla-con-corriente _(bloqueado: contiene keyword 'menor')_
+- Dos policías patrullaban en moto y chocaron con un auto: fueron hospitalizados con lesiones — https://diarioelsol.com.ar/contenido/58491/dos-policias-patrullaban-en-moto-y-chocaron-con-un-auto-fueron-hospitalizados-co _(bloqueado: contiene keyword 'policía')_
