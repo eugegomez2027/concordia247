@@ -729,3 +729,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Piden condena para una pareja de Villa del Rosario por ingresar e intentar adoptar ilegalmente a dos niñas de República Dominicana — https://diarioelsol.com.ar/contenido/58488/piden-condena-para-una-pareja-de-villa-del-rosario-por-ingresar-e-intentar-adopt _(bloqueado: contiene keyword 'niña')_
 - Niño electrocutado en Paraná: vecinos cuestionan vivienda con malla eletrificada — https://diarioelsol.com.ar/contenido/58486/nino-electrocutado-en-parana-vecinos-cuestionan-vivienda-con-malla-con-corriente _(bloqueado: contiene keyword 'menor')_
 - Dos policías patrullaban en moto y chocaron con un auto: fueron hospitalizados con lesiones — https://diarioelsol.com.ar/contenido/58491/dos-policias-patrullaban-en-moto-y-chocaron-con-un-auto-fueron-hospitalizados-co _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-04-28 08:13 UTC
+- El Centro de Concordia epicentro de una multitudinaria marcha de mujeres al son de tambores y al grito de que SE VAYA MILEI. — https://diarioelsol.com.ar/contenido/58501/el-centro-de-concordia-epicentro-de-una-multitudinaria-marcha-de-mujeres-al-son- _(bloqueado: contiene keyword 'policía')_
+- Este martes comienza en Chajarí otro juicio por jurados para determinar la responsabilidad en un caso de abuso sexual del ex jefe de Policía de Concordia. — https://diarioelsol.com.ar/contenido/58505/este-martes-comienza-en-chajari-otro-juicio-por-jurados-para-determinar-la-respo _(bloqueado: contiene keyword 'policía')_
