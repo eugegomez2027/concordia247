@@ -734,3 +734,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-04-28 08:13 UTC
 - El Centro de Concordia epicentro de una multitudinaria marcha de mujeres al son de tambores y al grito de que SE VAYA MILEI. — https://diarioelsol.com.ar/contenido/58501/el-centro-de-concordia-epicentro-de-una-multitudinaria-marcha-de-mujeres-al-son- _(bloqueado: contiene keyword 'policía')_
 - Este martes comienza en Chajarí otro juicio por jurados para determinar la responsabilidad en un caso de abuso sexual del ex jefe de Policía de Concordia. — https://diarioelsol.com.ar/contenido/58505/este-martes-comienza-en-chajari-otro-juicio-por-jurados-para-determinar-la-respo _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-04-29 02:25 UTC
+- Donde alojar a los menores que cometen delitos ? : Entre Ríos no tiene espacio ni profesionales para implementar el nuevo Régimen Penal Juvenil — https://diarioelsol.com.ar/contenido/58525/donde-alojar-a-los-menores-que-cometen-delitos-entre-rios-no-tiene-espacio-ni-pr _(bloqueado: contiene keyword 'menor')_
