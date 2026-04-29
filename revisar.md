@@ -738,3 +738,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-29 02:25 UTC
 - Donde alojar a los menores que cometen delitos ? : Entre Ríos no tiene espacio ni profesionales para implementar el nuevo Régimen Penal Juvenil — https://diarioelsol.com.ar/contenido/58525/donde-alojar-a-los-menores-que-cometen-delitos-entre-rios-no-tiene-espacio-ni-pr _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-04-29 08:06 UTC
+- Allanamientos y operativos de saturación en Concordia: secuestran 750 gramos de cocaína y detienen a una mujer — https://concordia24.com.ar/allanamientos-y-operativos-de-saturacion-en-concordia-secuestran-750-gramos-de-cocaina-y-detienen-a-una-mujer/ _(bloqueado: contiene keyword 'policial')_
+- Estado crítico: así son las heridas de la pareja baleada en un motel — https://diarioelsol.com.ar/contenido/58530/estado-critico-asi-son-las-heridas-de-la-pareja-baleada-en-un-motel _(bloqueado: contiene keyword 'policía')_
