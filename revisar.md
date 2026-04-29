@@ -743,3 +743,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-04-29 08:06 UTC
 - Allanamientos y operativos de saturación en Concordia: secuestran 750 gramos de cocaína y detienen a una mujer — https://concordia24.com.ar/allanamientos-y-operativos-de-saturacion-en-concordia-secuestran-750-gramos-de-cocaina-y-detienen-a-una-mujer/ _(bloqueado: contiene keyword 'policial')_
 - Estado crítico: así son las heridas de la pareja baleada en un motel — https://diarioelsol.com.ar/contenido/58530/estado-critico-asi-son-las-heridas-de-la-pareja-baleada-en-un-motel _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-04-29 13:43 UTC
+- Anularon el sobreseimiento y los 2 monjes del Cristo Orante denunciados por abusos van a juicio — https://diarioelsol.com.ar/contenido/58543/anularon-el-sobreseimiento-y-los-2-monjes-del-cristo-orante-denunciados-por-abus _(bloqueado: contiene keyword 'denuncia')_
