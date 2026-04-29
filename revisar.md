@@ -747,3 +747,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-29 13:43 UTC
 - Anularon el sobreseimiento y los 2 monjes del Cristo Orante denunciados por abusos van a juicio — https://diarioelsol.com.ar/contenido/58543/anularon-el-sobreseimiento-y-los-2-monjes-del-cristo-orante-denunciados-por-abus _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-04-29 19:15 UTC
+- Adolescentes de San Salvador debatieron sobre amor romántico y violencia de género — https://concordia24.com.ar/adolescentes-de-san-salvador-debatieron-sobre-amor-romantico-y-violencia-de-genero/ _(bloqueado: contiene keyword 'adolescente')_
