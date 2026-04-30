@@ -751,3 +751,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-29 19:15 UTC
 - Adolescentes de San Salvador debatieron sobre amor romántico y violencia de género — https://concordia24.com.ar/adolescentes-de-san-salvador-debatieron-sobre-amor-romantico-y-violencia-de-genero/ _(bloqueado: contiene keyword 'adolescente')_
+
+
+## Tanda 2026-04-30 08:10 UTC
+- Rapiñero: asaltó a punta de cuchillo a una docente a la que despojó de su celular pero fue capturado por la Policía poco después. — https://diarioelsol.com.ar/contenido/58556/rapinero-asalto-a-punta-de-cuchillo-a-una-docente-a-la-que-despojo-de-su-celular _(bloqueado: contiene keyword 'policía')_
