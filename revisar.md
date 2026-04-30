@@ -755,3 +755,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-30 08:10 UTC
 - Rapiñero: asaltó a punta de cuchillo a una docente a la que despojó de su celular pero fue capturado por la Policía poco después. — https://diarioelsol.com.ar/contenido/58556/rapinero-asalto-a-punta-de-cuchillo-a-una-docente-a-la-que-despojo-de-su-celular _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-04-30 13:28 UTC
+- Demoras y precaución en Ruta Nacional 12 por camiones detenidos en el Puente General Urquiza — https://concordia24.com.ar/demoras-y-precaucion-en-ruta-nacional-12-por-camiones-detenidos-en-el-puente-general-urquiza/ _(bloqueado: contiene keyword 'detenido')_
