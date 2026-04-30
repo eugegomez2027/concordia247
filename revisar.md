@@ -759,3 +759,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-04-30 13:28 UTC
 - Demoras y precaución en Ruta Nacional 12 por camiones detenidos en el Puente General Urquiza — https://concordia24.com.ar/demoras-y-precaucion-en-ruta-nacional-12-por-camiones-detenidos-en-el-puente-general-urquiza/ _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-04-30 19:10 UTC
+- Detenidos por andar disparando tiros al aire en forma amenazante. — https://diarioelsol.com.ar/contenido/58579/detenidos-por-andar-disparando-tiros-al-aire-en-forma-amenazante _(bloqueado: contiene keyword 'detenido')_
+- Se pelearon por los límites del terreno que divide sus casas, hubo amenazas y tras denuncia, secuestran armas y detienen personas. — https://diarioelsol.com.ar/contenido/58581/se-pelearon-por-los-limites-del-terreno-que-divide-sus-casas-hubo-amenazas-y-tra _(bloqueado: contiene keyword 'denuncia')_
+- Buscan a dos adolescentes — https://diarioelsol.com.ar/contenido/58580/buscan-a-dos-adolescentes _(bloqueado: contiene keyword 'adolescente')_
