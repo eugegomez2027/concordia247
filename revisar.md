@@ -765,3 +765,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Detenidos por andar disparando tiros al aire en forma amenazante. — https://diarioelsol.com.ar/contenido/58579/detenidos-por-andar-disparando-tiros-al-aire-en-forma-amenazante _(bloqueado: contiene keyword 'detenido')_
 - Se pelearon por los límites del terreno que divide sus casas, hubo amenazas y tras denuncia, secuestran armas y detienen personas. — https://diarioelsol.com.ar/contenido/58581/se-pelearon-por-los-limites-del-terreno-que-divide-sus-casas-hubo-amenazas-y-tra _(bloqueado: contiene keyword 'denuncia')_
 - Buscan a dos adolescentes — https://diarioelsol.com.ar/contenido/58580/buscan-a-dos-adolescentes _(bloqueado: contiene keyword 'adolescente')_
+
+
+## Tanda 2026-05-01 08:05 UTC
+- Una llamada a tiempo es el límite a la violencia: Detuvieron a un hombre cuando agredía a su pareja — https://concordia24.com.ar/una-llamada-a-tiempo-es-el-limite-a-la-violencia-detuvieron-s-un-hombre-cuando-agredia-a-su-pareja/ _(bloqueado: contiene keyword 'policial')_
