@@ -769,3 +769,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-01 08:05 UTC
 - Una llamada a tiempo es el límite a la violencia: Detuvieron a un hombre cuando agredía a su pareja — https://concordia24.com.ar/una-llamada-a-tiempo-es-el-limite-a-la-violencia-detuvieron-s-un-hombre-cuando-agredia-a-su-pareja/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-05-01 13:06 UTC
+- Allanamientos por robo de bicicleta: secuestran cocaína y detienen a dos personas en Concordia — https://concordia24.com.ar/allanamientos-por-robo-de-bicicleta-secuestran-cocaina-y-detienen-a-dos-personas-en-concordia/ _(bloqueado: contiene keyword 'robo')_
+- Chajarí: un jurado popular declaró “no culpable” al ex jefe departamental de la policía de Concordia — https://diarioelsol.com.ar/contenido/58590/chajari-un-jurado-popular-declaro-no-culpable-al-ex-jefe-departamental-de-la-pol _(bloqueado: contiene keyword 'policía')_
+- La Policía informó de un Operativo de Saturación que logró detener a una persona e identificar a otras 23, además de recuperar una moto robada. — https://diarioelsol.com.ar/contenido/58593/la-policia-informo-de-un-operativo-de-saturacion-que-logro-detener-a-una-persona _(bloqueado: contiene keyword 'policía')_
