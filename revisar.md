@@ -775,3 +775,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Allanamientos por robo de bicicleta: secuestran cocaína y detienen a dos personas en Concordia — https://concordia24.com.ar/allanamientos-por-robo-de-bicicleta-secuestran-cocaina-y-detienen-a-dos-personas-en-concordia/ _(bloqueado: contiene keyword 'robo')_
 - Chajarí: un jurado popular declaró “no culpable” al ex jefe departamental de la policía de Concordia — https://diarioelsol.com.ar/contenido/58590/chajari-un-jurado-popular-declaro-no-culpable-al-ex-jefe-departamental-de-la-pol _(bloqueado: contiene keyword 'policía')_
 - La Policía informó de un Operativo de Saturación que logró detener a una persona e identificar a otras 23, además de recuperar una moto robada. — https://diarioelsol.com.ar/contenido/58593/la-policia-informo-de-un-operativo-de-saturacion-que-logro-detener-a-una-persona _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-05-03 02:14 UTC
+- Diputados: la oposición marca la cancha por el caso $LIBRA y presionan a Javier Milei — https://diarioelsol.com.ar/contenido/58651/diputados-la-oposicion-marca-la-cancha-por-el-caso-libra-y-presionan-a-javier-mi _(bloqueado: contiene keyword 'denuncia')_
+- Denuncian brutal agresión policial contra un adolescente en Concordia — https://diarioelsol.com.ar/contenido/58654/denuncian-brutal-agresion-policial-contra-un-adolescente-en-concordia _(bloqueado: URL contiene '/denunc')_
