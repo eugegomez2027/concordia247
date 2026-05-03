@@ -786,3 +786,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Grave caso de violencia de género: allanamiento, pruebas con sangre y un detenido — https://concordia24.com.ar/grave-caso-de-violencia-de-genero-allanamiento-pruebas-con-sangre-y-un-detenido/ _(bloqueado: contiene keyword 'detenido')_
 - La defensa del ex jefe de la Policía sostuvo que, tras “un profundo análisis de la causa”, pudieron demostrar que “era una falsa denuncia” — https://diarioelsol.com.ar/contenido/58658/la-defensa-del-ex-jefe-de-la-policia-sostuvo-que-tras-un-profundo-analisis-de-la _(bloqueado: contiene keyword 'policía')_
 - Hasta el 31 de marzo hay tiempo para presentar la Libreta AUH 2025 — https://diarioelsol.com.ar/contenido/58665/hasta-el-31-de-marzo-hay-tiempo-para-presentar-la-libreta-auh-2025 _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-05-03 18:50 UTC
+- Preocupación en barrio San Francisco Este: roban cestos de residuos y crece el malestar vecinal — https://concordia24.com.ar/preocupacion-en-barrio-san-francisco-este-roban-cestos-de-residuos-y-crece-el-malestar-vecinal/ _(bloqueado: contiene keyword 'robo')_
