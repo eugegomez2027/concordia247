@@ -780,3 +780,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-05-03 02:14 UTC
 - Diputados: la oposición marca la cancha por el caso $LIBRA y presionan a Javier Milei — https://diarioelsol.com.ar/contenido/58651/diputados-la-oposicion-marca-la-cancha-por-el-caso-libra-y-presionan-a-javier-mi _(bloqueado: contiene keyword 'denuncia')_
 - Denuncian brutal agresión policial contra un adolescente en Concordia — https://diarioelsol.com.ar/contenido/58654/denuncian-brutal-agresion-policial-contra-un-adolescente-en-concordia _(bloqueado: URL contiene '/denunc')_
+
+
+## Tanda 2026-05-03 07:52 UTC
+- Grave caso de violencia de género: allanamiento, pruebas con sangre y un detenido — https://concordia24.com.ar/grave-caso-de-violencia-de-genero-allanamiento-pruebas-con-sangre-y-un-detenido/ _(bloqueado: contiene keyword 'detenido')_
+- La defensa del ex jefe de la Policía sostuvo que, tras “un profundo análisis de la causa”, pudieron demostrar que “era una falsa denuncia” — https://diarioelsol.com.ar/contenido/58658/la-defensa-del-ex-jefe-de-la-policia-sostuvo-que-tras-un-profundo-analisis-de-la _(bloqueado: contiene keyword 'policía')_
+- Hasta el 31 de marzo hay tiempo para presentar la Libreta AUH 2025 — https://diarioelsol.com.ar/contenido/58665/hasta-el-31-de-marzo-hay-tiempo-para-presentar-la-libreta-auh-2025 _(bloqueado: contiene keyword 'niño')_
