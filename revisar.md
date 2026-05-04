@@ -794,3 +794,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-04 02:13 UTC
 - Dos menores demorados tras provocar daños en un portón: dieron positivo en alcoholemia — https://concordia24.com.ar/dos-menores-demorados-tras-provocar-danos-en-un-porton-dieron-positivo-en-alcoholemia/ _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-05-04 08:22 UTC
+- Cristina Kirchner apuntó sobre las inconsistencias en la investigación y advirtió que es "una causa emblemática de persecución política" — https://diarioelsol.com.ar/contenido/58680/cristina-kirchner-apunto-sobre-las-inconsistencias-en-la-investigacion-y-advirti _(bloqueado: contiene keyword 'denunció')_
