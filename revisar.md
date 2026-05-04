@@ -798,3 +798,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-04 08:22 UTC
 - Cristina Kirchner apuntó sobre las inconsistencias en la investigación y advirtió que es "una causa emblemática de persecución política" — https://diarioelsol.com.ar/contenido/58680/cristina-kirchner-apunto-sobre-las-inconsistencias-en-la-investigacion-y-advirti _(bloqueado: contiene keyword 'denunció')_
+
+
+## Tanda 2026-05-04 19:20 UTC
+- Cristina Kirchner declaró en Comodoro Py por la causa Cuadernos: denunció "prácticas mafiosas" en la Justicia — https://diarioelsol.com.ar/contenido/58687/cristina-kirchner-declaro-en-comodoro-py-por-la-causa-cuadernos-denuncio-practic _(bloqueado: contiene keyword 'denunció')_
+- Finalizan hoy las audiencias del juicio contra dos jóvenes acusados de piromaníacos. — https://diarioelsol.com.ar/contenido/58690/finalizan-hoy-las-audiencias-del-juicio-contra-dos-jovenes-acusados-de-piromania _(bloqueado: contiene keyword 'imputado')_
