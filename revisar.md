@@ -790,3 +790,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-03 18:50 UTC
 - Preocupación en barrio San Francisco Este: roban cestos de residuos y crece el malestar vecinal — https://concordia24.com.ar/preocupacion-en-barrio-san-francisco-este-roban-cestos-de-residuos-y-crece-el-malestar-vecinal/ _(bloqueado: contiene keyword 'robo')_
+
+
+## Tanda 2026-05-04 02:13 UTC
+- Dos menores demorados tras provocar daños en un portón: dieron positivo en alcoholemia — https://concordia24.com.ar/dos-menores-demorados-tras-provocar-danos-en-un-porton-dieron-positivo-en-alcoholemia/ _(bloqueado: contiene keyword 'menor')_
