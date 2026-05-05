@@ -803,3 +803,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-05-04 19:20 UTC
 - Cristina Kirchner declaró en Comodoro Py por la causa Cuadernos: denunció "prácticas mafiosas" en la Justicia — https://diarioelsol.com.ar/contenido/58687/cristina-kirchner-declaro-en-comodoro-py-por-la-causa-cuadernos-denuncio-practic _(bloqueado: contiene keyword 'denunció')_
 - Finalizan hoy las audiencias del juicio contra dos jóvenes acusados de piromaníacos. — https://diarioelsol.com.ar/contenido/58690/finalizan-hoy-las-audiencias-del-juicio-contra-dos-jovenes-acusados-de-piromania _(bloqueado: contiene keyword 'imputado')_
+
+
+## Tanda 2026-05-05 07:59 UTC
+- Operativo por coimas en un paso fronterizo terminó con 71 involucrados entre gendarmes y aduaneros. — https://diarioelsol.com.ar/contenido/58697/operativo-por-coimas-en-un-paso-fronterizo-termino-con-71-involucrados-entre-gen _(bloqueado: contiene keyword 'allanamiento')_
+- $Libra. Revelan presuntos pagos mensuales en dólares de Novelli a Javier y Karina Milei desde 2021 — https://diarioelsol.com.ar/contenido/58696/libra-revelan-presuntos-pagos-mensuales-en-dolares-de-novelli-a-javier-y-karina- _(bloqueado: contiene keyword 'presunto')_
