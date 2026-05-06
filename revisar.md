@@ -808,3 +808,11 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-05-05 07:59 UTC
 - Operativo por coimas en un paso fronterizo terminó con 71 involucrados entre gendarmes y aduaneros. — https://diarioelsol.com.ar/contenido/58697/operativo-por-coimas-en-un-paso-fronterizo-termino-con-71-involucrados-entre-gen _(bloqueado: contiene keyword 'allanamiento')_
 - $Libra. Revelan presuntos pagos mensuales en dólares de Novelli a Javier y Karina Milei desde 2021 — https://diarioelsol.com.ar/contenido/58696/libra-revelan-presuntos-pagos-mensuales-en-dolares-de-novelli-a-javier-y-karina- _(bloqueado: contiene keyword 'presunto')_
+
+
+## Tanda 2026-05-06 02:12 UTC
+- San Salvador: localizaron sana y salva a una menor que era buscada — https://concordia24.com.ar/199717-2/ _(bloqueado: contiene keyword 'menor')_
+- Trabajadores de LT 15 Radio del Litoral denuncian tres meses sin cobrar y aguinaldo impago — https://concordia24.com.ar/trabajadores-de-lt-15-radio-del-litoral-denuncian-tres-meses-sin-cobrar-y-aguinaldo-impago/ _(bloqueado: contiene keyword 'denuncia')_
+- Una joven recibió feroz golpiza en escuela de Federación — https://diarioelsol.com.ar/contenido/58724/una-joven-recibio-feroz-golpiza-en-escuela-de-federacion _(bloqueado: contiene keyword 'denuncia')_
+- Condenaron a cadena perpetua a Jorge Alberto Miño por haber matado a su hijo Joel de 18 años. — https://diarioelsol.com.ar/contenido/58723/condenaron-a-cadena-perpetua-a-jorge-alberto-mino-por-haber-matado-a-su-hijo-joe _(bloqueado: contiene keyword 'asesin')_
+- Declaran los testigos en la causa "Cuadernos" importantes revelaciones sobre la presión para imputar a los detenidos y lograr la libertad, los que se negaron, siguieron presos — https://diarioelsol.com.ar/contenido/58728/declaran-los-testigos-en-la-causa-cuadernos-importantes-revelaciones-sobre-la-pr _(bloqueado: contiene keyword 'detenido')_
