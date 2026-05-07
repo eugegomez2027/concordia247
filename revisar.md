@@ -828,3 +828,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Tragedia en San Salvador: murió un trabajador en un molino arrocero — https://diarioelsol.com.ar/contenido/58759/tragedia-en-san-salvador-murio-un-trabajador-en-un-molino-arrocero _(bloqueado: contiene keyword 'policía')_
 - Pelea sangrienta en Paraná: un cuidacoches apuñaló a la pareja de su ex en la entrada del barrio Maccarone y el hombre falleció. — https://diarioelsol.com.ar/contenido/58758/pelea-sangrienta-en-parana-un-cuidacoches-apunalo-a-la-pareja-de-su-ex-en-la-ent _(bloqueado: contiene keyword 'policial')_
 - Golpe al delito en la zona noroeste: armas, animales maltratados y un prófugo detenido en una serie de allanamientos — https://diarioelsol.com.ar/contenido/58756/golpe-al-delito-en-la-zona-noroeste-armas-animales-maltratados-y-un-profugo-dete _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-05-07 13:51 UTC
+- Una pelea entre vecinos terminó con disparos, un arma secuestrada y dos detenidos — https://diarioelsol.com.ar/contenido/58766/una-pelea-entre-vecinos-termino-con-disparos-un-arma-secuestrada-y-dos-detenidos _(bloqueado: contiene keyword 'policial')_
+- Buscaban aceite robado en el Corralón Municipal y terminaron descubriendo un arsenal: dos detenidos — https://diarioelsol.com.ar/contenido/58765/buscaban-aceite-robado-en-el-corralon-municipal-y-terminaron-descubriendo-un-ars _(bloqueado: contiene keyword 'policía')_
