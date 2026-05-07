@@ -821,3 +821,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-05-07 02:14 UTC
 - Recuperan vehículo que había sido sustraído — https://concordia24.com.ar/recuperan-vehiculo-que-habia-sido-sustraido/ _(bloqueado: contiene keyword 'allanamiento')_
 - Secuestran 290 celulares de contrabando en el Puesto de Control vial de Paso Cerrito — https://concordia24.com.ar/secuestran-290-celulares-de-contrabando-en-el-puesto-de-control-vial-de-paso-cerrito/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-05-07 08:24 UTC
+- Un policía junto a un civil rescataron a una mujer que intentaba quitarse la vida en la Playa Nébel. — https://diarioelsol.com.ar/contenido/58755/un-policia-junto-a-un-civil-rescataron-a-una-mujer-que-intentaba-quitarse-la-vid _(bloqueado: contiene keyword 'policía')_
+- Tragedia en San Salvador: murió un trabajador en un molino arrocero — https://diarioelsol.com.ar/contenido/58759/tragedia-en-san-salvador-murio-un-trabajador-en-un-molino-arrocero _(bloqueado: contiene keyword 'policía')_
+- Pelea sangrienta en Paraná: un cuidacoches apuñaló a la pareja de su ex en la entrada del barrio Maccarone y el hombre falleció. — https://diarioelsol.com.ar/contenido/58758/pelea-sangrienta-en-parana-un-cuidacoches-apunalo-a-la-pareja-de-su-ex-en-la-ent _(bloqueado: contiene keyword 'policial')_
+- Golpe al delito en la zona noroeste: armas, animales maltratados y un prófugo detenido en una serie de allanamientos — https://diarioelsol.com.ar/contenido/58756/golpe-al-delito-en-la-zona-noroeste-armas-animales-maltratados-y-un-profugo-dete _(bloqueado: contiene keyword 'policía')_
