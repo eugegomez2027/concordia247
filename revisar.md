@@ -816,3 +816,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Una joven recibió feroz golpiza en escuela de Federación — https://diarioelsol.com.ar/contenido/58724/una-joven-recibio-feroz-golpiza-en-escuela-de-federacion _(bloqueado: contiene keyword 'denuncia')_
 - Condenaron a cadena perpetua a Jorge Alberto Miño por haber matado a su hijo Joel de 18 años. — https://diarioelsol.com.ar/contenido/58723/condenaron-a-cadena-perpetua-a-jorge-alberto-mino-por-haber-matado-a-su-hijo-joe _(bloqueado: contiene keyword 'asesin')_
 - Declaran los testigos en la causa "Cuadernos" importantes revelaciones sobre la presión para imputar a los detenidos y lograr la libertad, los que se negaron, siguieron presos — https://diarioelsol.com.ar/contenido/58728/declaran-los-testigos-en-la-causa-cuadernos-importantes-revelaciones-sobre-la-pr _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-05-07 02:14 UTC
+- Recuperan vehículo que había sido sustraído — https://concordia24.com.ar/recuperan-vehiculo-que-habia-sido-sustraido/ _(bloqueado: contiene keyword 'allanamiento')_
+- Secuestran 290 celulares de contrabando en el Puesto de Control vial de Paso Cerrito — https://concordia24.com.ar/secuestran-290-celulares-de-contrabando-en-el-puesto-de-control-vial-de-paso-cerrito/ _(bloqueado: contiene keyword 'policial')_
