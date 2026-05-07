@@ -833,3 +833,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-05-07 13:51 UTC
 - Una pelea entre vecinos terminó con disparos, un arma secuestrada y dos detenidos — https://diarioelsol.com.ar/contenido/58766/una-pelea-entre-vecinos-termino-con-disparos-un-arma-secuestrada-y-dos-detenidos _(bloqueado: contiene keyword 'policial')_
 - Buscaban aceite robado en el Corralón Municipal y terminaron descubriendo un arsenal: dos detenidos — https://diarioelsol.com.ar/contenido/58765/buscaban-aceite-robado-en-el-corralon-municipal-y-terminaron-descubriendo-un-ars _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-05-07 19:29 UTC
+- Allanamientos en barrio Los Pájaros: secuestraron un arma de fuego y detuvieron a cuatro personas — https://concordia24.com.ar/allanamientos-en-barrio-los-pajaros-secuestraron-un-arma-de-fuego-y-detuvieron-a-cuatro-personas/ _(bloqueado: contiene keyword 'allanamiento')_
