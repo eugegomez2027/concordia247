@@ -837,3 +837,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-07 19:29 UTC
 - Allanamientos en barrio Los Pájaros: secuestraron un arma de fuego y detuvieron a cuatro personas — https://concordia24.com.ar/allanamientos-en-barrio-los-pajaros-secuestraron-un-arma-de-fuego-y-detuvieron-a-cuatro-personas/ _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-05-08 07:20 UTC
+- Allanamiento positivo en barrio Itatí: secuestraron elementos vinculados a una investigación judicial — https://concordia24.com.ar/allanamiento-positivo-en-barrio-itati-secuestraron-elementos-vinculados-a-una-investigacion-judicial/ _(bloqueado: contiene keyword 'allanamiento')_
