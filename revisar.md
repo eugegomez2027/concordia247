@@ -841,3 +841,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-08 07:20 UTC
 - Allanamiento positivo en barrio Itatí: secuestraron elementos vinculados a una investigación judicial — https://concordia24.com.ar/allanamiento-positivo-en-barrio-itati-secuestraron-elementos-vinculados-a-una-investigacion-judicial/ _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-05-08 13:18 UTC
+- Escándalo en Mar del Plata: un policía golpeó e insultó a una mujer que quería denunciar una estafa — https://diarioelsol.com.ar/contenido/58774/escandalo-en-mar-del-plata-un-policia-golpeo-e-insulto-a-una-mujer-que-queria-de _(bloqueado: contiene keyword 'policía')_
+- EE.UU. moviliza miles de marines al estrecho de Ormuz para reabrir el paso petrolero — https://diarioelsol.com.ar/contenido/58779/eeuu-moviliza-miles-de-marines-al-estrecho-de-ormuz-para-reabrir-el-paso-petrole _(bloqueado: contiene keyword 'asalto')_
