@@ -846,3 +846,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-05-08 13:18 UTC
 - Escándalo en Mar del Plata: un policía golpeó e insultó a una mujer que quería denunciar una estafa — https://diarioelsol.com.ar/contenido/58774/escandalo-en-mar-del-plata-un-policia-golpeo-e-insulto-a-una-mujer-que-queria-de _(bloqueado: contiene keyword 'policía')_
 - EE.UU. moviliza miles de marines al estrecho de Ormuz para reabrir el paso petrolero — https://diarioelsol.com.ar/contenido/58779/eeuu-moviliza-miles-de-marines-al-estrecho-de-ormuz-para-reabrir-el-paso-petrole _(bloqueado: contiene keyword 'asalto')_
+
+
+## Tanda 2026-05-09 02:23 UTC
+- “Kiko” y “Kuki” cumplirán prisión preventiva por el asalto a una mujer para robarle el celular — https://diarioelsol.com.ar/contenido/58783/kiko-y-kuki-cumpliran-prision-preventiva-por-el-asalto-a-una-mujer-para-robarle- _(bloqueado: contiene keyword 'asalto')_
+- Mataron a tiros a un productor rural para robarle la camioneta — https://diarioelsol.com.ar/contenido/58786/mataron-a-tiros-a-un-productor-rural-para-robarle-la-camioneta _(bloqueado: contiene keyword 'asesin')_
