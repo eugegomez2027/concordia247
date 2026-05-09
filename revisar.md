@@ -851,3 +851,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-05-09 02:23 UTC
 - “Kiko” y “Kuki” cumplirán prisión preventiva por el asalto a una mujer para robarle el celular — https://diarioelsol.com.ar/contenido/58783/kiko-y-kuki-cumpliran-prision-preventiva-por-el-asalto-a-una-mujer-para-robarle- _(bloqueado: contiene keyword 'asalto')_
 - Mataron a tiros a un productor rural para robarle la camioneta — https://diarioelsol.com.ar/contenido/58786/mataron-a-tiros-a-un-productor-rural-para-robarle-la-camioneta _(bloqueado: contiene keyword 'asesin')_
+
+
+## Tanda 2026-05-09 13:02 UTC
+- Amenaza climática: proyectan que el actual Fenómeno El Niño será uno de los más intensos en décadas — https://concordia24.com.ar/amenaza-climatica-proyectan-que-el-actual-fenomeno-el-nino-sera-uno-de-los-mas-intensos-en-decadas/ _(bloqueado: contiene keyword 'niño')_
+- Detuvieron a una pareja de más de 30 años y los imputaron de ser los "entregadores" de una tentativa de robo del club San Martín. — https://diarioelsol.com.ar/contenido/58791/detuvieron-a-una-pareja-de-mas-de-30-anos-y-los-imputaron-de-ser-los-entregadore _(bloqueado: contiene keyword 'policial')_
+- Insólito: chocó, huyó y se encontró con la víctima en el hospital — https://diarioelsol.com.ar/contenido/58797/insolito-choco-huyo-y-se-encontro-con-la-victima-en-el-hospital _(bloqueado: contiene keyword 'policía')_
