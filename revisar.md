@@ -861,3 +861,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-10 02:26 UTC
 - La presidenta del Consejo Protector de Humedales de Concordia llama a reunión plenaria y ampliada ante posibles eventos climáticos de el Niño — https://concordia24.com.ar/la-presidenta-del-consejo-protector-de-humedales-de-concordia-llama-a-reunion-plenaria-y-ampliada-ante-posibles-eventos-climaticos-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-05-10 08:00 UTC
+- Ocho personas fueron aprehendidas tras allanamientos en la zona oeste: secuestraron cocaína y celulares — https://concordia24.com.ar/ocho-personas-fueron-aprehendidas-tras-allanamientos-en-la-zona-oeste-secuestraron-cocaina-y-celulares/ _(bloqueado: contiene keyword 'policial')_
