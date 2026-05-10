@@ -857,3 +857,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Amenaza climática: proyectan que el actual Fenómeno El Niño será uno de los más intensos en décadas — https://concordia24.com.ar/amenaza-climatica-proyectan-que-el-actual-fenomeno-el-nino-sera-uno-de-los-mas-intensos-en-decadas/ _(bloqueado: contiene keyword 'niño')_
 - Detuvieron a una pareja de más de 30 años y los imputaron de ser los "entregadores" de una tentativa de robo del club San Martín. — https://diarioelsol.com.ar/contenido/58791/detuvieron-a-una-pareja-de-mas-de-30-anos-y-los-imputaron-de-ser-los-entregadore _(bloqueado: contiene keyword 'policial')_
 - Insólito: chocó, huyó y se encontró con la víctima en el hospital — https://diarioelsol.com.ar/contenido/58797/insolito-choco-huyo-y-se-encontro-con-la-victima-en-el-hospital _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-05-10 02:26 UTC
+- La presidenta del Consejo Protector de Humedales de Concordia llama a reunión plenaria y ampliada ante posibles eventos climáticos de el Niño — https://concordia24.com.ar/la-presidenta-del-consejo-protector-de-humedales-de-concordia-llama-a-reunion-plenaria-y-ampliada-ante-posibles-eventos-climaticos-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
