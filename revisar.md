@@ -865,3 +865,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-10 08:00 UTC
 - Ocho personas fueron aprehendidas tras allanamientos en la zona oeste: secuestraron cocaína y celulares — https://concordia24.com.ar/ocho-personas-fueron-aprehendidas-tras-allanamientos-en-la-zona-oeste-secuestraron-cocaina-y-celulares/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-05-10 18:52 UTC
+- La provincia participó en la Mesa Federal de Preparación ante el fenómeno de «El Niño» — https://concordia24.com.ar/la-provincia-participo-en-la-mesa-federal-de-preparacion-ante-el-fenomeno-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
+- Motociclista hospitalizado tras un choque con un automóvil en Sargento Cabral y Concejal Veiga — https://concordia24.com.ar/motociclista-hospitalizado-tras-un-choque-con-un-automovil-en-sargento-cabral-y-concejal-veiga/ _(bloqueado: contiene keyword 'policial')_
+- Perdió el control y chocó contra un poste de alumbrado público — https://concordia24.com.ar/perdio-el-control-y-choco-contra-un-poste-de-alumbrado-publico/ _(bloqueado: contiene keyword 'policial')_
