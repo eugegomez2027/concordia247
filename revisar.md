@@ -871,3 +871,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - La provincia participó en la Mesa Federal de Preparación ante el fenómeno de «El Niño» — https://concordia24.com.ar/la-provincia-participo-en-la-mesa-federal-de-preparacion-ante-el-fenomeno-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
 - Motociclista hospitalizado tras un choque con un automóvil en Sargento Cabral y Concejal Veiga — https://concordia24.com.ar/motociclista-hospitalizado-tras-un-choque-con-un-automovil-en-sargento-cabral-y-concejal-veiga/ _(bloqueado: contiene keyword 'policial')_
 - Perdió el control y chocó contra un poste de alumbrado público — https://concordia24.com.ar/perdio-el-control-y-choco-contra-un-poste-de-alumbrado-publico/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-05-11 02:35 UTC
+- Crimen del trabajador rural en La Cruz: secuestran arma de fuego y celulares — https://diarioelsol.com.ar/contenido/58819/crimen-del-trabajador-rural-en-la-cruz-secuestran-arma-de-fuego-y-celulares _(bloqueado: URL contiene '/crimen')_
