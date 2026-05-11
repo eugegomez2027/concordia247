@@ -879,3 +879,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-11 09:29 UTC
 - Una policía federal murió tras ser baleada en la cabeza por su hijo de 15 años — https://diarioelsol.com.ar/contenido/58821/una-policia-federal-murio-tras-ser-baleada-en-la-cabeza-por-su-hijo-de-15-anos _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-05-11 19:40 UTC
+- Choque entre un auto y una moto en 25 de Mayo y Las Heras: una mujer fue hospitalizada — https://concordia24.com.ar/choque-entre-un-auto-y-una-moto-en-25-de-mayo-y-las-heras-una-mujer-fue-hospitalizada/ _(bloqueado: contiene keyword 'policial')_
+- Conductor se durmió al volante y despistó en Ruta 4 a la altura de El Duraznal — https://concordia24.com.ar/conductor-se-durmio-al-volante-y-despisto-en-ruta-4-a-la-altura-de-el-duraznal/ _(bloqueado: contiene keyword 'policial')_
