@@ -875,3 +875,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-11 02:35 UTC
 - Crimen del trabajador rural en La Cruz: secuestran arma de fuego y celulares — https://diarioelsol.com.ar/contenido/58819/crimen-del-trabajador-rural-en-la-cruz-secuestran-arma-de-fuego-y-celulares _(bloqueado: URL contiene '/crimen')_
+
+
+## Tanda 2026-05-11 09:29 UTC
+- Una policía federal murió tras ser baleada en la cabeza por su hijo de 15 años — https://diarioelsol.com.ar/contenido/58821/una-policia-federal-murio-tras-ser-baleada-en-la-cabeza-por-su-hijo-de-15-anos _(bloqueado: contiene keyword 'policía')_
