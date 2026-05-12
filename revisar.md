@@ -890,3 +890,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - La Justicia archivó una denuncia contra el gobierno provincial y descartó irregularidades — https://concordia24.com.ar/la-justicia-archivo-una-denuncia-contra-el-gobierno-provincial-y-descarto-irregularidades/ _(bloqueado: contiene keyword 'denuncia')_
 - Salto Grande monitorea la situación climática y la evolución del fenómeno El Niño — https://concordia24.com.ar/salto-grande-monitorea-la-situacion-climatica-y-la-evolucion-del-fenomeno-el-nino/ _(bloqueado: contiene keyword 'niño')_
 - Rechazan pedido de domiciliaria de un preso en Concordia tras denuncias de “tortura intolerable” — https://diarioelsol.com.ar/contenido/58839/rechazan-pedido-de-domiciliaria-de-un-preso-en-concordia-tras-denuncias-de-tortu _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-05-12 08:30 UTC
+- Revocan la libertad condicional a condenado tras denuncias de violencia y abuso sexual — https://diarioelsol.com.ar/contenido/58840/revocan-la-libertad-condicional-a-condenado-tras-denuncias-de-violencia-y-abuso- _(bloqueado: contiene keyword 'denuncia')_
+- Adolescencia en riesgo: el 98% de los menores con causas judiciales tienen entre 12 y 17 años — https://diarioelsol.com.ar/contenido/58843/adolescencia-en-riesgo-el-98-de-los-menores-con-causas-judiciales-tienen-entre-1 _(bloqueado: contiene keyword 'menor')_
+- La Policía detuvo a un ciudadano que trató de huir por el arroyo Manzores y luego se descubrió que tenía pedido de captura internacional. — https://diarioelsol.com.ar/contenido/58848/la-policia-detuvo-a-un-ciudadano-que-trato-de-huir-por-el-arroyo-manzores-y-lueg _(bloqueado: contiene keyword 'policía')_
