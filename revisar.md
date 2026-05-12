@@ -896,3 +896,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Revocan la libertad condicional a condenado tras denuncias de violencia y abuso sexual — https://diarioelsol.com.ar/contenido/58840/revocan-la-libertad-condicional-a-condenado-tras-denuncias-de-violencia-y-abuso- _(bloqueado: contiene keyword 'denuncia')_
 - Adolescencia en riesgo: el 98% de los menores con causas judiciales tienen entre 12 y 17 años — https://diarioelsol.com.ar/contenido/58843/adolescencia-en-riesgo-el-98-de-los-menores-con-causas-judiciales-tienen-entre-1 _(bloqueado: contiene keyword 'menor')_
 - La Policía detuvo a un ciudadano que trató de huir por el arroyo Manzores y luego se descubrió que tenía pedido de captura internacional. — https://diarioelsol.com.ar/contenido/58848/la-policia-detuvo-a-un-ciudadano-que-trato-de-huir-por-el-arroyo-manzores-y-lueg _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-05-12 14:06 UTC
+- Un plan criminal — https://diarioelsol.com.ar/contenido/58852/un-plan-criminal _(bloqueado: contiene keyword 'niño')_
+- Sancionaron a policías en Tucumán por jugar al fútbol en plena guardia — https://diarioelsol.com.ar/contenido/58851/sancionaron-a-policias-en-tucuman-por-jugar-al-futbol-en-plena-guardia _(bloqueado: contiene keyword 'policía')_
