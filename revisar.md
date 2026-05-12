@@ -884,3 +884,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-05-11 19:40 UTC
 - Choque entre un auto y una moto en 25 de Mayo y Las Heras: una mujer fue hospitalizada — https://concordia24.com.ar/choque-entre-un-auto-y-una-moto-en-25-de-mayo-y-las-heras-una-mujer-fue-hospitalizada/ _(bloqueado: contiene keyword 'policial')_
 - Conductor se durmió al volante y despistó en Ruta 4 a la altura de El Duraznal — https://concordia24.com.ar/conductor-se-durmio-al-volante-y-despisto-en-ruta-4-a-la-altura-de-el-duraznal/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-05-12 02:28 UTC
+- La Justicia archivó una denuncia contra el gobierno provincial y descartó irregularidades — https://concordia24.com.ar/la-justicia-archivo-una-denuncia-contra-el-gobierno-provincial-y-descarto-irregularidades/ _(bloqueado: contiene keyword 'denuncia')_
+- Salto Grande monitorea la situación climática y la evolución del fenómeno El Niño — https://concordia24.com.ar/salto-grande-monitorea-la-situacion-climatica-y-la-evolucion-del-fenomeno-el-nino/ _(bloqueado: contiene keyword 'niño')_
+- Rechazan pedido de domiciliaria de un preso en Concordia tras denuncias de “tortura intolerable” — https://diarioelsol.com.ar/contenido/58839/rechazan-pedido-de-domiciliaria-de-un-preso-en-concordia-tras-denuncias-de-tortu _(bloqueado: contiene keyword 'denuncia')_
