@@ -915,3 +915,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-13 14:14 UTC
 - Azcué convocó al COE para establecer estrategias ante posible llegada del «Fenómeno del niño» — https://concordia24.com.ar/azcue-convoco-al-coe-para-establecer-estrategias-ante-posible-llegada-del-fenomeno-del-nino/ _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-05-13 19:46 UTC
+- Incendio trágico: el padre de las víctimas sigue internado bajo sedación — https://concordia24.com.ar/incendio-tragico-el-padre-de-las-victimas-sigue-internado-bajo-sedacion/ _(bloqueado: contiene keyword 'menor')_
+- Liberaron al uruguayo que tenía pedido de captura internacional — https://diarioelsol.com.ar/contenido/58897/liberaron-al-uruguayo-que-tenia-pedido-de-captura-internacional _(bloqueado: contiene keyword 'detenido')_
+- La Policía allanó una casa para recuperar un Pitbull en estado de abandono. — https://diarioelsol.com.ar/contenido/58896/la-policia-allano-una-casa-para-recuperar-un-pitbull-en-estado-de-abandono _(bloqueado: contiene keyword 'policía')_
