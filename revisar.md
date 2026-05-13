@@ -901,3 +901,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-05-12 14:06 UTC
 - Un plan criminal — https://diarioelsol.com.ar/contenido/58852/un-plan-criminal _(bloqueado: contiene keyword 'niño')_
 - Sancionaron a policías en Tucumán por jugar al fútbol en plena guardia — https://diarioelsol.com.ar/contenido/58851/sancionaron-a-policias-en-tucuman-por-jugar-al-futbol-en-plena-guardia _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-05-13 02:35 UTC
+- Dos menores de edad fallecieron a raíz de un incendio en una vivienda: El papá está en grave estado — https://concordia24.com.ar/dos-menores-de-edad-fallecieron-a-raiz-de-un-incendio-en-una-vivienda-el-papa-esta-en-grave-estado/ _(bloqueado: contiene keyword 'menor')_
