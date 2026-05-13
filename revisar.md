@@ -905,3 +905,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-13 02:35 UTC
 - Dos menores de edad fallecieron a raíz de un incendio en una vivienda: El papá está en grave estado — https://concordia24.com.ar/dos-menores-de-edad-fallecieron-a-raiz-de-un-incendio-en-una-vivienda-el-papa-esta-en-grave-estado/ _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-05-13 08:37 UTC
+- Crímenes de Lesa Humanidad en Entre Ríos: 29 condenados y causas claves — https://diarioelsol.com.ar/contenido/58875/crimenes-de-lesa-humanidad-en-entre-rios-29-condenados-y-causas-claves _(bloqueado: URL contiene '/crimen')_
+- Un robo nocturno, una huida hacia el norte y un allanamiento que destapó más de lo esperado — https://diarioelsol.com.ar/contenido/58874/un-robo-nocturno-una-huida-hacia-el-norte-y-un-allanamiento-que-destapo-mas-de-l _(bloqueado: contiene keyword 'robo')_
+- Agmer anunció un paro provincial y una marcha de antorchas en Paraná para este viernes — https://diarioelsol.com.ar/contenido/58878/agmer-anuncio-un-paro-provincial-y-una-marcha-de-antorchas-en-parana-para-este-v _(bloqueado: contiene keyword 'denuncia')_
