@@ -929,3 +929,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-14 13:54 UTC
 - Nuevas vacantes para el Club de Robótica: Continúa abierta la inscripción para niños y adolescentes — https://concordia24.com.ar/nuevas-vacantes-para-el-club-de-robotica-continua-abierta-la-inscripcion-para-ninos-y-adolescentes/ _(bloqueado: contiene keyword 'adolescente')_
+
+
+## Tanda 2026-05-14 19:39 UTC
+- Secuestran 142 celulares en el Puesto de Control vial de Paso Cerrito — https://concordia24.com.ar/secuestran-142-celulares-en-el-puesto-de-control-vial-de-paso-cerrito/ _(bloqueado: contiene keyword 'policial')_
