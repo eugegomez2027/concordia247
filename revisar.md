@@ -925,3 +925,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-14 08:30 UTC
 - Los operativos de saturación de la Policía se ampliaron a diez barrios simultáneos. — https://diarioelsol.com.ar/contenido/58917/los-operativos-de-saturacion-de-la-policia-se-ampliaron-a-diez-barrios-simultane _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-05-14 13:54 UTC
+- Nuevas vacantes para el Club de Robótica: Continúa abierta la inscripción para niños y adolescentes — https://concordia24.com.ar/nuevas-vacantes-para-el-club-de-robotica-continua-abierta-la-inscripcion-para-ninos-y-adolescentes/ _(bloqueado: contiene keyword 'adolescente')_
