@@ -938,3 +938,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-05-15 02:36 UTC
 - Dos personas fueron heridas con piedrazos en medio de la marcha docente en Paraná — https://diarioelsol.com.ar/contenido/58948/dos-personas-fueron-heridas-con-piedrazos-en-medio-de-la-marcha-docente-en-paran _(bloqueado: contiene keyword 'denuncia')_
 - “No queremos más explicaciones, queremos resultados”, exigen desde CRA por el asesinato del productor correntino — https://diarioelsol.com.ar/contenido/58947/no-queremos-mas-explicaciones-queremos-resultados-exigen-desde-cra-por-el-asesin _(bloqueado: contiene keyword 'asesin')_
+
+
+## Tanda 2026-05-15 08:41 UTC
+- Imputaron a Manuel Adorni por presunto enriquecimiento ilícito — https://diarioelsol.com.ar/contenido/58950/imputaron-a-manuel-adorni-por-presunto-enriquecimiento-ilicito _(bloqueado: contiene keyword 'acusación')_
