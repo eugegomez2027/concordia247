@@ -933,3 +933,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-14 19:39 UTC
 - Secuestran 142 celulares en el Puesto de Control vial de Paso Cerrito — https://concordia24.com.ar/secuestran-142-celulares-en-el-puesto-de-control-vial-de-paso-cerrito/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-05-15 02:36 UTC
+- Dos personas fueron heridas con piedrazos en medio de la marcha docente en Paraná — https://diarioelsol.com.ar/contenido/58948/dos-personas-fueron-heridas-con-piedrazos-en-medio-de-la-marcha-docente-en-paran _(bloqueado: contiene keyword 'denuncia')_
+- “No queremos más explicaciones, queremos resultados”, exigen desde CRA por el asesinato del productor correntino — https://diarioelsol.com.ar/contenido/58947/no-queremos-mas-explicaciones-queremos-resultados-exigen-desde-cra-por-el-asesin _(bloqueado: contiene keyword 'asesin')_
