@@ -946,3 +946,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-16 02:26 UTC
 - Mujer viajaba por la ruta 14 junto a una niña trasladando 88 kilos de cocaína — https://diarioelsol.com.ar/contenido/58975/mujer-viajaba-por-la-ruta-14-junto-a-una-nina-trasladando-88-kilos-de-cocaina _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-05-16 07:55 UTC
+- Operativo de control derivó en una peligrosa persecución que terminó con vuelco y heridos — https://diarioelsol.com.ar/contenido/58978/operativo-de-control-derivo-en-una-peligrosa-persecucion-que-termino-con-vuelco- _(bloqueado: contiene keyword 'detenido')_
+- Irán denuncia que Estados Unidos prepara una invasión terrestre inminente — https://diarioelsol.com.ar/contenido/58982/iran-denuncia-que-estados-unidos-prepara-una-invasion-terrestre-inminente _(bloqueado: contiene keyword 'denuncia')_
