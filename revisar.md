@@ -942,3 +942,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-15 08:41 UTC
 - Imputaron a Manuel Adorni por presunto enriquecimiento ilícito — https://diarioelsol.com.ar/contenido/58950/imputaron-a-manuel-adorni-por-presunto-enriquecimiento-ilicito _(bloqueado: contiene keyword 'acusación')_
+
+
+## Tanda 2026-05-16 02:26 UTC
+- Mujer viajaba por la ruta 14 junto a una niña trasladando 88 kilos de cocaína — https://diarioelsol.com.ar/contenido/58975/mujer-viajaba-por-la-ruta-14-junto-a-una-nina-trasladando-88-kilos-de-cocaina _(bloqueado: contiene keyword 'menor')_
