@@ -951,3 +951,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-05-16 07:55 UTC
 - Operativo de control derivó en una peligrosa persecución que terminó con vuelco y heridos — https://diarioelsol.com.ar/contenido/58978/operativo-de-control-derivo-en-una-peligrosa-persecucion-que-termino-con-vuelco- _(bloqueado: contiene keyword 'detenido')_
 - Irán denuncia que Estados Unidos prepara una invasión terrestre inminente — https://diarioelsol.com.ar/contenido/58982/iran-denuncia-que-estados-unidos-prepara-una-invasion-terrestre-inminente _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-05-16 18:56 UTC
+- Conmoción en una escuela: un alumno disparó, mató a un compañero e hirió a otros estudiantes — https://diarioelsol.com.ar/contenido/58989/conmocion-en-una-escuela-un-alumno-disparo-mato-a-un-companero-e-hirio-a-otros-e _(bloqueado: contiene keyword 'adolescente')_
+- Un viaje de pesca terminó con el auto incendiado a 2 km de la autopista en zona Brazo Largo — https://diarioelsol.com.ar/contenido/58991/un-viaje-de-pesca-termino-con-el-auto-incendiado-a-2-km-de-la-autopista-en-zona- _(bloqueado: contiene keyword 'policía')_
