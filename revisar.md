@@ -956,3 +956,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-05-16 18:56 UTC
 - Conmoción en una escuela: un alumno disparó, mató a un compañero e hirió a otros estudiantes — https://diarioelsol.com.ar/contenido/58989/conmocion-en-una-escuela-un-alumno-disparo-mato-a-un-companero-e-hirio-a-otros-e _(bloqueado: contiene keyword 'adolescente')_
 - Un viaje de pesca terminó con el auto incendiado a 2 km de la autopista en zona Brazo Largo — https://diarioelsol.com.ar/contenido/58991/un-viaje-de-pesca-termino-con-el-auto-incendiado-a-2-km-de-la-autopista-en-zona- _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-05-17 08:13 UTC
+- Homicidio en la escuela: un estrecho vínculo une al atacante con Federación. — https://diarioelsol.com.ar/contenido/59007/homicidio-en-la-escuela-un-estrecho-vinculo-une-al-atacante-con-federacion _(bloqueado: URL contiene '/homic')_
+- Trágico tiroteo en escuela de Santa Fe: el estado de salud de los alumnos heridos — https://diarioelsol.com.ar/contenido/59010/tragico-tiroteo-en-escuela-de-santa-fe-el-estado-de-salud-de-los-alumnos-heridos _(bloqueado: contiene keyword 'tiroteo')_
