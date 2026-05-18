@@ -961,3 +961,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-05-17 08:13 UTC
 - Homicidio en la escuela: un estrecho vínculo une al atacante con Federación. — https://diarioelsol.com.ar/contenido/59007/homicidio-en-la-escuela-un-estrecho-vinculo-une-al-atacante-con-federacion _(bloqueado: URL contiene '/homic')_
 - Trágico tiroteo en escuela de Santa Fe: el estado de salud de los alumnos heridos — https://diarioelsol.com.ar/contenido/59010/tragico-tiroteo-en-escuela-de-santa-fe-el-estado-de-salud-de-los-alumnos-heridos _(bloqueado: contiene keyword 'tiroteo')_
+
+
+## Tanda 2026-05-18 15:00 UTC
+- El Consejo Protector de Humedales presentó propuestas al Municipio ante el posible impacto de “El Niño” — https://concordia24.com.ar/el-consejo-protector-de-humedales-presento-propuestas-al-municipio-ante-el-posible-impacto-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
+- Manuel Adorni suspendió la conferencia de prensa que iba a dar este miércoles en Casa Rosada. Supone está preparando su valija. — https://diarioelsol.com.ar/contenido/59036/manuel-adorni-suspendio-la-conferencia-de-prensa-que-iba-a-dar-este-miercoles-en _(bloqueado: contiene keyword 'denuncia')_
+- Conflicto yerbatero: Las Marías denuncia que Misiones le cobra 307 años de impuestos por adelantado — https://diarioelsol.com.ar/contenido/59035/conflicto-yerbatero-las-marias-denuncia-que-misiones-le-cobra-307-anos-de-impues _(bloqueado: contiene keyword 'denuncia')_
