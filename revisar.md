@@ -967,3 +967,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - El Consejo Protector de Humedales presentó propuestas al Municipio ante el posible impacto de “El Niño” — https://concordia24.com.ar/el-consejo-protector-de-humedales-presento-propuestas-al-municipio-ante-el-posible-impacto-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
 - Manuel Adorni suspendió la conferencia de prensa que iba a dar este miércoles en Casa Rosada. Supone está preparando su valija. — https://diarioelsol.com.ar/contenido/59036/manuel-adorni-suspendio-la-conferencia-de-prensa-que-iba-a-dar-este-miercoles-en _(bloqueado: contiene keyword 'denuncia')_
 - Conflicto yerbatero: Las Marías denuncia que Misiones le cobra 307 años de impuestos por adelantado — https://diarioelsol.com.ar/contenido/59035/conflicto-yerbatero-las-marias-denuncia-que-misiones-le-cobra-307-anos-de-impues _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-05-18 19:29 UTC
+- El COE acordó acciones conjuntas ante la posible llegada de «El Niño» — https://concordia24.com.ar/el-coe-acordo-acciones-conjuntas-ante-la-posible-llegada-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
