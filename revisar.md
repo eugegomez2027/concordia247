@@ -975,3 +975,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-19 09:31 UTC
 - Allanamientos en Barrio José Hernández: secuestran cocaína y marihuana; un hombre alias «Masa» fue detenido — https://concordia24.com.ar/allanamientos-en-barrio-jose-hernandez-secuestran-cocaina-y-marihuana-un-hombre-alias-masa-fue-detenido/ _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-05-19 14:46 UTC
+- Cayó cuando intentaba cobrar 150 dólares para devolver un iPhone robado — https://concordia24.com.ar/cayo-cuando-intentaba-cobrar-150-dolares-para-devolver-un-iphone-robado/ _(bloqueado: contiene keyword 'policial')_
