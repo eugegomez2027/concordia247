@@ -971,3 +971,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-18 19:29 UTC
 - El COE acordó acciones conjuntas ante la posible llegada de «El Niño» — https://concordia24.com.ar/el-coe-acordo-acciones-conjuntas-ante-la-posible-llegada-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-05-19 09:31 UTC
+- Allanamientos en Barrio José Hernández: secuestran cocaína y marihuana; un hombre alias «Masa» fue detenido — https://concordia24.com.ar/allanamientos-en-barrio-jose-hernandez-secuestran-cocaina-y-marihuana-un-hombre-alias-masa-fue-detenido/ _(bloqueado: contiene keyword 'detenido')_
