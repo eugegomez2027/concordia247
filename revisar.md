@@ -979,3 +979,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-19 14:46 UTC
 - Cayó cuando intentaba cobrar 150 dólares para devolver un iPhone robado — https://concordia24.com.ar/cayo-cuando-intentaba-cobrar-150-dolares-para-devolver-un-iphone-robado/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-05-19 19:45 UTC
+- Un nene de 11 años entró armado a la escuela y apuntó a compañeros durante la clase de educación física — https://diarioelsol.com.ar/contenido/59071/un-nene-de-11-anos-entro-armado-a-la-escuela-y-apunto-a-companeros-durante-la-cl _(bloqueado: contiene keyword 'menor')_
+- Intentó denunciar el robo de su auto, pero la investigación reveló otra historia — https://diarioelsol.com.ar/contenido/59077/intento-denunciar-el-robo-de-su-auto-pero-la-investigacion-revelo-otra-historia _(bloqueado: contiene keyword 'robo')_
