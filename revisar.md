@@ -984,3 +984,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-05-19 19:45 UTC
 - Un nene de 11 años entró armado a la escuela y apuntó a compañeros durante la clase de educación física — https://diarioelsol.com.ar/contenido/59071/un-nene-de-11-anos-entro-armado-a-la-escuela-y-apunto-a-companeros-durante-la-cl _(bloqueado: contiene keyword 'menor')_
 - Intentó denunciar el robo de su auto, pero la investigación reveló otra historia — https://diarioelsol.com.ar/contenido/59077/intento-denunciar-el-robo-de-su-auto-pero-la-investigacion-revelo-otra-historia _(bloqueado: contiene keyword 'robo')_
+
+
+## Tanda 2026-05-20 02:41 UTC
+- Conmoción en Chajarí por la muerte de una joven agente policial oriunda de Concordia — https://diarioelsol.com.ar/contenido/59087/conmocion-en-chajari-por-la-muerte-de-una-joven-agente-policial-oriunda-de-conco _(bloqueado: contiene keyword 'policía')_
+- Espeluznante caso: hallan muerta a adolescente con discapacidad y detienen a sus padres por “abandono” — https://diarioelsol.com.ar/contenido/59092/espeluznante-caso-hallan-muerta-a-adolescente-con-discapacidad-y-detienen-a-sus- _(bloqueado: contiene keyword 'adolescente')_
