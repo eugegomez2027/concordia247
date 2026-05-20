@@ -997,3 +997,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Guardavidas colocaban boyas y hallaron un cuerpo en el río Uruguay — https://diarioelsol.com.ar/contenido/59101/guardavidas-colocaban-boyas-y-hallaron-un-cuerpo-en-el-rio-uruguay _(bloqueado: contiene keyword 'policía')_
 - Allanamientos en barrio Los Pájaros: secuestran armas, cocaína y detienen a dos hombres — https://diarioelsol.com.ar/contenido/59100/allanamientos-en-barrio-los-pajaros-secuestran-armas-cocaina-y-detienen-a-dos-ho _(bloqueado: contiene keyword 'allanamiento')_
 - Una policía disparó dentro de un auto en un viaje compartido por aplicación — https://diarioelsol.com.ar/contenido/59099/una-policia-disparo-dentro-de-un-auto-en-un-viaje-compartido-por-aplicacion _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-05-20 14:47 UTC
+- Uruguay: familiares de desaparecidos exigen a Orsi la apertura de archivos militares — https://concordia24.com.ar/uruguay-familiares-de-desaparecidos-exigen-a-orsi-la-apertura-de-archivos-militares/ _(bloqueado: contiene keyword 'detenido')_
