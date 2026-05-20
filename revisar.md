@@ -989,3 +989,11 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-05-20 02:41 UTC
 - Conmoción en Chajarí por la muerte de una joven agente policial oriunda de Concordia — https://diarioelsol.com.ar/contenido/59087/conmocion-en-chajari-por-la-muerte-de-una-joven-agente-policial-oriunda-de-conco _(bloqueado: contiene keyword 'policía')_
 - Espeluznante caso: hallan muerta a adolescente con discapacidad y detienen a sus padres por “abandono” — https://diarioelsol.com.ar/contenido/59092/espeluznante-caso-hallan-muerta-a-adolescente-con-discapacidad-y-detienen-a-sus- _(bloqueado: contiene keyword 'adolescente')_
+
+
+## Tanda 2026-05-20 08:57 UTC
+- Detienen a un pistolero en La Criolla y le secuestran varias armas de fuego y municiones. — https://diarioelsol.com.ar/contenido/59094/detienen-a-un-pistolero-en-la-criolla-y-le-secuestran-varias-armas-de-fuego-y-mu _(bloqueado: contiene keyword 'policía')_
+- Tras millonarios robos de joyas y dólares, allanaron a miembros de la comunidad gitana — https://diarioelsol.com.ar/contenido/59093/tras-millonarios-robos-de-joyas-y-dolares-allanaron-a-miembros-de-la-comunidad-g _(bloqueado: contiene keyword 'policía')_
+- Guardavidas colocaban boyas y hallaron un cuerpo en el río Uruguay — https://diarioelsol.com.ar/contenido/59101/guardavidas-colocaban-boyas-y-hallaron-un-cuerpo-en-el-rio-uruguay _(bloqueado: contiene keyword 'policía')_
+- Allanamientos en barrio Los Pájaros: secuestran armas, cocaína y detienen a dos hombres — https://diarioelsol.com.ar/contenido/59100/allanamientos-en-barrio-los-pajaros-secuestran-armas-cocaina-y-detienen-a-dos-ho _(bloqueado: contiene keyword 'allanamiento')_
+- Una policía disparó dentro de un auto en un viaje compartido por aplicación — https://diarioelsol.com.ar/contenido/59099/una-policia-disparo-dentro-de-un-auto-en-un-viaje-compartido-por-aplicacion _(bloqueado: contiene keyword 'policía')_
