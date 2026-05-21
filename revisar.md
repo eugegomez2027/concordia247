@@ -1007,3 +1007,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Delincuentes intentaron robar objetos de un auto y uno terminó apuñalado tras una pelea con el dueño y un vecino — https://diarioelsol.com.ar/contenido/59108/delincuentes-intentaron-robar-objetos-de-un-auto-y-uno-termino-apunalado-tras-un _(bloqueado: contiene keyword 'policial')_
 - Encontraron muerto a un enfermero entrerriano que tenía 50 ampollas de propofol en su departamento — https://diarioelsol.com.ar/contenido/59112/encontraron-muerto-a-un-enfermero-entrerriano-que-tenia-50-ampollas-de-propofol- _(bloqueado: contiene keyword 'policía')_
 - Empresario filmado en bar imitando gestos similares a los que llevaron a su hija a prisión — https://diarioelsol.com.ar/contenido/59111/empresario-filmado-en-bar-imitando-gestos-similares-a-los-que-llevaron-a-su-hija _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-05-21 09:27 UTC
+- Despiste y vuelco en Autovía 18 y calle Jubileo: un hombre sufrió lesiones leves — https://concordia24.com.ar/despiste-y-vuelco-en-autovia-18-y-calle-jubileo-un-hombre-sufrio-lesiones-leves/ _(bloqueado: contiene keyword 'policial')_
