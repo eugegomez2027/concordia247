@@ -1011,3 +1011,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-21 09:27 UTC
 - Despiste y vuelco en Autovía 18 y calle Jubileo: un hombre sufrió lesiones leves — https://concordia24.com.ar/despiste-y-vuelco-en-autovia-18-y-calle-jubileo-un-hombre-sufrio-lesiones-leves/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-05-21 19:45 UTC
+- Frigerio instó a cuidar a niños y jóvenes a través del diálogo y el uso inteligente de la tecnología — https://concordia24.com.ar/frigerio-insto-a-cuidar-a-ninos-y-jovenes-a-traves-del-dialogo-y-el-uso-inteligente-de-la-tecnologia/ _(bloqueado: contiene keyword 'crimen')_
