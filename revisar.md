@@ -1001,3 +1001,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-20 14:47 UTC
 - Uruguay: familiares de desaparecidos exigen a Orsi la apertura de archivos militares — https://concordia24.com.ar/uruguay-familiares-de-desaparecidos-exigen-a-orsi-la-apertura-de-archivos-militares/ _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-05-21 02:44 UTC
+- Delincuentes intentaron robar objetos de un auto y uno terminó apuñalado tras una pelea con el dueño y un vecino — https://diarioelsol.com.ar/contenido/59108/delincuentes-intentaron-robar-objetos-de-un-auto-y-uno-termino-apunalado-tras-un _(bloqueado: contiene keyword 'policial')_
+- Encontraron muerto a un enfermero entrerriano que tenía 50 ampollas de propofol en su departamento — https://diarioelsol.com.ar/contenido/59112/encontraron-muerto-a-un-enfermero-entrerriano-que-tenia-50-ampollas-de-propofol- _(bloqueado: contiene keyword 'policía')_
+- Empresario filmado en bar imitando gestos similares a los que llevaron a su hija a prisión — https://diarioelsol.com.ar/contenido/59111/empresario-filmado-en-bar-imitando-gestos-similares-a-los-que-llevaron-a-su-hija _(bloqueado: contiene keyword 'denuncia')_
