@@ -1019,3 +1019,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-22 02:45 UTC
 - Impactante temporal en Tucumán: un niño de 12 años murió electrocutado — https://diarioelsol.com.ar/contenido/59135/impactante-temporal-en-tucuman-un-nino-de-12-anos-murio-electrocutado _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-05-22 19:26 UTC
+- Encuentro con Kast y reunión de Gabinete: Javier Milei reactiva su agenda en medio de los escándalos de sus funcionarios — https://diarioelsol.com.ar/contenido/59158/encuentro-con-kast-y-reunion-de-gabinete-javier-milei-reactiva-su-agenda-en-medi _(bloqueado: contiene keyword 'denuncia')_
+- Accidente en Aldea San Antonio: su hijo cayó de un tractor y lo pisó con la rueda trasera — https://diarioelsol.com.ar/contenido/59161/accidente-en-aldea-san-antonio-su-hijo-cayo-de-un-tractor-y-lo-piso-con-la-rueda _(bloqueado: contiene keyword 'menor')_
+- El Jefe de la comisaría de Chajarí y un Sargento fueron apartados de sus funciones tras el fallecimiento de joven policía — https://diarioelsol.com.ar/contenido/59160/el-jefe-de-la-comisaria-de-chajari-y-un-sargento-fueron-apartados-de-sus-funcion _(bloqueado: contiene keyword 'policía')_
