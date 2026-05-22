@@ -1015,3 +1015,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-21 19:45 UTC
 - Frigerio instó a cuidar a niños y jóvenes a través del diálogo y el uso inteligente de la tecnología — https://concordia24.com.ar/frigerio-insto-a-cuidar-a-ninos-y-jovenes-a-traves-del-dialogo-y-el-uso-inteligente-de-la-tecnologia/ _(bloqueado: contiene keyword 'crimen')_
+
+
+## Tanda 2026-05-22 02:45 UTC
+- Impactante temporal en Tucumán: un niño de 12 años murió electrocutado — https://diarioelsol.com.ar/contenido/59135/impactante-temporal-en-tucuman-un-nino-de-12-anos-murio-electrocutado _(bloqueado: contiene keyword 'niño')_
