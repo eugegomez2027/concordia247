@@ -1030,3 +1030,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-05-23 08:09 UTC
 - Liberaron a los padres de Luana, la joven con discapacidad hallada sin vida en Federación — https://diarioelsol.com.ar/contenido/59166/liberaron-a-los-padres-de-luana-la-joven-con-discapacidad-hallada-sin-vida-en-fe _(bloqueado: contiene keyword 'adolescente')_
 - La Fiscalía apelará la libertad del padre de la joven con parálisis cerebral en Federación — https://diarioelsol.com.ar/contenido/59168/la-fiscalia-apelara-la-libertad-del-padre-de-la-joven-con-paralisis-cerebral-en- _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-05-23 13:10 UTC
+- Fue a una fiesta, desapareció y días después lo hallaron asesinado dentro de una heladera — https://diarioelsol.com.ar/contenido/59181/fue-a-una-fiesta-desaparecio-y-dias-despues-lo-hallaron-asesinado-dentro-de-una- _(bloqueado: contiene keyword 'asesin')_
+- Comenzó el juicio por el crimen de Paulo Gómez en Villa Busti — https://diarioelsol.com.ar/contenido/59186/comenzo-el-juicio-por-el-crimen-de-paulo-gomez-en-villa-busti _(bloqueado: contiene keyword 'crimen')_
