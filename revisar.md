@@ -1035,3 +1035,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-05-23 13:10 UTC
 - Fue a una fiesta, desapareció y días después lo hallaron asesinado dentro de una heladera — https://diarioelsol.com.ar/contenido/59181/fue-a-una-fiesta-desaparecio-y-dias-despues-lo-hallaron-asesinado-dentro-de-una- _(bloqueado: contiene keyword 'asesin')_
 - Comenzó el juicio por el crimen de Paulo Gómez en Villa Busti — https://diarioelsol.com.ar/contenido/59186/comenzo-el-juicio-por-el-crimen-de-paulo-gomez-en-villa-busti _(bloqueado: contiene keyword 'crimen')_
+
+
+## Tanda 2026-05-23 19:00 UTC
+- Principio de incendio en una vivienda de Villa Adela durante la madrugada — https://concordia24.com.ar/principio-de-incendio-en-una-vivienda-de-villa-adela-durante-la-madrugada/ _(bloqueado: contiene keyword 'policial')_
