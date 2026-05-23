@@ -1025,3 +1025,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Encuentro con Kast y reunión de Gabinete: Javier Milei reactiva su agenda en medio de los escándalos de sus funcionarios — https://diarioelsol.com.ar/contenido/59158/encuentro-con-kast-y-reunion-de-gabinete-javier-milei-reactiva-su-agenda-en-medi _(bloqueado: contiene keyword 'denuncia')_
 - Accidente en Aldea San Antonio: su hijo cayó de un tractor y lo pisó con la rueda trasera — https://diarioelsol.com.ar/contenido/59161/accidente-en-aldea-san-antonio-su-hijo-cayo-de-un-tractor-y-lo-piso-con-la-rueda _(bloqueado: contiene keyword 'menor')_
 - El Jefe de la comisaría de Chajarí y un Sargento fueron apartados de sus funciones tras el fallecimiento de joven policía — https://diarioelsol.com.ar/contenido/59160/el-jefe-de-la-comisaria-de-chajari-y-un-sargento-fueron-apartados-de-sus-funcion _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-05-23 08:09 UTC
+- Liberaron a los padres de Luana, la joven con discapacidad hallada sin vida en Federación — https://diarioelsol.com.ar/contenido/59166/liberaron-a-los-padres-de-luana-la-joven-con-discapacidad-hallada-sin-vida-en-fe _(bloqueado: contiene keyword 'adolescente')_
+- La Fiscalía apelará la libertad del padre de la joven con parálisis cerebral en Federación — https://diarioelsol.com.ar/contenido/59168/la-fiscalia-apelara-la-libertad-del-padre-de-la-joven-con-paralisis-cerebral-en- _(bloqueado: contiene keyword 'menor')_
