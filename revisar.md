@@ -1039,3 +1039,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-23 19:00 UTC
 - Principio de incendio en una vivienda de Villa Adela durante la madrugada — https://concordia24.com.ar/principio-de-incendio-en-una-vivienda-de-villa-adela-durante-la-madrugada/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-05-24 02:40 UTC
+- Detenido tras robar una moto para ir a la casa de su ex pareja, pese a tener restricción de acercamiento — https://concordia24.com.ar/detenido-tras-robar-una-moto-para-ir-a-la-casa-de-su-ex-pareja-pese-a-tener-restriccion-de-acercamiento/ _(bloqueado: contiene keyword 'detenido')_
+- Colision entre dos automóviles en la intersección de Laprida y 11 de Noviembre — https://concordia24.com.ar/colision-entre-dos-automoviles-en-la-interseccion-de-laprida-y-11-de-noviembre-olision-entre-dos-automoviles-en-la-interseccion-de-laprida-y-11-de-noviembre/ _(bloqueado: contiene keyword 'policial')_
