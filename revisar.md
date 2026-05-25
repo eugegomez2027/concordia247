@@ -1057,3 +1057,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-05-25 09:54 UTC
 - Reprimieron a los manifestantes que protestaban contra la Ley de Glaciares — https://diarioelsol.com.ar/contenido/59230/reprimieron-a-los-manifestantes-que-protestaban-contra-la-ley-de-glaciares _(bloqueado: contiene keyword 'policía')_
 - Judiciales realizan hoy un nuevo paro de 24 horas — https://diarioelsol.com.ar/contenido/59236/judiciales-realizan-hoy-un-nuevo-paro-de-24-horas _(bloqueado: URL contiene '/judicial')_
+
+
+## Tanda 2026-05-25 14:42 UTC
+- La Policía de Entre Ríos capacitó a su personal en investigación de incendios — https://concordia24.com.ar/la-policia-de-entre-rios-capacito-a-su-personal-en-investigacion-de-incendios/ _(bloqueado: contiene keyword 'policía')_
