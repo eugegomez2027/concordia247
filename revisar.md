@@ -1052,3 +1052,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-25 02:49 UTC
 - Sentí que me iban a matar: la policía que baleó a cuatro personas en un viaje de aplicación dio su versión — https://diarioelsol.com.ar/contenido/59229/senti-que-me-iban-a-matar-la-policia-que-baleo-a-cuatro-personas-en-un-viaje-de- _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-05-25 09:54 UTC
+- Reprimieron a los manifestantes que protestaban contra la Ley de Glaciares — https://diarioelsol.com.ar/contenido/59230/reprimieron-a-los-manifestantes-que-protestaban-contra-la-ley-de-glaciares _(bloqueado: contiene keyword 'policía')_
+- Judiciales realizan hoy un nuevo paro de 24 horas — https://diarioelsol.com.ar/contenido/59236/judiciales-realizan-hoy-un-nuevo-paro-de-24-horas _(bloqueado: URL contiene '/judicial')_
