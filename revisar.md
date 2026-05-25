@@ -1048,3 +1048,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-24 13:10 UTC
 - Juez y jefe de la Policía de Salto reconocieron a funcionarios de Concordia por la captura del  narco uruguayo — https://diarioelsol.com.ar/contenido/59219/juez-y-jefe-de-la-policia-de-salto-reconocieron-a-funcionarios-de-concordia-por- _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-05-25 02:49 UTC
+- Sentí que me iban a matar: la policía que baleó a cuatro personas en un viaje de aplicación dio su versión — https://diarioelsol.com.ar/contenido/59229/senti-que-me-iban-a-matar-la-policia-que-baleo-a-cuatro-personas-en-un-viaje-de- _(bloqueado: contiene keyword 'policía')_
