@@ -1070,3 +1070,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-26 09:41 UTC
 - Qué dijo el jefe policial pasado a disponibilidad en el marco de la investigación por la muerte de una joven agente — https://diarioelsol.com.ar/contenido/59255/que-dijo-el-jefe-policial-pasado-a-disponibilidad-en-el-marco-de-la-investigacio _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-05-26 14:53 UTC
+- Encontraron muerta a Maitena, la adolescente que había desaparecido en Merlo — https://diarioelsol.com.ar/contenido/59258/encontraron-muerta-a-maitena-la-adolescente-que-habia-desaparecido-en-merlo _(bloqueado: contiene keyword 'menor')_
