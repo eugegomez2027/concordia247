@@ -1066,3 +1066,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-05-25 19:19 UTC
 - Choque entre motocicletas en Av. Pte. Illia: un hombre fue hospitalizado — https://concordia24.com.ar/choque-entre-motocicletas-en-av-pte-illia-un-hombre-fue-hospitalizado/ _(bloqueado: contiene keyword 'policial')_
 - El relato del horror: la mujer Policía que halló el cuerpo de Luana habló de la conmocionante escena — https://diarioelsol.com.ar/contenido/59248/el-relato-del-horror-la-mujer-policia-que-hallo-el-cuerpo-de-luana-hablo-de-la-c _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-05-26 09:41 UTC
+- Qué dijo el jefe policial pasado a disponibilidad en el marco de la investigación por la muerte de una joven agente — https://diarioelsol.com.ar/contenido/59255/que-dijo-el-jefe-policial-pasado-a-disponibilidad-en-el-marco-de-la-investigacio _(bloqueado: contiene keyword 'policial')_
