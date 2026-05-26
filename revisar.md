@@ -1074,3 +1074,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-26 14:53 UTC
 - Encontraron muerta a Maitena, la adolescente que había desaparecido en Merlo — https://diarioelsol.com.ar/contenido/59258/encontraron-muerta-a-maitena-la-adolescente-que-habia-desaparecido-en-merlo _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-05-26 20:03 UTC
+- Detuvieron a tres masculinos que tenían casi un kilo de cocaína lista para la venta en cebollines. — https://diarioelsol.com.ar/contenido/59268/detuvieron-a-tres-masculinos-que-tenian-casi-un-kilo-de-cocaina-lista-para-la-ve _(bloqueado: contiene keyword 'policía')_
+- Fue detenido un conductor y su acompañante tras huir de un procedimiento de tránsito en la Concordia "blindada" — https://diarioelsol.com.ar/contenido/59272/fue-detenido-un-conductor-y-su-acompanante-tras-huir-de-un-procedimiento-de-tran _(bloqueado: contiene keyword 'policía')_
+- Violento choque de frente en un lomo de burro de la Avenida Monseñor Rosch — https://diarioelsol.com.ar/contenido/59271/violento-choque-de-frente-en-un-lomo-de-burro-de-la-avenida-monsenor-rosch _(bloqueado: URL contiene '/viol')_
+- Circular sin documentación es casi un delito en la ciudad más pobre del País: Te sacan el rodado y hasta te pueden llevar detenido. — https://diarioelsol.com.ar/contenido/59273/circular-sin-documentacion-es-casi-un-delito-en-la-ciudad-mas-pobre-del-pais-te- _(bloqueado: contiene keyword 'detenido')_
