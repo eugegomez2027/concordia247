@@ -1085,3 +1085,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-27 02:48 UTC
 - Accidente de tránsito en la Autovía Artigas: un automóvil fue impactado por un camión y terminó fuera de la calzada — https://concordia24.com.ar/accidente-de-transito-en-la-autovia-artigas-un-automovil-fue-impactado-por-un-camion-y-termino-fuera-de-la-calzada/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-05-27 09:35 UTC
+- Operativo conjunto entre la Policía de Concordia y la Policía Federal en distintos barrios de la ciudad — https://concordia24.com.ar/operativo-conjunto-entre-la-policia-de-concordia-y-la-policia-federal-en-distintos-barrios-de-la-ciudad/ _(bloqueado: contiene keyword 'policía')_
+- Motociclista de 17 años sufrió graves lesiones tras chocar contra un tráiler sin señalización en Ruta 4 — https://concordia24.com.ar/motociclista-de-17-anos-sufrio-graves-lesiones-tras-chocar-contra-un-trailer-sin-senalizacion-en-ruta-4/ _(bloqueado: contiene keyword 'policial')_
