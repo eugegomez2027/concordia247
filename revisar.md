@@ -1081,3 +1081,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Fue detenido un conductor y su acompañante tras huir de un procedimiento de tránsito en la Concordia "blindada" — https://diarioelsol.com.ar/contenido/59272/fue-detenido-un-conductor-y-su-acompanante-tras-huir-de-un-procedimiento-de-tran _(bloqueado: contiene keyword 'policía')_
 - Violento choque de frente en un lomo de burro de la Avenida Monseñor Rosch — https://diarioelsol.com.ar/contenido/59271/violento-choque-de-frente-en-un-lomo-de-burro-de-la-avenida-monsenor-rosch _(bloqueado: URL contiene '/viol')_
 - Circular sin documentación es casi un delito en la ciudad más pobre del País: Te sacan el rodado y hasta te pueden llevar detenido. — https://diarioelsol.com.ar/contenido/59273/circular-sin-documentacion-es-casi-un-delito-en-la-ciudad-mas-pobre-del-pais-te- _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-05-27 02:48 UTC
+- Accidente de tránsito en la Autovía Artigas: un automóvil fue impactado por un camión y terminó fuera de la calzada — https://concordia24.com.ar/accidente-de-transito-en-la-autovia-artigas-un-automovil-fue-impactado-por-un-camion-y-termino-fuera-de-la-calzada/ _(bloqueado: contiene keyword 'policial')_
