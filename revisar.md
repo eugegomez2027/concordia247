@@ -1106,3 +1106,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-05-28 15:36 UTC
 - Ordenan liberar a los líderes de La Salada y se derrumba la causa de lavado — https://diarioelsol.com.ar/contenido/59318/ordenan-liberar-a-los-lideres-de-la-salada-y-se-derrumba-la-causa-de-lavado _(bloqueado: contiene keyword 'imputado')_
 - Un  despiste en la ruta 22 que resalta la ardua tarea policial para encontrar al conductor que no dijo nada. — https://diarioelsol.com.ar/contenido/59320/un-despiste-en-la-ruta-22-que-resalta-la-ardua-tarea-policial-para-encontrar-al- _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-05-28 20:10 UTC
+- Advierten que la reforma previsional traslada el ajuste a docentes, policías y trabajadores de la salud — https://diarioelsol.com.ar/contenido/59339/advierten-que-la-reforma-previsional-traslada-el-ajuste-a-docentes-policias-y-tr _(bloqueado: contiene keyword 'policía')_
+- Caso Ángel: detuvieron a la madre y a su pareja por presunto homicidio agravado — https://diarioelsol.com.ar/contenido/59337/caso-angel-detuvieron-a-la-madre-y-a-su-pareja-por-presunto-homicidio-agravado _(bloqueado: contiene keyword 'homicidio')_
