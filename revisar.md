@@ -1090,3 +1090,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-05-27 09:35 UTC
 - Operativo conjunto entre la Policía de Concordia y la Policía Federal en distintos barrios de la ciudad — https://concordia24.com.ar/operativo-conjunto-entre-la-policia-de-concordia-y-la-policia-federal-en-distintos-barrios-de-la-ciudad/ _(bloqueado: contiene keyword 'policía')_
 - Motociclista de 17 años sufrió graves lesiones tras chocar contra un tráiler sin señalización en Ruta 4 — https://concordia24.com.ar/motociclista-de-17-anos-sufrio-graves-lesiones-tras-chocar-contra-un-trailer-sin-senalizacion-en-ruta-4/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-05-28 02:35 UTC
+- Violento despiste en la Autovía 14: un auto terminó sobre el ingreso de una vivienda — https://concordia24.com.ar/violento-despiste-en-la-autovia-14-un-auto-termino-sobre-el-ingreso-de-una-vivienda/ _(bloqueado: URL contiene '/viol')_
