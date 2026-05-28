@@ -1101,3 +1101,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Escándalo en un avión: futbolista de Gimnasia de Jujuy fue detenido tras gritar "bomba" antes del despegue — https://diarioelsol.com.ar/contenido/59310/escandalo-en-un-avion-futbolista-de-gimnasia-de-jujuy-fue-detenido-tras-gritar-b _(bloqueado: contiene keyword 'detenido')_
 - Investigan la muerte de un joven entrerriano que cayó de un edificio en Santa Fe — https://diarioelsol.com.ar/contenido/59313/investigan-la-muerte-de-un-joven-entrerriano-que-cayo-de-un-edificio-en-santa-fe _(bloqueado: contiene keyword 'homicidio')_
 - Llamó a la Policía porque su hijo la amenazaba, pero terminó detenida por atacar a los agentes — https://diarioelsol.com.ar/contenido/59312/llamo-a-la-policia-porque-su-hijo-la-amenazaba-pero-termino-detenida-por-atacar- _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-05-28 15:36 UTC
+- Ordenan liberar a los líderes de La Salada y se derrumba la causa de lavado — https://diarioelsol.com.ar/contenido/59318/ordenan-liberar-a-los-lideres-de-la-salada-y-se-derrumba-la-causa-de-lavado _(bloqueado: contiene keyword 'imputado')_
+- Un  despiste en la ruta 22 que resalta la ardua tarea policial para encontrar al conductor que no dijo nada. — https://diarioelsol.com.ar/contenido/59320/un-despiste-en-la-ruta-22-que-resalta-la-ardua-tarea-policial-para-encontrar-al- _(bloqueado: contiene keyword 'policial')_
