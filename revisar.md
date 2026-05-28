@@ -1094,3 +1094,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-28 02:35 UTC
 - Violento despiste en la Autovía 14: un auto terminó sobre el ingreso de una vivienda — https://concordia24.com.ar/violento-despiste-en-la-autovia-14-un-auto-termino-sobre-el-ingreso-de-una-vivienda/ _(bloqueado: URL contiene '/viol')_
+
+
+## Tanda 2026-05-28 09:52 UTC
+- Rescataron 8 perros en un procedimiento por maltrato animal — https://concordia24.com.ar/rescataron-8-perros-en-un-procedimiento-por-maltrato-animal/ _(bloqueado: contiene keyword 'policial')_
+- Escándalo en un avión: futbolista de Gimnasia de Jujuy fue detenido tras gritar "bomba" antes del despegue — https://diarioelsol.com.ar/contenido/59310/escandalo-en-un-avion-futbolista-de-gimnasia-de-jujuy-fue-detenido-tras-gritar-b _(bloqueado: contiene keyword 'detenido')_
+- Investigan la muerte de un joven entrerriano que cayó de un edificio en Santa Fe — https://diarioelsol.com.ar/contenido/59313/investigan-la-muerte-de-un-joven-entrerriano-que-cayo-de-un-edificio-en-santa-fe _(bloqueado: contiene keyword 'homicidio')_
+- Llamó a la Policía porque su hijo la amenazaba, pero terminó detenida por atacar a los agentes — https://diarioelsol.com.ar/contenido/59312/llamo-a-la-policia-porque-su-hijo-la-amenazaba-pero-termino-detenida-por-atacar- _(bloqueado: contiene keyword 'policía')_
