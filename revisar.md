@@ -1117,3 +1117,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Detuvieron a “Nino” Acosta por el crimen del sereno hallado dentro de una pared — https://diarioelsol.com.ar/contenido/59340/detuvieron-a-nino-acosta-por-el-crimen-del-sereno-hallado-dentro-de-una-pared _(bloqueado: contiene keyword 'policía')_
 - Llevaba cocaína escondida en un pañal y fue detenida en una terminal de ómnibus de Entre Ríos — https://diarioelsol.com.ar/contenido/59345/llevaba-cocaina-escondida-en-un-panal-y-fue-detenida-en-una-terminal-de-omnibus- _(bloqueado: contiene keyword 'policía')_
 - Una escuela de Concordia suspendió clases por agua marrón y denunció el deterioro de su edificio — https://diarioelsol.com.ar/contenido/59341/una-escuela-de-concordia-suspendio-clases-por-agua-marron-y-denuncio-el-deterior _(bloqueado: contiene keyword 'denunció')_
+
+
+## Tanda 2026-05-29 09:41 UTC
+- Dos personas detenidas tras el secuestro de un arma de fuego y 40 envoltorios de estupefacientes — https://concordia24.com.ar/dos-personas-detenidas-tras-el-secuestro-de-un-arma-de-fuego-y-40-envoltorios-de-estupefacientes/ _(bloqueado: contiene keyword 'policial')_
+- Se quitó la vida una joven abogada que había denunciado a su ex por la difusión de un video íntimo — https://diarioelsol.com.ar/contenido/59346/se-quito-la-vida-una-joven-abogada-que-habia-denunciado-a-su-ex-por-la-difusion- _(bloqueado: contiene keyword 'denuncia')_
