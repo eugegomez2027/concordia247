@@ -1111,3 +1111,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-05-28 20:10 UTC
 - Advierten que la reforma previsional traslada el ajuste a docentes, policías y trabajadores de la salud — https://diarioelsol.com.ar/contenido/59339/advierten-que-la-reforma-previsional-traslada-el-ajuste-a-docentes-policias-y-tr _(bloqueado: contiene keyword 'policía')_
 - Caso Ángel: detuvieron a la madre y a su pareja por presunto homicidio agravado — https://diarioelsol.com.ar/contenido/59337/caso-angel-detuvieron-a-la-madre-y-a-su-pareja-por-presunto-homicidio-agravado _(bloqueado: contiene keyword 'homicidio')_
+
+
+## Tanda 2026-05-29 02:39 UTC
+- Detuvieron a “Nino” Acosta por el crimen del sereno hallado dentro de una pared — https://diarioelsol.com.ar/contenido/59340/detuvieron-a-nino-acosta-por-el-crimen-del-sereno-hallado-dentro-de-una-pared _(bloqueado: contiene keyword 'policía')_
+- Llevaba cocaína escondida en un pañal y fue detenida en una terminal de ómnibus de Entre Ríos — https://diarioelsol.com.ar/contenido/59345/llevaba-cocaina-escondida-en-un-panal-y-fue-detenida-en-una-terminal-de-omnibus- _(bloqueado: contiene keyword 'policía')_
+- Una escuela de Concordia suspendió clases por agua marrón y denunció el deterioro de su edificio — https://diarioelsol.com.ar/contenido/59341/una-escuela-de-concordia-suspendio-clases-por-agua-marron-y-denuncio-el-deterior _(bloqueado: contiene keyword 'denunció')_
