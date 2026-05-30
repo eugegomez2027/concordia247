@@ -1126,3 +1126,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-30 02:33 UTC
 - Operativo en Villa Busti dejó al descubierto un caso que va más allá de un carnet vencido — https://diarioelsol.com.ar/contenido/59374/operativo-en-villa-busti-dejo-al-descubierto-un-caso-que-va-mas-alla-de-un-carne _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-05-30 13:14 UTC
+- Allanamientos con cinco detenidos por amenazas y tenencia de estupefacientes — https://concordia24.com.ar/allanamientos-con-cinco-detenidos-por-amenazas-y-tenencia-de-estupefacientes/ _(bloqueado: contiene keyword 'detenido')_
+- Corrientes: fallo declara inconstitucional aplicar Ganancias a jubilados — https://diarioelsol.com.ar/contenido/59386/corrientes-fallo-declara-inconstitucional-aplicar-ganancias-a-jubilados _(bloqueado: contiene keyword 'denuncia')_
+- Una adolescente dio a luz con asistencia de ChatGPT y abandonó a la beba en Ezpeleta — https://diarioelsol.com.ar/contenido/59391/una-adolescente-dio-a-luz-con-asistencia-de-chatgpt-y-abandono-a-la-beba-en-ezpe _(bloqueado: contiene keyword 'menor')_
