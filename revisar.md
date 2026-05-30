@@ -1132,3 +1132,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Allanamientos con cinco detenidos por amenazas y tenencia de estupefacientes — https://concordia24.com.ar/allanamientos-con-cinco-detenidos-por-amenazas-y-tenencia-de-estupefacientes/ _(bloqueado: contiene keyword 'detenido')_
 - Corrientes: fallo declara inconstitucional aplicar Ganancias a jubilados — https://diarioelsol.com.ar/contenido/59386/corrientes-fallo-declara-inconstitucional-aplicar-ganancias-a-jubilados _(bloqueado: contiene keyword 'denuncia')_
 - Una adolescente dio a luz con asistencia de ChatGPT y abandonó a la beba en Ezpeleta — https://diarioelsol.com.ar/contenido/59391/una-adolescente-dio-a-luz-con-asistencia-de-chatgpt-y-abandono-a-la-beba-en-ezpe _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-05-30 19:03 UTC
+- Concordia solidaria: Exequiel, el adolescente que vende limones para costear su salud auditiva, recibió una computadora de regalo — https://concordia24.com.ar/concordia-solidaria-exequiel-el-adolescente-que-vende-limones-para-costear-su-salud-auditiva-recibio-una-computadora-de-regalo/ _(bloqueado: contiene keyword 'adolescente')_
+- Rosario: Desarticulan puntos de venta de drogas e investigan hechos con armas de fuego — https://concordia24.com.ar/rosario-desarticulan-puntos-de-venta-de-drogas-e-investigan-hechos-con-armas-de-fuego/ _(bloqueado: contiene keyword 'allanamiento')_
