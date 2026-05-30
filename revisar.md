@@ -1122,3 +1122,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-05-29 09:41 UTC
 - Dos personas detenidas tras el secuestro de un arma de fuego y 40 envoltorios de estupefacientes — https://concordia24.com.ar/dos-personas-detenidas-tras-el-secuestro-de-un-arma-de-fuego-y-40-envoltorios-de-estupefacientes/ _(bloqueado: contiene keyword 'policial')_
 - Se quitó la vida una joven abogada que había denunciado a su ex por la difusión de un video íntimo — https://diarioelsol.com.ar/contenido/59346/se-quito-la-vida-una-joven-abogada-que-habia-denunciado-a-su-ex-por-la-difusion- _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-05-30 02:33 UTC
+- Operativo en Villa Busti dejó al descubierto un caso que va más allá de un carnet vencido — https://diarioelsol.com.ar/contenido/59374/operativo-en-villa-busti-dejo-al-descubierto-un-caso-que-va-mas-alla-de-un-carne _(bloqueado: contiene keyword 'policía')_
