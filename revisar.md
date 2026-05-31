@@ -1147,3 +1147,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Amenaza de tiroteo en una escuela de Concordia activó un operativo policial y obligó a evacuar a los alumnos — https://diarioelsol.com.ar/contenido/59409/amenaza-de-tiroteo-en-una-escuela-de-concordia-activo-un-operativo-policial-y-ob _(bloqueado: contiene keyword 'policía')_
 - Reto viral “viernes 17 tiroteo”: activan protocolo y habrá presencia policial en las escuelas que denunciaron — https://diarioelsol.com.ar/contenido/59414/reto-viral-viernes-17-tiroteo-activan-protocolo-y-habra-presencia-policial-en-la _(bloqueado: contiene keyword 'policial')_
 - Amenazas de tiroteos en escuelas: qué hay detrás de la conducta de los adolescentes — https://diarioelsol.com.ar/contenido/59413/amenazas-de-tiroteos-en-escuelas-que-hay-detras-de-la-conducta-de-los-adolescent _(bloqueado: contiene keyword 'tiroteo')_
+
+
+## Tanda 2026-05-31 13:23 UTC
+- Secuestro de marihuana en requisa en evento deportivo Cancha Unión de Villa Jardín — https://concordia24.com.ar/secuestro-de-marihuana-en-requisa-en-evento-deportivo-cancha-union-de-villa-jardin/ _(bloqueado: contiene keyword 'policial')_
+- Allanamientos por el incendio de un camión: detuvieron al presunto autor intelectual y a dos sospechosos de ejecutar el ataque — https://concordia24.com.ar/allanamientos-por-el-incendio-de-un-camion-detuvieron-al-presunto-autor-intelectual-y-a-dos-sospechosos-de-ejecutar-el-ataque/ _(bloqueado: contiene keyword 'policía')_
