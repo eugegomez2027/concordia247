@@ -1141,3 +1141,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-05-31 02:50 UTC
 - Nayib Bukele sancionó una ley que permite la cadena perpetua desde los 12 años — https://diarioelsol.com.ar/contenido/59403/nayib-bukele-sanciono-una-ley-que-permite-la-cadena-perpetua-desde-los-12-anos _(bloqueado: contiene keyword 'homicidio')_
+
+
+## Tanda 2026-05-31 08:37 UTC
+- Amenaza de tiroteo en una escuela de Concordia activó un operativo policial y obligó a evacuar a los alumnos — https://diarioelsol.com.ar/contenido/59409/amenaza-de-tiroteo-en-una-escuela-de-concordia-activo-un-operativo-policial-y-ob _(bloqueado: contiene keyword 'policía')_
+- Reto viral “viernes 17 tiroteo”: activan protocolo y habrá presencia policial en las escuelas que denunciaron — https://diarioelsol.com.ar/contenido/59414/reto-viral-viernes-17-tiroteo-activan-protocolo-y-habra-presencia-policial-en-la _(bloqueado: contiene keyword 'policial')_
+- Amenazas de tiroteos en escuelas: qué hay detrás de la conducta de los adolescentes — https://diarioelsol.com.ar/contenido/59413/amenazas-de-tiroteos-en-escuelas-que-hay-detras-de-la-conducta-de-los-adolescent _(bloqueado: contiene keyword 'tiroteo')_
