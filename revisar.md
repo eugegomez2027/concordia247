@@ -1137,3 +1137,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-05-30 19:03 UTC
 - Concordia solidaria: Exequiel, el adolescente que vende limones para costear su salud auditiva, recibió una computadora de regalo — https://concordia24.com.ar/concordia-solidaria-exequiel-el-adolescente-que-vende-limones-para-costear-su-salud-auditiva-recibio-una-computadora-de-regalo/ _(bloqueado: contiene keyword 'adolescente')_
 - Rosario: Desarticulan puntos de venta de drogas e investigan hechos con armas de fuego — https://concordia24.com.ar/rosario-desarticulan-puntos-de-venta-de-drogas-e-investigan-hechos-con-armas-de-fuego/ _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-05-31 02:50 UTC
+- Nayib Bukele sancionó una ley que permite la cadena perpetua desde los 12 años — https://diarioelsol.com.ar/contenido/59403/nayib-bukele-sanciono-una-ley-que-permite-la-cadena-perpetua-desde-los-12-anos _(bloqueado: contiene keyword 'homicidio')_
