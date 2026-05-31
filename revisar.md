@@ -1152,3 +1152,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-05-31 13:23 UTC
 - Secuestro de marihuana en requisa en evento deportivo Cancha Unión de Villa Jardín — https://concordia24.com.ar/secuestro-de-marihuana-en-requisa-en-evento-deportivo-cancha-union-de-villa-jardin/ _(bloqueado: contiene keyword 'policial')_
 - Allanamientos por el incendio de un camión: detuvieron al presunto autor intelectual y a dos sospechosos de ejecutar el ataque — https://concordia24.com.ar/allanamientos-por-el-incendio-de-un-camion-detuvieron-al-presunto-autor-intelectual-y-a-dos-sospechosos-de-ejecutar-el-ataque/ _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-05-31 19:06 UTC
+- El gobierno provincial convoca a familias entrerrianas a sumarse a Familias de Abrigo — https://concordia24.com.ar/el-gobierno-provincial-convoca-a-familias-entrerrianas-a-sumarse-a-familias-de-abrigo/ _(bloqueado: contiene keyword 'niño')_
+- Tres detenidos y secuestro de droga en allanamientos realizados en distintos puntos de Concordia — https://concordia24.com.ar/tres-detenidos-y-secuestro-de-droga-en-allanamientos-realizados-en-distintos-puntos-de-concordia/ _(bloqueado: contiene keyword 'detenido')_
+- Judiciales entrerrianos continúan con su plan de lucha este viernes — https://diarioelsol.com.ar/contenido/59422/judiciales-entrerrianos-continuan-con-su-plan-de-lucha-este-viernes _(bloqueado: URL contiene '/judicial')_
+- Ley de propiedad privada: el proyecto oficial podría habilitar desalojos masivos en barrios populares en todo el país — https://diarioelsol.com.ar/contenido/59421/ley-de-propiedad-privada-el-proyecto-oficial-podria-habilitar-desalojos-masivos- _(bloqueado: contiene keyword 'niño')_
