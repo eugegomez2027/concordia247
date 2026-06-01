@@ -1174,3 +1174,12 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Intentó robar un auto, no pudo arrancarlo y se quedó dormido adentro — https://diarioelsol.com.ar/contenido/59452/intento-robar-un-auto-no-pudo-arrancarlo-y-se-quedo-dormido-adentro _(bloqueado: contiene keyword 'policía')_
 - EL PJ DE ENTRE RIOS SEÑALO EN UN COMUNICADO LA "MARCADA INTENCIONALIDAD" DEL FISCAL QUE PIDIO ALLANAR LA CASA DE LA HIJA DE BORDET — https://diarioelsol.com.ar/contenido/59456/el-pj-de-entre-rios-senalo-en-un-comunicado-la-marcada-intencionalidad-del-fisca _(bloqueado: contiene keyword 'allanamiento')_
 - Una infancia en peligro: la advertencia médica sobre el trabajo en basurales — https://diarioelsol.com.ar/contenido/59455/una-infancia-en-peligro-la-advertencia-medica-sobre-el-trabajo-en-basurales _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-06-01 17:24 UTC
+- La Justicia obligó a OSER a cubrir una medicación para diabetes que numerosos pacientes denuncian no estar recibiendo — https://concordia24.com.ar/la-justicia-obligo-a-oser-a-cubrir-una-medicacion-para-diabetes-que-numerosos-pacientes-denuncian-no-estar-recibiendo/ _(bloqueado: contiene keyword 'denuncia')_
+- Investigan al entorno familiar de la joven agente de Policía que se quitó la vida en Chajarí — https://diarioelsol.com.ar/contenido/59458/investigan-al-entorno-familiar-de-la-joven-agente-de-policia-que-se-quito-la-vid _(bloqueado: contiene keyword 'policía')_
+- Golpe al narcotráfico en Concordia: tres allanamientos, un detenido y un kilo de cocaína secuestrado — https://diarioelsol.com.ar/contenido/59457/golpe-al-narcotrafico-en-concordia-tres-allanamientos-un-detenido-y-un-kilo-de-c _(bloqueado: contiene keyword 'detenido')_
+- Fijaron para octubre el juicio contra una médica entrerriana por la muerte de un niño — https://diarioelsol.com.ar/contenido/59460/fijaron-para-octubre-el-juicio-contra-una-medica-entrerriana-por-la-muerte-de-un _(bloqueado: contiene keyword 'homicidio')_
+- Chajarí: dos amenazas de tiroteo en una escuela resultaron ser un reto viral y se activó el protocolo del CGE — https://diarioelsol.com.ar/contenido/59464/chajari-dos-amenazas-de-tiroteo-en-una-escuela-resultaron-ser-un-reto-viral-y-se _(bloqueado: contiene keyword 'tiroteo')_
+- Allanamientos en el 17 de Octubre: secuestran estupefacientes y detienen a nueve personas — https://diarioelsol.com.ar/contenido/59463/allanamientos-en-el-17-de-octubre-secuestran-estupefacientes-y-detienen-a-nueve- _(bloqueado: contiene keyword 'allanamiento')_
