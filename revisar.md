@@ -1183,3 +1183,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Fijaron para octubre el juicio contra una médica entrerriana por la muerte de un niño — https://diarioelsol.com.ar/contenido/59460/fijaron-para-octubre-el-juicio-contra-una-medica-entrerriana-por-la-muerte-de-un _(bloqueado: contiene keyword 'homicidio')_
 - Chajarí: dos amenazas de tiroteo en una escuela resultaron ser un reto viral y se activó el protocolo del CGE — https://diarioelsol.com.ar/contenido/59464/chajari-dos-amenazas-de-tiroteo-en-una-escuela-resultaron-ser-un-reto-viral-y-se _(bloqueado: contiene keyword 'tiroteo')_
 - Allanamientos en el 17 de Octubre: secuestran estupefacientes y detienen a nueve personas — https://diarioelsol.com.ar/contenido/59463/allanamientos-en-el-17-de-octubre-secuestran-estupefacientes-y-detienen-a-nueve- _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-06-01 21:24 UTC
+- Hallan muerto a un joven en una vivienda de Larocca y la investigación apunta a un disparo en el pecho — https://diarioelsol.com.ar/contenido/59467/asesinan-a-un-joven-en-situacion-de-calle-tras-una-serie-de-amenazas-por-una-deu _(bloqueado: contiene keyword 'robo')_
