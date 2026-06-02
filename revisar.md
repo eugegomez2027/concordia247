@@ -1187,3 +1187,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-01 21:24 UTC
 - Hallan muerto a un joven en una vivienda de Larocca y la investigación apunta a un disparo en el pecho — https://diarioelsol.com.ar/contenido/59467/asesinan-a-un-joven-en-situacion-de-calle-tras-una-serie-de-amenazas-por-una-deu _(bloqueado: contiene keyword 'robo')_
+
+
+## Tanda 2026-06-02 20:38 UTC
+- Frigerio destacó el accionar policial en el operativo de secuestro de casi 261 kilos de cocaína en Feliciano — https://concordia24.com.ar/frigerio-destaco-el-accionar-policial-en-el-operativo-de-secuestro-de-casi-261-kilos-de-cocaina-en-feliciano/ _(bloqueado: contiene keyword 'policía')_
+- Brutal crimen en Camba Paso: asesinaron a un hombre de 81 años y detuvieron al principal sospechoso tras un allanamiento — https://diarioelsol.com.ar/contenido/59497/brutal-crimen-en-camba-paso-asesinaron-a-un-hombre-de-81-anos-y-detuvieron-al-pr _(bloqueado: contiene keyword 'crimen')_
+- Conducía con 2,28 de alcohol en sangre y en forma peligrosa: Le secuestraron la camioneta. — https://diarioelsol.com.ar/contenido/59496/conducia-con-228-de-alcohol-en-sangre-y-en-forma-peligrosa-le-secuestraron-la-ca _(bloqueado: contiene keyword 'policial')_
