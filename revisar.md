@@ -1205,3 +1205,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Tenía permiso para cultivar cannavis del REPROCANN pero dicen que se "excedió" en la cantidad de plantas y le secuestraron 21 ejemplares. — https://diarioelsol.com.ar/contenido/59507/tenia-permiso-para-cultivar-cannavis-del-reprocann-pero-dicen-que-se-excedio-en- _(bloqueado: contiene keyword 'policía')_
 - Allanamiento en zona de Nogoyá y Saavedra: secuestran armas caseras y cartuchería — https://diarioelsol.com.ar/contenido/59506/allanamiento-en-zona-de-nogoya-y-saavedra-secuestran-armas-caseras-y-cartucheria _(bloqueado: contiene keyword 'allanamiento')_
 - Cayó el presunto autor del crimen del joven en situación de calle y secuestraron el arma que habría sido usada en el homicidio — https://diarioelsol.com.ar/contenido/59514/cayo-el-presunto-autor-del-crimen-del-joven-en-situacion-de-calle-y-secuestraron _(bloqueado: contiene keyword 'crimen')_
+
+
+## Tanda 2026-06-03 16:24 UTC
+- Fijaron para octubre el juicio contra una médica del Hospital por la muerte de un niño — https://diarioelsol.com.ar/contenido/59512/fijaron-para-octubre-el-juicio-contra-una-medica-del-hospital-por-la-muerte-de-u _(bloqueado: contiene keyword 'homicidio')_
