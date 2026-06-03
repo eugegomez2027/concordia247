@@ -1193,3 +1193,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Frigerio destacó el accionar policial en el operativo de secuestro de casi 261 kilos de cocaína en Feliciano — https://concordia24.com.ar/frigerio-destaco-el-accionar-policial-en-el-operativo-de-secuestro-de-casi-261-kilos-de-cocaina-en-feliciano/ _(bloqueado: contiene keyword 'policía')_
 - Brutal crimen en Camba Paso: asesinaron a un hombre de 81 años y detuvieron al principal sospechoso tras un allanamiento — https://diarioelsol.com.ar/contenido/59497/brutal-crimen-en-camba-paso-asesinaron-a-un-hombre-de-81-anos-y-detuvieron-al-pr _(bloqueado: contiene keyword 'crimen')_
 - Conducía con 2,28 de alcohol en sangre y en forma peligrosa: Le secuestraron la camioneta. — https://diarioelsol.com.ar/contenido/59496/conducia-con-228-de-alcohol-en-sangre-y-en-forma-peligrosa-le-secuestraron-la-ca _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-06-03 03:31 UTC
+- “Se nos fue el Tío de Camba Paso”: el mensaje tras el homicidio de Ramón Tejera — https://diarioelsol.com.ar/contenido/59503/se-nos-fue-el-tio-de-camba-paso-el-mensaje-tras-el-homicidio-de-ramon-tejera _(bloqueado: contiene keyword 'crimen')_
+- CON LOS DISCAPACITADOS NO !!!. El Gobierno envió una nueva Ley de Discapacidad: reempadronamiento obligatorio y eliminación de beneficios — https://diarioelsol.com.ar/contenido/59505/con-los-discapacitados-no-el-gobierno-envio-una-nueva-ley-de-discapacidad-reempa _(bloqueado: contiene keyword 'denuncia')_
