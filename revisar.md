@@ -1214,3 +1214,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-06-03 20:49 UTC
 - Grave caso de bullying en Comercio 1: estudiante terminó con una costilla fisurada tras ataque de una compañera — https://diarioelsol.com.ar/contenido/59515/grave-caso-de-bullying-en-comercio-1-estudiante-termino-con-una-costilla-fisurad _(bloqueado: contiene keyword 'menor')_
 - Conmoción en Córdoba: un niño de 11 años falleció mientras jugaba en el recreo en una escuela — https://diarioelsol.com.ar/contenido/59517/conmocion-en-cordoba-un-nino-de-11-anos-fallecio-mientras-jugaba-en-el-recreo-en _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-06-04 03:25 UTC
+- Allanamiento en el barrio Tiro Federal: Secuestran cocaína y detienen a dos personas — https://concordia24.com.ar/allanamiento-en-el-barrio-tiro-federal-secuestran-cocaina-y-detienen-a-dos-personas/ _(bloqueado: contiene keyword 'allanamiento')_
