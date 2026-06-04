@@ -1227,3 +1227,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-06-04 14:44 UTC
 - Parte médico de los heridos en el accidente de Eva Perón y Pasaje de Los Niños — https://concordia24.com.ar/parte-medico-de-los-heridos-en-el-accidente-de-eva-peron-y-pasaje-de-los-ninos/ _(bloqueado: contiene keyword 'niño')_
 - El incendio en el Hospital Masvernat fue intencional: pericias revelan que el fuego se inició desde un orificio en la pared — https://diarioelsol.com.ar/contenido/59525/el-incendio-en-el-hospital-masvernat-fue-intencional-pericias-revelan-que-el-fue _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-06-04 19:57 UTC
+- Preocupación por la difusión de una fotografía sin consentimiento de una estudiante de Educación Física — https://concordia24.com.ar/preocupacion-por-la-difusion-de-una-fotografia-sin-consentimiento-de-una-estudiante-de-educacion-fisica/ _(bloqueado: contiene keyword 'denunció')_
