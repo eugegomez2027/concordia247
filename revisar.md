@@ -1222,3 +1222,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-04 09:47 UTC
 - Casi 6 de cada 10 niños son pobres en la Argentina y el 30% no come regularmente, según la UCA — https://diarioelsol.com.ar/contenido/59528/casi-6-de-cada-10-ninos-son-pobres-en-la-argentina-y-el-30-no-come-regularmente- _(bloqueado: contiene keyword 'adolescente')_
+
+
+## Tanda 2026-06-04 14:44 UTC
+- Parte médico de los heridos en el accidente de Eva Perón y Pasaje de Los Niños — https://concordia24.com.ar/parte-medico-de-los-heridos-en-el-accidente-de-eva-peron-y-pasaje-de-los-ninos/ _(bloqueado: contiene keyword 'niño')_
+- El incendio en el Hospital Masvernat fue intencional: pericias revelan que el fuego se inició desde un orificio en la pared — https://diarioelsol.com.ar/contenido/59525/el-incendio-en-el-hospital-masvernat-fue-intencional-pericias-revelan-que-el-fue _(bloqueado: contiene keyword 'menor')_
