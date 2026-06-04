@@ -1218,3 +1218,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-04 03:25 UTC
 - Allanamiento en el barrio Tiro Federal: Secuestran cocaína y detienen a dos personas — https://concordia24.com.ar/allanamiento-en-el-barrio-tiro-federal-secuestran-cocaina-y-detienen-a-dos-personas/ _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-06-04 09:47 UTC
+- Casi 6 de cada 10 niños son pobres en la Argentina y el 30% no come regularmente, según la UCA — https://diarioelsol.com.ar/contenido/59528/casi-6-de-cada-10-ninos-son-pobres-en-la-argentina-y-el-30-no-come-regularmente- _(bloqueado: contiene keyword 'adolescente')_
