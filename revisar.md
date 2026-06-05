@@ -1231,3 +1231,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-04 19:57 UTC
 - Preocupación por la difusión de una fotografía sin consentimiento de una estudiante de Educación Física — https://concordia24.com.ar/preocupacion-por-la-difusion-de-una-fotografia-sin-consentimiento-de-una-estudiante-de-educacion-fisica/ _(bloqueado: contiene keyword 'denunció')_
+
+
+## Tanda 2026-06-05 09:36 UTC
+- Se estrelló una avioneta de caudales en Paraguay y los vecinos saquearon u$s2 millones — https://diarioelsol.com.ar/contenido/59536/se-estrello-una-avioneta-de-caudales-en-paraguay-y-los-vecinos-saquearon-us2-mil _(bloqueado: contiene keyword 'policía')_
+- Tres detenidos en Colonia Roca tras un allanamiento por la usurpación de una vivienda — https://diarioelsol.com.ar/contenido/59541/tres-detenidos-en-colonia-roca-tras-un-allanamiento-por-la-usurpacion-de-una-viv _(bloqueado: contiene keyword 'detenido')_
+- Allanamientos en el barrio José Hernández por una causa que mezcla sustracción de menores y venta de droga — https://diarioelsol.com.ar/contenido/59545/allanamientos-en-el-barrio-jose-hernandez-por-una-causa-que-mezcla-sustraccion-d _(bloqueado: contiene keyword 'allanamiento')_
