@@ -1237,3 +1237,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Se estrelló una avioneta de caudales en Paraguay y los vecinos saquearon u$s2 millones — https://diarioelsol.com.ar/contenido/59536/se-estrello-una-avioneta-de-caudales-en-paraguay-y-los-vecinos-saquearon-us2-mil _(bloqueado: contiene keyword 'policía')_
 - Tres detenidos en Colonia Roca tras un allanamiento por la usurpación de una vivienda — https://diarioelsol.com.ar/contenido/59541/tres-detenidos-en-colonia-roca-tras-un-allanamiento-por-la-usurpacion-de-una-viv _(bloqueado: contiene keyword 'detenido')_
 - Allanamientos en el barrio José Hernández por una causa que mezcla sustracción de menores y venta de droga — https://diarioelsol.com.ar/contenido/59545/allanamientos-en-el-barrio-jose-hernandez-por-una-causa-que-mezcla-sustraccion-d _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-06-05 14:34 UTC
+- Procedimiento con personal policial de civil permitió una aprehensión por presunta comercialización de estupefacientes — https://concordia24.com.ar/procedimiento-con-personal-policial-de-civil-permitio-una-aprehension-por-presunta-comercializacion-de-estupefacientes/ _(bloqueado: contiene keyword 'policial')_
+- Intentó sobornar a la Policía tras ser identificado con una importante suma de dinero: quedó detenido y se investiga el origen del efectivo — https://diarioelsol.com.ar/contenido/59546/intento-sobornar-a-la-policia-tras-ser-identificado-con-una-importante-suma-de-d _(bloqueado: contiene keyword 'policía')_
