@@ -1242,3 +1242,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-06-05 14:34 UTC
 - Procedimiento con personal policial de civil permitió una aprehensión por presunta comercialización de estupefacientes — https://concordia24.com.ar/procedimiento-con-personal-policial-de-civil-permitio-una-aprehension-por-presunta-comercializacion-de-estupefacientes/ _(bloqueado: contiene keyword 'policial')_
 - Intentó sobornar a la Policía tras ser identificado con una importante suma de dinero: quedó detenido y se investiga el origen del efectivo — https://diarioelsol.com.ar/contenido/59546/intento-sobornar-a-la-policia-tras-ser-identificado-con-una-importante-suma-de-d _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-06-06 13:17 UTC
+- Designan al Tribunal Oral Federal para el juicio vinculado al entorno de Edgardo Kueider — https://diarioelsol.com.ar/contenido/59565/designan-al-tribunal-oral-federal-para-el-juicio-vinculado-al-entorno-de-edgardo _(bloqueado: contiene keyword 'imputado')_
