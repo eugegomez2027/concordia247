@@ -1246,3 +1246,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-06 13:17 UTC
 - Designan al Tribunal Oral Federal para el juicio vinculado al entorno de Edgardo Kueider — https://diarioelsol.com.ar/contenido/59565/designan-al-tribunal-oral-federal-para-el-juicio-vinculado-al-entorno-de-edgardo _(bloqueado: contiene keyword 'imputado')_
+
+
+## Tanda 2026-06-06 19:10 UTC
+- Chajarí se queda sin delegación de la Policía Federal — https://diarioelsol.com.ar/contenido/59567/chajari-se-queda-sin-delegacion-de-la-policia-federal _(bloqueado: contiene keyword 'policía')_
