@@ -1250,3 +1250,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-06 19:10 UTC
 - Chajarí se queda sin delegación de la Policía Federal — https://diarioelsol.com.ar/contenido/59567/chajari-se-queda-sin-delegacion-de-la-policia-federal _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-06-07 13:28 UTC
+- Crónica de un ataque que conmocionó a un barrio de Concordia — https://diarioelsol.com.ar/contenido/59578/cronica-de-un-ataque-que-conmociono-a-un-barrio-de-concordia _(bloqueado: contiene keyword 'niño')_
+- El Hospital Garrahan le realizó un implante cerebral a una niña con trastorno del movimiento severo — https://diarioelsol.com.ar/contenido/59577/el-hospital-garrahan-le-realizo-un-implante-cerebral-a-una-nina-con-trastorno-de _(bloqueado: contiene keyword 'niña')_
+- Crecen las estafas con el Telepase: recomendaciones para evitar caer en el fraude — https://diarioelsol.com.ar/contenido/59580/crecen-las-estafas-con-el-telepase-recomendaciones-para-evitar-caer-en-el-fraude _(bloqueado: contiene keyword 'denuncia')_
