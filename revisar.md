@@ -1256,3 +1256,11 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Crónica de un ataque que conmocionó a un barrio de Concordia — https://diarioelsol.com.ar/contenido/59578/cronica-de-un-ataque-que-conmociono-a-un-barrio-de-concordia _(bloqueado: contiene keyword 'niño')_
 - El Hospital Garrahan le realizó un implante cerebral a una niña con trastorno del movimiento severo — https://diarioelsol.com.ar/contenido/59577/el-hospital-garrahan-le-realizo-un-implante-cerebral-a-una-nina-con-trastorno-de _(bloqueado: contiene keyword 'niña')_
 - Crecen las estafas con el Telepase: recomendaciones para evitar caer en el fraude — https://diarioelsol.com.ar/contenido/59580/crecen-las-estafas-con-el-telepase-recomendaciones-para-evitar-caer-en-el-fraude _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-06-07 19:11 UTC
+- Se entregaron más de 1.000 anteojos en Concordia en el marco del programa Ver para Ser Libres — https://concordia24.com.ar/se-entregaron-mas-de-1-000-anteojos-en-concordia-en-el-marco-del-programa-ver-para-ser-libres/ _(bloqueado: contiene keyword 'niño')_
+- Juicio por la muerte de Maradona: Fernando Burlando apuntó contra Leopoldo Luque y afirmó que "se está exponiendo mucho a la mentira" — https://diarioelsol.com.ar/contenido/59582/juicio-por-la-muerte-de-maradona-fernando-burlando-apunto-contra-leopoldo-luque- _(bloqueado: contiene keyword 'asesin')_
+- El narco uruguayo Carlos Araujo se negó a ser extraditado y seguirá detenido en Entre Ríos — https://diarioelsol.com.ar/contenido/59585/el-narco-uruguayo-carlos-araujo-se-nego-a-ser-extraditado-y-seguira-detenido-en- _(bloqueado: contiene keyword 'policía')_
+- El Tribunal de Disciplina del PJ expulsó del partido a Rossi y Reggiardo y suspende a otros referentes — https://diarioelsol.com.ar/contenido/59583/el-tribunal-de-disciplina-del-pj-expulso-del-partido-a-rossi-y-reggiardo-y-suspe _(bloqueado: contiene keyword 'denuncia')_
+- En otro operativo "saturación" la Policía secuestró 3 automóviles y 5 motos por carecer de documentación. — https://diarioelsol.com.ar/contenido/59590/en-otro-operativo-saturacion-la-policia-secuestro-3-automoviles-y-5-motos-por-ca _(bloqueado: contiene keyword 'policía')_
