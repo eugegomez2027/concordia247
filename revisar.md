@@ -1269,3 +1269,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-06-08 02:57 UTC
 - Secuestraron un arsenal de armas de fuego pero el propietario tenía toda la documentación en orden. — https://diarioelsol.com.ar/contenido/59591/secuestraron-un-arsenal-de-armas-de-fuego-pero-el-propietario-tenia-toda-la-docu _(bloqueado: contiene keyword 'policial')_
 - Ante la denuncia de una mujer, la Policía allanó una casa y secuestró dos perras y seis cachorros. — https://diarioelsol.com.ar/contenido/59593/ante-la-denuncia-de-una-mujer-la-policia-allano-una-casa-y-secuestro-dos-perras- _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-06-08 10:24 UTC
+- En otro operativo de la Comisaría 3ra. realizado ayer, se detuvieron seis personas, haciendo un total de 10 en un día, por supuesto narcotráfico. — https://diarioelsol.com.ar/contenido/59602/en-otro-operativo-de-la-comisaria-3ra-realizado-ayer-se-detuvieron-seis-personas _(bloqueado: contiene keyword 'allanamiento')_
+- Policías de cuatro departamentales de la Provincia allanaron un narcokiosco, detuvieron a cuatro personas y secuestraron 8 envoltorios de cocaína. — https://diarioelsol.com.ar/contenido/59601/policias-de-cuatro-departamentales-de-la-provincia-allanaron-un-narcokiosco-detu _(bloqueado: contiene keyword 'policía')_
+- Detuvieron a un presunto delivery de la droga — https://diarioelsol.com.ar/contenido/59606/detuvieron-a-un-presunto-delivery-de-la-droga _(bloqueado: contiene keyword 'policial')_
+- Retienen una camioneta por maniobras peligrosas del conductor que conducía borracho. — https://diarioelsol.com.ar/contenido/59605/retienen-una-camioneta-por-maniobras-peligrosas-del-conductor-que-conducia-borra _(bloqueado: contiene keyword 'policía')_
