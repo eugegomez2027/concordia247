@@ -1276,3 +1276,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Policías de cuatro departamentales de la Provincia allanaron un narcokiosco, detuvieron a cuatro personas y secuestraron 8 envoltorios de cocaína. — https://diarioelsol.com.ar/contenido/59601/policias-de-cuatro-departamentales-de-la-provincia-allanaron-un-narcokiosco-detu _(bloqueado: contiene keyword 'policía')_
 - Detuvieron a un presunto delivery de la droga — https://diarioelsol.com.ar/contenido/59606/detuvieron-a-un-presunto-delivery-de-la-droga _(bloqueado: contiene keyword 'policial')_
 - Retienen una camioneta por maniobras peligrosas del conductor que conducía borracho. — https://diarioelsol.com.ar/contenido/59605/retienen-una-camioneta-por-maniobras-peligrosas-del-conductor-que-conducia-borra _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-06-08 20:06 UTC
+- Escopeta, pistola y múltiples cuchillos: el arsenal del atacante en el atentado contra Donald Trump — https://diarioelsol.com.ar/contenido/59610/escopeta-pistola-y-multiples-cuchillos-el-arsenal-del-atacante-en-el-atentado-co _(bloqueado: contiene keyword 'detenido')_
+- Intentaron matar a tiros a un adolescente en Entre Ríos: la Policía secuestró drogas y 3 millones de pesos — https://diarioelsol.com.ar/contenido/59609/intentaron-matar-a-tiros-a-un-adolescente-en-entre-rios-la-policia-secuestro-dro _(bloqueado: contiene keyword 'policía')_
+- Intento de asesinato contra Donald Trump: el Servicio Secreto de EEUU trabaja en la hipótesis del “lobo solitario” — https://diarioelsol.com.ar/contenido/59608/intento-de-asesinato-contra-donald-trump-el-servicio-secreto-de-eeuu-trabaja-en- _(bloqueado: contiene keyword 'asesin')_
