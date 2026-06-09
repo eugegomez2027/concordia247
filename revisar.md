@@ -1282,3 +1282,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Escopeta, pistola y múltiples cuchillos: el arsenal del atacante en el atentado contra Donald Trump — https://diarioelsol.com.ar/contenido/59610/escopeta-pistola-y-multiples-cuchillos-el-arsenal-del-atacante-en-el-atentado-co _(bloqueado: contiene keyword 'detenido')_
 - Intentaron matar a tiros a un adolescente en Entre Ríos: la Policía secuestró drogas y 3 millones de pesos — https://diarioelsol.com.ar/contenido/59609/intentaron-matar-a-tiros-a-un-adolescente-en-entre-rios-la-policia-secuestro-dro _(bloqueado: contiene keyword 'policía')_
 - Intento de asesinato contra Donald Trump: el Servicio Secreto de EEUU trabaja en la hipótesis del “lobo solitario” — https://diarioelsol.com.ar/contenido/59608/intento-de-asesinato-contra-donald-trump-el-servicio-secreto-de-eeuu-trabaja-en- _(bloqueado: contiene keyword 'asesin')_
+
+
+## Tanda 2026-06-09 20:00 UTC
+- Defensa Civil provincial coordina acciones ante el posible impacto de El Niño — https://concordia24.com.ar/defensa-civil-provincial-coordina-acciones-ante-el-posible-impacto-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
