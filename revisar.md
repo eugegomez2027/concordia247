@@ -1292,3 +1292,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Un nene de 7 años sufrió graves heridas tras ser atacado por varios perros — https://diarioelsol.com.ar/contenido/59629/un-nene-de-7-anos-sufrio-graves-heridas-tras-ser-atacado-por-varios-perros _(bloqueado: contiene keyword 'menor')_
 - El Gobierno condenó el tiroteo en Washington y Milei celebró que Trump saliera ileso por "cuarta vez" — https://diarioelsol.com.ar/contenido/59633/el-gobierno-condeno-el-tiroteo-en-washington-y-milei-celebro-que-trump-saliera-i _(bloqueado: contiene keyword 'tiroteo')_
 - Caputo aceptó la renuncia de Frugoni tras el escándalo por bienes no declarados en Miami — https://diarioelsol.com.ar/contenido/59632/caputo-acepto-la-renuncia-de-frugoni-tras-el-escandalo-por-bienes-no-declarados- _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-06-10 15:19 UTC
+- Multarán al dueño del perro que mordió al nene de ocho años. — https://diarioelsol.com.ar/contenido/59648/multaran-al-dueno-del-perro-que-mordio-al-nene-de-ocho-anos _(bloqueado: contiene keyword 'denuncia')_
+- Femicidio: murió la mujer que había sido apuñalada por su pareja en Concordia — https://diarioelsol.com.ar/contenido/59647/femicidio-murio-la-mujer-que-habia-sido-apunalada-por-su-pareja-en-concordia _(bloqueado: contiene keyword 'crimen')_
