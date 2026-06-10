@@ -1297,3 +1297,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-06-10 15:19 UTC
 - Multarán al dueño del perro que mordió al nene de ocho años. — https://diarioelsol.com.ar/contenido/59648/multaran-al-dueno-del-perro-que-mordio-al-nene-de-ocho-anos _(bloqueado: contiene keyword 'denuncia')_
 - Femicidio: murió la mujer que había sido apuñalada por su pareja en Concordia — https://diarioelsol.com.ar/contenido/59647/femicidio-murio-la-mujer-que-habia-sido-apunalada-por-su-pareja-en-concordia _(bloqueado: contiene keyword 'crimen')_
+
+
+## Tanda 2026-06-10 20:21 UTC
+- Tras 20 años, marca icónica de ropa infantil inició su concurso preventivo de crisis y cerró locales — https://diarioelsol.com.ar/contenido/59652/tras-20-anos-marca-iconica-de-ropa-infantil-inicio-su-concurso-preventivo-de-cri _(bloqueado: contiene keyword 'niño')_
+- Tragedia en Flores: un camión chocó en la autopista, cayó un cartel y murió un policía — https://diarioelsol.com.ar/contenido/59654/tragedia-en-flores-un-camion-choco-en-la-autopista-cayo-un-cartel-y-murio-un-pol _(bloqueado: contiene keyword 'policía')_
+- Secuestran armas luego de cuatro allanamientos en Bovril tras la matanza de caballos del intendente — https://diarioelsol.com.ar/contenido/59653/secuestran-armas-luego-de-cuatro-allanamientos-en-bovril-tras-la-matanza-de-caba _(bloqueado: contiene keyword 'allanamiento')_
