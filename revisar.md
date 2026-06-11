@@ -1303,3 +1303,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Tras 20 años, marca icónica de ropa infantil inició su concurso preventivo de crisis y cerró locales — https://diarioelsol.com.ar/contenido/59652/tras-20-anos-marca-iconica-de-ropa-infantil-inicio-su-concurso-preventivo-de-cri _(bloqueado: contiene keyword 'niño')_
 - Tragedia en Flores: un camión chocó en la autopista, cayó un cartel y murió un policía — https://diarioelsol.com.ar/contenido/59654/tragedia-en-flores-un-camion-choco-en-la-autopista-cayo-un-cartel-y-murio-un-pol _(bloqueado: contiene keyword 'policía')_
 - Secuestran armas luego de cuatro allanamientos en Bovril tras la matanza de caballos del intendente — https://diarioelsol.com.ar/contenido/59653/secuestran-armas-luego-de-cuatro-allanamientos-en-bovril-tras-la-matanza-de-caba _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-06-11 02:57 UTC
+- Allanaron una clínica privada en San Salvador por presunta venta ilegal de medicamentos — https://concordia24.com.ar/allanaron-una-clinica-privada-en-san-salvador-por-presunta-venta-ilegal-de-medicamentos/ _(bloqueado: contiene keyword 'policial')_
+- Allanamientos y secuestro de tarjetas de débito en una causa por usura y amenazas — https://concordia24.com.ar/allanamientos-y-secuestro-de-tarjetas-de-debito-en-una-causa-por-usura-y-amenazas/ _(bloqueado: contiene keyword 'allanamiento')_
