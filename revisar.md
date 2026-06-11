@@ -1308,3 +1308,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-06-11 02:57 UTC
 - Allanaron una clínica privada en San Salvador por presunta venta ilegal de medicamentos — https://concordia24.com.ar/allanaron-una-clinica-privada-en-san-salvador-por-presunta-venta-ilegal-de-medicamentos/ _(bloqueado: contiene keyword 'policial')_
 - Allanamientos y secuestro de tarjetas de débito en una causa por usura y amenazas — https://concordia24.com.ar/allanamientos-y-secuestro-de-tarjetas-de-debito-en-una-causa-por-usura-y-amenazas/ _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-06-11 10:12 UTC
+- Fallo histórico por tragedia vial en Salta: condenaron a 17 años a un conductor que mató a 5 personas — https://diarioelsol.com.ar/contenido/59663/fallo-historico-por-tragedia-vial-en-salta-condenaron-a-17-anos-a-un-conductor-q _(bloqueado: contiene keyword 'homicidio')_
+- Histórica condena: 20 años de prisión para un preso por abuso sexual digital sin contacto físico — https://diarioelsol.com.ar/contenido/59669/historica-condena-20-anos-de-prision-para-un-preso-por-abuso-sexual-digital-sin- _(bloqueado: contiene keyword 'niña')_
+- La Policía Federal allanó una santería y secuestró medio kilo de cocaína de máxima pureza — https://diarioelsol.com.ar/contenido/59666/la-policia-federal-allano-una-santeria-y-secuestro-medio-kilo-de-cocaina-de-maxi _(bloqueado: contiene keyword 'policía')_
