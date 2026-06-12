@@ -1314,3 +1314,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Fallo histórico por tragedia vial en Salta: condenaron a 17 años a un conductor que mató a 5 personas — https://diarioelsol.com.ar/contenido/59663/fallo-historico-por-tragedia-vial-en-salta-condenaron-a-17-anos-a-un-conductor-q _(bloqueado: contiene keyword 'homicidio')_
 - Histórica condena: 20 años de prisión para un preso por abuso sexual digital sin contacto físico — https://diarioelsol.com.ar/contenido/59669/historica-condena-20-anos-de-prision-para-un-preso-por-abuso-sexual-digital-sin- _(bloqueado: contiene keyword 'niña')_
 - La Policía Federal allanó una santería y secuestró medio kilo de cocaína de máxima pureza — https://diarioelsol.com.ar/contenido/59666/la-policia-federal-allano-una-santeria-y-secuestro-medio-kilo-de-cocaina-de-maxi _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-06-12 02:54 UTC
+- Salud Mental: El Ministro Blanzaco enfrentó duras críticas en Diputados por la falta de recursos y datos desactualizados — https://diarioelsol.com.ar/contenido/59678/salud-mental-el-ministro-blanzaco-enfrento-duras-criticas-en-diputados-por-la-fa _(bloqueado: contiene keyword 'denunció')_
