@@ -1318,3 +1318,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-12 02:54 UTC
 - Salud Mental: El Ministro Blanzaco enfrentó duras críticas en Diputados por la falta de recursos y datos desactualizados — https://diarioelsol.com.ar/contenido/59678/salud-mental-el-ministro-blanzaco-enfrento-duras-criticas-en-diputados-por-la-fa _(bloqueado: contiene keyword 'denunció')_
+
+
+## Tanda 2026-06-12 10:00 UTC
+- ATE cuestiona el 4% otorgado por Azcué y denuncia un “ajuste encubierto” en la Municipalidad — https://diarioelsol.com.ar/contenido/59680/ate-cuestiona-el-4-otorgado-por-azcue-y-denuncia-un-ajuste-encubierto-en-la-muni _(bloqueado: contiene keyword 'denuncia')_
+- Caso Ramírez: el Comité contra la Tortura interviene en una causa que se encamina al juicio — https://diarioelsol.com.ar/contenido/59686/caso-ramirez-el-comite-contra-la-tortura-interviene-en-una-causa-que-se-encamina _(bloqueado: contiene keyword 'policía')_
+- La Renga en Gualeguaychú: ¿Cómo se preparan los operativos sanitarios y de seguridad? — https://diarioelsol.com.ar/contenido/59688/la-renga-en-gualeguaychu-como-se-preparan-los-operativos-sanitarios-y-de-segurid _(bloqueado: contiene keyword 'policial')_
