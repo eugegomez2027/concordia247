@@ -1324,3 +1324,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - ATE cuestiona el 4% otorgado por Azcué y denuncia un “ajuste encubierto” en la Municipalidad — https://diarioelsol.com.ar/contenido/59680/ate-cuestiona-el-4-otorgado-por-azcue-y-denuncia-un-ajuste-encubierto-en-la-muni _(bloqueado: contiene keyword 'denuncia')_
 - Caso Ramírez: el Comité contra la Tortura interviene en una causa que se encamina al juicio — https://diarioelsol.com.ar/contenido/59686/caso-ramirez-el-comite-contra-la-tortura-interviene-en-una-causa-que-se-encamina _(bloqueado: contiene keyword 'policía')_
 - La Renga en Gualeguaychú: ¿Cómo se preparan los operativos sanitarios y de seguridad? — https://diarioelsol.com.ar/contenido/59688/la-renga-en-gualeguaychu-como-se-preparan-los-operativos-sanitarios-y-de-segurid _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-06-13 13:45 UTC
+- La Fraternidad respondió a denuncias públicas y aseguró que sus inmuebles están en buenas condiciones — https://concordia24.com.ar/la-fraternidad-respondio-a-denuncias-publicas-y-aseguro-que-sus-inmuebles-estan-en-buenas-condiciones/ _(bloqueado: contiene keyword 'denuncia')_
+- "Los corruptos son ustedes", el furioso cruce de Javier Milei con los periodistas en el Congreso — https://diarioelsol.com.ar/contenido/59721/los-corruptos-son-ustedes-el-furioso-cruce-de-javier-milei-con-los-periodistas-e _(bloqueado: contiene keyword 'denuncia')_
+- Contraataque libertario a Marcela Pagano: funcionarios la denunciaron por enriquecimiento ilícito — https://diarioelsol.com.ar/contenido/59727/contraataque-libertario-a-marcela-pagano-funcionarios-la-denunciaron-por-enrique _(bloqueado: contiene keyword 'denuncia')_
