@@ -1330,3 +1330,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - La Fraternidad respondió a denuncias públicas y aseguró que sus inmuebles están en buenas condiciones — https://concordia24.com.ar/la-fraternidad-respondio-a-denuncias-publicas-y-aseguro-que-sus-inmuebles-estan-en-buenas-condiciones/ _(bloqueado: contiene keyword 'denuncia')_
 - "Los corruptos son ustedes", el furioso cruce de Javier Milei con los periodistas en el Congreso — https://diarioelsol.com.ar/contenido/59721/los-corruptos-son-ustedes-el-furioso-cruce-de-javier-milei-con-los-periodistas-e _(bloqueado: contiene keyword 'denuncia')_
 - Contraataque libertario a Marcela Pagano: funcionarios la denunciaron por enriquecimiento ilícito — https://diarioelsol.com.ar/contenido/59727/contraataque-libertario-a-marcela-pagano-funcionarios-la-denunciaron-por-enrique _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-06-13 19:15 UTC
+- Fueron entregados 2057 anteojos en 11 localidades entrerrianas — https://concordia24.com.ar/fueron-entregados-2057-anteojos-en-11-localidades-entrerrianas/ _(bloqueado: contiene keyword 'niña')_
+- Una madre pidió auxilio en plena calle, la Policía la asistió, pero el bebé llegó sin vida al hospital — https://diarioelsol.com.ar/contenido/59734/una-madre-pidio-auxilio-en-plena-calle-la-policia-la-asistio-pero-el-bebe-llego- _(bloqueado: contiene keyword 'policía')_
