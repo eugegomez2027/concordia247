@@ -1343,3 +1343,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Juicio por la muerte de Diego Maradona: Verónica Ojeda trató de "asesinos" a los imputados — https://diarioelsol.com.ar/contenido/59744/juicio-por-la-muerte-de-diego-maradona-veronica-ojeda-trato-de-asesinos-a-los-im _(bloqueado: contiene keyword 'asesin')_
 - El hurto de una bicicleta fue la punta del ovillo para descubrir un narcokiosco. — https://diarioelsol.com.ar/contenido/59750/el-hurto-de-una-bicicleta-fue-la-punta-del-ovillo-para-descubrir-un-narcokiosco _(bloqueado: contiene keyword 'allanamiento')_
 - Operativo de saturación en la zona norte: un hombre detenido y cocaína secuestrada — https://diarioelsol.com.ar/contenido/59749/operativo-de-saturacion-en-la-zona-norte-un-hombre-detenido-y-cocaina-secuestrad _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-06-14 09:23 UTC
+- Rogel denunció que el viaje presidencial en el USS Nimitz "viola la soberanía" y elude al Congreso — https://diarioelsol.com.ar/contenido/59753/rogel-denuncio-que-el-viaje-presidencial-en-el-uss-nimitz-viola-la-soberania-y-e _(bloqueado: contiene keyword 'denunció')_
+- Distribuyen  un nuevo anticuerpo para proteger a bebés del virus respiratorio más peligroso — https://diarioelsol.com.ar/contenido/59757/distribuyen-un-nuevo-anticuerpo-para-proteger-a-bebes-del-virus-respiratorio-mas _(bloqueado: contiene keyword 'niño')_
