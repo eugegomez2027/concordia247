@@ -1352,3 +1352,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-14 13:48 UTC
 - Un policía mató a uno de los motochorros que intentó asaltarlo cuando estaba con su familia — https://diarioelsol.com.ar/contenido/59758/un-policia-mato-a-uno-de-los-motochorros-que-intento-asaltarlo-cuando-estaba-con _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-06-14 19:16 UTC
+- Una mujer murió atropellada por un camión en el acceso a Gualeguay — https://diarioelsol.com.ar/contenido/59762/una-mujer-murio-atropellada-por-un-camion-en-el-acceso-a-gualeguay _(bloqueado: contiene keyword 'detenido')_
