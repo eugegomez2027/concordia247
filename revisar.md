@@ -1335,3 +1335,11 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-06-13 19:15 UTC
 - Fueron entregados 2057 anteojos en 11 localidades entrerrianas — https://concordia24.com.ar/fueron-entregados-2057-anteojos-en-11-localidades-entrerrianas/ _(bloqueado: contiene keyword 'niña')_
 - Una madre pidió auxilio en plena calle, la Policía la asistió, pero el bebé llegó sin vida al hospital — https://diarioelsol.com.ar/contenido/59734/una-madre-pidio-auxilio-en-plena-calle-la-policia-la-asistio-pero-el-bebe-llego- _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-06-14 02:58 UTC
+- AJER rechazó descuentos del Superior Tribunal de Justicia y denunció que es "una forma de apriete" — https://diarioelsol.com.ar/contenido/59743/ajer-rechazo-descuentos-del-superior-tribunal-de-justicia-y-denuncio-que-es-una- _(bloqueado: contiene keyword 'denunció')_
+- PRIVACIÓN ILEGÍTIMA DE LA LIBERTAD, VIOLENCIA Y AMENAZAS: ALLANAMIENTOS, SECUESTROS Y UN DETENIDO EN UNA INVESTIGACIÓN QUE ESTREMECE A CONCORDIA — https://diarioelsol.com.ar/contenido/59745/privacion-ilegitima-de-la-libertad-violencia-y-amenazas-allanamientos-secuestros _(bloqueado: contiene keyword 'policial')_
+- Juicio por la muerte de Diego Maradona: Verónica Ojeda trató de "asesinos" a los imputados — https://diarioelsol.com.ar/contenido/59744/juicio-por-la-muerte-de-diego-maradona-veronica-ojeda-trato-de-asesinos-a-los-im _(bloqueado: contiene keyword 'asesin')_
+- El hurto de una bicicleta fue la punta del ovillo para descubrir un narcokiosco. — https://diarioelsol.com.ar/contenido/59750/el-hurto-de-una-bicicleta-fue-la-punta-del-ovillo-para-descubrir-un-narcokiosco _(bloqueado: contiene keyword 'allanamiento')_
+- Operativo de saturación en la zona norte: un hombre detenido y cocaína secuestrada — https://diarioelsol.com.ar/contenido/59749/operativo-de-saturacion-en-la-zona-norte-un-hombre-detenido-y-cocaina-secuestrad _(bloqueado: contiene keyword 'policial')_
