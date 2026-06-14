@@ -1348,3 +1348,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-06-14 09:23 UTC
 - Rogel denunció que el viaje presidencial en el USS Nimitz "viola la soberanía" y elude al Congreso — https://diarioelsol.com.ar/contenido/59753/rogel-denuncio-que-el-viaje-presidencial-en-el-uss-nimitz-viola-la-soberania-y-e _(bloqueado: contiene keyword 'denunció')_
 - Distribuyen  un nuevo anticuerpo para proteger a bebés del virus respiratorio más peligroso — https://diarioelsol.com.ar/contenido/59757/distribuyen-un-nuevo-anticuerpo-para-proteger-a-bebes-del-virus-respiratorio-mas _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-06-14 13:48 UTC
+- Un policía mató a uno de los motochorros que intentó asaltarlo cuando estaba con su familia — https://diarioelsol.com.ar/contenido/59758/un-policia-mato-a-uno-de-los-motochorros-que-intento-asaltarlo-cuando-estaba-con _(bloqueado: contiene keyword 'policía')_
