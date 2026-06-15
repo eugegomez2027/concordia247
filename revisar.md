@@ -1361,3 +1361,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-06-15 11:51 UTC
 - Allanamientos con resultados positivos: recuperan una moto robada y secuestran cocaína — https://diarioelsol.com.ar/contenido/59777/allanamientos-con-resultados-positivos-recuperan-una-moto-robada-y-secuestran-co _(bloqueado: contiene keyword 'policial')_
 - Investigan una denuncia por malversación de adicionales en la Policía de Entre Ríos — https://diarioelsol.com.ar/contenido/59776/investigan-una-denuncia-por-malversacion-de-adicionales-en-la-policia-de-entre-r _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-06-15 20:49 UTC
+- Entre Ríos participó de la Mesa Federal de Preparación ante el fenómeno de El Niño — https://concordia24.com.ar/entre-rios-participo-de-la-mesa-federal-de-preparacion-ante-el-fenomeno-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
+- Mató a su amigo porque le hizo una broma mientras jugaban al truco: podría recibir perpetua — https://diarioelsol.com.ar/contenido/59792/mato-a-su-amigo-porque-le-hizo-una-broma-mientras-jugaban-al-truco-podria-recibi _(bloqueado: contiene keyword 'asesin')_
+- Una odontóloga le sacó 12 dientes a un nene de 5 años sin consentimiento y fue condenada — https://diarioelsol.com.ar/contenido/59791/una-odontologa-le-saco-12-dientes-a-un-nene-de-5-anos-sin-consentimiento-y-fue-c _(bloqueado: contiene keyword 'menor')_
+- Violento asalto: un vecino resultó apuñalado al intentar evitar un robo — https://diarioelsol.com.ar/contenido/59790/violento-asalto-un-vecino-resulto-apunalado-al-intentar-evitar-un-robo _(bloqueado: URL contiene '/viol')_
