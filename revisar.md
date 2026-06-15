@@ -1356,3 +1356,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-14 19:16 UTC
 - Una mujer murió atropellada por un camión en el acceso a Gualeguay — https://diarioelsol.com.ar/contenido/59762/una-mujer-murio-atropellada-por-un-camion-en-el-acceso-a-gualeguay _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-06-15 11:51 UTC
+- Allanamientos con resultados positivos: recuperan una moto robada y secuestran cocaína — https://diarioelsol.com.ar/contenido/59777/allanamientos-con-resultados-positivos-recuperan-una-moto-robada-y-secuestran-co _(bloqueado: contiene keyword 'policial')_
+- Investigan una denuncia por malversación de adicionales en la Policía de Entre Ríos — https://diarioelsol.com.ar/contenido/59776/investigan-una-denuncia-por-malversacion-de-adicionales-en-la-policia-de-entre-r _(bloqueado: contiene keyword 'policía')_
