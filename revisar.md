@@ -1368,3 +1368,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Mató a su amigo porque le hizo una broma mientras jugaban al truco: podría recibir perpetua — https://diarioelsol.com.ar/contenido/59792/mato-a-su-amigo-porque-le-hizo-una-broma-mientras-jugaban-al-truco-podria-recibi _(bloqueado: contiene keyword 'asesin')_
 - Una odontóloga le sacó 12 dientes a un nene de 5 años sin consentimiento y fue condenada — https://diarioelsol.com.ar/contenido/59791/una-odontologa-le-saco-12-dientes-a-un-nene-de-5-anos-sin-consentimiento-y-fue-c _(bloqueado: contiene keyword 'menor')_
 - Violento asalto: un vecino resultó apuñalado al intentar evitar un robo — https://diarioelsol.com.ar/contenido/59790/violento-asalto-un-vecino-resulto-apunalado-al-intentar-evitar-un-robo _(bloqueado: URL contiene '/viol')_
+
+
+## Tanda 2026-06-16 03:29 UTC
+- Tres adolescentes resultaron heridos tras el vuelco de una camioneta en Villaguay — https://diarioelsol.com.ar/contenido/59797/tres-adolescentes-resultaron-heridos-tras-el-vuelco-de-una-camioneta-en-villagua _(bloqueado: contiene keyword 'adolescente')_
