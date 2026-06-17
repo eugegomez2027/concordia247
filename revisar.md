@@ -1376,3 +1376,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-16 10:59 UTC
 - Denunció que le habían Robado la moto en el Centro, pero se le había sacado su anterior dueño por falta de pago — https://concordia24.com.ar/denuncio-que-le-habian-robado-la-moto-en-el-centro-pero-se-le-habia-sacado-su-anterior-dueno-por-falta-de-pago/ _(bloqueado: URL contiene '/denunc')_
+
+
+## Tanda 2026-06-17 03:25 UTC
+- Rescataron 20 perros en un allanamiento por presunto maltrato animal en Concordia — https://concordia24.com.ar/rescataron-20-perros-en-un-allanamiento-por-presunto-maltrato-animal-en-concordia/ _(bloqueado: contiene keyword 'allanamiento')_
