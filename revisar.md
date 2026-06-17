@@ -1384,3 +1384,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-17 10:43 UTC
 - Allanamiento por violencia de género: un hombre detenido en Concordia — https://diarioelsol.com.ar/contenido/59818/allanamiento-por-violencia-de-genero-un-hombre-detenido-en-concordia _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-06-17 20:04 UTC
+- Gianinna Maradona denunció un “plan” para matar a su padre por intereses económicos — https://diarioelsol.com.ar/contenido/59827/gianinna-maradona-denuncio-un-plan-para-matar-a-su-padre-por-intereses-economico _(bloqueado: contiene keyword 'denunció')_
