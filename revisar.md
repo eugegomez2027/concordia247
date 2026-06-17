@@ -1380,3 +1380,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-17 03:25 UTC
 - Rescataron 20 perros en un allanamiento por presunto maltrato animal en Concordia — https://concordia24.com.ar/rescataron-20-perros-en-un-allanamiento-por-presunto-maltrato-animal-en-concordia/ _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-06-17 10:43 UTC
+- Allanamiento por violencia de género: un hombre detenido en Concordia — https://diarioelsol.com.ar/contenido/59818/allanamiento-por-violencia-de-genero-un-hombre-detenido-en-concordia _(bloqueado: contiene keyword 'policial')_
