@@ -1388,3 +1388,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-17 20:04 UTC
 - Gianinna Maradona denunció un “plan” para matar a su padre por intereses económicos — https://diarioelsol.com.ar/contenido/59827/gianinna-maradona-denuncio-un-plan-para-matar-a-su-padre-por-intereses-economico _(bloqueado: contiene keyword 'denunció')_
+
+
+## Tanda 2026-06-18 10:11 UTC
+- Identificaron a cuatro personas en una plaza que tenían una "tumbera" en  su poder, dos fueron detenidos y dos menores devueltos a sus padres. — https://diarioelsol.com.ar/contenido/59842/identificaron-a-cuatro-personas-en-una-plaza-que-tenian-una-tumbera-en-su-poder- _(bloqueado: contiene keyword 'policía')_
+- Daños en una vivienda y dos menores involucrados: intervención policial en San Juan y Vom Wernich — https://diarioelsol.com.ar/contenido/59841/danos-en-una-vivienda-y-dos-menores-involucrados-intervencion-policial-en-san-ju _(bloqueado: contiene keyword 'policial')_
+- Fin de semana largo con más de un millón de viajeros en el país, pero con menor gasto. — https://diarioelsol.com.ar/contenido/59839/fin-de-semana-largo-con-mas-de-un-millon-de-viajeros-en-el-pais-pero-con-menor-g _(bloqueado: contiene keyword 'menor')_
