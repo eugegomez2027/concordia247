@@ -1398,3 +1398,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-18 14:53 UTC
 - Grave accidente en la ex Ruta 18: un menor sufrió una fractura y fue hospitalizado — https://concordia24.com.ar/grave-accidente-en-la-ex-ruta-18-un-menor-sufrio-una-fractura-y-fue-hospitalizado/ _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-06-18 20:15 UTC
+- El COE avanza en un Protocolo de actualización ante la posible llegada y efectos de «El Niño» — https://concordia24.com.ar/el-coe-avanza-en-un-protocolo-de-actualizacion-ante-la-posible-llegada-y-efectos-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
