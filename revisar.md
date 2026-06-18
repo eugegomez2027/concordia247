@@ -1394,3 +1394,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Identificaron a cuatro personas en una plaza que tenían una "tumbera" en  su poder, dos fueron detenidos y dos menores devueltos a sus padres. — https://diarioelsol.com.ar/contenido/59842/identificaron-a-cuatro-personas-en-una-plaza-que-tenian-una-tumbera-en-su-poder- _(bloqueado: contiene keyword 'policía')_
 - Daños en una vivienda y dos menores involucrados: intervención policial en San Juan y Vom Wernich — https://diarioelsol.com.ar/contenido/59841/danos-en-una-vivienda-y-dos-menores-involucrados-intervencion-policial-en-san-ju _(bloqueado: contiene keyword 'policial')_
 - Fin de semana largo con más de un millón de viajeros en el país, pero con menor gasto. — https://diarioelsol.com.ar/contenido/59839/fin-de-semana-largo-con-mas-de-un-millon-de-viajeros-en-el-pais-pero-con-menor-g _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-06-18 14:53 UTC
+- Grave accidente en la ex Ruta 18: un menor sufrió una fractura y fue hospitalizado — https://concordia24.com.ar/grave-accidente-en-la-ex-ruta-18-un-menor-sufrio-una-fractura-y-fue-hospitalizado/ _(bloqueado: contiene keyword 'menor')_
