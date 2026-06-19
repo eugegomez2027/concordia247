@@ -1408,3 +1408,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Hallaron sano y salvo a Nahuá en Esquina y detuvieron a su padre  ¿qué se hizo mejor respecto del caso Loan? — https://diarioelsol.com.ar/contenido/59881/hallaron-sano-y-salvo-a-nahua-en-esquina-y-detuvieron-a-su-padre-que-se-hizo-mej _(bloqueado: contiene keyword 'denuncia')_
 - Quién es José Codazzi, el abogado detenido por la desaparición del nene en Corrientes y su conexión con el caso Loan Peña — https://diarioelsol.com.ar/contenido/59886/quien-es-jose-codazzi-el-abogado-detenido-por-la-desaparicion-del-nene-en-corrie _(bloqueado: contiene keyword 'detenido')_
 - Revelan que Manuel Adorni se alojó en un exclusivo hotel de Entre Ríos — https://diarioelsol.com.ar/contenido/59884/revelan-que-manuel-adorni-se-alojo-en-un-exclusivo-hotel-de-entre-rios _(bloqueado: contiene keyword 'presunto')_
+
+
+## Tanda 2026-06-19 19:40 UTC
+- Imputaron a la exfuncionaria provincial Silvina Murúa y a empresarios implicados en la causa "Comedores" — https://diarioelsol.com.ar/contenido/59916/imputaron-a-la-exfuncionaria-provincial-silvina-murua-y-a-empresarios-implicados _(bloqueado: contiene keyword 'imputaron')_
