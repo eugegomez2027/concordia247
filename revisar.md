@@ -1402,3 +1402,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-18 20:15 UTC
 - El COE avanza en un Protocolo de actualización ante la posible llegada y efectos de «El Niño» — https://concordia24.com.ar/el-coe-avanza-en-un-protocolo-de-actualizacion-ante-la-posible-llegada-y-efectos-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-06-19 10:17 UTC
+- Hallaron sano y salvo a Nahuá en Esquina y detuvieron a su padre  ¿qué se hizo mejor respecto del caso Loan? — https://diarioelsol.com.ar/contenido/59881/hallaron-sano-y-salvo-a-nahua-en-esquina-y-detuvieron-a-su-padre-que-se-hizo-mej _(bloqueado: contiene keyword 'denuncia')_
+- Quién es José Codazzi, el abogado detenido por la desaparición del nene en Corrientes y su conexión con el caso Loan Peña — https://diarioelsol.com.ar/contenido/59886/quien-es-jose-codazzi-el-abogado-detenido-por-la-desaparicion-del-nene-en-corrie _(bloqueado: contiene keyword 'detenido')_
+- Revelan que Manuel Adorni se alojó en un exclusivo hotel de Entre Ríos — https://diarioelsol.com.ar/contenido/59884/revelan-que-manuel-adorni-se-alojo-en-un-exclusivo-hotel-de-entre-rios _(bloqueado: contiene keyword 'presunto')_
