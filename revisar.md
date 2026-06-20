@@ -1416,3 +1416,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-20 13:47 UTC
 - Accidente de tránsito entre Auto y Moto — https://diarioelsol.com.ar/contenido/59935/accidente-de-transito-entre-auto-y-moto _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-06-20 19:15 UTC
+- Irán cierra Ormuz por ataques en Líbano y acusa a EE.UU. de “romper el pacto» — https://concordia24.com.ar/iran-cierra-ormuz-por-ataques-en-libano-y-acusa-a-ee-uu-de-romper-el-pacto/ _(bloqueado: contiene keyword 'denuncia')_
