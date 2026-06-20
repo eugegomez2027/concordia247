@@ -1412,3 +1412,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-19 19:40 UTC
 - Imputaron a la exfuncionaria provincial Silvina Murúa y a empresarios implicados en la causa "Comedores" — https://diarioelsol.com.ar/contenido/59916/imputaron-a-la-exfuncionaria-provincial-silvina-murua-y-a-empresarios-implicados _(bloqueado: contiene keyword 'imputaron')_
+
+
+## Tanda 2026-06-20 13:47 UTC
+- Accidente de tránsito entre Auto y Moto — https://diarioelsol.com.ar/contenido/59935/accidente-de-transito-entre-auto-y-moto _(bloqueado: contiene keyword 'policía')_
