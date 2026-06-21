@@ -1420,3 +1420,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-20 19:15 UTC
 - Irán cierra Ormuz por ataques en Líbano y acusa a EE.UU. de “romper el pacto» — https://concordia24.com.ar/iran-cierra-ormuz-por-ataques-en-libano-y-acusa-a-ee-uu-de-romper-el-pacto/ _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-06-21 09:40 UTC
+- Caputo respaldó a Milei en la defensa de Adorni: "El presidente piensa que es una persona honesta" — https://diarioelsol.com.ar/contenido/59962/caputo-respaldo-a-milei-en-la-defensa-de-adorni-el-presidente-piensa-que-es-una- _(bloqueado: contiene keyword 'presunto')_
+- Cayó el sospechoso de una tentativa de robo: allanamientos positivos y secuestro de cocaína — https://diarioelsol.com.ar/contenido/59961/cayo-el-sospechoso-de-una-tentativa-de-robo-allanamientos-positivos-y-secuestro- _(bloqueado: contiene keyword 'robo')_
+- Allanamientos en cadena: secuestran un Volkswagen Golf y celulares clave en una causa por abuso de armas — https://diarioelsol.com.ar/contenido/59960/allanamientos-en-cadena-secuestran-un-volkswagen-golf-y-celulares-clave-en-una-c _(bloqueado: contiene keyword 'allanamiento')_
