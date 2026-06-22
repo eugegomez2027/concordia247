@@ -1430,3 +1430,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-22 03:33 UTC
 - Más de 3.200 anteojos entregados a niños y adolescentes entrerrianos en el marco de Ver para Ser Libres — https://concordia24.com.ar/mas-de-3-200-anteojos-entregados-a-ninos-y-adolescentes-entrerrianos-en-el-marco-de-ver-para-ser-libres/ _(bloqueado: contiene keyword 'adolescente')_
+
+
+## Tanda 2026-06-22 11:41 UTC
+- Las universidades públicas vuelven a marchar contra el ajuste: denuncian pérdida salarial, renuncias y deterioro — https://diarioelsol.com.ar/contenido/59981/las-universidades-publicas-vuelven-a-marchar-contra-el-ajuste-denuncian-perdida- _(bloqueado: contiene keyword 'denuncia')_
+- Condenaron a 14 años de prisión a Eduardo Pereyra por el homicidio de Paulo Gómez — https://diarioelsol.com.ar/contenido/59984/condenaron-a-14-anos-de-prision-a-eduardo-pereyra-por-el-homicidio-de-paulo-gome _(bloqueado: contiene keyword 'homicidio')_
+- Un tribunal boliviano declara en rebeldía a expresidente Evo Morales por ausentarse a un juicio en su contra por trata agravada — https://diarioelsol.com.ar/contenido/59988/un-tribunal-boliviano-declara-en-rebeldia-a-expresidente-evo-morales-por-ausenta _(bloqueado: contiene keyword 'menor')_
