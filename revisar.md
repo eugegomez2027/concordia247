@@ -1426,3 +1426,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Caputo respaldó a Milei en la defensa de Adorni: "El presidente piensa que es una persona honesta" — https://diarioelsol.com.ar/contenido/59962/caputo-respaldo-a-milei-en-la-defensa-de-adorni-el-presidente-piensa-que-es-una- _(bloqueado: contiene keyword 'presunto')_
 - Cayó el sospechoso de una tentativa de robo: allanamientos positivos y secuestro de cocaína — https://diarioelsol.com.ar/contenido/59961/cayo-el-sospechoso-de-una-tentativa-de-robo-allanamientos-positivos-y-secuestro- _(bloqueado: contiene keyword 'robo')_
 - Allanamientos en cadena: secuestran un Volkswagen Golf y celulares clave en una causa por abuso de armas — https://diarioelsol.com.ar/contenido/59960/allanamientos-en-cadena-secuestran-un-volkswagen-golf-y-celulares-clave-en-una-c _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-06-22 03:33 UTC
+- Más de 3.200 anteojos entregados a niños y adolescentes entrerrianos en el marco de Ver para Ser Libres — https://concordia24.com.ar/mas-de-3-200-anteojos-entregados-a-ninos-y-adolescentes-entrerrianos-en-el-marco-de-ver-para-ser-libres/ _(bloqueado: contiene keyword 'adolescente')_
