@@ -1446,3 +1446,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Tragedia en Federación: “Estaban paradas al costado de la ruta, el auto despistó y las embistió” — https://diarioelsol.com.ar/contenido/60018/tragedia-en-federacion-estaban-paradas-al-costado-de-la-ruta-el-auto-despisto-y- _(bloqueado: contiene keyword 'policía')_
 - Siete detenidos tras el ataque a un adolescente en una disputa por un caballo en barrio Larroca — https://diarioelsol.com.ar/contenido/60016/siete-detenidos-tras-el-ataque-a-un-adolescente-en-una-disputa-por-un-caballo-en _(bloqueado: contiene keyword 'detenido')_
 - Universidades exigieron que se cumpla con la Ley y denunciaron "un desprecio institucional sin precedentes" — https://diarioelsol.com.ar/contenido/60021/universidades-exigieron-que-se-cumpla-con-la-ley-y-denunciaron-un-desprecio-inst _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-06-23 14:34 UTC
+- La Policía detuvo a un hombre que robó dos latas de sardinas en un comercio — https://diarioelsol.com.ar/contenido/60024/la-policia-detuvo-a-un-hombre-que-robo-dos-latas-de-sardinas-en-un-comercio _(bloqueado: contiene keyword 'policía')_
+- Tragedia en La Bianca: dos niños murieron en un incendio y su padre lucha por sobrevivir — https://diarioelsol.com.ar/contenido/60023/tragedia-en-la-bianca-dos-ninos-murieron-en-un-incendio-y-su-padre-lucha-por-sob _(bloqueado: contiene keyword 'niño')_
