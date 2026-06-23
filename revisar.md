@@ -1436,3 +1436,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Las universidades públicas vuelven a marchar contra el ajuste: denuncian pérdida salarial, renuncias y deterioro — https://diarioelsol.com.ar/contenido/59981/las-universidades-publicas-vuelven-a-marchar-contra-el-ajuste-denuncian-perdida- _(bloqueado: contiene keyword 'denuncia')_
 - Condenaron a 14 años de prisión a Eduardo Pereyra por el homicidio de Paulo Gómez — https://diarioelsol.com.ar/contenido/59984/condenaron-a-14-anos-de-prision-a-eduardo-pereyra-por-el-homicidio-de-paulo-gome _(bloqueado: contiene keyword 'homicidio')_
 - Un tribunal boliviano declara en rebeldía a expresidente Evo Morales por ausentarse a un juicio en su contra por trata agravada — https://diarioelsol.com.ar/contenido/59988/un-tribunal-boliviano-declara-en-rebeldia-a-expresidente-evo-morales-por-ausenta _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-06-23 02:40 UTC
+- Con una pala cargadora chocó al menos siete vehículos en Concordia: dio 1,71 de alcohol en sangre y fue detenido por vecinos — https://concordia24.com.ar/con-una-pala-cargadora-choco-al-menos-siete-vehiculos-en-concordia-dio-171-de-alcohol-en-sangre-y-fue-detenido-por-vecinos/ _(bloqueado: contiene keyword 'detenido')_
