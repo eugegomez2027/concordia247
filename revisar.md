@@ -1440,3 +1440,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-23 02:40 UTC
 - Con una pala cargadora chocó al menos siete vehículos en Concordia: dio 1,71 de alcohol en sangre y fue detenido por vecinos — https://concordia24.com.ar/con-una-pala-cargadora-choco-al-menos-siete-vehiculos-en-concordia-dio-171-de-alcohol-en-sangre-y-fue-detenido-por-vecinos/ _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-06-23 09:27 UTC
+- Tragedia en Federación: “Estaban paradas al costado de la ruta, el auto despistó y las embistió” — https://diarioelsol.com.ar/contenido/60018/tragedia-en-federacion-estaban-paradas-al-costado-de-la-ruta-el-auto-despisto-y- _(bloqueado: contiene keyword 'policía')_
+- Siete detenidos tras el ataque a un adolescente en una disputa por un caballo en barrio Larroca — https://diarioelsol.com.ar/contenido/60016/siete-detenidos-tras-el-ataque-a-un-adolescente-en-una-disputa-por-un-caballo-en _(bloqueado: contiene keyword 'detenido')_
+- Universidades exigieron que se cumpla con la Ley y denunciaron "un desprecio institucional sin precedentes" — https://diarioelsol.com.ar/contenido/60021/universidades-exigieron-que-se-cumpla-con-la-ley-y-denunciaron-un-desprecio-inst _(bloqueado: contiene keyword 'denuncia')_
