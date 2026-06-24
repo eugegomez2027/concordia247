@@ -1451,3 +1451,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-06-23 14:34 UTC
 - La Policía detuvo a un hombre que robó dos latas de sardinas en un comercio — https://diarioelsol.com.ar/contenido/60024/la-policia-detuvo-a-un-hombre-que-robo-dos-latas-de-sardinas-en-un-comercio _(bloqueado: contiene keyword 'policía')_
 - Tragedia en La Bianca: dos niños murieron en un incendio y su padre lucha por sobrevivir — https://diarioelsol.com.ar/contenido/60023/tragedia-en-la-bianca-dos-ninos-murieron-en-un-incendio-y-su-padre-lucha-por-sob _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-06-24 02:40 UTC
+- El caso de la pareja que tuvo sexo en un avión pasó a una unidad especializada en delitos sexuales — https://diarioelsol.com.ar/contenido/60032/el-caso-de-la-pareja-que-tuvo-sexo-en-un-avion-paso-a-una-unidad-especializada-e _(bloqueado: contiene keyword 'denuncia')_
