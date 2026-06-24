@@ -1455,3 +1455,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-24 02:40 UTC
 - El caso de la pareja que tuvo sexo en un avión pasó a una unidad especializada en delitos sexuales — https://diarioelsol.com.ar/contenido/60032/el-caso-de-la-pareja-que-tuvo-sexo-en-un-avion-paso-a-una-unidad-especializada-e _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-06-24 19:38 UTC
+- Desde el FEF denunciaron que el Gobierno oculta el nombre de la Escuela Técnica «Jorge Pedro Busti» en Paraná — https://concordia24.com.ar/desde-el-fef-denunciaron-que-el-gobierno-oculta-el-nombre-de-la-escuela-tecnica-jorge-pedro-busti-en-parana/ _(bloqueado: contiene keyword 'denuncia')_
