@@ -1459,3 +1459,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-24 19:38 UTC
 - Desde el FEF denunciaron que el Gobierno oculta el nombre de la Escuela Técnica «Jorge Pedro Busti» en Paraná — https://concordia24.com.ar/desde-el-fef-denunciaron-que-el-gobierno-oculta-el-nombre-de-la-escuela-tecnica-jorge-pedro-busti-en-parana/ _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-06-25 19:49 UTC
+- Una mujer realizó falsa denuncia para presentar en la Cooperativa Electrica de Concordia — https://concordia24.com.ar/una-mujer-realizo-falsa-denuncia-para-presentar-en-la-cooperativa-electrica-de-concordia/ _(bloqueado: contiene keyword 'policial')_
