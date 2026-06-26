@@ -1467,3 +1467,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-26 08:53 UTC
 - Tragedia: un niño murió tras ser atropellado por un vehículo — https://diarioelsol.com.ar/contenido/60108/tragedia-un-nino-murio-tras-ser-atropellado-por-un-vehiculo _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-06-26 19:39 UTC
+- Accidente fatal en la Autopista Perito Moreno: un muerto y un herido en grave estado — https://diarioelsol.com.ar/contenido/60132/accidente-fatal-en-la-autopista-perito-moreno-un-muerto-y-un-herido-en-grave-est _(bloqueado: contiene keyword 'policía')_
