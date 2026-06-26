@@ -1463,3 +1463,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-25 19:49 UTC
 - Una mujer realizó falsa denuncia para presentar en la Cooperativa Electrica de Concordia — https://concordia24.com.ar/una-mujer-realizo-falsa-denuncia-para-presentar-en-la-cooperativa-electrica-de-concordia/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-06-26 08:53 UTC
+- Tragedia: un niño murió tras ser atropellado por un vehículo — https://diarioelsol.com.ar/contenido/60108/tragedia-un-nino-murio-tras-ser-atropellado-por-un-vehiculo _(bloqueado: contiene keyword 'niño')_
