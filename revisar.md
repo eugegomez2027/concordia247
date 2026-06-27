@@ -1476,3 +1476,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-06-27 02:36 UTC
 - Falleció un bebé en Villaguay y sus padres denunciaron "mala atención médica" — https://diarioelsol.com.ar/contenido/60138/fallecio-un-bebe-en-villaguay-y-sus-padres-denunciaron-mala-atencion-medica _(bloqueado: contiene keyword 'niño')_
 - Chocó a alta velocidad, mintió a la Policía y negó a su acompañante: terminó detenido y ella en cirugía — https://diarioelsol.com.ar/contenido/60147/choco-a-alta-velocidad-mintio-a-la-policia-y-nego-a-su-acompanante-termino-deten _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-06-27 08:29 UTC
+- Minuto a minuto y estadísticas de River - Rosario Central: — https://diarioelsol.com.ar/contenido/60151/minuto-a-minuto-y-estadisticas-de-river-rosario-central _(bloqueado: contiene keyword 'detenido')_
