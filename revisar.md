@@ -1480,3 +1480,11 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-27 08:29 UTC
 - Minuto a minuto y estadísticas de River - Rosario Central: — https://diarioelsol.com.ar/contenido/60151/minuto-a-minuto-y-estadisticas-de-river-rosario-central _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-06-27 19:10 UTC
+- Localizaron sana y salva a una adolescente de 15 años y a su beba de cinco meses en San Salvador — https://concordia24.com.ar/localizaron-sana-y-salva-a-una-adolescente-de-15-anos-y-a-su-beba-de-cinco-meses-en-san-salvador/ _(bloqueado: contiene keyword 'policial')_
+- Conducía alcoholizado por la Ruta 23 y le retuvieron el vehículo durante un operativo policial — https://concordia24.com.ar/conducia-alcoholizado-por-la-ruta-23-y-le-retuvieron-el-vehiculo-durante-un-operativo-policial/ _(bloqueado: contiene keyword 'policial')_
+- Tres menores armados sorprendidos de madrugada con una tumbera lista para disparar — https://diarioelsol.com.ar/contenido/60163/tres-menores-armados-sorprendidos-de-madrugada-con-una-tumbera-lista-para-dispar _(bloqueado: contiene keyword 'menor')_
+- Crisis en Bolivia: la ciudad de La Paz continúa bloqueada por los movimiento sindicales pese a los operativos militares y policiales — https://diarioelsol.com.ar/contenido/60161/crisis-en-bolivia-la-ciudad-de-la-paz-continua-bloqueada-por-los-movimiento-sind _(bloqueado: contiene keyword 'policial')_
+- La mujer hallada sin vida en su departamento estaba envenenada — https://diarioelsol.com.ar/contenido/60160/la-mujer-hallada-sin-vida-en-su-departamento-estaba-envenenada _(bloqueado: contiene keyword 'asesin')_
