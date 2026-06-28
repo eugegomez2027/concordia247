@@ -1488,3 +1488,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Tres menores armados sorprendidos de madrugada con una tumbera lista para disparar — https://diarioelsol.com.ar/contenido/60163/tres-menores-armados-sorprendidos-de-madrugada-con-una-tumbera-lista-para-dispar _(bloqueado: contiene keyword 'menor')_
 - Crisis en Bolivia: la ciudad de La Paz continúa bloqueada por los movimiento sindicales pese a los operativos militares y policiales — https://diarioelsol.com.ar/contenido/60161/crisis-en-bolivia-la-ciudad-de-la-paz-continua-bloqueada-por-los-movimiento-sind _(bloqueado: contiene keyword 'policial')_
 - La mujer hallada sin vida en su departamento estaba envenenada — https://diarioelsol.com.ar/contenido/60160/la-mujer-hallada-sin-vida-en-su-departamento-estaba-envenenada _(bloqueado: contiene keyword 'asesin')_
+
+
+## Tanda 2026-06-28 08:44 UTC
+- Allanamiento en Barrio Fátima: secuestran cocaína y detienen a tres personas — https://concordia24.com.ar/allanamiento-en-barrio-fatima-secuestran-cocaina-y-detienen-a-tres-personas/ _(bloqueado: contiene keyword 'allanamiento')_
+- Hombre detenido por sustraer cuatro celulares bajo la modalidad “punga” en un local bailable — https://diarioelsol.com.ar/contenido/60172/hombre-detenido-por-sustraer-cuatro-celulares-bajo-la-modalidad-punga-en-un-loca _(bloqueado: contiene keyword 'detenido')_
