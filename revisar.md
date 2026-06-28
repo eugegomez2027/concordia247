@@ -1493,3 +1493,11 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-06-28 08:44 UTC
 - Allanamiento en Barrio Fátima: secuestran cocaína y detienen a tres personas — https://concordia24.com.ar/allanamiento-en-barrio-fatima-secuestran-cocaina-y-detienen-a-tres-personas/ _(bloqueado: contiene keyword 'allanamiento')_
 - Hombre detenido por sustraer cuatro celulares bajo la modalidad “punga” en un local bailable — https://diarioelsol.com.ar/contenido/60172/hombre-detenido-por-sustraer-cuatro-celulares-bajo-la-modalidad-punga-en-un-loca _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-06-28 13:23 UTC
+- Madre habría golpeado a su hija en la cabeza con un martillo y denuncian fallas en salud mental — https://diarioelsol.com.ar/contenido/60181/madre-habria-golpeado-a-su-hija-en-la-cabeza-con-un-martillo-y-denuncian-fallas- _(bloqueado: contiene keyword 'niño')_
+- Cayó en entrega controlada: detenido por extorsionar a un hombre para devolverle su iPhone — https://diarioelsol.com.ar/contenido/60186/cayo-en-entrega-controlada-detenido-por-extorsionar-a-un-hombre-para-devolverle- _(bloqueado: contiene keyword 'detenido')_
+- Temporada de caza menor en Entre Ríos: “autorizan a extranjeros a hacer una matanza por diversión” — https://diarioelsol.com.ar/contenido/60189/temporada-de-caza-menor-en-entre-rios-autorizan-a-extranjeros-a-hacer-una-matanz _(bloqueado: contiene keyword 'menor')_
+- Adicionales: en dos años desaparecieron u$s5 millones, según Pagliotto — https://diarioelsol.com.ar/contenido/60188/adicionales-en-dos-anos-desaparecieron-us5-millones-segun-pagliotto _(bloqueado: contiene keyword 'policía')_
+- El padre de los niños fallecidos evoluciona y fue extubado en el hospital Masvernat — https://diarioelsol.com.ar/contenido/60187/el-padre-de-los-ninos-fallecidos-evoluciona-y-fue-extubado-en-el-hospital-masver _(bloqueado: contiene keyword 'niño')_
