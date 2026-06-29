@@ -1509,3 +1509,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-29 02:50 UTC
 - Caso Loan: los jueces visitarán el naranjal donde vieron por última vez al niño — https://diarioelsol.com.ar/contenido/60195/caso-loan-los-jueces-visitaran-el-naranjal-donde-vieron-por-ultima-vez-al-nino _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-06-29 10:44 UTC
+- Judiciales de Entre Ríos aplican “trabajo a reglamento” por agenda de reclamos — https://diarioelsol.com.ar/contenido/60201/judiciales-de-entre-rios-aplican-trabajo-a-reglamento-por-agenda-de-reclamos _(bloqueado: URL contiene '/judicial')_
+- Tragedia en Mendoza: un joven policía se quitó la vida y reabrió el debate sobre la salud mental en la fuerza — https://diarioelsol.com.ar/contenido/60200/tragedia-en-mendoza-un-joven-policia-se-quito-la-vida-y-reabrio-el-debate-sobre- _(bloqueado: contiene keyword 'policía')_
