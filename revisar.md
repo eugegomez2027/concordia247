@@ -1505,3 +1505,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-28 19:09 UTC
 - Villa Busti: Mujer detenida por comercialización de estupefacientes — https://concordia24.com.ar/villa-busti-mujer-detenida-por-comercializacion-de-estupefacientes/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-06-29 02:50 UTC
+- Caso Loan: los jueces visitarán el naranjal donde vieron por última vez al niño — https://diarioelsol.com.ar/contenido/60195/caso-loan-los-jueces-visitaran-el-naranjal-donde-vieron-por-ultima-vez-al-nino _(bloqueado: contiene keyword 'niño')_
