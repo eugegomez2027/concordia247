@@ -1514,3 +1514,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-06-29 10:44 UTC
 - Judiciales de Entre Ríos aplican “trabajo a reglamento” por agenda de reclamos — https://diarioelsol.com.ar/contenido/60201/judiciales-de-entre-rios-aplican-trabajo-a-reglamento-por-agenda-de-reclamos _(bloqueado: URL contiene '/judicial')_
 - Tragedia en Mendoza: un joven policía se quitó la vida y reabrió el debate sobre la salud mental en la fuerza — https://diarioelsol.com.ar/contenido/60200/tragedia-en-mendoza-un-joven-policia-se-quito-la-vida-y-reabrio-el-debate-sobre- _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-06-29 19:48 UTC
+- Mujer despistó y volcó con su vehículo: investigan si estaría usando el celular — https://concordia24.com.ar/mujer-despisto-y-volco-con-su-vehiculo-investigan-si-estaria-usando-el-celular/ _(bloqueado: contiene keyword 'policial')_
