@@ -1526,3 +1526,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Allanamiento positivo en barrio 320 Viviendas: secuestran cocaína y detienen a un joven de 24 años — https://diarioelsol.com.ar/contenido/60215/allanamiento-positivo-en-barrio-320-viviendas-secuestran-cocaina-y-detienen-a-un _(bloqueado: contiene keyword 'allanamiento')_
 - Allanamientos por amenazas entre vecinos: secuestran cocaína, marihuana y una moto utilizada en el hecho. Un detenido — https://diarioelsol.com.ar/contenido/60214/allanamientos-por-amenazas-entre-vecinos-secuestran-cocaina-marihuana-y-una-moto _(bloqueado: contiene keyword 'detenido')_
 - Allanamiento por amenazas: secuestran armas de fuego y detienen a un hombre de 32 años — https://diarioelsol.com.ar/contenido/60216/allanamiento-por-amenazas-secuestran-armas-de-fuego-y-detienen-a-un-hombre-de-32 _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-06-30 14:05 UTC
+- Piden plan “urgente” de erradicación de potenciales focos de Hantavirus ante denuncias de presencia de roedores en un hospital de Concordia — https://diarioelsol.com.ar/contenido/60219/piden-plan-urgente-de-erradicacion-de-potenciales-focos-de-hantavirus-ante-denun _(bloqueado: contiene keyword 'denuncia')_
+- Caso Loan: La Fiscalía ratifica la hipótesis de sustracción tras la inspección ocular — https://diarioelsol.com.ar/contenido/60222/caso-loan-la-fiscalia-ratifica-la-hipotesis-de-sustraccion-tras-la-inspeccion-oc _(bloqueado: contiene keyword 'imputado')_
