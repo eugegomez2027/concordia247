@@ -1518,3 +1518,11 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-06-29 19:48 UTC
 - Mujer despistó y volcó con su vehículo: investigan si estaría usando el celular — https://concordia24.com.ar/mujer-despisto-y-volco-con-su-vehiculo-investigan-si-estaria-usando-el-celular/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-06-30 09:22 UTC
+- ADEPA denunció un “clima de hostilidad” tras los ataques de Milei a periodistas — https://diarioelsol.com.ar/contenido/60212/adepa-denuncio-un-clima-de-hostilidad-tras-los-ataques-de-milei-a-periodistas _(bloqueado: contiene keyword 'denunció')_
+- Boca fue de mayor a menor y empató 1 a 1 con Cruzeiro en la Bombonera — https://diarioelsol.com.ar/contenido/60213/boca-fue-de-mayor-a-menor-y-empato-1-a-1-con-cruzeiro-en-la-bombonera _(bloqueado: contiene keyword 'menor')_
+- Allanamiento positivo en barrio 320 Viviendas: secuestran cocaína y detienen a un joven de 24 años — https://diarioelsol.com.ar/contenido/60215/allanamiento-positivo-en-barrio-320-viviendas-secuestran-cocaina-y-detienen-a-un _(bloqueado: contiene keyword 'allanamiento')_
+- Allanamientos por amenazas entre vecinos: secuestran cocaína, marihuana y una moto utilizada en el hecho. Un detenido — https://diarioelsol.com.ar/contenido/60214/allanamientos-por-amenazas-entre-vecinos-secuestran-cocaina-marihuana-y-una-moto _(bloqueado: contiene keyword 'detenido')_
+- Allanamiento por amenazas: secuestran armas de fuego y detienen a un hombre de 32 años — https://diarioelsol.com.ar/contenido/60216/allanamiento-por-amenazas-secuestran-armas-de-fuego-y-detienen-a-un-hombre-de-32 _(bloqueado: contiene keyword 'allanamiento')_
