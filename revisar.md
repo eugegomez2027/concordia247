@@ -1535,3 +1535,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-01 02:50 UTC
 - La provincia coordina acciones preventivas con municipios ante el impacto fluvial de El Niño — https://concordia24.com.ar/la-provincia-coordina-acciones-preventivas-con-municipios-ante-el-impacto-fluvial-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-07-01 09:34 UTC
+- Secuestro de 50 bolsas de estupefacientes, cuatro detenidos y derrumbe de búnker — https://concordia24.com.ar/secuestro-de-50-bolsas-de-estupefacientes-cuatro-detenidos-y-derrumbe-de-bunker/ _(bloqueado: contiene keyword 'policial')_
