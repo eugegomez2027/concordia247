@@ -1539,3 +1539,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-01 09:34 UTC
 - Secuestro de 50 bolsas de estupefacientes, cuatro detenidos y derrumbe de búnker — https://concordia24.com.ar/secuestro-de-50-bolsas-de-estupefacientes-cuatro-detenidos-y-derrumbe-de-bunker/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-07-01 19:43 UTC
+- Airaldi se defendió: replicó acusaciones sobre avionetas, droga, testigos, violencia y vínculos policiales — https://diarioelsol.com.ar/contenido/60233/airaldi-se-defendio-replico-acusaciones-sobre-avionetas-droga-testigos-violencia _(bloqueado: contiene keyword 'policial')_
+- La Policía actuó como una verdadera brigada de demolición y desarmó una casilla usada para actividades ilícitas — https://diarioelsol.com.ar/contenido/60237/la-policia-actuo-como-una-verdadera-brigada-de-demolicion-y-desarmo-una-casilla- _(bloqueado: contiene keyword 'policía')_
+- Tras el caso FATE, una importante fábrica de neumáticos suspende producción por la caída de ventas — https://diarioelsol.com.ar/contenido/60235/tras-el-caso-fate-una-importante-fabrica-de-neumaticos-suspende-produccion-por-l _(bloqueado: contiene keyword 'menor')_
