@@ -1549,3 +1549,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-02 08:45 UTC
 - Allanaron una vivienda y una financiera por usura y amenaza — https://concordia24.com.ar/allanaron-una-vivienda-y-una-financiera-por-usura-y-amenaza/ _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-07-02 13:44 UTC
+- Una persona fue detenida tras el secuestro de cocaína, marihuana — https://concordia24.com.ar/una-persona-fue-detenida-tras-el-secuestro-de-cocaina-marihuana/ _(bloqueado: contiene keyword 'policial')_
