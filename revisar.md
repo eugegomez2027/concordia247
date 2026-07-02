@@ -1545,3 +1545,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Airaldi se defendió: replicó acusaciones sobre avionetas, droga, testigos, violencia y vínculos policiales — https://diarioelsol.com.ar/contenido/60233/airaldi-se-defendio-replico-acusaciones-sobre-avionetas-droga-testigos-violencia _(bloqueado: contiene keyword 'policial')_
 - La Policía actuó como una verdadera brigada de demolición y desarmó una casilla usada para actividades ilícitas — https://diarioelsol.com.ar/contenido/60237/la-policia-actuo-como-una-verdadera-brigada-de-demolicion-y-desarmo-una-casilla- _(bloqueado: contiene keyword 'policía')_
 - Tras el caso FATE, una importante fábrica de neumáticos suspende producción por la caída de ventas — https://diarioelsol.com.ar/contenido/60235/tras-el-caso-fate-una-importante-fabrica-de-neumaticos-suspende-produccion-por-l _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-07-02 08:45 UTC
+- Allanaron una vivienda y una financiera por usura y amenaza — https://concordia24.com.ar/allanaron-una-vivienda-y-una-financiera-por-usura-y-amenaza/ _(bloqueado: contiene keyword 'allanamiento')_
