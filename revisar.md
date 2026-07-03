@@ -1553,3 +1553,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-02 13:44 UTC
 - Una persona fue detenida tras el secuestro de cocaína, marihuana — https://concordia24.com.ar/una-persona-fue-detenida-tras-el-secuestro-de-cocaina-marihuana/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-07-03 02:22 UTC
+- Allanamientos por amenazas: Tres detenidos y secuestro de 23 celulares — https://concordia24.com.ar/allanamientos-por-amenazas-tres-detenidos-y-secuestro-de-23-celulares/ _(bloqueado: contiene keyword 'detenido')_
