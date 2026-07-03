@@ -1557,3 +1557,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-03 02:22 UTC
 - Allanamientos por amenazas: Tres detenidos y secuestro de 23 celulares — https://concordia24.com.ar/allanamientos-por-amenazas-tres-detenidos-y-secuestro-de-23-celulares/ _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-07-03 08:53 UTC
+- Padre e hijo fueron de vacaciones a una conocida playa: el hombre apareció asesinado y el joven está desaparecido — https://diarioelsol.com.ar/contenido/60267/padre-e-hijo-fueron-de-vacaciones-a-una-conocida-playa-el-hombre-aparecio-asesin _(bloqueado: contiene keyword 'asesin')_
