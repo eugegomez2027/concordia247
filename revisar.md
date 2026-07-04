@@ -1572,3 +1572,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Acusaron a los astronautas de Artemis II de fingir su misión a la Luna y el video se volvió viral: "Dejen de mentir" — https://diarioelsol.com.ar/contenido/60293/acusaron-a-los-astronautas-de-artemis-ii-de-fingir-su-mision-a-la-luna-y-el-vide _(bloqueado: contiene keyword 'acusó')_
 - El consumo masivo cayó más de 5% en abril y profundizó la baja en supermercados — https://diarioelsol.com.ar/contenido/60292/el-consumo-masivo-cayo-mas-de-5-en-abril-y-profundizo-la-baja-en-supermercados _(bloqueado: contiene keyword 'menor')_
 - Docentes, policías, bomberos y fuerzas federales comenzaron a recibir la vacuna antigripal — https://diarioelsol.com.ar/contenido/60296/docentes-policias-bomberos-y-fuerzas-federales-comenzaron-a-recibir-la-vacuna-an _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-07-04 13:09 UTC
+- No hay más lugar en las cárceles: Lower sigue detenido en una comisaría mientras avanza la causa narco — https://diarioelsol.com.ar/contenido/60301/no-hay-mas-lugar-en-las-carceles-lower-sigue-detenido-en-una-comisaria-mientras- _(bloqueado: contiene keyword 'policial')_
