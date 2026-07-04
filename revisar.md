@@ -1565,3 +1565,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-04 02:14 UTC
 - Vecinos denuncian intensa caída de aserrín y reclaman medidas urgentes a una fábrica — https://concordia24.com.ar/vecinos-denuncian-intensa-caida-de-aserrin-y-reclaman-medidas-urgentes-a-una-fabrica/ _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-07-04 08:28 UTC
+- La Justicia desestimó la denuncia penal de la concejal Percara contra el intendente Lauritto — https://diarioelsol.com.ar/contenido/60288/la-justicia-desestimo-la-denuncia-penal-de-la-concejal-percara-contra-el-intende _(bloqueado: contiene keyword 'denuncia')_
+- Acusaron a los astronautas de Artemis II de fingir su misión a la Luna y el video se volvió viral: "Dejen de mentir" — https://diarioelsol.com.ar/contenido/60293/acusaron-a-los-astronautas-de-artemis-ii-de-fingir-su-mision-a-la-luna-y-el-vide _(bloqueado: contiene keyword 'acusó')_
+- El consumo masivo cayó más de 5% en abril y profundizó la baja en supermercados — https://diarioelsol.com.ar/contenido/60292/el-consumo-masivo-cayo-mas-de-5-en-abril-y-profundizo-la-baja-en-supermercados _(bloqueado: contiene keyword 'menor')_
+- Docentes, policías, bomberos y fuerzas federales comenzaron a recibir la vacuna antigripal — https://diarioelsol.com.ar/contenido/60296/docentes-policias-bomberos-y-fuerzas-federales-comenzaron-a-recibir-la-vacuna-an _(bloqueado: contiene keyword 'policía')_
