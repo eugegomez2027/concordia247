@@ -1561,3 +1561,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-03 08:53 UTC
 - Padre e hijo fueron de vacaciones a una conocida playa: el hombre apareció asesinado y el joven está desaparecido — https://diarioelsol.com.ar/contenido/60267/padre-e-hijo-fueron-de-vacaciones-a-una-conocida-playa-el-hombre-aparecio-asesin _(bloqueado: contiene keyword 'asesin')_
+
+
+## Tanda 2026-07-04 02:14 UTC
+- Vecinos denuncian intensa caída de aserrín y reclaman medidas urgentes a una fábrica — https://concordia24.com.ar/vecinos-denuncian-intensa-caida-de-aserrin-y-reclaman-medidas-urgentes-a-una-fabrica/ _(bloqueado: contiene keyword 'denuncia')_
