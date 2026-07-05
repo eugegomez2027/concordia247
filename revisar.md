@@ -1576,3 +1576,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-04 13:09 UTC
 - No hay más lugar en las cárceles: Lower sigue detenido en una comisaría mientras avanza la causa narco — https://diarioelsol.com.ar/contenido/60301/no-hay-mas-lugar-en-las-carceles-lower-sigue-detenido-en-una-comisaria-mientras- _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-07-05 02:30 UTC
+- Incendio fatal en Entre Ríos: falleció una mujer mayor y hospitalizaron a dos niños — https://diarioelsol.com.ar/contenido/60314/incendio-fatal-en-entre-rios-fallecio-una-mujer-mayor-y-hospitalizaron-a-dos-nin _(bloqueado: contiene keyword 'niño')_
