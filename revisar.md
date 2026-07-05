@@ -1580,3 +1580,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-05 02:30 UTC
 - Incendio fatal en Entre Ríos: falleció una mujer mayor y hospitalizaron a dos niños — https://diarioelsol.com.ar/contenido/60314/incendio-fatal-en-entre-rios-fallecio-una-mujer-mayor-y-hospitalizaron-a-dos-nin _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-07-05 13:17 UTC
+- Tensión en Bolivia: el Gobierno despeja las rutas para llevar comida y remedios a La Paz — https://diarioelsol.com.ar/contenido/60324/tension-en-bolivia-el-gobierno-despeja-las-rutas-para-llevar-comida-y-remedios-a _(bloqueado: contiene keyword 'policía')_
+- Crece el cibercrimen impulsado con IA en Argentina: más de 5.700 millones de ataques en el 2025 — https://diarioelsol.com.ar/contenido/60323/crece-el-cibercrimen-impulsado-con-ia-en-argentina-mas-de-5700-millones-de-ataqu _(bloqueado: contiene keyword 'crimen')_
+- Un documento perdido durante 61 años revela un hecho desconocido: la madre del Che Guevara fue detenida en Concordia en 1963 y su pasaporte acaba de ser devuelto a su hijo — https://diarioelsol.com.ar/contenido/60327/un-documento-perdido-durante-61-anos-revela-un-hecho-desconocido-la-madre-del-ch _(bloqueado: contiene keyword 'menor')_
