@@ -1586,3 +1586,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Tensión en Bolivia: el Gobierno despeja las rutas para llevar comida y remedios a La Paz — https://diarioelsol.com.ar/contenido/60324/tension-en-bolivia-el-gobierno-despeja-las-rutas-para-llevar-comida-y-remedios-a _(bloqueado: contiene keyword 'policía')_
 - Crece el cibercrimen impulsado con IA en Argentina: más de 5.700 millones de ataques en el 2025 — https://diarioelsol.com.ar/contenido/60323/crece-el-cibercrimen-impulsado-con-ia-en-argentina-mas-de-5700-millones-de-ataqu _(bloqueado: contiene keyword 'crimen')_
 - Un documento perdido durante 61 años revela un hecho desconocido: la madre del Che Guevara fue detenida en Concordia en 1963 y su pasaporte acaba de ser devuelto a su hijo — https://diarioelsol.com.ar/contenido/60327/un-documento-perdido-durante-61-anos-revela-un-hecho-desconocido-la-madre-del-ch _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-07-06 02:35 UTC
+- San Salvador: allanamientos simultáneos por una causa de tentativa de robo y lesiones leves — https://concordia24.com.ar/san-salvador-allanamientos-simultaneos-por-una-causa-de-tentativa-de-robo-y-lesiones-leves/ _(bloqueado: contiene keyword 'robo')_
+- Un nuevo tiroteo en las inmediaciones de la Casa Blanca, un hombre fue abatido y otra persona resultó herida. — https://diarioelsol.com.ar/contenido/60329/un-nuevo-tiroteo-en-las-inmediaciones-de-la-casa-blanca-un-hombre-fue-abatido-y- _(bloqueado: contiene keyword 'tiroteo')_
