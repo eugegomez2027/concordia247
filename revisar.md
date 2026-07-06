@@ -1591,3 +1591,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-07-06 02:35 UTC
 - San Salvador: allanamientos simultáneos por una causa de tentativa de robo y lesiones leves — https://concordia24.com.ar/san-salvador-allanamientos-simultaneos-por-una-causa-de-tentativa-de-robo-y-lesiones-leves/ _(bloqueado: contiene keyword 'robo')_
 - Un nuevo tiroteo en las inmediaciones de la Casa Blanca, un hombre fue abatido y otra persona resultó herida. — https://diarioelsol.com.ar/contenido/60329/un-nuevo-tiroteo-en-las-inmediaciones-de-la-casa-blanca-un-hombre-fue-abatido-y- _(bloqueado: contiene keyword 'tiroteo')_
+
+
+## Tanda 2026-07-06 10:03 UTC
+- Tres detenidos por cocaína y un arma de fuego en operativos simultáneos en once barrios de Concordia — https://diarioelsol.com.ar/contenido/60335/tres-detenidos-por-cocaina-y-un-arma-de-fuego-en-operativos-simultaneos-en-once- _(bloqueado: contiene keyword 'detenido')_
