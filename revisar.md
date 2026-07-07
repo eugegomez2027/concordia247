@@ -1601,3 +1601,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Frigerio inauguró un moderno centro de monitoreo y nuevas instalaciones para la Policía en Concordia — https://concordia24.com.ar/frigerio-inauguro-un-moderno-centro-de-monitoreo-y-nuevas-instalaciones-para-la-policia-en-concordia/ _(bloqueado: contiene keyword 'policía')_
 - Agmer cargó contra Frigerio por la reforma jubilatoria: “No detiene la maquinaria de ajuste” — https://diarioelsol.com.ar/contenido/60345/agmer-cargo-contra-frigerio-por-la-reforma-jubilatoria-no-detiene-la-maquinaria- _(bloqueado: contiene keyword 'denunció')_
 - Detuvieron al presunto autor de incendiar un patrullero en Entre Ríos — https://diarioelsol.com.ar/contenido/60349/detuvieron-al-presunto-autor-de-incendiar-un-patrullero-en-entre-rios _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-07-07 19:45 UTC
+- Denunciaron penalmente a Adorni, Caputo y Sturzenegger por vaciamiento y desvío de fondos de Vialidad Nacional — https://diarioelsol.com.ar/contenido/60353/denunciaron-penalmente-a-adorni-caputo-y-sturzenegger-por-vaciamiento-y-desvio-d _(bloqueado: URL contiene '/denunc')_
+- Concordia: un adolescente detenido tras destrozar la vidriera de una joyería en plena peatonal — https://diarioelsol.com.ar/contenido/60362/concordia-un-adolescente-detenido-tras-destrozar-la-vidriera-de-una-joyeria-en-p _(bloqueado: contiene keyword 'detenido')_
