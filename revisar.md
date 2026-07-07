@@ -1595,3 +1595,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-06 10:03 UTC
 - Tres detenidos por cocaína y un arma de fuego en operativos simultáneos en once barrios de Concordia — https://diarioelsol.com.ar/contenido/60335/tres-detenidos-por-cocaina-y-un-arma-de-fuego-en-operativos-simultaneos-en-once- _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-07-07 09:30 UTC
+- Frigerio inauguró un moderno centro de monitoreo y nuevas instalaciones para la Policía en Concordia — https://concordia24.com.ar/frigerio-inauguro-un-moderno-centro-de-monitoreo-y-nuevas-instalaciones-para-la-policia-en-concordia/ _(bloqueado: contiene keyword 'policía')_
+- Agmer cargó contra Frigerio por la reforma jubilatoria: “No detiene la maquinaria de ajuste” — https://diarioelsol.com.ar/contenido/60345/agmer-cargo-contra-frigerio-por-la-reforma-jubilatoria-no-detiene-la-maquinaria- _(bloqueado: contiene keyword 'denunció')_
+- Detuvieron al presunto autor de incendiar un patrullero en Entre Ríos — https://diarioelsol.com.ar/contenido/60349/detuvieron-al-presunto-autor-de-incendiar-un-patrullero-en-entre-rios _(bloqueado: contiene keyword 'detenido')_
