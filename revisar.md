@@ -1613,3 +1613,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Dos detenidos durante los festejos por la victoria de Argentina — https://concordia24.com.ar/dos-detenidos-durante-los-festejos-por-la-victoria-de-argentina/ _(bloqueado: contiene keyword 'detenido')_
 - Dos vehículos chocaron de frente en la Ruta 18 y un hombre debió ser hospitalizado — https://diarioelsol.com.ar/contenido/60366/dos-vehiculos-chocaron-de-frente-en-la-ruta-18-y-un-hombre-debio-ser-hospitaliza _(bloqueado: contiene keyword 'menor')_
 - Continúa la violencia en Bolivia: graves enfrentamientos entre policías y manifestantes con dinamita — https://diarioelsol.com.ar/contenido/60369/continua-la-violencia-en-bolivia-graves-enfrentamientos-entre-policias-y-manifes _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-07-08 08:14 UTC
+- Allanamientos en barrio Fátima I: Secuestran cocaína, marihuana y detienen a dos personas — https://concordia24.com.ar/allanamientos-en-barrio-fatima-i-secuestran-cocaina-marihuana-y-detienen-a-dos-personas/ _(bloqueado: contiene keyword 'detenido')_
