@@ -1617,3 +1617,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-08 08:14 UTC
 - Allanamientos en barrio Fátima I: Secuestran cocaína, marihuana y detienen a dos personas — https://concordia24.com.ar/allanamientos-en-barrio-fatima-i-secuestran-cocaina-marihuana-y-detienen-a-dos-personas/ _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-07-08 13:48 UTC
+- Una joven fue apuñalada frente a un establecimiento educativo por tres mujeres — https://diarioelsol.com.ar/contenido/60389/una-joven-fue-apunalada-frente-a-un-establecimiento-educativo-por-tres-mujeres _(bloqueado: contiene keyword 'menor')_
