@@ -1621,3 +1621,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-08 13:48 UTC
 - Una joven fue apuñalada frente a un establecimiento educativo por tres mujeres — https://diarioelsol.com.ar/contenido/60389/una-joven-fue-apunalada-frente-a-un-establecimiento-educativo-por-tres-mujeres _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-07-08 19:14 UTC
+- Defensa Civil provincial impulsa capacitación vecinal y alertas tempranas ante el fenómeno de El Niño — https://concordia24.com.ar/defensa-civil-provincial-impulsa-capacitacion-vecinal-y-alertas-tempranas-ante-el-fenomeno-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
