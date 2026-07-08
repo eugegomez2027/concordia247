@@ -1606,3 +1606,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-07-07 19:45 UTC
 - Denunciaron penalmente a Adorni, Caputo y Sturzenegger por vaciamiento y desvío de fondos de Vialidad Nacional — https://diarioelsol.com.ar/contenido/60353/denunciaron-penalmente-a-adorni-caputo-y-sturzenegger-por-vaciamiento-y-desvio-d _(bloqueado: URL contiene '/denunc')_
 - Concordia: un adolescente detenido tras destrozar la vidriera de una joyería en plena peatonal — https://diarioelsol.com.ar/contenido/60362/concordia-un-adolescente-detenido-tras-destrozar-la-vidriera-de-una-joyeria-en-p _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-07-08 02:05 UTC
+- Amparo promovido por el Dr Emmanuel Almirón ordenó a Jerárquicos Salud cubrir el 100% la escolaridad de un niño con TDAH — https://concordia24.com.ar/amparo-promovido-por-el-dr-emmanuel-almiron-ordeno-a-jerarquicos-salud-cubrir-el-100-la-escolaridad-de-un-nino-con-tdah/ _(bloqueado: contiene keyword 'menor')_
+- Dos detenidos durante los festejos por la victoria de Argentina — https://concordia24.com.ar/dos-detenidos-durante-los-festejos-por-la-victoria-de-argentina/ _(bloqueado: contiene keyword 'detenido')_
+- Dos vehículos chocaron de frente en la Ruta 18 y un hombre debió ser hospitalizado — https://diarioelsol.com.ar/contenido/60366/dos-vehiculos-chocaron-de-frente-en-la-ruta-18-y-un-hombre-debio-ser-hospitaliza _(bloqueado: contiene keyword 'menor')_
+- Continúa la violencia en Bolivia: graves enfrentamientos entre policías y manifestantes con dinamita — https://diarioelsol.com.ar/contenido/60369/continua-la-violencia-en-bolivia-graves-enfrentamientos-entre-policias-y-manifes _(bloqueado: contiene keyword 'policía')_
