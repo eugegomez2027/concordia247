@@ -1635,3 +1635,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-09 09:27 UTC
 - Allanamientos en Barrio Ex Aeroclub terminaron con tres detenidos y el secuestro de 260 envoltorios de cocaína — https://concordia24.com.ar/allanamientos-en-barrio-ex-aeroclub-terminaron-con-tres-detenidos-y-el-secuestro-de-260-envoltorios-de-cocaina/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-07-09 14:42 UTC
+- El Gobierno dejará de pagarle a las empresas por pasajes gratuitos para personas con condiciones de salud especiales — https://diarioelsol.com.ar/contenido/60398/el-gobierno-dejara-de-pagarle-a-las-empresas-por-pasajes-gratuitos-para-personas _(bloqueado: contiene keyword 'niño')_
