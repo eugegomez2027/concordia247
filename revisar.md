@@ -1639,3 +1639,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-09 14:42 UTC
 - El Gobierno dejará de pagarle a las empresas por pasajes gratuitos para personas con condiciones de salud especiales — https://diarioelsol.com.ar/contenido/60398/el-gobierno-dejara-de-pagarle-a-las-empresas-por-pasajes-gratuitos-para-personas _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-07-09 19:28 UTC
+- Chocó en moto y, mientras lo atendían en el hospital, descubrieron que llevaba cocaína y marihuana en un bolso — https://diarioelsol.com.ar/contenido/60399/choco-en-moto-y-mientras-lo-atendian-en-el-hospital-descubrieron-que-llevaba-coc _(bloqueado: contiene keyword 'policial')_
