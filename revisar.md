@@ -1631,3 +1631,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Juzgarían fuera de Concordia al acusado por el femicidio de joven asesinada y descuartizada — https://diarioelsol.com.ar/contenido/60382/juzgarian-fuera-de-concordia-al-acusado-por-el-femicidio-de-joven-asesinada-y-de _(bloqueado: contiene keyword 'asesin')_
 - Realizaron un operativo conjunto con más de 50 policías en distintos barrios de Concordia — https://diarioelsol.com.ar/contenido/60385/realizaron-un-operativo-conjunto-con-mas-de-50-policias-en-distintos-barrios-de- _(bloqueado: contiene keyword 'policía')_
 - Adolescente de 17 años sufrió graves lesiones al chocar contra un tráiler sin señalización en Ruta 4 — https://diarioelsol.com.ar/contenido/60388/adolescente-de-17-anos-sufrio-graves-lesiones-al-chocar-contra-un-trailer-sin-se _(bloqueado: contiene keyword 'adolescente')_
+
+
+## Tanda 2026-07-09 09:27 UTC
+- Allanamientos en Barrio Ex Aeroclub terminaron con tres detenidos y el secuestro de 260 envoltorios de cocaína — https://concordia24.com.ar/allanamientos-en-barrio-ex-aeroclub-terminaron-con-tres-detenidos-y-el-secuestro-de-260-envoltorios-de-cocaina/ _(bloqueado: contiene keyword 'policial')_
