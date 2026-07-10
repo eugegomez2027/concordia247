@@ -1643,3 +1643,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-09 19:28 UTC
 - Chocó en moto y, mientras lo atendían en el hospital, descubrieron que llevaba cocaína y marihuana en un bolso — https://diarioelsol.com.ar/contenido/60399/choco-en-moto-y-mientras-lo-atendian-en-el-hospital-descubrieron-que-llevaba-coc _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-07-10 14:07 UTC
+- Un hombre ingresó a una casa, fue detenido por los vecinos, golpeado ferozmente, murió en el hospital — https://diarioelsol.com.ar/contenido/60414/un-hombre-ingreso-a-una-casa-fue-detenido-por-los-vecinos-golpeado-ferozmente-mu _(bloqueado: contiene keyword 'detenido')_
