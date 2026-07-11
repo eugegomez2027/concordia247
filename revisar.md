@@ -1647,3 +1647,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-10 14:07 UTC
 - Un hombre ingresó a una casa, fue detenido por los vecinos, golpeado ferozmente, murió en el hospital — https://diarioelsol.com.ar/contenido/60414/un-hombre-ingreso-a-una-casa-fue-detenido-por-los-vecinos-golpeado-ferozmente-mu _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-07-11 07:44 UTC
+- Operativo de prevención en la Peatonal y plazas de Concordia: concientizaron sobre el uso de bicicletas en espacios no habilitados — https://concordia24.com.ar/operativo-de-prevencion-en-la-peatonal-y-plazas-de-concordia-concientizaron-sobre-el-uso-de-bicicletas-en-espacios-no-habilitados/ _(bloqueado: contiene keyword 'policial')_
