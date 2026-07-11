@@ -1658,3 +1658,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - UOCRA denuncia pérdida de 91.000 empleos en la construcción desde la asunción de Milei — https://diarioelsol.com.ar/contenido/60437/uocra-denuncia-perdida-de-91000-empleos-en-la-construccion-desde-la-asuncion-de- _(bloqueado: contiene keyword 'denuncia')_
 - Enviaron a la cárcel de Paraná a los acusados de abusar de una adolescente en Feliciano — https://diarioelsol.com.ar/contenido/60442/enviaron-a-la-carcel-de-parana-a-los-acusados-de-abusar-de-una-adolescente-en-fe _(bloqueado: contiene keyword 'policía')_
 - En otro operativo "saturación" la Policía detuvo a dos hombres y secuestró cebollines de cocaína. — https://diarioelsol.com.ar/contenido/60441/en-otro-operativo-saturacion-la-policia-detuvo-a-dos-hombres-y-secuestro-cebolli _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-07-11 18:51 UTC
+- Profundo pesar en las fuerzas por el fallecimiento de la oficial Mariel Rodríguez — https://concordia24.com.ar/profundo-pesar-en-las-fuerzas-por-el-fallecimiento-de-la-oficial-mariel-rodriguez/ _(bloqueado: contiene keyword 'policía')_
