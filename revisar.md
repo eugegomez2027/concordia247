@@ -1651,3 +1651,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-11 07:44 UTC
 - Operativo de prevención en la Peatonal y plazas de Concordia: concientizaron sobre el uso de bicicletas en espacios no habilitados — https://concordia24.com.ar/operativo-de-prevencion-en-la-peatonal-y-plazas-de-concordia-concientizaron-sobre-el-uso-de-bicicletas-en-espacios-no-habilitados/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-07-11 13:03 UTC
+- Allanaron la casa donde Barrelier citó a Agostina: había gente adentro — https://diarioelsol.com.ar/contenido/60433/recortar-beneficios-impositivos-como-los-del-iva-y-regimenes-especiales-ampliar- _(bloqueado: contiene keyword 'detenido')_
+- UOCRA denuncia pérdida de 91.000 empleos en la construcción desde la asunción de Milei — https://diarioelsol.com.ar/contenido/60437/uocra-denuncia-perdida-de-91000-empleos-en-la-construccion-desde-la-asuncion-de- _(bloqueado: contiene keyword 'denuncia')_
+- Enviaron a la cárcel de Paraná a los acusados de abusar de una adolescente en Feliciano — https://diarioelsol.com.ar/contenido/60442/enviaron-a-la-carcel-de-parana-a-los-acusados-de-abusar-de-una-adolescente-en-fe _(bloqueado: contiene keyword 'policía')_
+- En otro operativo "saturación" la Policía detuvo a dos hombres y secuestró cebollines de cocaína. — https://diarioelsol.com.ar/contenido/60441/en-otro-operativo-saturacion-la-policia-detuvo-a-dos-hombres-y-secuestro-cebolli _(bloqueado: contiene keyword 'policía')_
