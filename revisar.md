@@ -1670,3 +1670,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-12 08:06 UTC
 - Allanamientos: secuestran drogas, dinero y teléfonos celulares; siete personas fueron detenidas — https://concordia24.com.ar/allanamientos-secuestran-drogas-dinero-y-telefonos-celulares-siete-personas-fueron-detenidas/ _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-07-12 18:56 UTC
+- Incendio en una vivienda: un menor habría iniciado el fuego jugando con un encendedor — https://concordia24.com.ar/incendio-en-una-vivienda-un-menor-habria-iniciado-el-fuego-jugando-con-un-encendedor/ _(bloqueado: contiene keyword 'menor')_
+- Bordet calificó de “absurdo” el rumbo de la causa y negó cualquier irregularidad — https://diarioelsol.com.ar/contenido/60460/bordet-califico-de-absurdo-el-rumbo-de-la-causa-y-nego-cualquier-irregularidad _(bloqueado: contiene keyword 'allanamiento')_
+- Nahir Galarza volvió a hablar desde la cárcel y reconoció: “Soy la responsable” — https://diarioelsol.com.ar/contenido/60463/nahir-galarza-volvio-a-hablar-desde-la-carcel-y-reconocio-soy-la-responsable _(bloqueado: contiene keyword 'crimen')_
