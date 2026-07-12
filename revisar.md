@@ -1662,3 +1662,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-11 18:51 UTC
 - Profundo pesar en las fuerzas por el fallecimiento de la oficial Mariel Rodríguez — https://concordia24.com.ar/profundo-pesar-en-las-fuerzas-por-el-fallecimiento-de-la-oficial-mariel-rodriguez/ _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-07-12 02:06 UTC
+- Allanamientos por narcomenudeo: secuestro de cocaína y detienen a nueve personas — https://concordia24.com.ar/allanamientos-por-narcomenudeo-secuestro-de-cocaina-y-detienen-a-nueve-personas/ _(bloqueado: contiene keyword 'allanamiento')_
