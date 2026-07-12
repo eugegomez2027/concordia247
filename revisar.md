@@ -1666,3 +1666,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-12 02:06 UTC
 - Allanamientos por narcomenudeo: secuestro de cocaína y detienen a nueve personas — https://concordia24.com.ar/allanamientos-por-narcomenudeo-secuestro-de-cocaina-y-detienen-a-nueve-personas/ _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-07-12 08:06 UTC
+- Allanamientos: secuestran drogas, dinero y teléfonos celulares; siete personas fueron detenidas — https://concordia24.com.ar/allanamientos-secuestran-drogas-dinero-y-telefonos-celulares-siete-personas-fueron-detenidas/ _(bloqueado: contiene keyword 'allanamiento')_
