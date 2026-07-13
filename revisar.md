@@ -1676,3 +1676,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Incendio en una vivienda: un menor habría iniciado el fuego jugando con un encendedor — https://concordia24.com.ar/incendio-en-una-vivienda-un-menor-habria-iniciado-el-fuego-jugando-con-un-encendedor/ _(bloqueado: contiene keyword 'menor')_
 - Bordet calificó de “absurdo” el rumbo de la causa y negó cualquier irregularidad — https://diarioelsol.com.ar/contenido/60460/bordet-califico-de-absurdo-el-rumbo-de-la-causa-y-nego-cualquier-irregularidad _(bloqueado: contiene keyword 'allanamiento')_
 - Nahir Galarza volvió a hablar desde la cárcel y reconoció: “Soy la responsable” — https://diarioelsol.com.ar/contenido/60463/nahir-galarza-volvio-a-hablar-desde-la-carcel-y-reconocio-soy-la-responsable _(bloqueado: contiene keyword 'crimen')_
+
+
+## Tanda 2026-07-13 08:56 UTC
+- El Presidente del PJ Paraná advirtió que pedirá “la expulsión inmediata de quienes avalen las políticas de ajuste de Frigerio" — https://diarioelsol.com.ar/contenido/60472/el-presidente-del-pj-parana-advirtio-que-pedira-la-expulsion-inmediata-de-quiene _(bloqueado: contiene keyword 'denunció')_
+- Qué se sabe de Agostina Vega, la adolescente de 14 años que buscan en Córdoba — https://diarioelsol.com.ar/contenido/60477/que-se-sabe-de-agostina-vega-la-adolescente-de-14-anos-que-buscan-en-cordoba _(bloqueado: contiene keyword 'detenido')_
+- Allanamientos por amenazas y drogas: cinco detenidos tras un violento enfrentamiento entre grupos de jóvenes — https://diarioelsol.com.ar/contenido/60480/allanamientos-por-amenazas-y-drogas-cinco-detenidos-tras-un-violento-enfrentamie _(bloqueado: contiene keyword 'detenido')_
+- POLICIA FUE CONDENADO POR UN JURADO POPULAR POR ABUSO SEXUAL AGRAVADO Y FUE DETENIDO. — https://diarioelsol.com.ar/contenido/60479/policia-fue-condenado-por-un-jurado-popular-por-abuso-sexual-agravado-y-fue-dete _(bloqueado: contiene keyword 'detenido')_
