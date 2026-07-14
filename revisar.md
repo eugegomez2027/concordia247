@@ -1683,3 +1683,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Qué se sabe de Agostina Vega, la adolescente de 14 años que buscan en Córdoba — https://diarioelsol.com.ar/contenido/60477/que-se-sabe-de-agostina-vega-la-adolescente-de-14-anos-que-buscan-en-cordoba _(bloqueado: contiene keyword 'detenido')_
 - Allanamientos por amenazas y drogas: cinco detenidos tras un violento enfrentamiento entre grupos de jóvenes — https://diarioelsol.com.ar/contenido/60480/allanamientos-por-amenazas-y-drogas-cinco-detenidos-tras-un-violento-enfrentamie _(bloqueado: contiene keyword 'detenido')_
 - POLICIA FUE CONDENADO POR UN JURADO POPULAR POR ABUSO SEXUAL AGRAVADO Y FUE DETENIDO. — https://diarioelsol.com.ar/contenido/60479/policia-fue-condenado-por-un-jurado-popular-por-abuso-sexual-agravado-y-fue-dete _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-07-14 13:18 UTC
+- Se conocieron los mensajes que le habría mandado la mamá de Agostina Vega a Claudio Barrelier — https://diarioelsol.com.ar/contenido/60493/se-conocieron-los-mensajes-que-le-habria-mandado-la-mama-de-agostina-vega-a-clau _(bloqueado: contiene keyword 'imputado')_
+- El peor final. Hallaron el cuerpo sin vida de Agostina Vega: lo que se sabe del caso — https://diarioelsol.com.ar/contenido/60498/el-peor-final-hallaron-el-cuerpo-sin-vida-de-agostina-vega-lo-que-se-sabe-del-ca _(bloqueado: contiene keyword 'detenido')_
