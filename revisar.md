@@ -1688,3 +1688,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-07-14 13:18 UTC
 - Se conocieron los mensajes que le habría mandado la mamá de Agostina Vega a Claudio Barrelier — https://diarioelsol.com.ar/contenido/60493/se-conocieron-los-mensajes-que-le-habria-mandado-la-mama-de-agostina-vega-a-clau _(bloqueado: contiene keyword 'imputado')_
 - El peor final. Hallaron el cuerpo sin vida de Agostina Vega: lo que se sabe del caso — https://diarioelsol.com.ar/contenido/60498/el-peor-final-hallaron-el-cuerpo-sin-vida-de-agostina-vega-lo-que-se-sabe-del-ca _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-07-15 01:50 UTC
+- Preparan un operativo especial de seguridad en Concordia ante posibles festejos por la Selección Argentina — https://concordia24.com.ar/preparan-un-operativo-especial-de-seguridad-en-concordia-ante-posibles-festejos-por-la-seleccion-argentina/ _(bloqueado: contiene keyword 'policía')_
+- Quién era Agostina Vega, la adolescente de 14 años que encontraron muerta tras una semana desaparecida en Córdoba — https://diarioelsol.com.ar/contenido/60500/quien-era-agostina-vega-la-adolescente-de-14-anos-que-encontraron-muerta-tras-un _(bloqueado: contiene keyword 'detenido')_
+- Sospechas. El padre de Agostina Vega rompió el silencio y denunció que el detenido tuvo cómplices — https://diarioelsol.com.ar/contenido/60499/sospechas-el-padre-de-agostina-vega-rompio-el-silencio-y-denuncio-que-el-detenid _(bloqueado: contiene keyword 'policía')_
