@@ -1698,3 +1698,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-15 07:55 UTC
 - Millones de dólares y drogas: la lista del botín secuestrado en la causa en la que terminó detenido el ex titular de ARSAT — https://diarioelsol.com.ar/contenido/60509/millones-de-dolares-y-drogas-la-lista-del-botin-secuestrado-en-la-causa-en-la-qu _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-07-15 13:22 UTC
+- Rescataron a una perra por un presunto caso de maltrato animal en Concordia — https://concordia24.com.ar/rescataron-a-una-perra-por-un-presunto-caso-de-maltrato-animal-en-concordia/ _(bloqueado: contiene keyword 'denuncia')_
