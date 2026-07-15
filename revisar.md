@@ -1702,3 +1702,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-15 13:22 UTC
 - Rescataron a una perra por un presunto caso de maltrato animal en Concordia — https://concordia24.com.ar/rescataron-a-una-perra-por-un-presunto-caso-de-maltrato-animal-en-concordia/ _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-07-15 19:00 UTC
+- ALLANAMIENTOS POR EL INCENDIO INTENCIONAL DE UN CAMIÓN ESTACIONADO EN LA VÍA PÚBLICA — https://diarioelsol.com.ar/contenido/60511/allanamientos-por-el-incendio-intencional-de-un-camion-estacionado-en-la-via-pub _(bloqueado: contiene keyword 'allanamiento')_
+- Los antecedentes de Claudio Barrelier, el único detenido por el femicidio de Agostina Vega — https://diarioelsol.com.ar/contenido/60519/los-antecedentes-de-claudio-barrelier-el-unico-detenido-por-el-femicidio-de-agos _(bloqueado: contiene keyword 'detenido')_
