@@ -1694,3 +1694,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Preparan un operativo especial de seguridad en Concordia ante posibles festejos por la Selección Argentina — https://concordia24.com.ar/preparan-un-operativo-especial-de-seguridad-en-concordia-ante-posibles-festejos-por-la-seleccion-argentina/ _(bloqueado: contiene keyword 'policía')_
 - Quién era Agostina Vega, la adolescente de 14 años que encontraron muerta tras una semana desaparecida en Córdoba — https://diarioelsol.com.ar/contenido/60500/quien-era-agostina-vega-la-adolescente-de-14-anos-que-encontraron-muerta-tras-un _(bloqueado: contiene keyword 'detenido')_
 - Sospechas. El padre de Agostina Vega rompió el silencio y denunció que el detenido tuvo cómplices — https://diarioelsol.com.ar/contenido/60499/sospechas-el-padre-de-agostina-vega-rompio-el-silencio-y-denuncio-que-el-detenid _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-07-15 07:55 UTC
+- Millones de dólares y drogas: la lista del botín secuestrado en la causa en la que terminó detenido el ex titular de ARSAT — https://diarioelsol.com.ar/contenido/60509/millones-de-dolares-y-drogas-la-lista-del-botin-secuestrado-en-la-causa-en-la-qu _(bloqueado: contiene keyword 'detenido')_
