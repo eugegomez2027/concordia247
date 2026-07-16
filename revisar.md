@@ -1707,3 +1707,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-07-15 19:00 UTC
 - ALLANAMIENTOS POR EL INCENDIO INTENCIONAL DE UN CAMIÓN ESTACIONADO EN LA VÍA PÚBLICA — https://diarioelsol.com.ar/contenido/60511/allanamientos-por-el-incendio-intencional-de-un-camion-estacionado-en-la-via-pub _(bloqueado: contiene keyword 'allanamiento')_
 - Los antecedentes de Claudio Barrelier, el único detenido por el femicidio de Agostina Vega — https://diarioelsol.com.ar/contenido/60519/los-antecedentes-de-claudio-barrelier-el-unico-detenido-por-el-femicidio-de-agos _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-07-16 02:00 UTC
+- Femicidio de Agostina Vega: Claudio Barrelier intentó suicidarse en la cárcel — https://diarioelsol.com.ar/contenido/60525/femicidio-de-agostina-vega-claudio-barrelier-intento-suicidarse-en-la-carcel _(bloqueado: contiene keyword 'detenido')_
+- “Vamos a prender fuego todo”: la noche de furia que se vivió en Córdoba tras el hallazgo de los restos de Agostina Vega — https://diarioelsol.com.ar/contenido/60524/vamos-a-prender-fuego-todo-la-noche-de-furia-que-se-vivio-en-cordoba-tras-el-hal _(bloqueado: contiene keyword 'policial')_
