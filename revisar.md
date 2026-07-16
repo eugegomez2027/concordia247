@@ -1716,3 +1716,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-16 08:01 UTC
 - Detuvieron a un profesor de música en una causa por presunto grooming: había sido desvinculado de un colegio privado en 2025 — https://diarioelsol.com.ar/contenido/60531/detuvieron-a-un-profesor-de-musica-en-una-causa-por-presunto-grooming-habia-sido _(bloqueado: contiene keyword 'presunto')_
+
+
+## Tanda 2026-07-16 19:00 UTC
+- A 11 años de Ni Una Menos, denuncian que cada 30 horas ocurre un femicidio en Argentina — https://diarioelsol.com.ar/contenido/60539/a-11-anos-de-ni-una-menos-denuncian-que-cada-30-horas-ocurre-un-femicidio-en-arg _(bloqueado: contiene keyword 'niña')_
+- Hallaron asesinada a Dulce Candia, otra adolescente que era buscada desde el 17 de mayo — https://diarioelsol.com.ar/contenido/60538/hallaron-asesinada-a-dulce-candia-otra-adolescente-que-era-buscada-desde-el-17-d _(bloqueado: contiene keyword 'asesin')_
