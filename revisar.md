@@ -1712,3 +1712,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-07-16 02:00 UTC
 - Femicidio de Agostina Vega: Claudio Barrelier intentó suicidarse en la cárcel — https://diarioelsol.com.ar/contenido/60525/femicidio-de-agostina-vega-claudio-barrelier-intento-suicidarse-en-la-carcel _(bloqueado: contiene keyword 'detenido')_
 - “Vamos a prender fuego todo”: la noche de furia que se vivió en Córdoba tras el hallazgo de los restos de Agostina Vega — https://diarioelsol.com.ar/contenido/60524/vamos-a-prender-fuego-todo-la-noche-de-furia-que-se-vivio-en-cordoba-tras-el-hal _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-07-16 08:01 UTC
+- Detuvieron a un profesor de música en una causa por presunto grooming: había sido desvinculado de un colegio privado en 2025 — https://diarioelsol.com.ar/contenido/60531/detuvieron-a-un-profesor-de-musica-en-una-causa-por-presunto-grooming-habia-sido _(bloqueado: contiene keyword 'presunto')_
