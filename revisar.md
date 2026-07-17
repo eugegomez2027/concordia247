@@ -1731,3 +1731,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - De “abogado de paramiliatares” a “espía de las Farc”, las pullas entre De la Espriella y Cepeda ya iniciaron campaña — https://diarioelsol.com.ar/contenido/60546/de-abogado-de-paramiliatares-a-espia-de-las-farc-las-pullas-entre-de-la-espriell _(bloqueado: contiene keyword 'denuncia')_
 - Abuso sexual en manada en Feliciano: allanaron una vivienda clave para la investigación — https://diarioelsol.com.ar/contenido/60550/abuso-sexual-en-manada-en-feliciano-allanaron-una-vivienda-clave-para-la-investi _(bloqueado: URL contiene '/abuso')_
 - Hallaron en Corrientes colmenas robadas en Entre Ríos: el valor supera los $7 millones — https://diarioelsol.com.ar/contenido/60548/hallaron-en-corrientes-colmenas-robadas-en-entre-rios-el-valor-supera-los-7-mill _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-07-17 18:58 UTC
+- ADyPPesca denuncia falta de controles y advierte sobre la venta ilegal de dorados durante la veda en Entre Ríos — https://concordia24.com.ar/adyppesca-denuncia-falta-de-controles-y-advierte-sobre-la-venta-ilegal-de-dorados-durante-la-veda-en-entre-rios/ _(bloqueado: contiene keyword 'denuncia')_
