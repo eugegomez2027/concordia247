@@ -1721,3 +1721,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-07-16 19:00 UTC
 - A 11 años de Ni Una Menos, denuncian que cada 30 horas ocurre un femicidio en Argentina — https://diarioelsol.com.ar/contenido/60539/a-11-anos-de-ni-una-menos-denuncian-que-cada-30-horas-ocurre-un-femicidio-en-arg _(bloqueado: contiene keyword 'niña')_
 - Hallaron asesinada a Dulce Candia, otra adolescente que era buscada desde el 17 de mayo — https://diarioelsol.com.ar/contenido/60538/hallaron-asesinada-a-dulce-candia-otra-adolescente-que-era-buscada-desde-el-17-d _(bloqueado: contiene keyword 'asesin')_
+
+
+## Tanda 2026-07-17 02:05 UTC
+- La Costanera sería el punto de encuentro para vivir la final del Mundial — https://concordia24.com.ar/la-costanera-seria-el-punto-de-encuentro-para-vivir-la-final-del-mundial/ _(bloqueado: contiene keyword 'policía')_
