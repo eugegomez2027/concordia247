@@ -1739,3 +1739,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-18 07:38 UTC
 - Dolor y duelo en el colegio de Agostina Vega: “Atravesamos un momento de vacío inmenso” — https://diarioelsol.com.ar/contenido/60560/dolor-y-duelo-en-el-colegio-de-agostina-vega-atravesamos-un-momento-de-vacio-inm _(bloqueado: contiene keyword 'adolescente')_
+
+
+## Tanda 2026-07-18 12:59 UTC
+- Cuatreros brasileños volvieron a atacar ganado en suelo correntino, cruzando el río Uruguay. — https://diarioelsol.com.ar/contenido/60563/cuatreros-brasilenos-volvieron-a-atacar-ganado-en-suelo-correntino-cruzando-el-r _(bloqueado: contiene keyword 'policía')_
