@@ -1743,3 +1743,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-18 12:59 UTC
 - Cuatreros brasileños volvieron a atacar ganado en suelo correntino, cruzando el río Uruguay. — https://diarioelsol.com.ar/contenido/60563/cuatreros-brasilenos-volvieron-a-atacar-ganado-en-suelo-correntino-cruzando-el-r _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-07-18 18:53 UTC
+- La autopsia reveló que Agostina Vega fue abusada y ahorcada, y para el fiscal el autor del crimen fue Claudio Barrelier — https://diarioelsol.com.ar/contenido/60572/la-autopsia-revelo-que-agostina-vega-fue-abusada-y-ahorcada-y-para-el-fiscal-el- _(bloqueado: contiene keyword 'crimen')_
