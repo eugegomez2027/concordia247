@@ -1753,3 +1753,11 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - CONTINÚAN LOS OPERATIVOS POLICIALES DE SATURACIÓN EN LA VÍA PÚBLICA — https://diarioelsol.com.ar/contenido/60574/continuan-los-operativos-policiales-de-saturacion-en-la-via-publica _(bloqueado: contiene keyword 'policial')_
 - Agostina Vega había denunciado a su padre el año pasado: el motivo y el estado de la causa — https://diarioelsol.com.ar/contenido/60573/agostina-vega-habia-denunciado-a-su-padre-el-ano-pasado-el-motivo-y-el-estado-de _(bloqueado: contiene keyword 'denuncia')_
 - Córdoba: un robo "piraña" de 60 motos invadió la estación y asaltó al playero — https://diarioelsol.com.ar/contenido/60578/cordoba-un-robo-pirana-de-60-motos-invadio-la-estacion-y-asalto-al-playero _(bloqueado: contiene keyword 'robo')_
+
+
+## Tanda 2026-07-19 18:57 UTC
+- Bolivia: a un mes de las protestas, bloqueos y el pedido de renuncia del presidente Paz — https://diarioelsol.com.ar/contenido/60588/bolivia-a-un-mes-de-las-protestas-bloqueos-y-el-pedido-de-renuncia-del-president _(bloqueado: contiene keyword 'denuncia')_
+- Veinte años después del abuso, un jurado popular declaró culpable a un expolicía y ordenaron su inmediata detención — https://diarioelsol.com.ar/contenido/60587/veinte-anos-despues-del-abuso-un-jurado-popular-declaro-culpable-a-un-expolicia- _(bloqueado: contiene keyword 'policía')_
+- Dos hermanas terminaron fracturadas tras un choque entre una camioneta y una moto — https://diarioelsol.com.ar/contenido/60592/dos-hermanas-terminaron-fracturadas-tras-un-choque-entre-una-camioneta-y-una-mot _(bloqueado: contiene keyword 'adolescente')_
+- Violento choque entre dos autos en el ingreso a Concordia — https://diarioelsol.com.ar/contenido/60591/violento-choque-entre-dos-autos-en-el-ingreso-a-concordia _(bloqueado: URL contiene '/viol')_
+- Caso Agostina: revelan el perfil psicopático del asesino y advierten fallas en la preservación de pruebas — https://diarioelsol.com.ar/contenido/60590/caso-agostina-revelan-el-perfil-psicopatico-del-asesino-y-advierten-fallas-en-la _(bloqueado: contiene keyword 'asesin')_
