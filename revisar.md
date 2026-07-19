@@ -1747,3 +1747,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-18 18:53 UTC
 - La autopsia reveló que Agostina Vega fue abusada y ahorcada, y para el fiscal el autor del crimen fue Claudio Barrelier — https://diarioelsol.com.ar/contenido/60572/la-autopsia-revelo-que-agostina-vega-fue-abusada-y-ahorcada-y-para-el-fiscal-el- _(bloqueado: contiene keyword 'crimen')_
+
+
+## Tanda 2026-07-19 08:05 UTC
+- CONTINÚAN LOS OPERATIVOS POLICIALES DE SATURACIÓN EN LA VÍA PÚBLICA — https://diarioelsol.com.ar/contenido/60574/continuan-los-operativos-policiales-de-saturacion-en-la-via-publica _(bloqueado: contiene keyword 'policial')_
+- Agostina Vega había denunciado a su padre el año pasado: el motivo y el estado de la causa — https://diarioelsol.com.ar/contenido/60573/agostina-vega-habia-denunciado-a-su-padre-el-ano-pasado-el-motivo-y-el-estado-de _(bloqueado: contiene keyword 'denuncia')_
+- Córdoba: un robo "piraña" de 60 motos invadió la estación y asaltó al playero — https://diarioelsol.com.ar/contenido/60578/cordoba-un-robo-pirana-de-60-motos-invadio-la-estacion-y-asalto-al-playero _(bloqueado: contiene keyword 'robo')_
