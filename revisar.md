@@ -1765,3 +1765,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-20 08:46 UTC
 - La provincia coordina con municipios protocolos preventivos ante el fenómeno de El Niño — https://concordia24.com.ar/la-provincia-coordina-con-municipios-protocolos-preventivos-ante-el-fenomeno-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-07-20 13:52 UTC
+- Choque entre dos autos: una niña de 2 años fue hospitalizada y un conductor dio positivo en el test de alcoholemia — https://concordia24.com.ar/choque-entre-dos-autos-una-nina-de-2-anos-fue-hospitalizada-y-un-conductor-dio-positivo-en-el-test-de-alcoholemia/ _(bloqueado: contiene keyword 'niña')_
