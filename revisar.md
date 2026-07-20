@@ -1761,3 +1761,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Dos hermanas terminaron fracturadas tras un choque entre una camioneta y una moto — https://diarioelsol.com.ar/contenido/60592/dos-hermanas-terminaron-fracturadas-tras-un-choque-entre-una-camioneta-y-una-mot _(bloqueado: contiene keyword 'adolescente')_
 - Violento choque entre dos autos en el ingreso a Concordia — https://diarioelsol.com.ar/contenido/60591/violento-choque-entre-dos-autos-en-el-ingreso-a-concordia _(bloqueado: URL contiene '/viol')_
 - Caso Agostina: revelan el perfil psicopático del asesino y advierten fallas en la preservación de pruebas — https://diarioelsol.com.ar/contenido/60590/caso-agostina-revelan-el-perfil-psicopatico-del-asesino-y-advierten-fallas-en-la _(bloqueado: contiene keyword 'asesin')_
+
+
+## Tanda 2026-07-20 08:46 UTC
+- La provincia coordina con municipios protocolos preventivos ante el fenómeno de El Niño — https://concordia24.com.ar/la-provincia-coordina-con-municipios-protocolos-preventivos-ante-el-fenomeno-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
