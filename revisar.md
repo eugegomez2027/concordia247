@@ -1769,3 +1769,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-20 13:52 UTC
 - Choque entre dos autos: una niña de 2 años fue hospitalizada y un conductor dio positivo en el test de alcoholemia — https://concordia24.com.ar/choque-entre-dos-autos-una-nina-de-2-anos-fue-hospitalizada-y-un-conductor-dio-positivo-en-el-test-de-alcoholemia/ _(bloqueado: contiene keyword 'niña')_
+
+
+## Tanda 2026-07-20 19:35 UTC
+- El día después del 3J: "Sin nosotras no van a ganar las elecciones" — https://diarioelsol.com.ar/contenido/60615/el-dia-despues-del-3j-sin-nosotras-no-van-a-ganar-las-elecciones _(bloqueado: contiene keyword 'denuncia')_
