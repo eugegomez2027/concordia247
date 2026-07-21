@@ -1785,3 +1785,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Accidente de Tránsito en Av. Eva Perón y Pasaje de los Niños, con lesionados — https://diarioelsol.com.ar/contenido/60638/accidente-de-transito-en-av-eva-peron-y-pasaje-de-los-ninos-con-lesionados-en-la _(bloqueado: contiene keyword 'niño')_
 - Lo denunciaron los vecinos, investigaron policías de civil y cuando tuvieron la "precisa" lo allanaron. — https://diarioelsol.com.ar/contenido/60644/lo-denunciaron-los-vecinos-investigaron-policias-de-civil-y-cuando-tuvieron-la-p _(bloqueado: contiene keyword 'policía')_
 - Otros cuatro detenidos por narcomenudeo. Dónde se los aloja mientras tramitan sus causas ? — https://diarioelsol.com.ar/contenido/60643/otros-cuatro-detenidos-por-narcomenudeo-donde-se-los-aloja-mientras-tramitan-sus _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-07-21 19:09 UTC
+- Goldín respondió a las denuncias de los Lladós y defendió la transparencia de su gestión — https://concordia24.com.ar/goldin-respondio-a-las-denuncias-de-los-llados-y-defendio-la-transparencia-de-su-gestion/ _(bloqueado: contiene keyword 'denuncia')_
