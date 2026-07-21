@@ -1777,3 +1777,11 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-21 02:02 UTC
 - ALLANAMIENTO EN BARRIO TIRO FEDERAL: SECUESTRO DE COCAÍNA Y DOS DETENIDOS — https://diarioelsol.com.ar/contenido/60622/allanamiento-en-barrio-tiro-federal-secuestro-de-cocaina-y-dos-detenidos _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-07-21 13:23 UTC
+- Cuatro detenidos tras una serie de allanamientos: secuestran cocaína, dinero y celulares — https://concordia24.com.ar/cuatro-detenidos-tras-una-serie-de-allanamientos-secuestran-cocaina-dinero-y-celulares/ _(bloqueado: contiene keyword 'detenido')_
+- Grabaron a un concejal tocando a una compañera de trabajo y deberá indemnizarla con $12 millones — https://diarioelsol.com.ar/contenido/60640/grabaron-a-un-concejal-tocando-a-una-companera-de-trabajo-y-debera-indemnizarla- _(bloqueado: contiene keyword 'denuncia')_
+- Accidente de Tránsito en Av. Eva Perón y Pasaje de los Niños, con lesionados — https://diarioelsol.com.ar/contenido/60638/accidente-de-transito-en-av-eva-peron-y-pasaje-de-los-ninos-con-lesionados-en-la _(bloqueado: contiene keyword 'niño')_
+- Lo denunciaron los vecinos, investigaron policías de civil y cuando tuvieron la "precisa" lo allanaron. — https://diarioelsol.com.ar/contenido/60644/lo-denunciaron-los-vecinos-investigaron-policias-de-civil-y-cuando-tuvieron-la-p _(bloqueado: contiene keyword 'policía')_
+- Otros cuatro detenidos por narcomenudeo. Dónde se los aloja mientras tramitan sus causas ? — https://diarioelsol.com.ar/contenido/60643/otros-cuatro-detenidos-por-narcomenudeo-donde-se-los-aloja-mientras-tramitan-sus _(bloqueado: contiene keyword 'detenido')_
