@@ -1773,3 +1773,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-20 19:35 UTC
 - El día después del 3J: "Sin nosotras no van a ganar las elecciones" — https://diarioelsol.com.ar/contenido/60615/el-dia-despues-del-3j-sin-nosotras-no-van-a-ganar-las-elecciones _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-07-21 02:02 UTC
+- ALLANAMIENTO EN BARRIO TIRO FEDERAL: SECUESTRO DE COCAÍNA Y DOS DETENIDOS — https://diarioelsol.com.ar/contenido/60622/allanamiento-en-barrio-tiro-federal-secuestro-de-cocaina-y-dos-detenidos _(bloqueado: contiene keyword 'detenido')_
