@@ -1793,3 +1793,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-22 02:01 UTC
 - «Mi héroe»: el conmovedor relato de un rescate en medio del incendio que conmovió a Concordia — https://concordia24.com.ar/mi-heroe-el-conmovedor-relato-de-un-rescate-en-medio-del-incendio-que-conmovio-a-concordia/ _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-07-22 08:14 UTC
+- Allanamiento por amenazas termina con secuestro de marihuana y un detenido — https://diarioelsol.com.ar/contenido/60661/allanamiento-por-amenazas-termina-con-secuestro-de-marihuana-y-un-detenido _(bloqueado: contiene keyword 'detenido')_
+- Choque entre colectivo y camioneta en pleno centro: dos heridos y fuerte despliegue policial — https://diarioelsol.com.ar/contenido/60660/choque-entre-colectivo-y-camioneta-en-pleno-centro-dos-heridos-y-fuerte-desplieg _(bloqueado: contiene keyword 'policial')_
