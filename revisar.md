@@ -1789,3 +1789,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-21 19:09 UTC
 - Goldín respondió a las denuncias de los Lladós y defendió la transparencia de su gestión — https://concordia24.com.ar/goldin-respondio-a-las-denuncias-de-los-llados-y-defendio-la-transparencia-de-su-gestion/ _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-07-22 02:01 UTC
+- «Mi héroe»: el conmovedor relato de un rescate en medio del incendio que conmovió a Concordia — https://concordia24.com.ar/mi-heroe-el-conmovedor-relato-de-un-rescate-en-medio-del-incendio-que-conmovio-a-concordia/ _(bloqueado: contiene keyword 'niño')_
