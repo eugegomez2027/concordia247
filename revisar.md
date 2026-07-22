@@ -1798,3 +1798,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-07-22 08:14 UTC
 - Allanamiento por amenazas termina con secuestro de marihuana y un detenido — https://diarioelsol.com.ar/contenido/60661/allanamiento-por-amenazas-termina-con-secuestro-de-marihuana-y-un-detenido _(bloqueado: contiene keyword 'detenido')_
 - Choque entre colectivo y camioneta en pleno centro: dos heridos y fuerte despliegue policial — https://diarioelsol.com.ar/contenido/60660/choque-entre-colectivo-y-camioneta-en-pleno-centro-dos-heridos-y-fuerte-desplieg _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-07-22 13:27 UTC
+- Violencia en la Copa Sudamericana: micros con hinchas de Tigre fueron baleados tras la victoria en Uruguay — https://concordia24.com.ar/violencia-en-la-copa-sudamericana-micros-con-hinchas-de-tigre-fueron-baleados-tras-la-victoria-en-uruguay/ _(bloqueado: URL contiene '/viol')_
