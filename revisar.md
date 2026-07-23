@@ -1806,3 +1806,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-23 08:18 UTC
 - Identificaron y detuvieron al conductor que huyó tras un grave accidente el domingo pasado — https://concordia24.com.ar/identificaron-y-detuvieron-al-conductor-que-huyo-tras-un-grave-accidente-el-domingo-pasado/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-07-23 13:41 UTC
+- Allanamiento por amenazas: secuestran armas blancas y municiones; un detenido en barrio Ex Molino — https://diarioelsol.com.ar/contenido/60680/allanamiento-por-amenazas-secuestran-armas-blancas-y-municiones-un-detenido-en-b _(bloqueado: contiene keyword 'detenido')_
