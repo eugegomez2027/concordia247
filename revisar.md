@@ -1802,3 +1802,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-22 13:27 UTC
 - Violencia en la Copa Sudamericana: micros con hinchas de Tigre fueron baleados tras la victoria en Uruguay — https://concordia24.com.ar/violencia-en-la-copa-sudamericana-micros-con-hinchas-de-tigre-fueron-baleados-tras-la-victoria-en-uruguay/ _(bloqueado: URL contiene '/viol')_
+
+
+## Tanda 2026-07-23 08:18 UTC
+- Identificaron y detuvieron al conductor que huyó tras un grave accidente el domingo pasado — https://concordia24.com.ar/identificaron-y-detuvieron-al-conductor-que-huyo-tras-un-grave-accidente-el-domingo-pasado/ _(bloqueado: contiene keyword 'policial')_
