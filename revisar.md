@@ -1810,3 +1810,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-23 13:41 UTC
 - Allanamiento por amenazas: secuestran armas blancas y municiones; un detenido en barrio Ex Molino — https://diarioelsol.com.ar/contenido/60680/allanamiento-por-amenazas-secuestran-armas-blancas-y-municiones-un-detenido-en-b _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-07-23 19:04 UTC
+- Detenidos por mirar sospechoso el interior de un local cerrado y resistirse a la autoridad — https://diarioelsol.com.ar/contenido/60692/detenidos-por-mirar-sospechoso-el-interior-de-un-local-cerrado-y-resistirse-a-la _(bloqueado: contiene keyword 'detenido')_
+- Osuna cuestionó la reforma previsional de Frigerio y denunció un “retroceso” para las mujeres — https://diarioelsol.com.ar/contenido/60697/osuna-cuestiono-la-reforma-previsional-de-frigerio-y-denuncio-un-retroceso-para- _(bloqueado: contiene keyword 'denunció')_
