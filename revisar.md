@@ -1823,3 +1823,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-24 08:13 UTC
 - Chocó, huyó y terminó detenido: cayó el conductor que abandonó a dos heridos en Moulins y Nogoyá — https://diarioelsol.com.ar/contenido/60711/choco-huyo-y-termino-detenido-cayo-el-conductor-que-abandono-a-dos-heridos-en-mo _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-07-24 13:23 UTC
+- Entre Ríos presente en la coordinación interprovincial por el fenómeno de El Niño — https://concordia24.com.ar/entre-rios-presente-en-la-coordinacion-interprovincial-por-el-fenomeno-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
+- Detuvieron a dos hombres que vendían armas de fuego por grupos de WhatsApp — https://diarioelsol.com.ar/contenido/60724/detuvieron-a-dos-hombres-que-vendian-armas-de-fuego-por-grupos-de-whatsapp _(bloqueado: contiene keyword 'policía')_
