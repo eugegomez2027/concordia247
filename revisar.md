@@ -1815,3 +1815,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-07-23 19:04 UTC
 - Detenidos por mirar sospechoso el interior de un local cerrado y resistirse a la autoridad — https://diarioelsol.com.ar/contenido/60692/detenidos-por-mirar-sospechoso-el-interior-de-un-local-cerrado-y-resistirse-a-la _(bloqueado: contiene keyword 'detenido')_
 - Osuna cuestionó la reforma previsional de Frigerio y denunció un “retroceso” para las mujeres — https://diarioelsol.com.ar/contenido/60697/osuna-cuestiono-la-reforma-previsional-de-frigerio-y-denuncio-un-retroceso-para- _(bloqueado: contiene keyword 'denunció')_
+
+
+## Tanda 2026-07-24 02:05 UTC
+- Creación fallida: A un año de la creación de Oser: afiliados denuncian deterioro en la atención — https://diarioelsol.com.ar/contenido/60710/creacion-fallida-a-un-ano-de-la-creacion-de-oser-afiliados-denuncian-deterioro-e _(bloqueado: contiene keyword 'denuncia')_
