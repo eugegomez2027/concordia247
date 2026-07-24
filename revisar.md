@@ -1819,3 +1819,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-24 02:05 UTC
 - Creación fallida: A un año de la creación de Oser: afiliados denuncian deterioro en la atención — https://diarioelsol.com.ar/contenido/60710/creacion-fallida-a-un-ano-de-la-creacion-de-oser-afiliados-denuncian-deterioro-e _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-07-24 08:13 UTC
+- Chocó, huyó y terminó detenido: cayó el conductor que abandonó a dos heridos en Moulins y Nogoyá — https://diarioelsol.com.ar/contenido/60711/choco-huyo-y-termino-detenido-cayo-el-conductor-que-abandono-a-dos-heridos-en-mo _(bloqueado: contiene keyword 'detenido')_
