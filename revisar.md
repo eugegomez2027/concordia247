@@ -1828,3 +1828,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-07-24 13:23 UTC
 - Entre Ríos presente en la coordinación interprovincial por el fenómeno de El Niño — https://concordia24.com.ar/entre-rios-presente-en-la-coordinacion-interprovincial-por-el-fenomeno-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
 - Detuvieron a dos hombres que vendían armas de fuego por grupos de WhatsApp — https://diarioelsol.com.ar/contenido/60724/detuvieron-a-dos-hombres-que-vendian-armas-de-fuego-por-grupos-de-whatsapp _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-07-24 19:15 UTC
+- Caso Loan: el juicio se realizará en el Escuadrón 48 de Gendarmería — https://diarioelsol.com.ar/contenido/60741/caso-loan-el-juicio-se-realizara-en-el-escuadron-48-de-gendarmeria _(bloqueado: contiene keyword 'niño')_
