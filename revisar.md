@@ -1832,3 +1832,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-24 19:15 UTC
 - Caso Loan: el juicio se realizará en el Escuadrón 48 de Gendarmería — https://diarioelsol.com.ar/contenido/60741/caso-loan-el-juicio-se-realizara-en-el-escuadron-48-de-gendarmeria _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-07-25 02:04 UTC
+- Se preparan en Concordia ante la llegada de El  Niño: Defensa Civil y Bomberos coordinan  operativos preventivos — https://concordia24.com.ar/se-preparan-en-concordia-ante-la-llegada-de-el-nino-defensa-civil-y-bomberos-coordinan-operativos-preventivos/ _(bloqueado: contiene keyword 'niño')_
+- Secuestran 150 envoltorios de cocaína y detienen a dos mujeres en un allanamiento de la Comisaría Octava — https://diarioelsol.com.ar/contenido/60752/secuestran-150-envoltorios-de-cocaina-y-detienen-a-dos-mujeres-en-un-allanamient _(bloqueado: contiene keyword 'allanamiento')_
