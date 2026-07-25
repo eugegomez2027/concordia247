@@ -1841,3 +1841,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-25 07:56 UTC
 - Investigan presunto disparo contra un colectivo en Paraná: identificaron a un exchofer — https://diarioelsol.com.ar/contenido/60753/investigan-presunto-disparo-contra-un-colectivo-en-parana-identificaron-a-un-exc _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-07-25 18:57 UTC
+- Nueva detenida en Corrientes por el secuestro de 260 kilos de cocaína en Entre Ríos — https://diarioelsol.com.ar/contenido/60767/nueva-detenida-en-corrientes-por-el-secuestro-de-260-kilos-de-cocaina-en-entre-r _(bloqueado: contiene keyword 'allanamiento')_
+- Más de 150 testigos para el juicio por Loan: quiénes estarán y quiénes no fueron citados — https://diarioelsol.com.ar/contenido/60766/mas-de-150-testigos-para-el-juicio-por-loan-quienes-estaran-y-quienes-no-fueron- _(bloqueado: contiene keyword 'imputado')_
