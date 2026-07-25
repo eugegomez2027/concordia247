@@ -1837,3 +1837,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-07-25 02:04 UTC
 - Se preparan en Concordia ante la llegada de El  Niño: Defensa Civil y Bomberos coordinan  operativos preventivos — https://concordia24.com.ar/se-preparan-en-concordia-ante-la-llegada-de-el-nino-defensa-civil-y-bomberos-coordinan-operativos-preventivos/ _(bloqueado: contiene keyword 'niño')_
 - Secuestran 150 envoltorios de cocaína y detienen a dos mujeres en un allanamiento de la Comisaría Octava — https://diarioelsol.com.ar/contenido/60752/secuestran-150-envoltorios-de-cocaina-y-detienen-a-dos-mujeres-en-un-allanamient _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-07-25 07:56 UTC
+- Investigan presunto disparo contra un colectivo en Paraná: identificaron a un exchofer — https://diarioelsol.com.ar/contenido/60753/investigan-presunto-disparo-contra-un-colectivo-en-parana-identificaron-a-un-exc _(bloqueado: contiene keyword 'denuncia')_
