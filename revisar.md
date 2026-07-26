@@ -1857,3 +1857,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-07-26 08:13 UTC
 - Allanamiento con secuestro de arma de fuego, Piedras de Cocaína, Frascos con flores y semilla de marihuana, y la detención de dos personas — https://concordia24.com.ar/allanamiento-con-secuestro-de-arma-de-fuego-piedras-de-cocaina-frascos-con-flores-y-semilla-de-marihuana-y-la-detencion-de-dos-personas/ _(bloqueado: contiene keyword 'allanamiento')_
 - Tres detenidos y secuestro de droga tras allanamientos en varios puntos de la ciudad. — https://diarioelsol.com.ar/contenido/60784/tres-detenidos-y-secuestro-de-droga-tras-allanamientos-en-varios-puntos-de-la-ci _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-07-26 19:01 UTC
+- Conmoción en La Plata: hallaron muerta a una adolescente de 15 años e investigan un abuso sexual previo — https://diarioelsol.com.ar/contenido/60794/conmocion-en-la-plata-hallaron-muerta-a-una-adolescente-de-15-anos-e-investigan- _(bloqueado: contiene keyword 'menor')_
+- Bloqueos, crisis y enfrentamientos: se agrava el conflicto político en Bolivia — https://diarioelsol.com.ar/contenido/60793/bloqueos-crisis-y-enfrentamientos-se-agrava-el-conflicto-politico-en-bolivia _(bloqueado: contiene keyword 'policía')_
