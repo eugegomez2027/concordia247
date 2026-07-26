@@ -1852,3 +1852,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Allanamientos y secuestro de tarjetas de débito en una causa por usura y amenazas — https://diarioelsol.com.ar/contenido/60777/allanamientos-y-secuestro-de-tarjetas-de-debito-en-una-causa-por-usura-y-amenaza _(bloqueado: contiene keyword 'allanamiento')_
 - Detienen a un hombre acusado de acoso callejero y robo de un celular — https://diarioelsol.com.ar/contenido/60776/detienen-a-un-hombre-acusado-de-acoso-callejero-y-robo-de-un-celular _(bloqueado: contiene keyword 'robo')_
 - Villarruel dijo que no le cree a Adorni: “Me parece una vergüenza su accionar” — https://diarioelsol.com.ar/contenido/60781/villarruel-dijo-que-no-le-cree-a-adorni-me-parece-una-verguenza-su-accionar _(bloqueado: contiene keyword 'presunto')_
+
+
+## Tanda 2026-07-26 08:13 UTC
+- Allanamiento con secuestro de arma de fuego, Piedras de Cocaína, Frascos con flores y semilla de marihuana, y la detención de dos personas — https://concordia24.com.ar/allanamiento-con-secuestro-de-arma-de-fuego-piedras-de-cocaina-frascos-con-flores-y-semilla-de-marihuana-y-la-detencion-de-dos-personas/ _(bloqueado: contiene keyword 'allanamiento')_
+- Tres detenidos y secuestro de droga tras allanamientos en varios puntos de la ciudad. — https://diarioelsol.com.ar/contenido/60784/tres-detenidos-y-secuestro-de-droga-tras-allanamientos-en-varios-puntos-de-la-ci _(bloqueado: contiene keyword 'detenido')_
