@@ -1846,3 +1846,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-07-25 18:57 UTC
 - Nueva detenida en Corrientes por el secuestro de 260 kilos de cocaína en Entre Ríos — https://diarioelsol.com.ar/contenido/60767/nueva-detenida-en-corrientes-por-el-secuestro-de-260-kilos-de-cocaina-en-entre-r _(bloqueado: contiene keyword 'allanamiento')_
 - Más de 150 testigos para el juicio por Loan: quiénes estarán y quiénes no fueron citados — https://diarioelsol.com.ar/contenido/60766/mas-de-150-testigos-para-el-juicio-por-loan-quienes-estaran-y-quienes-no-fueron- _(bloqueado: contiene keyword 'imputado')_
+
+
+## Tanda 2026-07-26 02:08 UTC
+- Allanamientos y secuestro de tarjetas de débito en una causa por usura y amenazas — https://diarioelsol.com.ar/contenido/60777/allanamientos-y-secuestro-de-tarjetas-de-debito-en-una-causa-por-usura-y-amenaza _(bloqueado: contiene keyword 'allanamiento')_
+- Detienen a un hombre acusado de acoso callejero y robo de un celular — https://diarioelsol.com.ar/contenido/60776/detienen-a-un-hombre-acusado-de-acoso-callejero-y-robo-de-un-celular _(bloqueado: contiene keyword 'robo')_
+- Villarruel dijo que no le cree a Adorni: “Me parece una vergüenza su accionar” — https://diarioelsol.com.ar/contenido/60781/villarruel-dijo-que-no-le-cree-a-adorni-me-parece-una-verguenza-su-accionar _(bloqueado: contiene keyword 'presunto')_
