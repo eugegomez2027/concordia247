@@ -1862,3 +1862,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-07-26 19:01 UTC
 - Conmoción en La Plata: hallaron muerta a una adolescente de 15 años e investigan un abuso sexual previo — https://diarioelsol.com.ar/contenido/60794/conmocion-en-la-plata-hallaron-muerta-a-una-adolescente-de-15-anos-e-investigan- _(bloqueado: contiene keyword 'menor')_
 - Bloqueos, crisis y enfrentamientos: se agrava el conflicto político en Bolivia — https://diarioelsol.com.ar/contenido/60793/bloqueos-crisis-y-enfrentamientos-se-agrava-el-conflicto-politico-en-bolivia _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-07-27 02:21 UTC
+- Motociclista lesionado: conductor de una Amarok intentó escapar, fue perseguido por un policía franco de servicio y dio 1,98 g/l de alcohol — https://concordia24.com.ar/motociclista-lesionado-conductor-de-una-amarok-intento-escapar-fue-perseguido-por-un-policia-franco-de-servicio-y-dio-198-g-l-de-alcohol/ _(bloqueado: contiene keyword 'policía')_
