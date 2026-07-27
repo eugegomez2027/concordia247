@@ -1866,3 +1866,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-27 02:21 UTC
 - Motociclista lesionado: conductor de una Amarok intentó escapar, fue perseguido por un policía franco de servicio y dio 1,98 g/l de alcohol — https://concordia24.com.ar/motociclista-lesionado-conductor-de-una-amarok-intento-escapar-fue-perseguido-por-un-policia-franco-de-servicio-y-dio-198-g-l-de-alcohol/ _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-07-27 09:37 UTC
+- Detuvieron a dos adolescentes acusados de asaltar un drugstore en Concordia — https://diarioelsol.com.ar/contenido/60806/detuvieron-a-dos-adolescentes-acusados-de-asaltar-un-drugstore-en-concordia _(bloqueado: contiene keyword 'adolescente')_
+- Violento choque entre dos camionetas en Concordia: una menor resultó herida — https://diarioelsol.com.ar/contenido/60805/violento-choque-entre-dos-camionetas-en-concordia-una-menor-resulto-herida _(bloqueado: URL contiene '/viol')_
+- Una mujer difundió imágenes de una niñera golpeando a su hija y el caso llegó a la Justicia de Córdoba — https://diarioelsol.com.ar/contenido/60809/una-mujer-difundio-imagenes-de-una-ninera-golpeando-a-su-hija-y-el-caso-llego-a- _(bloqueado: contiene keyword 'denuncia')_
+- Pelea en Villa Zorraquín terminó con un detenido por incendio — https://diarioelsol.com.ar/contenido/60807/pelea-en-villa-zorraquin-termino-con-un-detenido-por-incendio _(bloqueado: contiene keyword 'detenido')_
