@@ -1877,3 +1877,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-28 01:56 UTC
 - Frigerio encabezó una reunión de gabinete para coordinar acciones preventivas ante el fenómeno de El Niño — https://concordia24.com.ar/frigerio-encabezo-una-reunion-de-gabinete-para-coordinar-acciones-preventivas-ante-el-fenomeno-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-07-28 08:22 UTC
+- Mataron a un policía de la Federal durante un procedimiento en Rosario — https://diarioelsol.com.ar/contenido/60819/mataron-a-un-policia-de-la-federal-durante-un-procedimiento-en-rosario _(bloqueado: contiene keyword 'policía')_
+- Leal acusado de corrupción agravada. — https://diarioelsol.com.ar/contenido/60823/leal-acusado-de-corrupcion-agravada _(bloqueado: contiene keyword 'detenido')_
