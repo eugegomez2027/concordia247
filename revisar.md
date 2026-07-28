@@ -1873,3 +1873,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Violento choque entre dos camionetas en Concordia: una menor resultó herida — https://diarioelsol.com.ar/contenido/60805/violento-choque-entre-dos-camionetas-en-concordia-una-menor-resulto-herida _(bloqueado: URL contiene '/viol')_
 - Una mujer difundió imágenes de una niñera golpeando a su hija y el caso llegó a la Justicia de Córdoba — https://diarioelsol.com.ar/contenido/60809/una-mujer-difundio-imagenes-de-una-ninera-golpeando-a-su-hija-y-el-caso-llego-a- _(bloqueado: contiene keyword 'denuncia')_
 - Pelea en Villa Zorraquín terminó con un detenido por incendio — https://diarioelsol.com.ar/contenido/60807/pelea-en-villa-zorraquin-termino-con-un-detenido-por-incendio _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-07-28 01:56 UTC
+- Frigerio encabezó una reunión de gabinete para coordinar acciones preventivas ante el fenómeno de El Niño — https://concordia24.com.ar/frigerio-encabezo-una-reunion-de-gabinete-para-coordinar-acciones-preventivas-ante-el-fenomeno-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
