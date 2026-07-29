@@ -1892,3 +1892,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Buscan a una adolescente de 14 años que se ausentó de su hogar — https://diarioelsol.com.ar/contenido/60825/buscan-a-una-adolescente-de-14-anos-que-se-ausento-de-su-hogar _(bloqueado: contiene keyword 'adolescente')_
 - Detienen a presunto estafador que compró materiales por 12 millones con cheque falsos — https://diarioelsol.com.ar/contenido/60830/detienen-a-presunto-estafador-que-compro-materiales-por-12-millones-con-cheque-f _(bloqueado: contiene keyword 'presunto')_
 - Escuela N°2 de La Bianca protesta por el grave deterioro del edificio y falta de respuestas oficiales — https://diarioelsol.com.ar/contenido/60829/escuela-n2-de-la-bianca-protesta-por-el-grave-deterioro-del-edificio-y-falta-de- _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-07-29 08:28 UTC
+- Estados Unidos abatió a “Niño Guerrero”, líder del cártel criminal Tren de Aragua, durante un bombardeo en Venezuela — https://diarioelsol.com.ar/contenido/60839/estados-unidos-abatio-a-nino-guerrero-lider-del-cartel-criminal-tren-de-aragua-d _(bloqueado: contiene keyword 'niño')_
