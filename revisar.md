@@ -1896,3 +1896,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-29 08:28 UTC
 - Estados Unidos abatió a “Niño Guerrero”, líder del cártel criminal Tren de Aragua, durante un bombardeo en Venezuela — https://diarioelsol.com.ar/contenido/60839/estados-unidos-abatio-a-nino-guerrero-lider-del-cartel-criminal-tren-de-aragua-d _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-07-29 19:03 UTC
+- Escándalo político en Estancia Grande: denuncian una campaña de desprestigio contra Javier Goldin basada en información falsa — https://concordia24.com.ar/escandalo-politico-en-estancia-grande-denuncian-una-campana-de-desprestigio-contra-javier-goldin-basada-en-informacion-falsa/ _(bloqueado: contiene keyword 'denuncia')_
