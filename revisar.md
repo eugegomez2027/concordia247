@@ -1886,3 +1886,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-28 13:48 UTC
 - Rápido operativo permitió encontrar sano y salvo a un joven con discapacidad en General Campos — https://concordia24.com.ar/rapido-operativo-permitio-encontrar-sano-y-salvo-a-un-joven-con-discapacidad-en-general-campos/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-07-29 02:00 UTC
+- Buscan a una adolescente de 14 años que se ausentó de su hogar — https://diarioelsol.com.ar/contenido/60825/buscan-a-una-adolescente-de-14-anos-que-se-ausento-de-su-hogar _(bloqueado: contiene keyword 'adolescente')_
+- Detienen a presunto estafador que compró materiales por 12 millones con cheque falsos — https://diarioelsol.com.ar/contenido/60830/detienen-a-presunto-estafador-que-compro-materiales-por-12-millones-con-cheque-f _(bloqueado: contiene keyword 'presunto')_
+- Escuela N°2 de La Bianca protesta por el grave deterioro del edificio y falta de respuestas oficiales — https://diarioelsol.com.ar/contenido/60829/escuela-n2-de-la-bianca-protesta-por-el-grave-deterioro-del-edificio-y-falta-de- _(bloqueado: contiene keyword 'denuncia')_
