@@ -1905,3 +1905,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-07-30 08:12 UTC
 - Caso $Libra: el fiscal Taiano será denunciado por encubrimiento en la investigación — https://diarioelsol.com.ar/contenido/60874/caso-libra-el-fiscal-taiano-sera-denunciado-por-encubrimiento-en-la-investigacio _(bloqueado: contiene keyword 'denuncia')_
 - Violento impacto en Av. San Lorenzo: una Saveiro terminó contra un poste y dos personas fueron hospitalizadas — https://diarioelsol.com.ar/contenido/60873/violento-impacto-en-av-san-lorenzo-una-saveiro-termino-contra-un-poste-y-dos-per _(bloqueado: URL contiene '/viol')_
+
+
+## Tanda 2026-07-30 13:43 UTC
+- Secuestro de 158 envoltorios de cocaína y un hombre detenido — https://concordia24.com.ar/secuestro-de-158-envoltorios-de-cocaina-y-un-hombre-detenido/ _(bloqueado: contiene keyword 'detenido')_
+- El gobernador presentó el nuevo sistema de compra de medicamentos: más competencia, menor costo y mayor control — https://concordia24.com.ar/el-gobernador-presento-el-nuevo-sistema-de-compra-de-medicamentos-mas-competencia-menor-costo-y-mayor-control/ _(bloqueado: contiene keyword 'menor')_
+- Siniestro de tránsito fatal en Salto: mueren dos motociclistas tras choque frontal — https://diarioelsol.com.ar/contenido/60877/siniestro-de-transito-fatal-en-salto-mueren-dos-motociclistas-tras-choque-fronta _(bloqueado: contiene keyword 'policía')_
