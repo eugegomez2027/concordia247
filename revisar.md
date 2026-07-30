@@ -1900,3 +1900,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-29 19:03 UTC
 - Escándalo político en Estancia Grande: denuncian una campaña de desprestigio contra Javier Goldin basada en información falsa — https://concordia24.com.ar/escandalo-politico-en-estancia-grande-denuncian-una-campana-de-desprestigio-contra-javier-goldin-basada-en-informacion-falsa/ _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-07-30 08:12 UTC
+- Caso $Libra: el fiscal Taiano será denunciado por encubrimiento en la investigación — https://diarioelsol.com.ar/contenido/60874/caso-libra-el-fiscal-taiano-sera-denunciado-por-encubrimiento-en-la-investigacio _(bloqueado: contiene keyword 'denuncia')_
+- Violento impacto en Av. San Lorenzo: una Saveiro terminó contra un poste y dos personas fueron hospitalizadas — https://diarioelsol.com.ar/contenido/60873/violento-impacto-en-av-san-lorenzo-una-saveiro-termino-contra-un-poste-y-dos-per _(bloqueado: URL contiene '/viol')_
