@@ -1911,3 +1911,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Secuestro de 158 envoltorios de cocaína y un hombre detenido — https://concordia24.com.ar/secuestro-de-158-envoltorios-de-cocaina-y-un-hombre-detenido/ _(bloqueado: contiene keyword 'detenido')_
 - El gobernador presentó el nuevo sistema de compra de medicamentos: más competencia, menor costo y mayor control — https://concordia24.com.ar/el-gobernador-presento-el-nuevo-sistema-de-compra-de-medicamentos-mas-competencia-menor-costo-y-mayor-control/ _(bloqueado: contiene keyword 'menor')_
 - Siniestro de tránsito fatal en Salto: mueren dos motociclistas tras choque frontal — https://diarioelsol.com.ar/contenido/60877/siniestro-de-transito-fatal-en-salto-mueren-dos-motociclistas-tras-choque-fronta _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-07-31 13:48 UTC
+- Hallan una granada lacrimógena en el cielorraso de una vivienda de Concordia — https://concordia24.com.ar/hallan-una-granada-lacrimogena-en-el-cielorraso-de-una-vivienda-de-concordia/ _(bloqueado: contiene keyword 'policial')_
+- Caso Loan: comienza el juicio por la desaparición del niño correntino. — https://diarioelsol.com.ar/contenido/60912/caso-loan-comienza-el-juicio-por-la-desaparicion-del-nino-correntino _(bloqueado: contiene keyword 'niño')_
+- Asesinaron a un joven de un puntazo en el pecho y detuvieron a su exnovia — https://diarioelsol.com.ar/contenido/60917/asesinaron-a-un-joven-de-un-puntazo-en-el-pecho-y-detuvieron-a-su-exnovia _(bloqueado: contiene keyword 'asesin')_
