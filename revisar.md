@@ -1917,3 +1917,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Hallan una granada lacrimógena en el cielorraso de una vivienda de Concordia — https://concordia24.com.ar/hallan-una-granada-lacrimogena-en-el-cielorraso-de-una-vivienda-de-concordia/ _(bloqueado: contiene keyword 'policial')_
 - Caso Loan: comienza el juicio por la desaparición del niño correntino. — https://diarioelsol.com.ar/contenido/60912/caso-loan-comienza-el-juicio-por-la-desaparicion-del-nino-correntino _(bloqueado: contiene keyword 'niño')_
 - Asesinaron a un joven de un puntazo en el pecho y detuvieron a su exnovia — https://diarioelsol.com.ar/contenido/60917/asesinaron-a-un-joven-de-un-puntazo-en-el-pecho-y-detuvieron-a-su-exnovia _(bloqueado: contiene keyword 'asesin')_
+
+
+## Tanda 2026-07-31 19:14 UTC
+- La Policía rescató a 20 perros que se encontraban en condiciones de vulnerabilidad y maltrato — https://diarioelsol.com.ar/contenido/60962/la-policia-rescato-a-20-perros-que-se-encontraban-en-condiciones-de-vulnerabilid _(bloqueado: contiene keyword 'policía')_
