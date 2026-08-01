@@ -1925,3 +1925,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-01 02:10 UTC
 - Seis detenidos y casi $2 millones secuestrados tras allanamientos por venta de drogas en el barrio La Arrocera. — https://diarioelsol.com.ar/contenido/60932/seis-detenidos-y-casi-2-millones-secuestrados-tras-allanamientos-por-venta-de-dr _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-08-01 08:09 UTC
+- Continúa hoy el juicio por Loan en Corrientes: declararán los padres — https://diarioelsol.com.ar/contenido/60935/continua-hoy-el-juicio-por-loan-en-corrientes-declararan-los-padres _(bloqueado: contiene keyword 'niño')_
+- Alerta nacional por el robo de una cápsula radiactiva en Rosario: para qué era usada — https://diarioelsol.com.ar/contenido/60973/alerta-nacional-por-el-robo-de-una-capsula-radiactiva-en-rosario-para-que-era-us _(bloqueado: contiene keyword 'robo')_
+- Cometió un femicidio, se suicidó y dejó solo a su hijo: el mensaje de la maestra que conmueve a Uruguay — https://diarioelsol.com.ar/contenido/60938/cometio-un-femicidio-se-suicido-y-dejo-solo-a-su-hijo-el-mensaje-de-la-maestra-q _(bloqueado: contiene keyword 'asesin')_
