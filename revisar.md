@@ -1931,3 +1931,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Continúa hoy el juicio por Loan en Corrientes: declararán los padres — https://diarioelsol.com.ar/contenido/60935/continua-hoy-el-juicio-por-loan-en-corrientes-declararan-los-padres _(bloqueado: contiene keyword 'niño')_
 - Alerta nacional por el robo de una cápsula radiactiva en Rosario: para qué era usada — https://diarioelsol.com.ar/contenido/60973/alerta-nacional-por-el-robo-de-una-capsula-radiactiva-en-rosario-para-que-era-us _(bloqueado: contiene keyword 'robo')_
 - Cometió un femicidio, se suicidó y dejó solo a su hijo: el mensaje de la maestra que conmueve a Uruguay — https://diarioelsol.com.ar/contenido/60938/cometio-un-femicidio-se-suicido-y-dejo-solo-a-su-hijo-el-mensaje-de-la-maestra-q _(bloqueado: contiene keyword 'asesin')_
+
+
+## Tanda 2026-08-01 18:59 UTC
+- Allanamientos por causa de estafa: secuestraron un autoelevador y otros elementos de interés — https://concordia24.com.ar/allanamientos-por-causa-de-estafa-secuestraron-un-autoelevador-y-otros-elementos-de-interes/ _(bloqueado: contiene keyword 'allanamiento')_
+- Tras el temporal, vecinos denuncian postes a punto de caer y falta de respuestas en Concordia — https://concordia24.com.ar/tras-el-temporal-vecinos-denuncian-postes-a-punto-de-caer-y-falta-de-respuestas-en-concordia/ _(bloqueado: contiene keyword 'denuncia')_
