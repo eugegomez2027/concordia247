@@ -1921,3 +1921,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-07-31 19:14 UTC
 - La Policía rescató a 20 perros que se encontraban en condiciones de vulnerabilidad y maltrato — https://diarioelsol.com.ar/contenido/60962/la-policia-rescato-a-20-perros-que-se-encontraban-en-condiciones-de-vulnerabilid _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-08-01 02:10 UTC
+- Seis detenidos y casi $2 millones secuestrados tras allanamientos por venta de drogas en el barrio La Arrocera. — https://diarioelsol.com.ar/contenido/60932/seis-detenidos-y-casi-2-millones-secuestrados-tras-allanamientos-por-venta-de-dr _(bloqueado: contiene keyword 'policía')_
