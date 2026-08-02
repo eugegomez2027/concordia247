@@ -1942,3 +1942,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Allanamientos por una causa de amenazas derivaron en el secuestro de cocaína y cuatro detenidos — https://concordia24.com.ar/allanamientos-por-una-causa-de-amenazas-derivaron-en-el-secuestro-de-cocaina-y-cuatro-detenidos/ _(bloqueado: contiene keyword 'detenido')_
 - Fuerte choque en la Ex Ruta 18 dejó a un menor con lesiones graves — https://diarioelsol.com.ar/contenido/60957/fuerte-choque-en-la-ex-ruta-18-dejo-a-un-menor-con-lesiones-graves _(bloqueado: contiene keyword 'menor')_
 - En Federación hubo incidentes y detenidos en protestas por la muerte de Thiago. — https://diarioelsol.com.ar/contenido/60963/en-federacion-hubo-incidentes-y-detenidos-en-protestas-por-la-muerte-de-thiago _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-08-02 08:11 UTC
+- Juzgado Federal de Concordia procesó a narcos correntinos detenidos con 260 kilos de cocaína — https://diarioelsol.com.ar/contenido/60968/juzgado-federal-de-concordia-proceso-a-narcos-correntinos-detenidos-con-260-kilo _(bloqueado: contiene keyword 'detenido')_
+- Operativo en Villa Busti: un pistolón cargado, dólares y un detenido durante un control policial — https://diarioelsol.com.ar/contenido/60964/operativo-en-villa-busti-un-pistolon-cargado-dolares-y-un-detenido-durante-un-co _(bloqueado: contiene keyword 'policial')_
