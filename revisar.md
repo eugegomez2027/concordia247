@@ -1936,3 +1936,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-01 18:59 UTC
 - Allanamientos por causa de estafa: secuestraron un autoelevador y otros elementos de interés — https://concordia24.com.ar/allanamientos-por-causa-de-estafa-secuestraron-un-autoelevador-y-otros-elementos-de-interes/ _(bloqueado: contiene keyword 'allanamiento')_
 - Tras el temporal, vecinos denuncian postes a punto de caer y falta de respuestas en Concordia — https://concordia24.com.ar/tras-el-temporal-vecinos-denuncian-postes-a-punto-de-caer-y-falta-de-respuestas-en-concordia/ _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-08-02 02:07 UTC
+- Allanamientos por una causa de amenazas derivaron en el secuestro de cocaína y cuatro detenidos — https://concordia24.com.ar/allanamientos-por-una-causa-de-amenazas-derivaron-en-el-secuestro-de-cocaina-y-cuatro-detenidos/ _(bloqueado: contiene keyword 'detenido')_
+- Fuerte choque en la Ex Ruta 18 dejó a un menor con lesiones graves — https://diarioelsol.com.ar/contenido/60957/fuerte-choque-en-la-ex-ruta-18-dejo-a-un-menor-con-lesiones-graves _(bloqueado: contiene keyword 'menor')_
+- En Federación hubo incidentes y detenidos en protestas por la muerte de Thiago. — https://diarioelsol.com.ar/contenido/60963/en-federacion-hubo-incidentes-y-detenidos-en-protestas-por-la-muerte-de-thiago _(bloqueado: contiene keyword 'policía')_
