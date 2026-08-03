@@ -1947,3 +1947,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-02 08:11 UTC
 - Juzgado Federal de Concordia procesó a narcos correntinos detenidos con 260 kilos de cocaína — https://diarioelsol.com.ar/contenido/60968/juzgado-federal-de-concordia-proceso-a-narcos-correntinos-detenidos-con-260-kilo _(bloqueado: contiene keyword 'detenido')_
 - Operativo en Villa Busti: un pistolón cargado, dólares y un detenido durante un control policial — https://diarioelsol.com.ar/contenido/60964/operativo-en-villa-busti-un-pistolon-cargado-dolares-y-un-detenido-durante-un-co _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-08-03 02:09 UTC
+- El fiscal Guillermo Marijuan pidió la indagatoria de Francisco Adorni por presentar declaraciones juradas falsas — https://diarioelsol.com.ar/contenido/60989/el-fiscal-guillermo-marijuan-pidio-la-indagatoria-de-francisco-adorni-por-presen _(bloqueado: contiene keyword 'acusación')_
