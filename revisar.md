@@ -1956,3 +1956,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-04 08:26 UTC
 - Detenido en un colectivo tras exhibirse ante una pasajera y orinar dentro de la unidad — https://diarioelsol.com.ar/contenido/61002/detenido-en-un-colectivo-tras-exhibirse-ante-una-pasajera-y-orinar-dentro-de-la- _(bloqueado: contiene keyword 'detenido')_
 - Conmoción por la muerte de una adolescente que se habría arrojado del edificio Guini — https://diarioelsol.com.ar/contenido/61006/conmocion-por-la-muerte-de-una-adolescente-que-se-habria-arrojado-del-edificio-g _(bloqueado: contiene keyword 'adolescente')_
+
+
+## Tanda 2026-08-04 19:21 UTC
+- Entre Ríos tiene el segundo menor índice de morosidad del país en créditos bancarios y billeteras virtuales — https://concordia24.com.ar/entre-rios-tiene-el-segundo-menor-indice-de-morosidad-del-pais-en-creditos-bancarios-y-billeteras-virtuales/ _(bloqueado: contiene keyword 'menor')_
