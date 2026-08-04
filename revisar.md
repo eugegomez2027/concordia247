@@ -1951,3 +1951,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-03 02:09 UTC
 - El fiscal Guillermo Marijuan pidió la indagatoria de Francisco Adorni por presentar declaraciones juradas falsas — https://diarioelsol.com.ar/contenido/60989/el-fiscal-guillermo-marijuan-pidio-la-indagatoria-de-francisco-adorni-por-presen _(bloqueado: contiene keyword 'acusación')_
+
+
+## Tanda 2026-08-04 08:26 UTC
+- Detenido en un colectivo tras exhibirse ante una pasajera y orinar dentro de la unidad — https://diarioelsol.com.ar/contenido/61002/detenido-en-un-colectivo-tras-exhibirse-ante-una-pasajera-y-orinar-dentro-de-la- _(bloqueado: contiene keyword 'detenido')_
+- Conmoción por la muerte de una adolescente que se habría arrojado del edificio Guini — https://diarioelsol.com.ar/contenido/61006/conmocion-por-la-muerte-de-una-adolescente-que-se-habria-arrojado-del-edificio-g _(bloqueado: contiene keyword 'adolescente')_
