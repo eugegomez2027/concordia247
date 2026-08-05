@@ -1966,3 +1966,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Vecinos de Puerto Yeruá denuncian el deterioro del acceso y reclaman una reparación urgente — https://concordia24.com.ar/vecinos-de-puerto-yerua-denuncian-el-deterioro-del-acceso-y-reclaman-una-reparacion-urgente/ _(bloqueado: contiene keyword 'denuncia')_
 - Le aplicó una descarga eléctrica a un ladrón y evitó que le robaran la moto — https://diarioelsol.com.ar/contenido/61013/le-aplico-una-descarga-electrica-a-un-ladron-y-evito-que-le-robaran-la-moto _(bloqueado: contiene keyword 'robo')_
 - Caso Loan: la Fiscalía asegura que “hay algunos imputados que quieren declarar” — https://diarioelsol.com.ar/contenido/61014/caso-loan-la-fiscalia-asegura-que-hay-algunos-imputados-que-quieren-declarar _(bloqueado: contiene keyword 'acusación')_
+
+
+## Tanda 2026-08-05 19:20 UTC
+- Narcotráfico: la Fiscalía pidió 14 años de prisión para Leonardo Airaldi como organizador y financista — https://diarioelsol.com.ar/contenido/61029/narcotrafico-la-fiscalia-pidio-14-anos-de-prision-para-leonardo-airaldi-como-org _(bloqueado: contiene keyword 'imputado')_
+- Escándalo en el Mundial 2026: Argelia denunció a la Selección Argentina ante la FIFA por el arbitraje — https://diarioelsol.com.ar/contenido/61032/escandalo-en-el-mundial-2026-argelia-denuncio-a-la-seleccion-argentina-ante-la-f _(bloqueado: contiene keyword 'denunció')_
