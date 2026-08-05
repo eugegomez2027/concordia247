@@ -1960,3 +1960,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-04 19:21 UTC
 - Entre Ríos tiene el segundo menor índice de morosidad del país en créditos bancarios y billeteras virtuales — https://concordia24.com.ar/entre-rios-tiene-el-segundo-menor-indice-de-morosidad-del-pais-en-creditos-bancarios-y-billeteras-virtuales/ _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-08-05 08:25 UTC
+- Vecinos de Puerto Yeruá denuncian el deterioro del acceso y reclaman una reparación urgente — https://concordia24.com.ar/vecinos-de-puerto-yerua-denuncian-el-deterioro-del-acceso-y-reclaman-una-reparacion-urgente/ _(bloqueado: contiene keyword 'denuncia')_
+- Le aplicó una descarga eléctrica a un ladrón y evitó que le robaran la moto — https://diarioelsol.com.ar/contenido/61013/le-aplico-una-descarga-electrica-a-un-ladron-y-evito-que-le-robaran-la-moto _(bloqueado: contiene keyword 'robo')_
+- Caso Loan: la Fiscalía asegura que “hay algunos imputados que quieren declarar” — https://diarioelsol.com.ar/contenido/61014/caso-loan-la-fiscalia-asegura-que-hay-algunos-imputados-que-quieren-declarar _(bloqueado: contiene keyword 'acusación')_
