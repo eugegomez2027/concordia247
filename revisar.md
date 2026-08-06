@@ -1971,3 +1971,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-05 19:20 UTC
 - Narcotráfico: la Fiscalía pidió 14 años de prisión para Leonardo Airaldi como organizador y financista — https://diarioelsol.com.ar/contenido/61029/narcotrafico-la-fiscalia-pidio-14-anos-de-prision-para-leonardo-airaldi-como-org _(bloqueado: contiene keyword 'imputado')_
 - Escándalo en el Mundial 2026: Argelia denunció a la Selección Argentina ante la FIFA por el arbitraje — https://diarioelsol.com.ar/contenido/61032/escandalo-en-el-mundial-2026-argelia-denuncio-a-la-seleccion-argentina-ante-la-f _(bloqueado: contiene keyword 'denunció')_
+
+
+## Tanda 2026-08-06 01:57 UTC
+- Despiste y vuelco de un camión en la Autovía Gervasio Artigas: una mujer y una niña resultaron lesionadas — https://concordia24.com.ar/despiste-y-vuelco-de-un-camion-en-la-autovia-gervasio-artigas-una-mujer-y-una-nina-resultaron-lesionadas/ _(bloqueado: contiene keyword 'niña')_
+- El COE evalúa posibles escenarios y acuerda medidas para fortalecer la organización y capacidad operativa ante la llegada de «El Niño» — https://concordia24.com.ar/el-coe-evalua-posibles-escenarios-y-acuerda-medidas-para-fortalecer-la-organizacion-y-capacidad-operativa-ante-la-llegada-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
+- ALLANAMIENTO POSITIVO: secuestro de cocaína y dos personas aprehendidas. — https://diarioelsol.com.ar/contenido/61041/allanamiento-positivo-secuestro-de-cocaina-y-dos-personas-aprehendidas _(bloqueado: contiene keyword 'allanamiento')_
