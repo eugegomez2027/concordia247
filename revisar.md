@@ -1977,3 +1977,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Despiste y vuelco de un camión en la Autovía Gervasio Artigas: una mujer y una niña resultaron lesionadas — https://concordia24.com.ar/despiste-y-vuelco-de-un-camion-en-la-autovia-gervasio-artigas-una-mujer-y-una-nina-resultaron-lesionadas/ _(bloqueado: contiene keyword 'niña')_
 - El COE evalúa posibles escenarios y acuerda medidas para fortalecer la organización y capacidad operativa ante la llegada de «El Niño» — https://concordia24.com.ar/el-coe-evalua-posibles-escenarios-y-acuerda-medidas-para-fortalecer-la-organizacion-y-capacidad-operativa-ante-la-llegada-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
 - ALLANAMIENTO POSITIVO: secuestro de cocaína y dos personas aprehendidas. — https://diarioelsol.com.ar/contenido/61041/allanamiento-positivo-secuestro-de-cocaina-y-dos-personas-aprehendidas _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-08-06 08:22 UTC
+- Irán anunció el cierre del estrecho de Ormuz y acusó a EE.UU. de incumplir el acuerdo que puso fin a la guerra — https://diarioelsol.com.ar/contenido/61044/iran-anuncio-el-cierre-del-estrecho-de-ormuz-y-acuso-a-eeuu-de-incumplir-el-acue _(bloqueado: contiene keyword 'acusó')_
+- Colombia: Un niño muerto y cinco heridos en un ataque con un dron en región del Catatumbo — https://diarioelsol.com.ar/contenido/61049/colombia-un-nino-muerto-y-cinco-heridos-en-un-ataque-con-un-dron-en-region-del-c _(bloqueado: contiene keyword 'niño')_
