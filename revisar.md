@@ -1982,3 +1982,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-06 08:22 UTC
 - Irán anunció el cierre del estrecho de Ormuz y acusó a EE.UU. de incumplir el acuerdo que puso fin a la guerra — https://diarioelsol.com.ar/contenido/61044/iran-anuncio-el-cierre-del-estrecho-de-ormuz-y-acuso-a-eeuu-de-incumplir-el-acue _(bloqueado: contiene keyword 'acusó')_
 - Colombia: Un niño muerto y cinco heridos en un ataque con un dron en región del Catatumbo — https://diarioelsol.com.ar/contenido/61049/colombia-un-nino-muerto-y-cinco-heridos-en-un-ataque-con-un-dron-en-region-del-c _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-08-06 23:52 UTC
+- Intentaban ingresar a Entre Ríos con una camioneta robada: detuvieron a dos mujeres paraguayas en Brazo Largo — https://concordia24.com.ar/intentaban-ingresar-a-entre-rios-con-una-camioneta-robada-detuvieron-a-dos-mujeres-paraguayas-en-brazo-largo/ _(bloqueado: contiene keyword 'robo')_
+- Concordia declaró la emergencia hídrica y climática por el fenómeno El Niño — https://concordia24.com.ar/concordia-declaro-la-emergencia-hidrica-y-climatica-por-el-fenomeno-el-nino/ _(bloqueado: contiene keyword 'niño')_
+- Vecinos reclaman participación en el COE y reactivan el pedido de la Defensa Costera Central ante la amenaza de un nuevo fenómeno El Niño — https://concordia24.com.ar/vecinos-reclaman-participacion-en-el-coe-y-reactivan-el-pedido-de-la-defensa-costera-central-ante-la-amenaza-de-un-nuevo-fenomeno-el-nino/ _(bloqueado: contiene keyword 'niño')_
