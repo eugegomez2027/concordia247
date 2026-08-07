@@ -1988,3 +1988,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Intentaban ingresar a Entre Ríos con una camioneta robada: detuvieron a dos mujeres paraguayas en Brazo Largo — https://concordia24.com.ar/intentaban-ingresar-a-entre-rios-con-una-camioneta-robada-detuvieron-a-dos-mujeres-paraguayas-en-brazo-largo/ _(bloqueado: contiene keyword 'robo')_
 - Concordia declaró la emergencia hídrica y climática por el fenómeno El Niño — https://concordia24.com.ar/concordia-declaro-la-emergencia-hidrica-y-climatica-por-el-fenomeno-el-nino/ _(bloqueado: contiene keyword 'niño')_
 - Vecinos reclaman participación en el COE y reactivan el pedido de la Defensa Costera Central ante la amenaza de un nuevo fenómeno El Niño — https://concordia24.com.ar/vecinos-reclaman-participacion-en-el-coe-y-reactivan-el-pedido-de-la-defensa-costera-central-ante-la-amenaza-de-un-nuevo-fenomeno-el-nino/ _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-08-07 12:46 UTC
+- Federal: un hombre fue baleado en plena calle y el presunto autor quedó detenido tras entregarse a la Policía — https://concordia24.com.ar/federal-un-hombre-fue-baleado-en-plena-calle-y-el-presunto-autor-quedo-detenido-tras-entregarse-a-la-policia/ _(bloqueado: contiene keyword 'policía')_
+- Allanamiento en barrio Los Pájaros: secuestran una pistola 9 mm y detienen a la dueña de la vivienda — https://diarioelsol.com.ar/contenido/61072/allanamiento-en-barrio-los-pajaros-secuestran-una-pistola-9-mm-y-detienen-a-la-d _(bloqueado: contiene keyword 'allanamiento')_
