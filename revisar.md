@@ -1993,3 +1993,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-07 12:46 UTC
 - Federal: un hombre fue baleado en plena calle y el presunto autor quedó detenido tras entregarse a la Policía — https://concordia24.com.ar/federal-un-hombre-fue-baleado-en-plena-calle-y-el-presunto-autor-quedo-detenido-tras-entregarse-a-la-policia/ _(bloqueado: contiene keyword 'policía')_
 - Allanamiento en barrio Los Pájaros: secuestran una pistola 9 mm y detienen a la dueña de la vivienda — https://diarioelsol.com.ar/contenido/61072/allanamiento-en-barrio-los-pajaros-secuestran-una-pistola-9-mm-y-detienen-a-la-d _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-08-07 18:44 UTC
+- Federación activó el Consejo de Emergencia Municipal ante el fenómeno de El Niño — https://concordia24.com.ar/federacion-activo-el-consejo-de-emergencia-municipal-ante-el-fenomeno-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
+- Buscan a una adolescente de 16 años en Paraná que está desaparecida desde el miércoles — https://diarioelsol.com.ar/contenido/61079/buscan-a-una-adolescente-de-16-anos-en-parana-que-esta-desaparecida-desde-el-mie _(bloqueado: contiene keyword 'adolescente')_
+- Dos niños fueron atendidos en Gualeguaychú por consumir brownie con marihuana — https://diarioelsol.com.ar/contenido/61078/dos-ninos-fueron-atendidos-en-gualeguaychu-por-consumir-brownie-con-marihuana _(bloqueado: contiene keyword 'allanamiento')_
