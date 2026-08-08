@@ -2007,3 +2007,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-08 06:39 UTC
 - Fuerte Operativo de saturación: secuestran 150 envoltorios de cocaína, Cartucheria y detienen a un hombre — https://concordia24.com.ar/fuerte-operativo-de-saturacion-secuestran-150-envoltorios-de-cocaina-cartucheria-y-detienen-a-un-hombre/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-08-08 12:33 UTC
+- Fiscal federal afirmó que el contrato presentado por Espert era apócrifo — https://diarioelsol.com.ar/contenido/61099/fiscal-federal-afirmo-que-el-contrato-presentado-por-espert-era-apocrifo _(bloqueado: contiene keyword 'presunto')_
