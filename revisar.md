@@ -2003,3 +2003,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-08 01:06 UTC
 - Identificaron a los tres integrantes de una familia de Victoria que falleció tras accidente en Ruta 9 — https://diarioelsol.com.ar/contenido/61086/identificaron-a-los-tres-integrantes-de-una-familia-de-victoria-que-fallecio-tra _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-08-08 06:39 UTC
+- Fuerte Operativo de saturación: secuestran 150 envoltorios de cocaína, Cartucheria y detienen a un hombre — https://concordia24.com.ar/fuerte-operativo-de-saturacion-secuestran-150-envoltorios-de-cocaina-cartucheria-y-detienen-a-un-hombre/ _(bloqueado: contiene keyword 'policial')_
