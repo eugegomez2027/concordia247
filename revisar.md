@@ -2011,3 +2011,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-08 12:33 UTC
 - Fiscal federal afirmó que el contrato presentado por Espert era apócrifo — https://diarioelsol.com.ar/contenido/61099/fiscal-federal-afirmo-que-el-contrato-presentado-por-espert-era-apocrifo _(bloqueado: contiene keyword 'presunto')_
+
+
+## Tanda 2026-08-08 18:26 UTC
+- Empresario pagó US$40.000 por cazar un ciervo en Entre Ríos y ahora se investiga presunto tráfico de fauna — https://diarioelsol.com.ar/contenido/61102/empresario-pago-us40000-por-cazar-un-ciervo-en-entre-rios-y-ahora-se-investiga-p _(bloqueado: contiene keyword 'allanamiento')_
