@@ -1999,3 +1999,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Federación activó el Consejo de Emergencia Municipal ante el fenómeno de El Niño — https://concordia24.com.ar/federacion-activo-el-consejo-de-emergencia-municipal-ante-el-fenomeno-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
 - Buscan a una adolescente de 16 años en Paraná que está desaparecida desde el miércoles — https://diarioelsol.com.ar/contenido/61079/buscan-a-una-adolescente-de-16-anos-en-parana-que-esta-desaparecida-desde-el-mie _(bloqueado: contiene keyword 'adolescente')_
 - Dos niños fueron atendidos en Gualeguaychú por consumir brownie con marihuana — https://diarioelsol.com.ar/contenido/61078/dos-ninos-fueron-atendidos-en-gualeguaychu-por-consumir-brownie-con-marihuana _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-08-08 01:06 UTC
+- Identificaron a los tres integrantes de una familia de Victoria que falleció tras accidente en Ruta 9 — https://diarioelsol.com.ar/contenido/61086/identificaron-a-los-tres-integrantes-de-una-familia-de-victoria-que-fallecio-tra _(bloqueado: contiene keyword 'niño')_
