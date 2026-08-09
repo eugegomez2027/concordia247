@@ -2015,3 +2015,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-08 18:26 UTC
 - Empresario pagó US$40.000 por cazar un ciervo en Entre Ríos y ahora se investiga presunto tráfico de fauna — https://diarioelsol.com.ar/contenido/61102/empresario-pago-us40000-por-cazar-un-ciervo-en-entre-rios-y-ahora-se-investiga-p _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-08-09 12:35 UTC
+- Declaran extinción penal del policía que se mató declamando su inocencia. — https://diarioelsol.com.ar/contenido/61114/declaran-extincion-penal-del-policia-que-se-mato-declamando-su-inocencia _(bloqueado: contiene keyword 'policía')_
