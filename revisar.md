@@ -2028,3 +2028,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-10 07:18 UTC
 - Colectivo se despistó en la costa de Mar del Plata y arrolló a varias personas: una joven fallecida — https://diarioelsol.com.ar/contenido/61127/colectivo-se-despisto-en-la-costa-de-mar-del-plata-y-arrollo-a-varias-personas-u _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-08-10 12:53 UTC
+- Secuestraron armas y marihuana tras allanamientos por un robo en Concordia — https://diarioelsol.com.ar/contenido/61130/secuestraron-armas-y-marihuana-tras-allanamientos-por-un-robo-en-concordia _(bloqueado: contiene keyword 'robo')_
+- Condenan a un hombre a más de tres años de prisión efectiva por homicidio en exceso de legítima defensa — https://diarioelsol.com.ar/contenido/61129/condenan-a-un-hombre-a-mas-de-tres-anos-de-prision-efectiva-por-homicidio-en-exc _(bloqueado: contiene keyword 'homicidio')_
