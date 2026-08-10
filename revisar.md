@@ -2024,3 +2024,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-10 01:13 UTC
 - Allanamiento durante el mediodia del domingo en Federal: Secuestraron celulares, un auto, una moto y municiones — https://concordia24.com.ar/allanamiento-durante-el-mediodia-del-domingo-en-federal-secuestraron-celulares-un-auto-una-moto-y-municiones/ _(bloqueado: contiene keyword 'policía')_
 - Caso Loan: del botín plantado a la teoría del accidente, las maniobras de Laudelina Peña para tapar la desaparición de su sobrino — https://diarioelsol.com.ar/contenido/61118/caso-loan-del-botin-plantado-a-la-teoria-del-accidente-las-maniobras-de-laudelin _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-08-10 07:18 UTC
+- Colectivo se despistó en la costa de Mar del Plata y arrolló a varias personas: una joven fallecida — https://diarioelsol.com.ar/contenido/61127/colectivo-se-despisto-en-la-costa-de-mar-del-plata-y-arrollo-a-varias-personas-u _(bloqueado: contiene keyword 'policía')_
