@@ -2019,3 +2019,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-09 12:35 UTC
 - Declaran extinción penal del policía que se mató declamando su inocencia. — https://diarioelsol.com.ar/contenido/61114/declaran-extincion-penal-del-policia-que-se-mato-declamando-su-inocencia _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-08-10 01:13 UTC
+- Allanamiento durante el mediodia del domingo en Federal: Secuestraron celulares, un auto, una moto y municiones — https://concordia24.com.ar/allanamiento-durante-el-mediodia-del-domingo-en-federal-secuestraron-celulares-un-auto-una-moto-y-municiones/ _(bloqueado: contiene keyword 'policía')_
+- Caso Loan: del botín plantado a la teoría del accidente, las maniobras de Laudelina Peña para tapar la desaparición de su sobrino — https://diarioelsol.com.ar/contenido/61118/caso-loan-del-botin-plantado-a-la-teoria-del-accidente-las-maniobras-de-laudelin _(bloqueado: contiene keyword 'niño')_
