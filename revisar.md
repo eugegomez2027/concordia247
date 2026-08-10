@@ -2033,3 +2033,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-10 12:53 UTC
 - Secuestraron armas y marihuana tras allanamientos por un robo en Concordia — https://diarioelsol.com.ar/contenido/61130/secuestraron-armas-y-marihuana-tras-allanamientos-por-un-robo-en-concordia _(bloqueado: contiene keyword 'robo')_
 - Condenan a un hombre a más de tres años de prisión efectiva por homicidio en exceso de legítima defensa — https://diarioelsol.com.ar/contenido/61129/condenan-a-un-hombre-a-mas-de-tres-anos-de-prision-efectiva-por-homicidio-en-exc _(bloqueado: contiene keyword 'homicidio')_
+
+
+## Tanda 2026-08-10 18:46 UTC
+- Fue sorprendido trepado a un poste de alumbrado público y resultó detenido por tentativa de hurto — https://concordia24.com.ar/fue-sorprendido-trepado-a-un-poste-de-alumbrado-publico-y-resulto-detenido-por-tentativa-de-hurto/ _(bloqueado: contiene keyword 'detenido')_
+- OSER advierte a sus afiliados ante posibles estafas virtuales en nombre de la institución — https://concordia24.com.ar/oser-advierte-a-sus-afiliados-ante-posibles-estafas-virtuales-en-nombre-de-la-institucion/ _(bloqueado: contiene keyword 'denuncia')_
