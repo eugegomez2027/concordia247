@@ -2046,3 +2046,11 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-11 06:54 UTC
 - Cohecho y contrabando: la trama que salpica al exjefe del Puesto Caminero Paso Cerrito — https://diarioelsol.com.ar/contenido/61144/cohecho-y-contrabando-la-trama-que-salpica-al-exjefe-del-puesto-caminero-paso-ce _(bloqueado: contiene keyword 'imputado')_
+
+
+## Tanda 2026-08-11 12:49 UTC
+- El RUAER llama a postularse para la adopción de niños, niñas y adolescentes — https://concordia24.com.ar/el-ruaer-llama-a-postularse-para-la-adopcion-de-ninos-ninas-y-adolescentes/ _(bloqueado: contiene keyword 'adolescente')_
+- Anularon el procesamiento de Lower, el barbero acusado de narcotraficante por error judicial. — https://diarioelsol.com.ar/contenido/61146/anularon-el-procesamiento-de-lower-el-barbero-acusado-de-narcotraficante-por-err _(bloqueado: contiene keyword 'detenido')_
+- Allanamientos en barrio Llamarada: secuestran armas modificadas, municiones y marihuana — https://diarioelsol.com.ar/contenido/61145/allanamientos-en-barrio-llamarada-secuestran-armas-modificadas-municiones-y-mari _(bloqueado: contiene keyword 'policía')_
+- Amaneció fría la mañanita Concordiense con menos de 2 grados y nubosidad por la tarde. — https://diarioelsol.com.ar/contenido/61150/amanecio-fria-la-mananita-concordiense-con-menos-de-2-grados-y-nubosidad-por-la- _(bloqueado: contiene keyword 'niño')_
+- Indignación por robo y destrozos en escuela rural de Puerto Yeruá — https://diarioelsol.com.ar/contenido/61154/indignacion-por-robo-y-destrozos-en-escuela-rural-de-puerto-yerua _(bloqueado: contiene keyword 'robo')_
