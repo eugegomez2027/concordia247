@@ -2042,3 +2042,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-11 01:11 UTC
 - Violenta agresión en San Salvador: Golpeó a una mujer mientras dormía y fue detenido — https://concordia24.com.ar/violenta-agresion-en-san-salvador-golpeo-a-una-mujer-mientras-dormia-y-fue-detenido/ _(bloqueado: URL contiene '/viol')_
+
+
+## Tanda 2026-08-11 06:54 UTC
+- Cohecho y contrabando: la trama que salpica al exjefe del Puesto Caminero Paso Cerrito — https://diarioelsol.com.ar/contenido/61144/cohecho-y-contrabando-la-trama-que-salpica-al-exjefe-del-puesto-caminero-paso-ce _(bloqueado: contiene keyword 'imputado')_
