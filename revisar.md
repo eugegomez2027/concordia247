@@ -2038,3 +2038,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-10 18:46 UTC
 - Fue sorprendido trepado a un poste de alumbrado público y resultó detenido por tentativa de hurto — https://concordia24.com.ar/fue-sorprendido-trepado-a-un-poste-de-alumbrado-publico-y-resulto-detenido-por-tentativa-de-hurto/ _(bloqueado: contiene keyword 'detenido')_
 - OSER advierte a sus afiliados ante posibles estafas virtuales en nombre de la institución — https://concordia24.com.ar/oser-advierte-a-sus-afiliados-ante-posibles-estafas-virtuales-en-nombre-de-la-institucion/ _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-08-11 01:11 UTC
+- Violenta agresión en San Salvador: Golpeó a una mujer mientras dormía y fue detenido — https://concordia24.com.ar/violenta-agresion-en-san-salvador-golpeo-a-una-mujer-mientras-dormia-y-fue-detenido/ _(bloqueado: URL contiene '/viol')_
