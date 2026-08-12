@@ -2069,3 +2069,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-12 12:53 UTC
 - Fuerte protesta en el peaje de Yeruá contra la reforma previsional y los despidos — https://diarioelsol.com.ar/contenido/61167/fuerte-protesta-en-el-peaje-de-yerua-contra-la-reforma-previsional-y-los-despido _(bloqueado: contiene keyword 'denuncia')_
 - Denuncian negacionismo del gobierno por ocultar el nombre de la Escuela Técnica “Jorge Pedro Busti” de Paraná — https://diarioelsol.com.ar/contenido/61172/denuncian-negacionismo-del-gobierno-por-ocultar-el-nombre-de-la-escuela-tecnica- _(bloqueado: URL contiene '/denunc')_
+
+
+## Tanda 2026-08-12 18:53 UTC
+- La Justicia Federal de Concordia ordenó,mediante amparo presentado por la Dra.Agustina Passarello, a PAMI afiliar a un menor con discapacidad — https://concordia24.com.ar/la-justicia-federal-de-concordia-ordenomediante-amparo-presentado-por-la-dra-agustina-passarello-a-pami-afiliar-a-un-menor-con-discapacidad/ _(bloqueado: contiene keyword 'menor')_
+- Los siete imputados acusados de la sustracción de Loan se negaron a declarar — https://diarioelsol.com.ar/contenido/61174/los-siete-imputados-acusados-de-la-sustraccion-de-loan-se-negaron-a-declarar _(bloqueado: contiene keyword 'imputado')_
+- Dos hombres detenidos en un operativo nocturno con una pistola calibre .45 y una cuchilla — https://diarioelsol.com.ar/contenido/61186/dos-hombres-detenidos-en-un-operativo-nocturno-con-una-pistola-calibre-45-y-una- _(bloqueado: contiene keyword 'detenido')_
