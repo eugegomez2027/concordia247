@@ -2064,3 +2064,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Informe de ONU determinó que Israel comete genocidio en Gaza al atacar deliberadamente a niños — https://diarioelsol.com.ar/contenido/61164/informe-de-onu-determino-que-israel-comete-genocidio-en-gaza-al-atacar-deliberad _(bloqueado: contiene keyword 'niño')_
 - SUH en Federación: el niño afectado recibe atención especializada en el hospital Masvernat — https://diarioelsol.com.ar/contenido/61161/suh-en-federacion-el-nino-afectado-recibe-atencion-especializada-en-el-hospital- _(bloqueado: contiene keyword 'niño')_
 - Conmoción en Santa Fe: se suicidó el presidente de una mutual y sus ahorristas denuncian fraude millonario — https://diarioelsol.com.ar/contenido/61166/conmocion-en-santa-fe-se-suicido-el-presidente-de-una-mutual-y-sus-ahorristas-de _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-08-12 12:53 UTC
+- Fuerte protesta en el peaje de Yeruá contra la reforma previsional y los despidos — https://diarioelsol.com.ar/contenido/61167/fuerte-protesta-en-el-peaje-de-yerua-contra-la-reforma-previsional-y-los-despido _(bloqueado: contiene keyword 'denuncia')_
+- Denuncian negacionismo del gobierno por ocultar el nombre de la Escuela Técnica “Jorge Pedro Busti” de Paraná — https://diarioelsol.com.ar/contenido/61172/denuncian-negacionismo-del-gobierno-por-ocultar-el-nombre-de-la-escuela-tecnica- _(bloqueado: URL contiene '/denunc')_
