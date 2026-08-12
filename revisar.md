@@ -2054,3 +2054,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Allanamientos en barrio Llamarada: secuestran armas modificadas, municiones y marihuana — https://diarioelsol.com.ar/contenido/61145/allanamientos-en-barrio-llamarada-secuestran-armas-modificadas-municiones-y-mari _(bloqueado: contiene keyword 'policía')_
 - Amaneció fría la mañanita Concordiense con menos de 2 grados y nubosidad por la tarde. — https://diarioelsol.com.ar/contenido/61150/amanecio-fria-la-mananita-concordiense-con-menos-de-2-grados-y-nubosidad-por-la- _(bloqueado: contiene keyword 'niño')_
 - Indignación por robo y destrozos en escuela rural de Puerto Yeruá — https://diarioelsol.com.ar/contenido/61154/indignacion-por-robo-y-destrozos-en-escuela-rural-de-puerto-yerua _(bloqueado: contiene keyword 'robo')_
+
+
+## Tanda 2026-08-12 01:19 UTC
+- La prevención ante el fenómeno de El Niño fue eje de una nueva reunión de la Mesa de Diálogo Social — https://concordia24.com.ar/la-prevencion-ante-el-fenomeno-de-el-nino-fue-eje-de-una-nueva-reunion-de-la-mesa-de-dialogo-social/ _(bloqueado: contiene keyword 'niño')_
