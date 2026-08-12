@@ -2058,3 +2058,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-12 01:19 UTC
 - La prevención ante el fenómeno de El Niño fue eje de una nueva reunión de la Mesa de Diálogo Social — https://concordia24.com.ar/la-prevencion-ante-el-fenomeno-de-el-nino-fue-eje-de-una-nueva-reunion-de-la-mesa-de-dialogo-social/ _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-08-12 07:14 UTC
+- Informe de ONU determinó que Israel comete genocidio en Gaza al atacar deliberadamente a niños — https://diarioelsol.com.ar/contenido/61164/informe-de-onu-determino-que-israel-comete-genocidio-en-gaza-al-atacar-deliberad _(bloqueado: contiene keyword 'niño')_
+- SUH en Federación: el niño afectado recibe atención especializada en el hospital Masvernat — https://diarioelsol.com.ar/contenido/61161/suh-en-federacion-el-nino-afectado-recibe-atencion-especializada-en-el-hospital- _(bloqueado: contiene keyword 'niño')_
+- Conmoción en Santa Fe: se suicidó el presidente de una mutual y sus ahorristas denuncian fraude millonario — https://diarioelsol.com.ar/contenido/61166/conmocion-en-santa-fe-se-suicido-el-presidente-de-una-mutual-y-sus-ahorristas-de _(bloqueado: contiene keyword 'denuncia')_
