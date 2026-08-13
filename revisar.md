@@ -2075,3 +2075,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - La Justicia Federal de Concordia ordenó,mediante amparo presentado por la Dra.Agustina Passarello, a PAMI afiliar a un menor con discapacidad — https://concordia24.com.ar/la-justicia-federal-de-concordia-ordenomediante-amparo-presentado-por-la-dra-agustina-passarello-a-pami-afiliar-a-un-menor-con-discapacidad/ _(bloqueado: contiene keyword 'menor')_
 - Los siete imputados acusados de la sustracción de Loan se negaron a declarar — https://diarioelsol.com.ar/contenido/61174/los-siete-imputados-acusados-de-la-sustraccion-de-loan-se-negaron-a-declarar _(bloqueado: contiene keyword 'imputado')_
 - Dos hombres detenidos en un operativo nocturno con una pistola calibre .45 y una cuchilla — https://diarioelsol.com.ar/contenido/61186/dos-hombres-detenidos-en-un-operativo-nocturno-con-una-pistola-calibre-45-y-una- _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-08-13 01:21 UTC
+- Detuvieron a un masajista de un hotel por presuntos tocamientos indebidos durante una sesión — https://diarioelsol.com.ar/contenido/61187/detuvieron-a-un-masajista-de-un-hotel-por-presuntos-tocamientos-indebidos-durant _(bloqueado: contiene keyword 'presunto')_
