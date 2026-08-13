@@ -2079,3 +2079,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-13 01:21 UTC
 - Detuvieron a un masajista de un hotel por presuntos tocamientos indebidos durante una sesión — https://diarioelsol.com.ar/contenido/61187/detuvieron-a-un-masajista-de-un-hotel-por-presuntos-tocamientos-indebidos-durant _(bloqueado: contiene keyword 'presunto')_
+
+
+## Tanda 2026-08-13 07:16 UTC
+- Imputaron a Kueider por presunto lavado de dinero mediante la compra de departamentos en Paraguay — https://diarioelsol.com.ar/contenido/61189/imputaron-a-kueider-por-presunto-lavado-de-dinero-mediante-la-compra-de-departam _(bloqueado: contiene keyword 'imputaron')_
+- Preocupa en Federación la seguridad vial en la ruta 44 — https://diarioelsol.com.ar/contenido/61196/preocupa-en-federacion-la-seguridad-vial-en-la-ruta-44 _(bloqueado: contiene keyword 'policial')_
