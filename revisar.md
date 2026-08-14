@@ -2098,3 +2098,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-14 12:50 UTC
 - A casi un año del crimen de Jessica Bravo, su familia sigue esperando una fecha de juicio — https://concordia24.com.ar/a-casi-un-ano-del-crimen-de-jessica-bravo-su-familia-sigue-esperando-una-fecha-de-juicio/ _(bloqueado: contiene keyword 'crimen')_
+
+
+## Tanda 2026-08-14 18:43 UTC
+- Judiciales de Entre Ríos adhieren al paro nacional este viernes en reclamo de mejoras salariales — https://diarioelsol.com.ar/contenido/61219/judiciales-de-entre-rios-adhieren-al-paro-nacional-este-viernes-en-reclamo-de-me _(bloqueado: URL contiene '/judicial')_
+- Condenaron a 9 años y 8 meses de prisión a un motochorro que asaltó a un trabajador de una estación de servicio — https://diarioelsol.com.ar/contenido/61218/condenaron-a-9-anos-y-8-meses-de-prision-a-un-motochorro-que-asalto-a-un-trabaja _(bloqueado: contiene keyword 'asalto')_
