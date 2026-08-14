@@ -2094,3 +2094,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-14 07:14 UTC
 - Federación: Ezequiel Marozzini convocó a los prestadores para preparar estrategias turísticas frente al fenómeno de El Niño — https://concordia24.com.ar/federacion-ezequiel-marozzini-convoco-a-los-prestadores-para-preparar-estrategias-turisticas-frente-al-fenomeno-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
 - Canes de la policía de Entre Ríos localizaron a un hombre que era buscado en zona rural — https://concordia24.com.ar/canes-de-la-policia-de-entre-rios-localizaron-a-un-hombre-que-era-buscado-en-zona-rural/ _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-08-14 12:50 UTC
+- A casi un año del crimen de Jessica Bravo, su familia sigue esperando una fecha de juicio — https://concordia24.com.ar/a-casi-un-ano-del-crimen-de-jessica-bravo-su-familia-sigue-esperando-una-fecha-de-juicio/ _(bloqueado: contiene keyword 'crimen')_
