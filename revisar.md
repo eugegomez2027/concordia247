@@ -2084,3 +2084,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-13 07:16 UTC
 - Imputaron a Kueider por presunto lavado de dinero mediante la compra de departamentos en Paraguay — https://diarioelsol.com.ar/contenido/61189/imputaron-a-kueider-por-presunto-lavado-de-dinero-mediante-la-compra-de-departam _(bloqueado: contiene keyword 'imputaron')_
 - Preocupa en Federación la seguridad vial en la ruta 44 — https://diarioelsol.com.ar/contenido/61196/preocupa-en-federacion-la-seguridad-vial-en-la-ruta-44 _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-08-14 01:20 UTC
+- Denuncia discriminación en Tránsito: Una destacada atleta paraolímpica asegura que aprobó el examen para obtener el carnet y ahora le dicen que no está habilitada — https://concordia24.com.ar/denuncia-discriminacion-en-transito-una-destacada-atleta-paraolimpica-asegura-que-aprobo-el-examen-para-obtener-el-carnet-y-ahora-le-dicen-que-no-esta-habilitada/ _(bloqueado: URL contiene '/denunc')_
+- Allanamientos por hurto y estafa: dos detenidos y secuestro de elementos de interés — https://concordia24.com.ar/allanamientos-por-hurto-y-estafa-dos-detenidos-y-secuestro-de-elementos-de-interes/ _(bloqueado: contiene keyword 'detenido')_
