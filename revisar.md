@@ -2089,3 +2089,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-14 01:20 UTC
 - Denuncia discriminación en Tránsito: Una destacada atleta paraolímpica asegura que aprobó el examen para obtener el carnet y ahora le dicen que no está habilitada — https://concordia24.com.ar/denuncia-discriminacion-en-transito-una-destacada-atleta-paraolimpica-asegura-que-aprobo-el-examen-para-obtener-el-carnet-y-ahora-le-dicen-que-no-esta-habilitada/ _(bloqueado: URL contiene '/denunc')_
 - Allanamientos por hurto y estafa: dos detenidos y secuestro de elementos de interés — https://concordia24.com.ar/allanamientos-por-hurto-y-estafa-dos-detenidos-y-secuestro-de-elementos-de-interes/ _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-08-14 07:14 UTC
+- Federación: Ezequiel Marozzini convocó a los prestadores para preparar estrategias turísticas frente al fenómeno de El Niño — https://concordia24.com.ar/federacion-ezequiel-marozzini-convoco-a-los-prestadores-para-preparar-estrategias-turisticas-frente-al-fenomeno-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
+- Canes de la policía de Entre Ríos localizaron a un hombre que era buscado en zona rural — https://concordia24.com.ar/canes-de-la-policia-de-entre-rios-localizaron-a-un-hombre-que-era-buscado-en-zona-rural/ _(bloqueado: contiene keyword 'policía')_
