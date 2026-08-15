@@ -2107,3 +2107,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-15 00:51 UTC
 - Denuncia que un cable colgado de un semáforo provocó un accidente y reclama respuestas al Municipio — https://concordia24.com.ar/denuncia-que-un-cable-colgado-de-un-semaforo-provoco-un-accidente-y-reclama-respuestas-al-municipio/ _(bloqueado: URL contiene '/denunc')_
+
+
+## Tanda 2026-08-15 06:25 UTC
+- Otro Búnker del narcotráfico derrumbado — https://concordia24.com.ar/otro-bunker-del-narcotrafico-derrumbado/ _(bloqueado: contiene keyword 'policía')_
+- Detuvieron a los supuestos piromaníacos que habían robado e incendiado una camioneta- — https://diarioelsol.com.ar/contenido/61234/detuvieron-a-los-supuestos-piromaniacos-que-habian-robado-e-incendiado-una-camio _(bloqueado: contiene keyword 'policial')_
