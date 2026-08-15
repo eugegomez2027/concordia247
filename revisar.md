@@ -2116,3 +2116,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-15 12:23 UTC
 - Inventó un asalto para justificar una deuda de luz: una falsa denuncia que expone una verdad más brutal — https://diarioelsol.com.ar/contenido/61243/invento-un-asalto-para-justificar-una-deuda-de-luz-una-falsa-denuncia-que-expone _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-08-15 18:18 UTC
+- Preocupación en Concordia por cables colgando en la vía pública: una mujer y su marido sufrieron un accidente — https://concordia24.com.ar/preocupacion-en-concordia-por-cables-colgando-en-la-via-publica-una-mujer-y-su-marido-sufrieron-un-accidente/ _(bloqueado: contiene keyword 'denuncia')_
+- Luego de una intensa búsqueda fue localizada Florencia Belén Pérez: un conductor de transporte nacional detenido — https://concordia24.com.ar/luego-de-una-intensa-busqueda-fue-localizada-florencia-belen-perez-un-conductor-de-transporte-nacional-detenido/ _(bloqueado: contiene keyword 'policial')_
+- La red entrerriana que operaba para el contrabando de neumáticos chinos y por la cual está imputado un comisario de Concordia. — https://diarioelsol.com.ar/contenido/61248/la-red-entrerriana-que-operaba-para-el-contrabando-de-neumaticos-chinos-y-por-la _(bloqueado: contiene keyword 'policía')_
