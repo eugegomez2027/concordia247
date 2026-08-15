@@ -2112,3 +2112,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-15 06:25 UTC
 - Otro Búnker del narcotráfico derrumbado — https://concordia24.com.ar/otro-bunker-del-narcotrafico-derrumbado/ _(bloqueado: contiene keyword 'policía')_
 - Detuvieron a los supuestos piromaníacos que habían robado e incendiado una camioneta- — https://diarioelsol.com.ar/contenido/61234/detuvieron-a-los-supuestos-piromaniacos-que-habian-robado-e-incendiado-una-camio _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-08-15 12:23 UTC
+- Inventó un asalto para justificar una deuda de luz: una falsa denuncia que expone una verdad más brutal — https://diarioelsol.com.ar/contenido/61243/invento-un-asalto-para-justificar-una-deuda-de-luz-una-falsa-denuncia-que-expone _(bloqueado: contiene keyword 'policial')_
