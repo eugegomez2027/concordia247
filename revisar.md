@@ -2103,3 +2103,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-14 18:43 UTC
 - Judiciales de Entre Ríos adhieren al paro nacional este viernes en reclamo de mejoras salariales — https://diarioelsol.com.ar/contenido/61219/judiciales-de-entre-rios-adhieren-al-paro-nacional-este-viernes-en-reclamo-de-me _(bloqueado: URL contiene '/judicial')_
 - Condenaron a 9 años y 8 meses de prisión a un motochorro que asaltó a un trabajador de una estación de servicio — https://diarioelsol.com.ar/contenido/61218/condenaron-a-9-anos-y-8-meses-de-prision-a-un-motochorro-que-asalto-a-un-trabaja _(bloqueado: contiene keyword 'asalto')_
+
+
+## Tanda 2026-08-15 00:51 UTC
+- Denuncia que un cable colgado de un semáforo provocó un accidente y reclama respuestas al Municipio — https://concordia24.com.ar/denuncia-que-un-cable-colgado-de-un-semaforo-provoco-un-accidente-y-reclama-respuestas-al-municipio/ _(bloqueado: URL contiene '/denunc')_
