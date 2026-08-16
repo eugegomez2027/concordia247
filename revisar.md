@@ -2137,3 +2137,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Crisis en Conicet: denuncian la inminente baja de contratos de 379 investigadores — https://diarioelsol.com.ar/contenido/61266/crisis-en-conicet-denuncian-la-inminente-baja-de-contratos-de-379-investigadores _(bloqueado: contiene keyword 'denuncia')_
 - Chile: el polémico cruce de José Antonio Kast con un niño que se negó a saludarlo y la madre terminó detenida — https://diarioelsol.com.ar/contenido/61265/chile-el-polemico-cruce-de-jose-antonio-kast-con-un-nino-que-se-nego-a-saludarlo _(bloqueado: contiene keyword 'menor')_
 - “Los cuerpos que estamos sacando eran de una fiesta de niños”: el desgarrador testimonio de un rescatista en La Guaira — https://diarioelsol.com.ar/contenido/61271/los-cuerpos-que-estamos-sacando-eran-de-una-fiesta-de-ninos-el-desgarrador-testi _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-08-16 18:18 UTC
+- Las ventas por el Día del Niño bajaron 2,5% interanual — https://concordia24.com.ar/las-ventas-por-el-dia-del-nino-bajaron-25-interanual/ _(bloqueado: contiene keyword 'niño')_
