@@ -2131,3 +2131,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-16 06:27 UTC
 - El Niño se intensifica y anticipan un mayor riesgo de crecidas en el río Uruguay — https://diarioelsol.com.ar/contenido/61260/el-nino-se-intensifica-y-anticipan-un-mayor-riesgo-de-crecidas-en-el-rio-uruguay _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-08-16 12:25 UTC
+- Crisis en Conicet: denuncian la inminente baja de contratos de 379 investigadores — https://diarioelsol.com.ar/contenido/61266/crisis-en-conicet-denuncian-la-inminente-baja-de-contratos-de-379-investigadores _(bloqueado: contiene keyword 'denuncia')_
+- Chile: el polémico cruce de José Antonio Kast con un niño que se negó a saludarlo y la madre terminó detenida — https://diarioelsol.com.ar/contenido/61265/chile-el-polemico-cruce-de-jose-antonio-kast-con-un-nino-que-se-nego-a-saludarlo _(bloqueado: contiene keyword 'menor')_
+- “Los cuerpos que estamos sacando eran de una fiesta de niños”: el desgarrador testimonio de un rescatista en La Guaira — https://diarioelsol.com.ar/contenido/61271/los-cuerpos-que-estamos-sacando-eran-de-una-fiesta-de-ninos-el-desgarrador-testi _(bloqueado: contiene keyword 'niño')_
