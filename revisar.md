@@ -2122,3 +2122,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Preocupación en Concordia por cables colgando en la vía pública: una mujer y su marido sufrieron un accidente — https://concordia24.com.ar/preocupacion-en-concordia-por-cables-colgando-en-la-via-publica-una-mujer-y-su-marido-sufrieron-un-accidente/ _(bloqueado: contiene keyword 'denuncia')_
 - Luego de una intensa búsqueda fue localizada Florencia Belén Pérez: un conductor de transporte nacional detenido — https://concordia24.com.ar/luego-de-una-intensa-busqueda-fue-localizada-florencia-belen-perez-un-conductor-de-transporte-nacional-detenido/ _(bloqueado: contiene keyword 'policial')_
 - La red entrerriana que operaba para el contrabando de neumáticos chinos y por la cual está imputado un comisario de Concordia. — https://diarioelsol.com.ar/contenido/61248/la-red-entrerriana-que-operaba-para-el-contrabando-de-neumaticos-chinos-y-por-la _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-08-16 00:54 UTC
+- PRISIÓN PREVENTIVA PARA EL OPERARIO QUE DESATÓ EL CAOS CON UNA PALA MECÁNICA EN CONCORDIA — https://diarioelsol.com.ar/contenido/61253/prision-preventiva-para-el-operario-que-desato-el-caos-con-una-pala-mecanica-en- _(bloqueado: contiene keyword 'acusación')_
+- DRON POLICIAL DETECTÓ A UN HOMBRE ARMADO HUYENDO POR UN DESCAMPADO: FUE DETENIDO — https://diarioelsol.com.ar/contenido/61258/dron-policial-detecto-a-un-hombre-armado-huyendo-por-un-descampado-fue-detenido _(bloqueado: contiene keyword 'policial')_
