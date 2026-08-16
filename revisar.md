@@ -2127,3 +2127,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-16 00:54 UTC
 - PRISIÓN PREVENTIVA PARA EL OPERARIO QUE DESATÓ EL CAOS CON UNA PALA MECÁNICA EN CONCORDIA — https://diarioelsol.com.ar/contenido/61253/prision-preventiva-para-el-operario-que-desato-el-caos-con-una-pala-mecanica-en- _(bloqueado: contiene keyword 'acusación')_
 - DRON POLICIAL DETECTÓ A UN HOMBRE ARMADO HUYENDO POR UN DESCAMPADO: FUE DETENIDO — https://diarioelsol.com.ar/contenido/61258/dron-policial-detecto-a-un-hombre-armado-huyendo-por-un-descampado-fue-detenido _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-08-16 06:27 UTC
+- El Niño se intensifica y anticipan un mayor riesgo de crecidas en el río Uruguay — https://diarioelsol.com.ar/contenido/61260/el-nino-se-intensifica-y-anticipan-un-mayor-riesgo-de-crecidas-en-el-rio-uruguay _(bloqueado: contiene keyword 'niño')_
