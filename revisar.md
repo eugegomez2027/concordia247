@@ -2145,3 +2145,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-17 00:52 UTC
 - Karina Milei defendió a Adorni con un mensaje de tipo necrológico. — https://diarioelsol.com.ar/contenido/61281/karina-milei-defendio-a-adorni-con-un-mensaje-de-tipo-necrologico _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-08-17 06:39 UTC
+- ALLANAN LA CASA DE UNA MUJER SOSPECHADA DE ROBAR PRODUCTOS EN UNA FARMACIA DEL CENTRO — https://diarioelsol.com.ar/contenido/61283/allanan-la-casa-de-una-mujer-sospechada-de-robar-productos-en-una-farmacia-del-c _(bloqueado: contiene keyword 'allanamiento')_
+- DOS JÓVENES DETENIDOS CON COCAÍNA LISTA PARA LA VENTA DURANTE UN OPERATIVO DE SATURACIÓN — https://diarioelsol.com.ar/contenido/61282/dos-jovenes-detenidos-con-cocaina-lista-para-la-venta-durante-un-operativo-de-sa _(bloqueado: contiene keyword 'detenido')_
+- ALLANAMIENTO EN BARRIO FÁTIMA: SECUESTRO DE COCAÍNA, ELEMENTOS DE CORTE Y TRES DETENIDOS — https://diarioelsol.com.ar/contenido/61290/allanamiento-en-barrio-fatima-secuestro-de-cocaina-elementos-de-corte-y-tres-det _(bloqueado: contiene keyword 'detenido')_
