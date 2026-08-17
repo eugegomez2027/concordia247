@@ -2151,3 +2151,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - ALLANAN LA CASA DE UNA MUJER SOSPECHADA DE ROBAR PRODUCTOS EN UNA FARMACIA DEL CENTRO — https://diarioelsol.com.ar/contenido/61283/allanan-la-casa-de-una-mujer-sospechada-de-robar-productos-en-una-farmacia-del-c _(bloqueado: contiene keyword 'allanamiento')_
 - DOS JÓVENES DETENIDOS CON COCAÍNA LISTA PARA LA VENTA DURANTE UN OPERATIVO DE SATURACIÓN — https://diarioelsol.com.ar/contenido/61282/dos-jovenes-detenidos-con-cocaina-lista-para-la-venta-durante-un-operativo-de-sa _(bloqueado: contiene keyword 'detenido')_
 - ALLANAMIENTO EN BARRIO FÁTIMA: SECUESTRO DE COCAÍNA, ELEMENTOS DE CORTE Y TRES DETENIDOS — https://diarioelsol.com.ar/contenido/61290/allanamiento-en-barrio-fatima-secuestro-de-cocaina-elementos-de-corte-y-tres-det _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-08-17 12:29 UTC
+- La defensa del líder de la secta rusa denunció a tres fiscales: “Buscan sostener la prisión con argumentos fácticamente inexactos” — https://diarioelsol.com.ar/contenido/61299/la-defensa-del-lider-de-la-secta-rusa-denuncio-a-tres-fiscales-buscan-sostener-l _(bloqueado: contiene keyword 'denuncia')_
