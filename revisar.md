@@ -2141,3 +2141,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-16 18:18 UTC
 - Las ventas por el Día del Niño bajaron 2,5% interanual — https://concordia24.com.ar/las-ventas-por-el-dia-del-nino-bajaron-25-interanual/ _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-08-17 00:52 UTC
+- Karina Milei defendió a Adorni con un mensaje de tipo necrológico. — https://diarioelsol.com.ar/contenido/61281/karina-milei-defendio-a-adorni-con-un-mensaje-de-tipo-necrologico _(bloqueado: contiene keyword 'denuncia')_
