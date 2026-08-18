@@ -2164,3 +2164,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-18 12:31 UTC
 - Súper El Niño: el Gobierno nacional despliega un sistema de monitoreo en tiempo real ante posibles inundaciones — https://concordia24.com.ar/super-el-nino-el-gobierno-nacional-despliega-un-sistema-de-monitoreo-en-tiempo-real-ante-posibles-inundaciones/ _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-08-18 18:27 UTC
+- Incendio en un supermercado de General Campos: una mujer y su hijo fueron asistidos por inhalación de humo — https://concordia24.com.ar/incendio-en-un-supermercado-de-general-campos-una-mujer-y-su-hijo-fueron-asistidos-por-inhalacion-de-humo/ _(bloqueado: contiene keyword 'policial')_
+- Entre Ríos prepara una respuesta sanitaria integral ante el posible impacto de El Niño — https://concordia24.com.ar/entre-rios-prepara-una-respuesta-sanitaria-integral-ante-el-posible-impacto-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
