@@ -2160,3 +2160,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-18 06:31 UTC
 - Simuló que lo asaltaron y le robaron el camión, pero luego reconoció que la denuncia era falsa — https://concordia24.com.ar/simulo-que-lo-asaltaron-y-le-robaron-el-camion-pero-luego-reconocio-que-la-denuncia-era-falsa/ _(bloqueado: contiene keyword 'policial')_
 - "Rescató" su auto incautado por conducir ebrio y terminó preso — https://diarioelsol.com.ar/contenido/61317/rescato-su-auto-incautado-por-conducir-ebrio-y-termino-preso _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-08-18 12:31 UTC
+- Súper El Niño: el Gobierno nacional despliega un sistema de monitoreo en tiempo real ante posibles inundaciones — https://concordia24.com.ar/super-el-nino-el-gobierno-nacional-despliega-un-sistema-de-monitoreo-en-tiempo-real-ante-posibles-inundaciones/ _(bloqueado: contiene keyword 'niño')_
