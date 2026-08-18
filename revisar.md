@@ -2155,3 +2155,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-17 12:29 UTC
 - La defensa del líder de la secta rusa denunció a tres fiscales: “Buscan sostener la prisión con argumentos fácticamente inexactos” — https://diarioelsol.com.ar/contenido/61299/la-defensa-del-lider-de-la-secta-rusa-denuncio-a-tres-fiscales-buscan-sostener-l _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-08-18 06:31 UTC
+- Simuló que lo asaltaron y le robaron el camión, pero luego reconoció que la denuncia era falsa — https://concordia24.com.ar/simulo-que-lo-asaltaron-y-le-robaron-el-camion-pero-luego-reconocio-que-la-denuncia-era-falsa/ _(bloqueado: contiene keyword 'policial')_
+- "Rescató" su auto incautado por conducir ebrio y terminó preso — https://diarioelsol.com.ar/contenido/61317/rescato-su-auto-incautado-por-conducir-ebrio-y-termino-preso _(bloqueado: contiene keyword 'policía')_
