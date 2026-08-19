@@ -2169,3 +2169,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-18 18:27 UTC
 - Incendio en un supermercado de General Campos: una mujer y su hijo fueron asistidos por inhalación de humo — https://concordia24.com.ar/incendio-en-un-supermercado-de-general-campos-una-mujer-y-su-hijo-fueron-asistidos-por-inhalacion-de-humo/ _(bloqueado: contiene keyword 'policial')_
 - Entre Ríos prepara una respuesta sanitaria integral ante el posible impacto de El Niño — https://concordia24.com.ar/entre-rios-prepara-una-respuesta-sanitaria-integral-ante-el-posible-impacto-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-08-19 06:32 UTC
+- Allanamiento positivo en barrio Nueva Esperanza: secuestro de cocaína y marihuana y dos personas detenidas — https://concordia24.com.ar/allanamiento-positivo-en-barrio-nueva-esperanza-secuestro-de-cocaina-y-marihuana-y-dos-personas-detenidas/ _(bloqueado: contiene keyword 'allanamiento')_
+- Científicos, investigadores y becarios del Conicet cortaron Avenida Santa Fe: tensión y empujones con la Policía — https://diarioelsol.com.ar/contenido/61348/cientificos-investigadores-y-becarios-del-conicet-cortaron-avenida-santa-fe-tens _(bloqueado: contiene keyword 'policía')_
+- Confirmaron la no renovación de alrededor de 100 contratos en Concordia — https://diarioelsol.com.ar/contenido/61350/confirmaron-la-no-renovacion-de-alrededor-de-100-contratos-en-concordia _(bloqueado: contiene keyword 'denunció')_
