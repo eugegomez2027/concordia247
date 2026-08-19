@@ -2175,3 +2175,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Allanamiento positivo en barrio Nueva Esperanza: secuestro de cocaína y marihuana y dos personas detenidas — https://concordia24.com.ar/allanamiento-positivo-en-barrio-nueva-esperanza-secuestro-de-cocaina-y-marihuana-y-dos-personas-detenidas/ _(bloqueado: contiene keyword 'allanamiento')_
 - Científicos, investigadores y becarios del Conicet cortaron Avenida Santa Fe: tensión y empujones con la Policía — https://diarioelsol.com.ar/contenido/61348/cientificos-investigadores-y-becarios-del-conicet-cortaron-avenida-santa-fe-tens _(bloqueado: contiene keyword 'policía')_
 - Confirmaron la no renovación de alrededor de 100 contratos en Concordia — https://diarioelsol.com.ar/contenido/61350/confirmaron-la-no-renovacion-de-alrededor-de-100-contratos-en-concordia _(bloqueado: contiene keyword 'denunció')_
+
+
+## Tanda 2026-08-19 12:32 UTC
+- El mes del Niño tendrá una doble jornada este fin de semana — https://concordia24.com.ar/el-mes-del-nino-tendra-una-doble-jornada-este-fin-de-semana/ _(bloqueado: contiene keyword 'niño')_
+- Buscan intensamente a dos adolescentes que se ausentaron de un hogar de menores de Concordia — https://diarioelsol.com.ar/contenido/61353/buscan-intensamente-a-dos-adolescentes-que-se-ausentaron-de-un-hogar-de-menores- _(bloqueado: contiene keyword 'menor')_
