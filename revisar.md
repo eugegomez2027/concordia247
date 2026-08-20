@@ -2180,3 +2180,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-19 12:32 UTC
 - El mes del Niño tendrá una doble jornada este fin de semana — https://concordia24.com.ar/el-mes-del-nino-tendra-una-doble-jornada-este-fin-de-semana/ _(bloqueado: contiene keyword 'niño')_
 - Buscan intensamente a dos adolescentes que se ausentaron de un hogar de menores de Concordia — https://diarioelsol.com.ar/contenido/61353/buscan-intensamente-a-dos-adolescentes-que-se-ausentaron-de-un-hogar-de-menores- _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-08-20 12:34 UTC
+- Allanamientos por una estafa con cheques robados: secuestran aberturas, camionetas y armas y detienen a un hombre — https://concordia24.com.ar/allanamientos-por-una-estafa-con-cheques-robados-secuestran-aberturas-camionetas-y-armas-y-detienen-a-un-hombre/ _(bloqueado: contiene keyword 'policía')_
