@@ -2184,3 +2184,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-20 12:34 UTC
 - Allanamientos por una estafa con cheques robados: secuestran aberturas, camionetas y armas y detienen a un hombre — https://concordia24.com.ar/allanamientos-por-una-estafa-con-cheques-robados-secuestran-aberturas-camionetas-y-armas-y-detienen-a-un-hombre/ _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-08-20 18:28 UTC
+- El Ministerio de Seguridad y Justicia informa sobre los procedimientos llevados a cabo por la Policía Federal Argentina en Paraná — https://concordia24.com.ar/el-ministerio-de-seguridad-y-justicia-informa-sobre-los-procedimientos-llevados-a-cabo-por-la-policia-federal-argentina-en-parana/ _(bloqueado: contiene keyword 'policía')_
+- Dos detenidos por desobediencia judicial y un contraventor demorado en Federal — https://concordia24.com.ar/dos-detenidos-por-desobediencia-judicial-y-un-contraventor-demorado-en-federal/ _(bloqueado: contiene keyword 'detenido')_
