@@ -2193,3 +2193,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-21 06:34 UTC
 - Federación se prepara ante el fenómeno de “El Niño”, Bravo pidió a la Provincia reforzar el acompañamiento a las familias — https://concordia24.com.ar/federacion-se-prepara-ante-el-fenomeno-de-el-nino-bravo-pidio-a-la-provincia-reforzar-el-acompanamiento-a-las-familias/ _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-08-21 12:33 UTC
+- En el cuadrilátero: La Justicia le prohibió a Manuel Adorni salir del país sin autorización previa — https://diarioelsol.com.ar/contenido/61438/en-el-cuadrilatero-la-justicia-le-prohibio-a-manuel-adorni-salir-del-pais-sin-au _(bloqueado: contiene keyword 'denuncia')_
+- Llantos, golpes en el pecho y llamadas de venganza en el funeral público de Khamenei — https://diarioelsol.com.ar/contenido/61437/llantos-golpes-en-el-pecho-y-llamadas-de-venganza-en-el-funeral-publico-de-khame _(bloqueado: contiene keyword 'asesin')_
+- Murió atrapado en un boquete que hizo para entrar a robar a un depósito — https://diarioelsol.com.ar/contenido/61436/murio-atrapado-en-un-boquete-que-hizo-para-entrar-a-robar-a-un-deposito _(bloqueado: contiene keyword 'robo')_
+- Detuvieron al delincuente que asaltó con un cuchillo un comercio de bebidas y quedó filmado — https://diarioelsol.com.ar/contenido/61439/detuvieron-al-delincuente-que-asalto-con-un-cuchillo-un-comercio-de-bebidas-y-qu _(bloqueado: contiene keyword 'policial')_
