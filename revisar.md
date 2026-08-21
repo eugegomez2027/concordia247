@@ -2189,3 +2189,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-20 18:28 UTC
 - El Ministerio de Seguridad y Justicia informa sobre los procedimientos llevados a cabo por la Policía Federal Argentina en Paraná — https://concordia24.com.ar/el-ministerio-de-seguridad-y-justicia-informa-sobre-los-procedimientos-llevados-a-cabo-por-la-policia-federal-argentina-en-parana/ _(bloqueado: contiene keyword 'policía')_
 - Dos detenidos por desobediencia judicial y un contraventor demorado en Federal — https://concordia24.com.ar/dos-detenidos-por-desobediencia-judicial-y-un-contraventor-demorado-en-federal/ _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-08-21 06:34 UTC
+- Federación se prepara ante el fenómeno de “El Niño”, Bravo pidió a la Provincia reforzar el acompañamiento a las familias — https://concordia24.com.ar/federacion-se-prepara-ante-el-fenomeno-de-el-nino-bravo-pidio-a-la-provincia-reforzar-el-acompanamiento-a-las-familias/ _(bloqueado: contiene keyword 'niño')_
