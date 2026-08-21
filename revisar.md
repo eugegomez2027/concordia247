@@ -2200,3 +2200,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Llantos, golpes en el pecho y llamadas de venganza en el funeral público de Khamenei — https://diarioelsol.com.ar/contenido/61437/llantos-golpes-en-el-pecho-y-llamadas-de-venganza-en-el-funeral-publico-de-khame _(bloqueado: contiene keyword 'asesin')_
 - Murió atrapado en un boquete que hizo para entrar a robar a un depósito — https://diarioelsol.com.ar/contenido/61436/murio-atrapado-en-un-boquete-que-hizo-para-entrar-a-robar-a-un-deposito _(bloqueado: contiene keyword 'robo')_
 - Detuvieron al delincuente que asaltó con un cuchillo un comercio de bebidas y quedó filmado — https://diarioelsol.com.ar/contenido/61439/detuvieron-al-delincuente-que-asalto-con-un-cuchillo-un-comercio-de-bebidas-y-qu _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-08-21 18:26 UTC
+- Entre Ríos fortalece su capacidad de respuesta ante emergencias hídricas — https://concordia24.com.ar/entre-rios-fortalece-su-capacidad-de-respuesta-ante-emergencias-hidricas/ _(bloqueado: contiene keyword 'policía')_
