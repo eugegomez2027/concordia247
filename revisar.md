@@ -2204,3 +2204,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-21 18:26 UTC
 - Entre Ríos fortalece su capacidad de respuesta ante emergencias hídricas — https://concordia24.com.ar/entre-rios-fortalece-su-capacidad-de-respuesta-ante-emergencias-hidricas/ _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-08-23 00:55 UTC
+- Un hombre fracturado y con muletas fue sorprendido vendiendo estupefacientes frente a su domicilio — https://concordia24.com.ar/un-hombre-fracturado-y-con-muletas-fue-sorprendido-vendiendo-estupefacientes-frente-a-su-domicilio/ _(bloqueado: contiene keyword 'policial')_
+- Un adolescente de 13 años despertó a tiempo y salvó a su familia de un voraz incendio en Puerto Yeruá — https://diarioelsol.com.ar/contenido/61503/un-adolescente-de-13-anos-desperto-a-tiempo-y-salvo-a-su-familia-de-un-voraz-inc _(bloqueado: contiene keyword 'adolescente')_
