@@ -2214,3 +2214,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-23 06:29 UTC
 - Allanamientos por Narcomenudeo en Colonia Ayui: secuestro de droga y dos personas detenidas — https://concordia24.com.ar/allanamientos-por-narcomenudeo-en-colonia-ayui-secuestro-de-droga-y-dos-personas-detenidas/ _(bloqueado: contiene keyword 'allanamiento')_
 - Horror en Canadá: Un dentista mató a sus dos hijos, incendió su consulta y se prendió fuego en su coche — https://diarioelsol.com.ar/contenido/61512/horror-en-canada-un-dentista-mato-a-sus-dos-hijos-incendio-su-consulta-y-se-pren _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-08-23 18:18 UTC
+- Conflicto vecinal en Barrio Nébel se manifestó a pedradas y gritos en medio de los festejos por el Triunfo de la Albiceleste. — https://diarioelsol.com.ar/contenido/61524/conflicto-vecinal-en-barrio-nebel-se-manifesto-a-pedradas-y-gritos-en-medio-de-l _(bloqueado: contiene keyword 'policía')_
+- ALLANAMIENTOS EN BARRIO FATIMA I: SECUESTRAN COCAÍNA, MARIHUANA Y DETIENEN A DOS PERSONAS — https://diarioelsol.com.ar/contenido/61523/allanamientos-en-barrio-fatima-i-secuestran-cocaina-marihuana-y-detienen-a-dos-p _(bloqueado: contiene keyword 'detenido')_
