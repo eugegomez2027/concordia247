@@ -2209,3 +2209,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-23 00:55 UTC
 - Un hombre fracturado y con muletas fue sorprendido vendiendo estupefacientes frente a su domicilio — https://concordia24.com.ar/un-hombre-fracturado-y-con-muletas-fue-sorprendido-vendiendo-estupefacientes-frente-a-su-domicilio/ _(bloqueado: contiene keyword 'policial')_
 - Un adolescente de 13 años despertó a tiempo y salvó a su familia de un voraz incendio en Puerto Yeruá — https://diarioelsol.com.ar/contenido/61503/un-adolescente-de-13-anos-desperto-a-tiempo-y-salvo-a-su-familia-de-un-voraz-inc _(bloqueado: contiene keyword 'adolescente')_
+
+
+## Tanda 2026-08-23 06:29 UTC
+- Allanamientos por Narcomenudeo en Colonia Ayui: secuestro de droga y dos personas detenidas — https://concordia24.com.ar/allanamientos-por-narcomenudeo-en-colonia-ayui-secuestro-de-droga-y-dos-personas-detenidas/ _(bloqueado: contiene keyword 'allanamiento')_
+- Horror en Canadá: Un dentista mató a sus dos hijos, incendió su consulta y se prendió fuego en su coche — https://diarioelsol.com.ar/contenido/61512/horror-en-canada-un-dentista-mato-a-sus-dos-hijos-incendio-su-consulta-y-se-pren _(bloqueado: contiene keyword 'niño')_
