@@ -2231,3 +2231,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-24 06:42 UTC
 - Una joven madre falleció tras un violento choque entre un camión y una camioneta — https://diarioelsol.com.ar/contenido/61537/una-joven-madre-fallecio-tras-un-violento-choque-entre-un-camion-y-una-camioneta _(bloqueado: contiene keyword 'menor')_
 - Secuestran armas y detienen a dos hombre tras tres allanamientos por abigeato — https://diarioelsol.com.ar/contenido/61545/secuestran-armas-y-detienen-a-dos-hombre-tras-tres-allanamientos-por-abigeato _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-08-24 12:35 UTC
+- ALLANAMIENTOS POSITIVOS: SECUESTRO DE 260 ENVOLTORIOS DE COCAÍNA Y 03 PERSONAS DETENIDAS. — https://diarioelsol.com.ar/contenido/61546/allanamientos-positivos-secuestro-de-260-envoltorios-de-cocaina-y-03-personas-de _(bloqueado: contiene keyword 'allanamiento')_
