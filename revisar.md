@@ -2219,3 +2219,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-23 18:18 UTC
 - Conflicto vecinal en Barrio Nébel se manifestó a pedradas y gritos en medio de los festejos por el Triunfo de la Albiceleste. — https://diarioelsol.com.ar/contenido/61524/conflicto-vecinal-en-barrio-nebel-se-manifesto-a-pedradas-y-gritos-en-medio-de-l _(bloqueado: contiene keyword 'policía')_
 - ALLANAMIENTOS EN BARRIO FATIMA I: SECUESTRAN COCAÍNA, MARIHUANA Y DETIENEN A DOS PERSONAS — https://diarioelsol.com.ar/contenido/61523/allanamientos-en-barrio-fatima-i-secuestran-cocaina-marihuana-y-detienen-a-dos-p _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-08-24 00:53 UTC
+- El mes del Niño continúa recorriendo Concordia y se prepara para su cierre — https://concordia24.com.ar/el-mes-del-nino-continua-recorriendo-concordia-y-se-prepara-para-su-cierre/ _(bloqueado: contiene keyword 'niño')_
+- La testigo Y, las naranjas pintonas y el encapuchado en el juicio por Loan — https://diarioelsol.com.ar/contenido/61528/la-testigo-y-las-naranjas-pintonas-y-el-encapuchado-en-el-juicio-por-loan _(bloqueado: contiene keyword 'niño')_
+- Cañuelas: un muerto en medio de los festejos por el triunfo de la Selección argentina — https://diarioelsol.com.ar/contenido/61530/canuelas-un-muerto-en-medio-de-los-festejos-por-el-triunfo-de-la-seleccion-argen _(bloqueado: contiene keyword 'detenido')_
+- Terremotos en Venezuela: encontraron al niño Lucas Gámez sin vida — https://diarioelsol.com.ar/contenido/61534/terremotos-en-venezuela-encontraron-al-nino-lucas-gamez-sin-vida _(bloqueado: contiene keyword 'niño')_
