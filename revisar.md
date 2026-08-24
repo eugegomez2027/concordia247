@@ -2226,3 +2226,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - La testigo Y, las naranjas pintonas y el encapuchado en el juicio por Loan — https://diarioelsol.com.ar/contenido/61528/la-testigo-y-las-naranjas-pintonas-y-el-encapuchado-en-el-juicio-por-loan _(bloqueado: contiene keyword 'niño')_
 - Cañuelas: un muerto en medio de los festejos por el triunfo de la Selección argentina — https://diarioelsol.com.ar/contenido/61530/canuelas-un-muerto-en-medio-de-los-festejos-por-el-triunfo-de-la-seleccion-argen _(bloqueado: contiene keyword 'detenido')_
 - Terremotos en Venezuela: encontraron al niño Lucas Gámez sin vida — https://diarioelsol.com.ar/contenido/61534/terremotos-en-venezuela-encontraron-al-nino-lucas-gamez-sin-vida _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-08-24 06:42 UTC
+- Una joven madre falleció tras un violento choque entre un camión y una camioneta — https://diarioelsol.com.ar/contenido/61537/una-joven-madre-fallecio-tras-un-violento-choque-entre-un-camion-y-una-camioneta _(bloqueado: contiene keyword 'menor')_
+- Secuestran armas y detienen a dos hombre tras tres allanamientos por abigeato — https://diarioelsol.com.ar/contenido/61545/secuestran-armas-y-detienen-a-dos-hombre-tras-tres-allanamientos-por-abigeato _(bloqueado: contiene keyword 'policía')_
