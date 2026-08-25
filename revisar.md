@@ -2235,3 +2235,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-24 12:35 UTC
 - ALLANAMIENTOS POSITIVOS: SECUESTRO DE 260 ENVOLTORIOS DE COCAÍNA Y 03 PERSONAS DETENIDAS. — https://diarioelsol.com.ar/contenido/61546/allanamientos-positivos-secuestro-de-260-envoltorios-de-cocaina-y-03-personas-de _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-08-25 00:53 UTC
+- Entre Ríos organizó el cuarto encuentro regional para enfrentar el impacto del fenómeno El Niño — https://concordia24.com.ar/entre-rios-organizo-el-cuarto-encuentro-regional-para-enfrentar-el-impacto-del-fenomeno-el-nino/ _(bloqueado: contiene keyword 'niño')_
+- Conductor de una Toyota Hilux circulaba por la calle principal de Concordia en contrasentido y borracho: Le secuestraron la camioneta. — https://diarioelsol.com.ar/contenido/61547/conductor-de-una-toyota-hilux-circulaba-por-la-calle-principal-de-concordia-en-c _(bloqueado: contiene keyword 'policía')_
