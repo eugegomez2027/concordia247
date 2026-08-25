@@ -2240,3 +2240,13 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-25 00:53 UTC
 - Entre Ríos organizó el cuarto encuentro regional para enfrentar el impacto del fenómeno El Niño — https://concordia24.com.ar/entre-rios-organizo-el-cuarto-encuentro-regional-para-enfrentar-el-impacto-del-fenomeno-el-nino/ _(bloqueado: contiene keyword 'niño')_
 - Conductor de una Toyota Hilux circulaba por la calle principal de Concordia en contrasentido y borracho: Le secuestraron la camioneta. — https://diarioelsol.com.ar/contenido/61547/conductor-de-una-toyota-hilux-circulaba-por-la-calle-principal-de-concordia-en-c _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-08-25 06:34 UTC
+- “Efecto sandwich” sobre la industria: con mayores costos y menor consumo, este año perdería más de 100.000 empleos — https://diarioelsol.com.ar/contenido/61575/efecto-sandwich-sobre-la-industria-con-mayores-costos-y-menor-consumo-este-ano-p _(bloqueado: contiene keyword 'menor')_
+- Una oficial de policía está grave tras sufrir un disparo en la cabeza — https://diarioelsol.com.ar/contenido/61583/una-oficial-de-policia-esta-grave-tras-sufrir-un-disparo-en-la-cabez _(bloqueado: contiene keyword 'policía')_
+- “No cometí ningún ilícito”: Edgardo Kueider espera la sentencia tras 18 meses de prisión domiciliaria — https://diarioelsol.com.ar/contenido/61576/no-cometi-ningun-ilicito-edgardo-kueider-espera-la-sentencia-tras-18-meses-de-pr _(bloqueado: contiene keyword 'presunto')_
+- Venta de drogas al menudeo: la nueva modalidad callejera que busca esquivar los allanamientos — https://diarioelsol.com.ar/contenido/61585/venta-de-drogas-al-menudeo-la-nueva-modalidad-callejera-que-busca-esquivar-los-a _(bloqueado: contiene keyword 'policial')_
+- Denunció el robo de su celular para cobrar el seguro y las cámaras la desmintieron — https://diarioelsol.com.ar/contenido/61584/denuncio-el-robo-de-su-celular-para-cobrar-el-seguro-y-las-camaras-la-desmintier _(bloqueado: URL contiene '/denunc')_
+- Falleció la policía que había sido encontrada gravemente herida en Concepción del Uruguay — https://diarioelsol.com.ar/contenido/61590/fallecio-la-policia-que-habia-sido-encontrada-gravemente-herida-en-concepcion-de _(bloqueado: contiene keyword 'policía')_
+- La Policía hizo un fuerte operativo para concientizar sobre el uso de bicicletas en lugares no habilitados — https://diarioelsol.com.ar/contenido/61588/la-policia-hizo-un-fuerte-operativo-para-concientizar-sobre-el-uso-de-bicicletas _(bloqueado: contiene keyword 'policía')_
