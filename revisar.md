@@ -2250,3 +2250,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Denunció el robo de su celular para cobrar el seguro y las cámaras la desmintieron — https://diarioelsol.com.ar/contenido/61584/denuncio-el-robo-de-su-celular-para-cobrar-el-seguro-y-las-camaras-la-desmintier _(bloqueado: URL contiene '/denunc')_
 - Falleció la policía que había sido encontrada gravemente herida en Concepción del Uruguay — https://diarioelsol.com.ar/contenido/61590/fallecio-la-policia-que-habia-sido-encontrada-gravemente-herida-en-concepcion-de _(bloqueado: contiene keyword 'policía')_
 - La Policía hizo un fuerte operativo para concientizar sobre el uso de bicicletas en lugares no habilitados — https://diarioelsol.com.ar/contenido/61588/la-policia-hizo-un-fuerte-operativo-para-concientizar-sobre-el-uso-de-bicicletas _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-08-25 12:34 UTC
+- Intento de homicidio: un joven lucha por su vida en Paraná — https://diarioelsol.com.ar/contenido/61591/intento-de-homicidio-un-joven-lucha-por-su-vida-en-parana _(bloqueado: contiene keyword 'policía')_
