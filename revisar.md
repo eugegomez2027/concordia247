@@ -2273,3 +2273,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Funcionarios policiales asistieron y trasladaron de urgencia a un menor descompensado — https://concordia24.com.ar/funcionarios-policiales-asistieron-y-trasladaron-de-urgencia-a-un-menor-descompensado/ _(bloqueado: contiene keyword 'policial')_
 - Judiciales anticipan un escenario de conflicto si avanza el proyecto de derogación de la Ley de Enganche — https://concordia24.com.ar/judiciales-anticipan-un-escenario-de-conflicto-si-avanza-el-proyecto-de-derogacion-de-la-ley-de-enganche/ _(bloqueado: URL contiene '/judicial')_
 - Allanamientos por narcomenudeo: secuestraron cocaína y detuvieron a nueve personas que serán "depositadas" en comisarías. — https://diarioelsol.com.ar/contenido/61622/allanamientos-por-narcomenudeo-secuestraron-cocaina-y-detuvieron-a-nueve-persona _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-08-26 19:45 UTC
+- Detalles de la investigación policial que en pocos días devino en la detención de los autores del robo en Tatutí — https://concordia24.com.ar/detalles-de-la-investigacion-policial-que-en-pocos-dias-devino-en-la-detencion-de-los-autores-del-robo-en-tatuti/ _(bloqueado: contiene keyword 'policial')_
