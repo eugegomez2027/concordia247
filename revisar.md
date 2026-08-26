@@ -2267,3 +2267,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Tras allanamientos, secuestraron drogas y detuvieron a siete personas — https://diarioelsol.com.ar/contenido/61621/tras-allanamientos-secuestraron-drogas-y-detuvieron-a-siete-personas _(bloqueado: contiene keyword 'allanamiento')_
 - La Policía se felicitó por el operativo antidisturbios del triunfo de la Selección Argentina — https://diarioelsol.com.ar/contenido/61620/la-policia-se-felicito-por-el-operativo-antidisturbios-del-triunfo-de-la-selecci _(bloqueado: contiene keyword 'policía')_
 - Se calienta la previa: los medios ingleses montan una insólita campaña anti-Argentina tras la victoria ante Suiza — https://diarioelsol.com.ar/contenido/61617/se-calienta-la-previa-los-medios-ingleses-montan-una-insolita-campana-anti-argen _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-08-26 12:37 UTC
+- Funcionarios policiales asistieron y trasladaron de urgencia a un menor descompensado — https://concordia24.com.ar/funcionarios-policiales-asistieron-y-trasladaron-de-urgencia-a-un-menor-descompensado/ _(bloqueado: contiene keyword 'policial')_
+- Judiciales anticipan un escenario de conflicto si avanza el proyecto de derogación de la Ley de Enganche — https://concordia24.com.ar/judiciales-anticipan-un-escenario-de-conflicto-si-avanza-el-proyecto-de-derogacion-de-la-ley-de-enganche/ _(bloqueado: URL contiene '/judicial')_
+- Allanamientos por narcomenudeo: secuestraron cocaína y detuvieron a nueve personas que serán "depositadas" en comisarías. — https://diarioelsol.com.ar/contenido/61622/allanamientos-por-narcomenudeo-secuestraron-cocaina-y-detuvieron-a-nueve-persona _(bloqueado: contiene keyword 'detenido')_
