@@ -2260,3 +2260,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Día de los Policías Entrerrianos Caídos en Cumplimiento del Deber — https://concordia24.com.ar/dia-de-los-policias-entrerrianos-caidos-en-cumplimiento-del-deber/ _(bloqueado: contiene keyword 'policía')_
 - Operativo conjunto en el acceso a Concordia: Gendarmería, Policía Federal y Policía de Entre Ríos intensifican los controles — https://concordia24.com.ar/operativo-conjunto-en-el-acceso-a-concordia-gendarmeria-policia-federal-y-policia-de-entre-rios-intensifican-los-controles/ _(bloqueado: contiene keyword 'policía')_
 - Festejos en Concordia y en todo el país por el triunfo argentino ante Suiza. — https://diarioelsol.com.ar/contenido/61613/festejos-en-concordia-y-en-todo-el-pais-por-el-triunfo-argentino-ante-suiza _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-08-26 06:36 UTC
+- Un joven automovilista sufrió traumatismo de cráneo y múltiples lesiones graves tras violento accidente — https://diarioelsol.com.ar/contenido/61614/un-joven-automovilista-sufrio-traumatismo-de-craneo-y-multiples-lesiones-graves- _(bloqueado: contiene keyword 'policía')_
+- Tras allanamientos, secuestraron drogas y detuvieron a siete personas — https://diarioelsol.com.ar/contenido/61621/tras-allanamientos-secuestraron-drogas-y-detuvieron-a-siete-personas _(bloqueado: contiene keyword 'allanamiento')_
+- La Policía se felicitó por el operativo antidisturbios del triunfo de la Selección Argentina — https://diarioelsol.com.ar/contenido/61620/la-policia-se-felicito-por-el-operativo-antidisturbios-del-triunfo-de-la-selecci _(bloqueado: contiene keyword 'policía')_
+- Se calienta la previa: los medios ingleses montan una insólita campaña anti-Argentina tras la victoria ante Suiza — https://diarioelsol.com.ar/contenido/61617/se-calienta-la-previa-los-medios-ingleses-montan-una-insolita-campana-anti-argen _(bloqueado: contiene keyword 'denuncia')_
