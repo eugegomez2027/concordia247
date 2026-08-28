@@ -2282,3 +2282,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-28 08:28 UTC
 - La Delegación Argentina ante Salto Grande entregó nuevo equipamiento para fortalecer la prevención ante el fenómeno de El Niño — https://concordia24.com.ar/la-delegacion-argentina-ante-salto-grande-entrego-nuevo-equipamiento-para-fortalecer-la-prevencion-ante-el-fenomeno-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
 - Rápido accionar policial permitió identificar al posible autor de un intento de robo en un comercio de San Salvador — https://concordia24.com.ar/rapido-accionar-policial-permitio-identificar-al-posible-autor-de-un-intento-de-robo-en-un-comercio-de-san-salvador/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-08-28 21:38 UTC
+- Denunció abusos sexuales sufridos durante su infancia y relató años de silencio antes de acudir a la Justicia — https://concordia24.com.ar/denuncio-abusos-sexuales-sufridos-durante-su-infancia-y-relato-anos-de-silencio-antes-de-acudir-a-la-justicia/ _(bloqueado: URL contiene '/denunc')_
