@@ -2277,3 +2277,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-26 19:45 UTC
 - Detalles de la investigación policial que en pocos días devino en la detención de los autores del robo en Tatutí — https://concordia24.com.ar/detalles-de-la-investigacion-policial-que-en-pocos-dias-devino-en-la-detencion-de-los-autores-del-robo-en-tatuti/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-08-28 08:28 UTC
+- La Delegación Argentina ante Salto Grande entregó nuevo equipamiento para fortalecer la prevención ante el fenómeno de El Niño — https://concordia24.com.ar/la-delegacion-argentina-ante-salto-grande-entrego-nuevo-equipamiento-para-fortalecer-la-prevencion-ante-el-fenomeno-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
+- Rápido accionar policial permitió identificar al posible autor de un intento de robo en un comercio de San Salvador — https://concordia24.com.ar/rapido-accionar-policial-permitio-identificar-al-posible-autor-de-un-intento-de-robo-en-un-comercio-de-san-salvador/ _(bloqueado: contiene keyword 'policial')_
