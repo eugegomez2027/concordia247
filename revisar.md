@@ -2290,3 +2290,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-29 05:08 UTC
 - Declaran la Emergencia Hídrica en toda la provincia por el fenómeno climático El Niño — https://concordia24.com.ar/declaran-la-emergencia-hidrica-en-toda-la-provincia-por-el-fenomeno-climatico-el-nino/ _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-08-29 12:05 UTC
+- Allanamientos por abigeato finalizan con secuestro de elementos de interés y plantines de marihuana — https://concordia24.com.ar/allanamientos-por-abigeato-finalizan-con-secuestro-de-elementos-de-interes-y-plantines-de-marihuana/ _(bloqueado: contiene keyword 'policial')_
+- Recuperación de automóvil en el marco de una causa por presunta estafa y retención indebida — https://concordia24.com.ar/recuperacion-de-automovil-en-el-marco-de-una-causa-por-presunta-estafa-y-retencion-indebida/ _(bloqueado: contiene keyword 'denuncia')_
