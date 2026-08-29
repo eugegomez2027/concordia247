@@ -2286,3 +2286,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-28 21:38 UTC
 - Denunció abusos sexuales sufridos durante su infancia y relató años de silencio antes de acudir a la Justicia — https://concordia24.com.ar/denuncio-abusos-sexuales-sufridos-durante-su-infancia-y-relato-anos-de-silencio-antes-de-acudir-a-la-justicia/ _(bloqueado: URL contiene '/denunc')_
+
+
+## Tanda 2026-08-29 05:08 UTC
+- Declaran la Emergencia Hídrica en toda la provincia por el fenómeno climático El Niño — https://concordia24.com.ar/declaran-la-emergencia-hidrica-en-toda-la-provincia-por-el-fenomeno-climatico-el-nino/ _(bloqueado: contiene keyword 'niño')_
