@@ -2300,3 +2300,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-29 20:16 UTC
 - Un furgón abrió una puerta y provocó daños en una camioneta estacionada: Quedó registrado en cámaras — https://concordia24.com.ar/un-furgon-abrio-una-puerta-y-provoco-danos-en-una-camioneta-estacionada-quedo-registrado-en-camaras/ _(bloqueado: contiene keyword 'policial')_
 - Incidentes en el Obelisco: un grupo de personas se enfrentó a la policía luego de la final del Mundial 2026 — https://diarioelsol.com.ar/contenido/61762/incidentes-en-el-obelisco-un-grupo-de-personas-se-enfrento-a-la-policia-luego-de _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-08-30 02:59 UTC
+- Recuperación de televisor valuado en 8.700 dólares tras una denuncia radicada en Mendoza — https://concordia24.com.ar/recuperacion-de-televisor-valuado-en-8-700-dolares-tras-una-denuncia-radicada-en-mendoza/ _(bloqueado: contiene keyword 'denuncia')_
