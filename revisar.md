@@ -2304,3 +2304,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-30 02:59 UTC
 - Recuperación de televisor valuado en 8.700 dólares tras una denuncia radicada en Mendoza — https://concordia24.com.ar/recuperacion-de-televisor-valuado-en-8-700-dolares-tras-una-denuncia-radicada-en-mendoza/ _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-08-30 11:01 UTC
+- Tras su voto apoyando la moción oficialista de la reforma previsional, Miranda denunció amenazas a su hijo — https://diarioelsol.com.ar/contenido/61770/tras-su-voto-apoyando-la-mocion-oficialista-de-la-reforma-previsional-miranda-de _(bloqueado: contiene keyword 'denunció')_
