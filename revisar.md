@@ -2308,3 +2308,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-30 11:01 UTC
 - Tras su voto apoyando la moción oficialista de la reforma previsional, Miranda denunció amenazas a su hijo — https://diarioelsol.com.ar/contenido/61770/tras-su-voto-apoyando-la-mocion-oficialista-de-la-reforma-previsional-miranda-de _(bloqueado: contiene keyword 'denunció')_
+
+
+## Tanda 2026-08-30 15:51 UTC
+- Funcionarios policiales asistieron a una mujer que atravesaba una situación de crisis — https://concordia24.com.ar/funcionarios-policiales-asistieron-a-una-mujer-que-atravesaba-una-situacion-de-crisis/ _(bloqueado: contiene keyword 'policial')_
+- Policía fue detenido con envoltorios de cocaína en una riñonera — https://diarioelsol.com.ar/contenido/61778/policia-fue-detenido-con-envoltorios-de-cocaina-en-una-rinonera _(bloqueado: contiene keyword 'policía')_
