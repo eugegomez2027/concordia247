@@ -2313,3 +2313,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-08-30 15:51 UTC
 - Funcionarios policiales asistieron a una mujer que atravesaba una situación de crisis — https://concordia24.com.ar/funcionarios-policiales-asistieron-a-una-mujer-que-atravesaba-una-situacion-de-crisis/ _(bloqueado: contiene keyword 'policial')_
 - Policía fue detenido con envoltorios de cocaína en una riñonera — https://diarioelsol.com.ar/contenido/61778/policia-fue-detenido-con-envoltorios-de-cocaina-en-una-rinonera _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-08-31 02:53 UTC
+- Compromiso por Concordia acompañó el festival por el Día del Niño en el Club Nébel — https://concordia24.com.ar/compromiso-por-concordia-acompano-el-festival-por-el-dia-del-nino-en-el-club-nebel/ _(bloqueado: contiene keyword 'niño')_
