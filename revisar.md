@@ -2317,3 +2317,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-31 02:53 UTC
 - Compromiso por Concordia acompañó el festival por el Día del Niño en el Club Nébel — https://concordia24.com.ar/compromiso-por-concordia-acompano-el-festival-por-el-dia-del-nino-en-el-club-nebel/ _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-08-31 22:16 UTC
+- Caso Luisina Leoncino: Rafael “Ñoño” Benítez fue condenado a prisión perpetua por el femicidio que conmocionó a Concordia — https://concordia24.com.ar/caso-luisina-leoncino-rafael-nono-benitez-fue-condenado-a-prision-perpetua-por-el-femicidio-que-conmociono-a-concordia/ _(bloqueado: contiene keyword 'crimen')_
