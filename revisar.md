@@ -2321,3 +2321,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-08-31 22:16 UTC
 - Caso Luisina Leoncino: Rafael “Ñoño” Benítez fue condenado a prisión perpetua por el femicidio que conmocionó a Concordia — https://concordia24.com.ar/caso-luisina-leoncino-rafael-nono-benitez-fue-condenado-a-prision-perpetua-por-el-femicidio-que-conmociono-a-concordia/ _(bloqueado: contiene keyword 'crimen')_
+
+
+## Tanda 2026-09-01 10:55 UTC
+- Corrientes analiza los primeros impactos del fenómeno de El Niño tras el temporal del fin de semana — https://diarioelsol.com.ar/contenido/61828/corrientes-analiza-los-primeros-impactos-del-fenomeno-de-el-nino-tras-el-tempora _(bloqueado: contiene keyword 'niño')_
