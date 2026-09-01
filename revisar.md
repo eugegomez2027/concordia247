@@ -2325,3 +2325,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-01 10:55 UTC
 - Corrientes analiza los primeros impactos del fenómeno de El Niño tras el temporal del fin de semana — https://diarioelsol.com.ar/contenido/61828/corrientes-analiza-los-primeros-impactos-del-fenomeno-de-el-nino-tras-el-tempora _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-09-01 15:54 UTC
+- Presentarán el segundo informe sobre las condiciones de detención en dependencias policiales del norte entrerriano — https://concordia24.com.ar/presentaran-el-segundo-informe-sobre-las-condiciones-de-detencion-en-dependencias-policiales-del-norte-entrerriano/ _(bloqueado: contiene keyword 'policial')_
+- López Segura: “Casaretto debe explicar qué sabía del fraude en ATER y cómo construyó su patrimonio” — https://concordia24.com.ar/lopez-segura-casaretto-debe-explicar-que-sabia-del-fraude-en-ater-y-como-construyo-su-patrimonio/ _(bloqueado: contiene keyword 'denuncia')_
+- Policía grave tras un choque en Concordia: buscan al conductor que lo abandonó — https://diarioelsol.com.ar/contenido/61831/policia-grave-tras-un-choque-en-concordia-buscan-al-conductor-que-lo-abandono _(bloqueado: contiene keyword 'policía')_
