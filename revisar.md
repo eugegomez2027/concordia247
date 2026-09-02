@@ -2339,3 +2339,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-02 02:22 UTC
 - Estación Yuquerí celebró el Día de las Infancias con música, juegos y actividades para las familias — https://concordia24.com.ar/estacion-yuqueri-celebro-el-dia-de-las-infancias-con-musica-juegos-y-actividades-para-las-familias/ _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-09-02 10:22 UTC
+- Allanamientos con secuestro de Piedras de Cocaína y tres personas detenidas — https://diarioelsol.com.ar/contenido/61848/allanamientos-con-secuestro-de-piedras-de-cocaina-y-tres-personas-detenidas _(bloqueado: contiene keyword 'allanamiento')_
+- Siguen los allanamientos y detenciones por la venta de drogas en las calles y casas de barrios populares. — https://diarioelsol.com.ar/contenido/61856/siguen-los-allanamientos-y-detenciones-por-la-venta-de-drogas-en-las-calles-y-ca _(bloqueado: contiene keyword 'allanamiento')_
+- Ubicaron al conductor que chocó a un agente de Policía y lo abandonó gravemente herido en la vía pública. — https://diarioelsol.com.ar/contenido/61852/ubicaron-al-conductor-que-choco-a-un-agente-de-policia-y-lo-abandono-gravemente- _(bloqueado: contiene keyword 'policía')_
