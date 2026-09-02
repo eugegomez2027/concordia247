@@ -2345,3 +2345,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Allanamientos con secuestro de Piedras de Cocaína y tres personas detenidas — https://diarioelsol.com.ar/contenido/61848/allanamientos-con-secuestro-de-piedras-de-cocaina-y-tres-personas-detenidas _(bloqueado: contiene keyword 'allanamiento')_
 - Siguen los allanamientos y detenciones por la venta de drogas en las calles y casas de barrios populares. — https://diarioelsol.com.ar/contenido/61856/siguen-los-allanamientos-y-detenciones-por-la-venta-de-drogas-en-las-calles-y-ca _(bloqueado: contiene keyword 'allanamiento')_
 - Ubicaron al conductor que chocó a un agente de Policía y lo abandonó gravemente herido en la vía pública. — https://diarioelsol.com.ar/contenido/61852/ubicaron-al-conductor-que-choco-a-un-agente-de-policia-y-lo-abandono-gravemente- _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-09-02 15:46 UTC
+- Hombre detenido, para establecer formas y circunstancias en que perdiera la vida una mujer — https://concordia24.com.ar/hombre-detenido-para-establecer-formas-y-circunstancias-en-que-perdiera-la-vida-una-mujer/ _(bloqueado: contiene keyword 'detenido')_
+- La Defensa de Goldín rompe el silencio: «La acusación es falsa y es una venganza» — https://concordia24.com.ar/la-defensa-de-goldin-rompe-el-silencio-la-acusacion-es-falsa-y-es-una-venganza/ _(bloqueado: contiene keyword 'denuncia')_
