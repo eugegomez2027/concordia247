@@ -2335,3 +2335,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-01 20:22 UTC
 - Robaron en un depósito municipal de motos y se realizaron allanamientos — https://diarioelsol.com.ar/contenido/61834/robaron-en-un-deposito-municipal-de-motos-y-se-realizaron-allanamientos _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-09-02 02:22 UTC
+- Estación Yuquerí celebró el Día de las Infancias con música, juegos y actividades para las familias — https://concordia24.com.ar/estacion-yuqueri-celebro-el-dia-de-las-infancias-con-musica-juegos-y-actividades-para-las-familias/ _(bloqueado: contiene keyword 'niño')_
