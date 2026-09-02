@@ -2350,3 +2350,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-09-02 15:46 UTC
 - Hombre detenido, para establecer formas y circunstancias en que perdiera la vida una mujer — https://concordia24.com.ar/hombre-detenido-para-establecer-formas-y-circunstancias-en-que-perdiera-la-vida-una-mujer/ _(bloqueado: contiene keyword 'detenido')_
 - La Defensa de Goldín rompe el silencio: «La acusación es falsa y es una venganza» — https://concordia24.com.ar/la-defensa-de-goldin-rompe-el-silencio-la-acusacion-es-falsa-y-es-una-venganza/ _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-09-02 20:22 UTC
+- Condenaron a 14 años de prisión al hombre que abusó a sus sobrinas en Entre Ríos — https://diarioelsol.com.ar/contenido/61867/condenaron-a-14-anos-de-prision-al-hombre-que-abuso-a-sus-sobrinas-en-entre-rios _(bloqueado: contiene keyword 'niña')_
