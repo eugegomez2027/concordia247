@@ -2354,3 +2354,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-02 20:22 UTC
 - Condenaron a 14 años de prisión al hombre que abusó a sus sobrinas en Entre Ríos — https://diarioelsol.com.ar/contenido/61867/condenaron-a-14-anos-de-prision-al-hombre-que-abuso-a-sus-sobrinas-en-entre-rios _(bloqueado: contiene keyword 'niña')_
+
+
+## Tanda 2026-09-03 10:31 UTC
+- Edgardo Kueider, más complicado: la Justicia dictó una nueva prisión preventiva por lavado de activos — https://diarioelsol.com.ar/contenido/61871/edgardo-kueider-mas-complicado-la-justicia-dicto-una-nueva-prision-preventiva-po _(bloqueado: contiene keyword 'detenido')_
+- Ultimo comunicado de CTM sobre el nuevo pulso de creciente del río Uruguay, la cota podría llegar a un máximo de 9 metros mañana. — https://diarioelsol.com.ar/contenido/61874/ultimo-comunicado-de-ctm-sobre-el-nuevo-pulso-de-creciente-del-rio-uruguay-la-co _(bloqueado: contiene keyword 'niño')_
