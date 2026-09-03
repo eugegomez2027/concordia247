@@ -2359,3 +2359,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-09-03 10:31 UTC
 - Edgardo Kueider, más complicado: la Justicia dictó una nueva prisión preventiva por lavado de activos — https://diarioelsol.com.ar/contenido/61871/edgardo-kueider-mas-complicado-la-justicia-dicto-una-nueva-prision-preventiva-po _(bloqueado: contiene keyword 'detenido')_
 - Ultimo comunicado de CTM sobre el nuevo pulso de creciente del río Uruguay, la cota podría llegar a un máximo de 9 metros mañana. — https://diarioelsol.com.ar/contenido/61874/ultimo-comunicado-de-ctm-sobre-el-nuevo-pulso-de-creciente-del-rio-uruguay-la-co _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-09-03 15:36 UTC
+- Allanamientos por administración fraudulenta en perjuicio de un sanatorio: un ordenanza se llevaba elementos a su casa — https://concordia24.com.ar/allanamientos-por-administracion-fraudulenta-en-perjuicio-de-un-sanatorio-un-ordenanza-se-llevaba-elementos-a-su-casa/ _(bloqueado: contiene keyword 'allanamiento')_
+- Cinco allanamientos en Concordia por estafas con billetes falsos: investigan una banda que operaba a través de Marketplace — https://concordia24.com.ar/cinco-allanamientos-en-concordia-por-estafas-con-billetes-falsos-investigan-una-banda-que-operaba-a-traves-de-marketplace/ _(bloqueado: contiene keyword 'allanamiento')_
