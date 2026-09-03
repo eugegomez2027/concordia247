@@ -2364,3 +2364,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-09-03 15:36 UTC
 - Allanamientos por administración fraudulenta en perjuicio de un sanatorio: un ordenanza se llevaba elementos a su casa — https://concordia24.com.ar/allanamientos-por-administracion-fraudulenta-en-perjuicio-de-un-sanatorio-un-ordenanza-se-llevaba-elementos-a-su-casa/ _(bloqueado: contiene keyword 'allanamiento')_
 - Cinco allanamientos en Concordia por estafas con billetes falsos: investigan una banda que operaba a través de Marketplace — https://concordia24.com.ar/cinco-allanamientos-en-concordia-por-estafas-con-billetes-falsos-investigan-una-banda-que-operaba-a-traves-de-marketplace/ _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-09-03 20:22 UTC
+- Tres allanamientos por narco en barrio «El Silbido»: Dos detenidos, secuestro de estupefacientes y dinero en efectivo — https://concordia24.com.ar/tres-allanamientos-por-narco-en-barrio-el-silbido-dos-detenidos-secuestro-de-estupefacientes-y-dinero-en-efectivo/ _(bloqueado: contiene keyword 'policía')_
+- Detuvieron a un delivery de la droga con 160 cebollines encima. — https://diarioelsol.com.ar/contenido/61894/detuvieron-a-un-delivery-de-la-droga-con-160-cebollines-encima _(bloqueado: contiene keyword 'policía')_
