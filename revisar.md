@@ -2369,3 +2369,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-09-03 20:22 UTC
 - Tres allanamientos por narco en barrio «El Silbido»: Dos detenidos, secuestro de estupefacientes y dinero en efectivo — https://concordia24.com.ar/tres-allanamientos-por-narco-en-barrio-el-silbido-dos-detenidos-secuestro-de-estupefacientes-y-dinero-en-efectivo/ _(bloqueado: contiene keyword 'policía')_
 - Detuvieron a un delivery de la droga con 160 cebollines encima. — https://diarioelsol.com.ar/contenido/61894/detuvieron-a-un-delivery-de-la-droga-con-160-cebollines-encima _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-09-04 02:24 UTC
+- Dos hombres fueron detenidos por intentar conectarse clandestinamente al tendido eléctrico — https://concordia24.com.ar/dos-hombres-fueron-detenidos-por-intentar-conectarse-clandestinamente-al-tendido-electrico/ _(bloqueado: contiene keyword 'detenido')_
+- Allanamientos en Calabacilla: un hombre detenido, secuestro de carne vacuna y elementos vinculados a una investigación por abigeato — https://concordia24.com.ar/allanamientos-en-calabacilla-un-hombre-detenido-secuestro-de-carne-vacuna-y-elementos-vinculados-a-una-investigacion-por-abigeato/ _(bloqueado: contiene keyword 'detenido')_
