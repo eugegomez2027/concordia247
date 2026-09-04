@@ -2374,3 +2374,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-09-04 02:24 UTC
 - Dos hombres fueron detenidos por intentar conectarse clandestinamente al tendido eléctrico — https://concordia24.com.ar/dos-hombres-fueron-detenidos-por-intentar-conectarse-clandestinamente-al-tendido-electrico/ _(bloqueado: contiene keyword 'detenido')_
 - Allanamientos en Calabacilla: un hombre detenido, secuestro de carne vacuna y elementos vinculados a una investigación por abigeato — https://concordia24.com.ar/allanamientos-en-calabacilla-un-hombre-detenido-secuestro-de-carne-vacuna-y-elementos-vinculados-a-una-investigacion-por-abigeato/ _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-09-04 10:20 UTC
+- Agmer advierte sobre el apuro para votar la reforma previsional: “No hay consenso social para esta ley” — https://diarioelsol.com.ar/contenido/61904/agmer-advierte-sobre-el-apuro-para-votar-la-reforma-previsional-no-hay-consenso- _(bloqueado: contiene keyword 'denunció')_
