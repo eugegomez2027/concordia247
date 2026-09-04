@@ -2378,3 +2378,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-04 10:20 UTC
 - Agmer advierte sobre el apuro para votar la reforma previsional: “No hay consenso social para esta ley” — https://diarioelsol.com.ar/contenido/61904/agmer-advierte-sobre-el-apuro-para-votar-la-reforma-previsional-no-hay-consenso- _(bloqueado: contiene keyword 'denunció')_
+
+
+## Tanda 2026-09-04 20:08 UTC
+- El CGE insta a las escuelas entrerrianas a reforzar el mantenimiento preventivo de desagües ante el fenómeno de El Niño — https://concordia24.com.ar/el-cge-insta-a-las-escuelas-entrerrianas-a-reforzar-el-mantenimiento-preventivo-de-desagues-ante-el-fenomeno-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
+- Escándalo en Concordia: La Libertad Avanza hizo campaña en un sindicato intervenido junto a un condenado por intento de homicidio a un diputado provincial — https://concordia24.com.ar/escandalo-en-concordia-la-libertad-avanza-hizo-campana-en-un-sindicato-intervenido-junto-a-un-condenado-por-intento-de-homicidio-a-un-diputado-provincial/ _(bloqueado: contiene keyword 'homicidio')_
+- Asesinaron a un hombre de un disparo en la cabeza en Villa Yatay en Paraná — https://diarioelsol.com.ar/contenido/61914/asesinaron-a-un-hombre-de-un-disparo-en-la-cabeza-en-villa-yatay-en-parana _(bloqueado: contiene keyword 'policial')_
+- Extienden prisión preventiva del policía acusado de intentar matar a su esposa en Gualeguaychú — https://diarioelsol.com.ar/contenido/61912/extienden-prision-preventiva-del-policia-acusado-de-intentar-matar-a-su-esposa-e _(bloqueado: contiene keyword 'policía')_
