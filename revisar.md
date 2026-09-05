@@ -2394,3 +2394,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-05 09:47 UTC
 - Homicidio en Paraná: los dos detenidos son familiares de la víctima — https://diarioelsol.com.ar/contenido/61928/homicidio-en-parnana-los-dos-detenidos-son-familiares-de-la-victima _(bloqueado: URL contiene '/homic')_
+
+
+## Tanda 2026-09-05 19:47 UTC
+- Cuando denunciar era enfrentar al Poder: La justicia llegó trece años después — https://concordia24.com.ar/cuando-denunciar-era-enfrentar-al-poder-la-justicia-llego-trece-anos-despues/ _(bloqueado: contiene keyword 'denuncia')_
+- Con máscaras de payasos, un excustodio y su banda intentaron robarle a Daniel Scioli en la casa — https://diarioelsol.com.ar/contenido/61941/con-mascaras-de-payasos-un-excustodio-y-su-banda-intentaron-robarle-a-daniel-sci _(bloqueado: contiene keyword 'detenido')_
+- Allanamiento con secuestro de arma de fuego, cocaína y marihuana: dos detenidos — https://diarioelsol.com.ar/contenido/61946/allanamiento-con-secuestro-de-arma-de-fuego-cocaina-y-marihuana-dos-detenidos _(bloqueado: contiene keyword 'detenido')_
