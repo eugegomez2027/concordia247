@@ -2385,3 +2385,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Escándalo en Concordia: La Libertad Avanza hizo campaña en un sindicato intervenido junto a un condenado por intento de homicidio a un diputado provincial — https://concordia24.com.ar/escandalo-en-concordia-la-libertad-avanza-hizo-campana-en-un-sindicato-intervenido-junto-a-un-condenado-por-intento-de-homicidio-a-un-diputado-provincial/ _(bloqueado: contiene keyword 'homicidio')_
 - Asesinaron a un hombre de un disparo en la cabeza en Villa Yatay en Paraná — https://diarioelsol.com.ar/contenido/61914/asesinaron-a-un-hombre-de-un-disparo-en-la-cabeza-en-villa-yatay-en-parana _(bloqueado: contiene keyword 'policial')_
 - Extienden prisión preventiva del policía acusado de intentar matar a su esposa en Gualeguaychú — https://diarioelsol.com.ar/contenido/61912/extienden-prision-preventiva-del-policia-acusado-de-intentar-matar-a-su-esposa-e _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-09-05 02:25 UTC
+- Fatal accidente en Ruta 14: Identificaron al remisero fallecido y un niño de 5 años fue derivado a Paraná con gravísimas heridas — https://diarioelsol.com.ar/contenido/61920/fatal-accidente-en-ruta-14-identificaron-al-remisero-fallecido-y-un-nino-de-5-an _(bloqueado: contiene keyword 'detenido')_
+- Mejor tarde que nunca: "Tronco" y el "Monito" se hicieron ver en Colonia Ayuí. — https://diarioelsol.com.ar/contenido/61919/mejor-tarde-que-nunca-tronco-y-el-monito-se-hicieron-ver-en-colonia-ayui _(bloqueado: contiene keyword 'acusación')_
