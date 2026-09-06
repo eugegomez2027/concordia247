@@ -2413,3 +2413,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-09-06 14:44 UTC
 - Allanaron un departamento cerca de la UNER y secuestraron droga, un arma y una picana — https://diarioelsol.com.ar/contenido/61959/allanaron-un-departamento-cerca-de-la-uner-y-secuestraron-droga-un-arma-y-una-pi _(bloqueado: contiene keyword 'denuncia')_
 - Un muerto y 16 heridos en atropello múltiple en la fiesta del Día del Orgullo en Berlín — https://diarioelsol.com.ar/contenido/61958/un-muerto-y-16-heridos-en-atropello-multiple-en-la-fiesta-del-dia-del-orgullo-en _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-09-06 19:51 UTC
+- Denunciaron violencia de género y la Policía encontró una plantación de 255 plantas de marihuana — https://diarioelsol.com.ar/contenido/61963/denunciaron-violencia-de-genero-y-la-policia-encontro-una-plantacion-de-255-plan _(bloqueado: URL contiene '/denunc')_
