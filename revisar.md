@@ -2404,3 +2404,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-06 02:22 UTC
 - Conmoción en Barrio Isthilart Sur: asesinaron a una persona y buscan esclarecer el crimen — https://concordia24.com.ar/conmocion-en-barrio-isthilart-sur-asesinaron-a-una-persona-y-buscan-esclarecer-el-crimen/ _(bloqueado: contiene keyword 'crimen')_
+
+
+## Tanda 2026-09-06 10:03 UTC
+- Allanamientos por narcomenudeo: secuestran 239 envoltorios de cocaína, 58 de marihuana, dos armas de fuego, municiones y detienen a cuatro personas — https://diarioelsol.com.ar/contenido/61947/allanamientos-por-narcomenudeo-secuestran-239-envoltorios-de-cocaina-58-de-marih _(bloqueado: contiene keyword 'allanamiento')_
