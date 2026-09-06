@@ -2400,3 +2400,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Cuando denunciar era enfrentar al Poder: La justicia llegó trece años después — https://concordia24.com.ar/cuando-denunciar-era-enfrentar-al-poder-la-justicia-llego-trece-anos-despues/ _(bloqueado: contiene keyword 'denuncia')_
 - Con máscaras de payasos, un excustodio y su banda intentaron robarle a Daniel Scioli en la casa — https://diarioelsol.com.ar/contenido/61941/con-mascaras-de-payasos-un-excustodio-y-su-banda-intentaron-robarle-a-daniel-sci _(bloqueado: contiene keyword 'detenido')_
 - Allanamiento con secuestro de arma de fuego, cocaína y marihuana: dos detenidos — https://diarioelsol.com.ar/contenido/61946/allanamiento-con-secuestro-de-arma-de-fuego-cocaina-y-marihuana-dos-detenidos _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-09-06 02:22 UTC
+- Conmoción en Barrio Isthilart Sur: asesinaron a una persona y buscan esclarecer el crimen — https://concordia24.com.ar/conmocion-en-barrio-isthilart-sur-asesinaron-a-una-persona-y-buscan-esclarecer-el-crimen/ _(bloqueado: contiene keyword 'crimen')_
