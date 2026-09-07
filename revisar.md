@@ -2417,3 +2417,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-06 19:51 UTC
 - Denunciaron violencia de género y la Policía encontró una plantación de 255 plantas de marihuana — https://diarioelsol.com.ar/contenido/61963/denunciaron-violencia-de-genero-y-la-policia-encontro-una-plantacion-de-255-plan _(bloqueado: URL contiene '/denunc')_
+
+
+## Tanda 2026-09-07 17:01 UTC
+- Handball: Entre Ríos debuta en tierras cuyana por el Torneo Argentino de Selecciones Menores 2026 — https://concordia24.com.ar/handball-entre-rios-debuta-en-tierras-cuyana-por-el-torneo-argentino-de-selecciones-menores-2026/ _(bloqueado: contiene keyword 'menor')_
