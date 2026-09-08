@@ -2421,3 +2421,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-07 17:01 UTC
 - Handball: Entre Ríos debuta en tierras cuyana por el Torneo Argentino de Selecciones Menores 2026 — https://concordia24.com.ar/handball-entre-rios-debuta-en-tierras-cuyana-por-el-torneo-argentino-de-selecciones-menores-2026/ _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-09-08 10:24 UTC
+- CONDENARON A 9 AÑOS DE PRISIÓN A UN JOVEN DE 22 AÑOS POR ABUSAR SEXUALMENTE DE SU HERMANA MENOR — https://diarioelsol.com.ar/contenido/61979/condenaron-a-9-anos-de-prision-a-un-joven-de-22-anos-por-abusar-sexualmente-de-s _(bloqueado: contiene keyword 'menor')_
+- Condenan a exfuncionarios por el desvío de millones de pesos de un programa social — https://diarioelsol.com.ar/contenido/61980/condenan-a-exfuncionarios-por-el-desvio-de-millones-de-pesos-de-un-programa-soci _(bloqueado: contiene keyword 'imputado')_
