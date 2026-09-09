@@ -2430,3 +2430,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-08 15:48 UTC
 - Tras una denuncia de Iafas, se dictó la primera condena por juego clandestino en la provincia — https://concordia24.com.ar/tras-una-denuncia-de-iafas-se-dicto-la-primera-condena-por-juego-clandestino-en-la-provincia/ _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-09-09 02:32 UTC
+- Handball: Entre Ríos se quedó con el grupo F del Argentino de Selecciones Menores — https://concordia24.com.ar/handball-entre-rios-se-quedo-con-el-grupo-f-del-argentino-de-selecciones-menores/ _(bloqueado: contiene keyword 'menor')_
