@@ -2434,3 +2434,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-09 02:32 UTC
 - Handball: Entre Ríos se quedó con el grupo F del Argentino de Selecciones Menores — https://concordia24.com.ar/handball-entre-rios-se-quedo-con-el-grupo-f-del-argentino-de-selecciones-menores/ _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-09-09 20:16 UTC
+- La Región Centro fortalece la articulación para mitigar los efectos de El Niño — https://concordia24.com.ar/la-region-centro-fortalece-la-articulacion-para-mitigar-los-efectos-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
+- Francia se convirtió en el primer país de la Unión Europea en prohibir las redes sociales para menores — https://diarioelsol.com.ar/contenido/62006/francia-se-convirtio-en-el-primer-pais-de-la-union-europea-en-prohibir-las-redes _(bloqueado: contiene keyword 'menor')_
