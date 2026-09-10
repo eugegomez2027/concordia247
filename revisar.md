@@ -2439,3 +2439,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-09-09 20:16 UTC
 - La Región Centro fortalece la articulación para mitigar los efectos de El Niño — https://concordia24.com.ar/la-region-centro-fortalece-la-articulacion-para-mitigar-los-efectos-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
 - Francia se convirtió en el primer país de la Unión Europea en prohibir las redes sociales para menores — https://diarioelsol.com.ar/contenido/62006/francia-se-convirtio-en-el-primer-pais-de-la-union-europea-en-prohibir-las-redes _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-09-10 02:34 UTC
+- Argentino de Selecciones Menores: Tercer triunfo al hilo del Seleccionado Entrerriano de Handball — https://concordia24.com.ar/argentino-de-selecciones-menores-tercer-triunfo-al-hilo-del-seleccionado-entrerriano-de-handball/ _(bloqueado: contiene keyword 'menor')_
+- PIDEN 12 AÑOS DE PRISIÓN PARA EL ACUSADO DE BALEAR A UN POLICÍA DURANTE UNA PERSECUCIÓN EN CONCORDIA — https://diarioelsol.com.ar/contenido/62013/piden-12-anos-de-prision-para-el-acusado-de-balear-a-un-policia-durante-una-pers _(bloqueado: contiene keyword 'policía')_
+- Mató a tiros a su esposa y a sus seis hijos antes de incendiar la casa y suicidarse — https://diarioelsol.com.ar/contenido/62017/mato-a-tiros-a-su-esposa-y-a-sus-seis-hijos-antes-de-incendiar-la-casa-y-suicida _(bloqueado: contiene keyword 'policía')_
+- Detenido en Concordia por tenencia de arma y secuestro de caballos — https://diarioelsol.com.ar/contenido/62015/detenido-en-concordia-por-tenencia-de-arma-y-secuestro-de-caballos _(bloqueado: contiene keyword 'policial')_
