@@ -2446,3 +2446,11 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - PIDEN 12 AÑOS DE PRISIÓN PARA EL ACUSADO DE BALEAR A UN POLICÍA DURANTE UNA PERSECUCIÓN EN CONCORDIA — https://diarioelsol.com.ar/contenido/62013/piden-12-anos-de-prision-para-el-acusado-de-balear-a-un-policia-durante-una-pers _(bloqueado: contiene keyword 'policía')_
 - Mató a tiros a su esposa y a sus seis hijos antes de incendiar la casa y suicidarse — https://diarioelsol.com.ar/contenido/62017/mato-a-tiros-a-su-esposa-y-a-sus-seis-hijos-antes-de-incendiar-la-casa-y-suicida _(bloqueado: contiene keyword 'policía')_
 - Detenido en Concordia por tenencia de arma y secuestro de caballos — https://diarioelsol.com.ar/contenido/62015/detenido-en-concordia-por-tenencia-de-arma-y-secuestro-de-caballos _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-09-10 15:39 UTC
+- Capacitaron a aspirantes de la Policía ante el fenómeno de El Niño — https://concordia24.com.ar/capacitaron-a-aspirantes-de-la-policia-ante-el-fenomeno-de-el-nino/ _(bloqueado: contiene keyword 'policía')_
+- Primer menor detenido en Concordia por la nueva Ley N° 27.801 del Régimen Penal Juvenil — https://concordia24.com.ar/primer-menor-detenido-por-la-nueva-ley-n-27-801-del-regimen-penal-juvenil/ _(bloqueado: contiene keyword 'detenido')_
+- José Peña: "Laudelina sabe dónde está y qué pasó con Loan" — https://diarioelsol.com.ar/contenido/62026/jose-pena-laudelina-sabe-donde-esta-y-que-paso-con-loan _(bloqueado: contiene keyword 'policial')_
+- Fiscalía presentó las evidencias que tiene contra un ex funcionario acusado de Enriquecimiento ilícito — https://diarioelsol.com.ar/contenido/62030/fiscalia-presento-las-evidencias-que-tiene-contra-un-ex-funcionario-acusado-de-e _(bloqueado: contiene keyword 'presunto')_
+- Condenaron a 11 años de prisión a Luciano Pelayo por el robo de una moto y un celular — https://diarioelsol.com.ar/contenido/62028/condenaron-a-11-anos-de-prision-a-luciano-pelayo-por-el-robo-de-una-moto-y-un-ce _(bloqueado: contiene keyword 'robo')_
