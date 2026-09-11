@@ -2458,3 +2458,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-11 02:28 UTC
 - Causa Vialidad: una por una, todas las irregularidades que denunció la defensa de Cristina Kirchner ante la ONU — https://diarioelsol.com.ar/contenido/62038/causa-vialidad-una-por-una-todas-las-irregularidades-que-denuncio-la-defensa-de- _(bloqueado: contiene keyword 'denunció')_
+
+
+## Tanda 2026-09-11 10:24 UTC
+- El seleccionado entrerriano femenino de handball cayó ante San Rafael pero mantiene sus opciones de podio nacional — https://concordia24.com.ar/el-seleccionado-entrerriano-femenino-de-handball-cayo-ante-san-rafael-pero-mantiene-sus-opciones-de-podio-nacional/ _(bloqueado: contiene keyword 'menor')_
+- Aprehendieron a un hombre con cocaína y marihuana durante un operativo de saturación en Concordia — https://concordia24.com.ar/aprehendieron-a-un-hombre-con-cocaina-y-marihuana-durante-un-operativo-de-saturacion-en-concordia/ _(bloqueado: contiene keyword 'policial')_
