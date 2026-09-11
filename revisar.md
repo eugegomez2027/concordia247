@@ -2463,3 +2463,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-09-11 10:24 UTC
 - El seleccionado entrerriano femenino de handball cayó ante San Rafael pero mantiene sus opciones de podio nacional — https://concordia24.com.ar/el-seleccionado-entrerriano-femenino-de-handball-cayo-ante-san-rafael-pero-mantiene-sus-opciones-de-podio-nacional/ _(bloqueado: contiene keyword 'menor')_
 - Aprehendieron a un hombre con cocaína y marihuana durante un operativo de saturación en Concordia — https://concordia24.com.ar/aprehendieron-a-un-hombre-con-cocaina-y-marihuana-durante-un-operativo-de-saturacion-en-concordia/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-09-11 20:18 UTC
+- Romero: “Entre Ríos recuperó capacidades esenciales para combatir el delito y proteger a sus policías” — https://concordia24.com.ar/romero-entre-rios-recupero-capacidades-esenciales-para-combatir-el-delito-y-proteger-a-sus-policias/ _(bloqueado: contiene keyword 'policía')_
+- Una adolescente fue encontrada desorientada en un descampado en Paraná y aseguró que fue secuestrada — https://diarioelsol.com.ar/contenido/62050/una-adolescente-fue-encontrada-desorientada-en-un-descampado-en-parana-y-aseguro _(bloqueado: contiene keyword 'policía')_
