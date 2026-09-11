@@ -2454,3 +2454,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - José Peña: "Laudelina sabe dónde está y qué pasó con Loan" — https://diarioelsol.com.ar/contenido/62026/jose-pena-laudelina-sabe-donde-esta-y-que-paso-con-loan _(bloqueado: contiene keyword 'policial')_
 - Fiscalía presentó las evidencias que tiene contra un ex funcionario acusado de Enriquecimiento ilícito — https://diarioelsol.com.ar/contenido/62030/fiscalia-presento-las-evidencias-que-tiene-contra-un-ex-funcionario-acusado-de-e _(bloqueado: contiene keyword 'presunto')_
 - Condenaron a 11 años de prisión a Luciano Pelayo por el robo de una moto y un celular — https://diarioelsol.com.ar/contenido/62028/condenaron-a-11-anos-de-prision-a-luciano-pelayo-por-el-robo-de-una-moto-y-un-ce _(bloqueado: contiene keyword 'robo')_
+
+
+## Tanda 2026-09-11 02:28 UTC
+- Causa Vialidad: una por una, todas las irregularidades que denunció la defensa de Cristina Kirchner ante la ONU — https://diarioelsol.com.ar/contenido/62038/causa-vialidad-una-por-una-todas-las-irregularidades-que-denuncio-la-defensa-de- _(bloqueado: contiene keyword 'denunció')_
