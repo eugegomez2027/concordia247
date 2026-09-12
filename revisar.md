@@ -2477,3 +2477,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-09-12 09:54 UTC
 - Reunión en el Cuartel de Bomberos Voluntarios de Concordia: acciones y medidas ante la posible llegada del «Fenómeno El Niño» — https://concordia24.com.ar/reunion-en-el-cuartel-de-bomberos-voluntarios-de-concordia-acciones-y-medidas-ante-la-posible-llegada-del-fenomeno-el-nino/ _(bloqueado: contiene keyword 'niño')_
 - Un jefe policial complicó la situación de Maciel, Pérez y Caillava en el juicio por Loan — https://diarioelsol.com.ar/contenido/62058/un-jefe-policial-complico-la-situacion-de-maciel-perez-y-caillava-en-el-juicio-p _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-09-12 14:48 UTC
+- Detuvieron al último integrante de una banda investigada por asaltos a mano armada en Concordia — https://concordia24.com.ar/detuvieron-al-ultimo-integrante-de-una-banda-investigada-por-asaltos-a-mano-armada-en-concordia/ _(bloqueado: contiene keyword 'policía')_
+- Siniestros viales: Entre Ríos registró 79 víctimas fatales y las rutas más críticas — https://diarioelsol.com.ar/contenido/62064/siniestros-viales-entre-rios-registro-79-victimas-fatales-y-las-rutas-mas-critic _(bloqueado: contiene keyword 'policía')_
