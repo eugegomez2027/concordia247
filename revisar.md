@@ -2472,3 +2472,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-12 02:36 UTC
 - Aclaran que la crecida invernal actual del Uruguay no tiene vinculación directa con el fenómeno de El Niño — https://diarioelsol.com.ar/contenido/62056/aclaran-que-la-crecida-invernal-actual-del-uruguay-no-tiene-vinculacion-directa- _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-09-12 09:54 UTC
+- Reunión en el Cuartel de Bomberos Voluntarios de Concordia: acciones y medidas ante la posible llegada del «Fenómeno El Niño» — https://concordia24.com.ar/reunion-en-el-cuartel-de-bomberos-voluntarios-de-concordia-acciones-y-medidas-ante-la-posible-llegada-del-fenomeno-el-nino/ _(bloqueado: contiene keyword 'niño')_
+- Un jefe policial complicó la situación de Maciel, Pérez y Caillava en el juicio por Loan — https://diarioelsol.com.ar/contenido/62058/un-jefe-policial-complico-la-situacion-de-maciel-perez-y-caillava-en-el-juicio-p _(bloqueado: contiene keyword 'policial')_
