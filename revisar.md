@@ -2482,3 +2482,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-09-12 14:48 UTC
 - Detuvieron al último integrante de una banda investigada por asaltos a mano armada en Concordia — https://concordia24.com.ar/detuvieron-al-ultimo-integrante-de-una-banda-investigada-por-asaltos-a-mano-armada-en-concordia/ _(bloqueado: contiene keyword 'policía')_
 - Siniestros viales: Entre Ríos registró 79 víctimas fatales y las rutas más críticas — https://diarioelsol.com.ar/contenido/62064/siniestros-viales-entre-rios-registro-79-victimas-fatales-y-las-rutas-mas-critic _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-09-12 20:00 UTC
+- La Policía interceptó un camión con 152 bidones en infracción a la ley de Fitosanitarios — https://concordia24.com.ar/la-policia-intercepto-un-camion-con-152-bidones-en-infraccion-a-la-ley-de-fitosanitarios/ _(bloqueado: contiene keyword 'policía')_
+- Nadando y corriendo: así ingresaron miles de migrantes de Marruecos a a España y crece la tensión en Ceuta — https://diarioelsol.com.ar/contenido/62069/nadando-y-corriendo-asi-ingresaron-miles-de-migrantes-de-marruecos-a-a-espana-y- _(bloqueado: contiene keyword 'policía')_
