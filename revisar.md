@@ -2468,3 +2468,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-09-11 20:18 UTC
 - Romero: “Entre Ríos recuperó capacidades esenciales para combatir el delito y proteger a sus policías” — https://concordia24.com.ar/romero-entre-rios-recupero-capacidades-esenciales-para-combatir-el-delito-y-proteger-a-sus-policias/ _(bloqueado: contiene keyword 'policía')_
 - Una adolescente fue encontrada desorientada en un descampado en Paraná y aseguró que fue secuestrada — https://diarioelsol.com.ar/contenido/62050/una-adolescente-fue-encontrada-desorientada-en-un-descampado-en-parana-y-aseguro _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-09-12 02:36 UTC
+- Aclaran que la crecida invernal actual del Uruguay no tiene vinculación directa con el fenómeno de El Niño — https://diarioelsol.com.ar/contenido/62056/aclaran-que-la-crecida-invernal-actual-del-uruguay-no-tiene-vinculacion-directa- _(bloqueado: contiene keyword 'niño')_
