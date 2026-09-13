@@ -2492,3 +2492,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-09-13 02:34 UTC
 - Cinco detenidos en diversos allanamientos en Concordia. — https://diarioelsol.com.ar/contenido/62079/cinco-detenidos-en-diversos-allanamientos-en-concordia _(bloqueado: contiene keyword 'detenido')_
 - Comienza el lunes el juicio por el femicidio de Luisina Leoncino — https://diarioelsol.com.ar/contenido/62084/comienza-el-lunes-el-juicio-por-el-femicidio-de-luisina-leoncino _(bloqueado: contiene keyword 'asesin')_
+
+
+## Tanda 2026-09-13 20:06 UTC
+- Un colectivo chocó con dos motos en Asunción y Urquiza. — https://diarioelsol.com.ar/contenido/62100/un-colectivo-choco-con-dos-motos-en-asuncion-y-urquiza _(bloqueado: contiene keyword 'menor')_
+- Detuvieron a tres cacos en la Estación después que sustrajeron cables de un motor en reparación. — https://diarioelsol.com.ar/contenido/62106/detuvieron-a-tres-cacos-en-la-estacion-despues-que-sustrajeron-cables-de-un-moto _(bloqueado: contiene keyword 'detenido')_
