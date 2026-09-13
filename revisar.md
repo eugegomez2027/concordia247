@@ -2487,3 +2487,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-09-12 20:00 UTC
 - La Policía interceptó un camión con 152 bidones en infracción a la ley de Fitosanitarios — https://concordia24.com.ar/la-policia-intercepto-un-camion-con-152-bidones-en-infraccion-a-la-ley-de-fitosanitarios/ _(bloqueado: contiene keyword 'policía')_
 - Nadando y corriendo: así ingresaron miles de migrantes de Marruecos a a España y crece la tensión en Ceuta — https://diarioelsol.com.ar/contenido/62069/nadando-y-corriendo-asi-ingresaron-miles-de-migrantes-de-marruecos-a-a-espana-y- _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-09-13 02:34 UTC
+- Cinco detenidos en diversos allanamientos en Concordia. — https://diarioelsol.com.ar/contenido/62079/cinco-detenidos-en-diversos-allanamientos-en-concordia _(bloqueado: contiene keyword 'detenido')_
+- Comienza el lunes el juicio por el femicidio de Luisina Leoncino — https://diarioelsol.com.ar/contenido/62084/comienza-el-lunes-el-juicio-por-el-femicidio-de-luisina-leoncino _(bloqueado: contiene keyword 'asesin')_
