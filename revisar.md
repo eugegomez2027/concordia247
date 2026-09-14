@@ -2501,3 +2501,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-14 02:51 UTC
 - Cuatro detenidos tras allanamientos por una defraudación a una adulta mayor: secuestraron cocaína, dinero y una balanza — https://concordia24.com.ar/cuatro-detenidos-tras-allanamientos-por-una-defraudacion-a-una-adulta-mayor-secuestraron-cocaina-dinero-y-una-balanza/ _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-09-14 11:27 UTC
+- Ceuta, una ciudad patas arriba: “Nos vamos porque no hay comida, no nos venden leche para la niña” — https://diarioelsol.com.ar/contenido/62109/ceuta-una-ciudad-patas-arriba-nos-vamos-porque-no-hay-comida-no-nos-venden-leche _(bloqueado: contiene keyword 'niña')_
