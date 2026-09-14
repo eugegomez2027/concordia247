@@ -2505,3 +2505,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-14 11:27 UTC
 - Ceuta, una ciudad patas arriba: “Nos vamos porque no hay comida, no nos venden leche para la niña” — https://diarioelsol.com.ar/contenido/62109/ceuta-una-ciudad-patas-arriba-nos-vamos-porque-no-hay-comida-no-nos-venden-leche _(bloqueado: contiene keyword 'niña')_
+
+
+## Tanda 2026-09-14 21:16 UTC
+- Entre Ríos refuerza las acciones de prevención del narcomenudeo — https://concordia24.com.ar/entre-rios-refuerza-las-acciones-de-prevencion-del-narcomenudeo/ _(bloqueado: contiene keyword 'policía')_
+- Allanamientos por causa de estafa: secuestraron un autoelevador y otros elementos de interés — https://diarioelsol.com.ar/contenido/62129/allanamientos-por-causa-de-estafa-secuestraron-un-autoelevador-y-otros-elementos _(bloqueado: contiene keyword 'allanamiento')_
+- La OMM advierte que El Niño se intensificará entre agosto y octubre con temperaturas globales por encima de la media — https://diarioelsol.com.ar/contenido/62128/la-omm-advierte-que-el-nino-se-intensificara-entre-agosto-y-octubre-con-temperat _(bloqueado: contiene keyword 'niño')_
