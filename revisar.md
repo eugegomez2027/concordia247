@@ -2511,3 +2511,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Entre Ríos refuerza las acciones de prevención del narcomenudeo — https://concordia24.com.ar/entre-rios-refuerza-las-acciones-de-prevencion-del-narcomenudeo/ _(bloqueado: contiene keyword 'policía')_
 - Allanamientos por causa de estafa: secuestraron un autoelevador y otros elementos de interés — https://diarioelsol.com.ar/contenido/62129/allanamientos-por-causa-de-estafa-secuestraron-un-autoelevador-y-otros-elementos _(bloqueado: contiene keyword 'allanamiento')_
 - La OMM advierte que El Niño se intensificará entre agosto y octubre con temperaturas globales por encima de la media — https://diarioelsol.com.ar/contenido/62128/la-omm-advierte-que-el-nino-se-intensificara-entre-agosto-y-octubre-con-temperat _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-09-15 02:53 UTC
+- Impactante intento de femicidio: entró a la casa de su expareja y la acuchilló — https://diarioelsol.com.ar/contenido/62131/impactante-intento-de-femicidio-entro-a-la-casa-de-su-expareja-y-la-acuchillo _(bloqueado: contiene keyword 'detenido')_
+- Allanamiento positivo: un detenido y recuperación de elementos sustraidos — https://diarioelsol.com.ar/contenido/62130/allanamiento-positivo-un-detenido-y-recuperacion-de-elementos-sustraidos _(bloqueado: contiene keyword 'detenido')_
+- Allanamientos por amenazas terminaron con secuestro de estupefacientes y cuatro aprehendidos — https://diarioelsol.com.ar/contenido/62134/allanamientos-por-amenazas-terminaron-con-secuestro-de-estupefacientes-y-cuatro- _(bloqueado: contiene keyword 'allanamiento')_
