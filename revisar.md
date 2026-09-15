@@ -2517,3 +2517,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Impactante intento de femicidio: entró a la casa de su expareja y la acuchilló — https://diarioelsol.com.ar/contenido/62131/impactante-intento-de-femicidio-entro-a-la-casa-de-su-expareja-y-la-acuchillo _(bloqueado: contiene keyword 'detenido')_
 - Allanamiento positivo: un detenido y recuperación de elementos sustraidos — https://diarioelsol.com.ar/contenido/62130/allanamiento-positivo-un-detenido-y-recuperacion-de-elementos-sustraidos _(bloqueado: contiene keyword 'detenido')_
 - Allanamientos por amenazas terminaron con secuestro de estupefacientes y cuatro aprehendidos — https://diarioelsol.com.ar/contenido/62134/allanamientos-por-amenazas-terminaron-con-secuestro-de-estupefacientes-y-cuatro- _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-09-15 20:44 UTC
+- Desbarataron en Concordia una banda acusada de estafar a empresas de cuatro provincias: tres detenidos — https://concordia24.com.ar/desbarataron-en-concordia-una-banda-acusada-de-estafar-a-empresas-de-cuatro-provincias-tres-detenidos/ _(bloqueado: contiene keyword 'detenido')_
+- La Cámara de Casación Penal de Concordia vio vuelta un severo fallo y ordenó la inmediata libertad de un detenido. — https://diarioelsol.com.ar/contenido/62151/la-camara-de-casacion-penal-de-concordia-vio-vuelta-un-severo-fallo-y-ordeno-la- _(bloqueado: contiene keyword 'detenido')_
+- Choque fatal en Paraná: preventiva en la cárcel para el conductor y pericia afirma que circulaba a 140 km/h — https://diarioelsol.com.ar/contenido/62150/choque-fatal-en-parana-preventiva-en-la-carcel-para-el-conductor-y-pericia-afirm _(bloqueado: contiene keyword 'imputado')_
+- Le quitaron el caballo a un carrero por "presunto maltrato animal" — https://diarioelsol.com.ar/contenido/62146/le-quitaron-el-caballo-a-un-carrero-por-presunta-maltrato-animal _(bloqueado: contiene keyword 'presunto')_
