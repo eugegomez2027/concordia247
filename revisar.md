@@ -2524,3 +2524,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - La Cámara de Casación Penal de Concordia vio vuelta un severo fallo y ordenó la inmediata libertad de un detenido. — https://diarioelsol.com.ar/contenido/62151/la-camara-de-casacion-penal-de-concordia-vio-vuelta-un-severo-fallo-y-ordeno-la- _(bloqueado: contiene keyword 'detenido')_
 - Choque fatal en Paraná: preventiva en la cárcel para el conductor y pericia afirma que circulaba a 140 km/h — https://diarioelsol.com.ar/contenido/62150/choque-fatal-en-parana-preventiva-en-la-carcel-para-el-conductor-y-pericia-afirm _(bloqueado: contiene keyword 'imputado')_
 - Le quitaron el caballo a un carrero por "presunto maltrato animal" — https://diarioelsol.com.ar/contenido/62146/le-quitaron-el-caballo-a-un-carrero-por-presunta-maltrato-animal _(bloqueado: contiene keyword 'presunto')_
+
+
+## Tanda 2026-09-16 02:49 UTC
+- Femicidio de Luisina: comienza el juicio contra “Ñoño” Benítez — https://diarioelsol.com.ar/contenido/62156/femicidio-de-luisina-comienza-el-juicio-contra-nono-benitez _(bloqueado: contiene keyword 'asesin')_
