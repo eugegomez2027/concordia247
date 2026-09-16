@@ -2528,3 +2528,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-16 02:49 UTC
 - Femicidio de Luisina: comienza el juicio contra “Ñoño” Benítez — https://diarioelsol.com.ar/contenido/62156/femicidio-de-luisina-comienza-el-juicio-contra-nono-benitez _(bloqueado: contiene keyword 'asesin')_
+
+
+## Tanda 2026-09-16 10:38 UTC
+- Quién es la joven acusada de matar a su novio y qué dijo ante la Justicia — https://diarioelsol.com.ar/contenido/62159/quien-es-la-joven-acusada-de-matar-a-su-novio-y-que-dijo-ante-la-justicia _(bloqueado: contiene keyword 'policía')_
