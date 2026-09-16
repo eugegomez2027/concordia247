@@ -2536,3 +2536,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-16 15:55 UTC
 - Cataratas del Iguazú: cierran 40 días la Garganta del Diablo por el riesgo de crecidas de El Niño — https://concordia24.com.ar/cataratas-del-iguazu-cierran-40-dias-la-garganta-del-diablo-por-el-riesgo-de-crecidas-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-09-16 20:44 UTC
+- Importante golpe al narcotráfico: Incautaron más de 20 kilos de cocaína en el Puesto Caminero Paso Telégrafo — https://concordia24.com.ar/importante-golpe-al-narcotrafico-incautaron-mas-de-20-kilos-de-cocaina-en-el-puesto-caminero-paso-telegrafo/ _(bloqueado: contiene keyword 'policía')_
+- El Niño golpea el sur de Brasil: inundaciones, evacuaciones y más de 70 municipios afectados — https://diarioelsol.com.ar/contenido/62176/el-nino-golpea-el-sur-de-brasil-inundaciones-evacuaciones-y-mas-de-70-municipios _(bloqueado: contiene keyword 'niño')_
