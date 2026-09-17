@@ -2541,3 +2541,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-09-16 20:44 UTC
 - Importante golpe al narcotráfico: Incautaron más de 20 kilos de cocaína en el Puesto Caminero Paso Telégrafo — https://concordia24.com.ar/importante-golpe-al-narcotrafico-incautaron-mas-de-20-kilos-de-cocaina-en-el-puesto-caminero-paso-telegrafo/ _(bloqueado: contiene keyword 'policía')_
 - El Niño golpea el sur de Brasil: inundaciones, evacuaciones y más de 70 municipios afectados — https://diarioelsol.com.ar/contenido/62176/el-nino-golpea-el-sur-de-brasil-inundaciones-evacuaciones-y-mas-de-70-municipios _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-09-17 02:52 UTC
+- Operativo interfuerzas en la Autovía Artigas: cuatro detenidos con pedidos de captura y secuestro de drogas — https://concordia24.com.ar/operativo-interfuerzas-en-la-autovia-artigas-cuatro-detenidos-con-pedidos-de-captura-y-secuestro-de-drogas/ _(bloqueado: contiene keyword 'detenido')_
+- “¿Otra vez te pegó?”: los chats y las imágenes que difundió un amigo del joven asesinado por su novia en Chaco — https://diarioelsol.com.ar/contenido/62183/otra-vez-te-pego-los-chats-y-las-imagenes-que-difundio-un-amigo-del-joven-asesin _(bloqueado: contiene keyword 'asesin')_
+- Facundo Moyano quedó en libertad tras declarar en la fiscalía y continúa imputado en la causa — https://diarioelsol.com.ar/contenido/62187/facundo-moyano-quedo-en-libertad-tras-declarar-en-la-fiscalia-y-continua-imputad _(bloqueado: contiene keyword 'imputado')_
