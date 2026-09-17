@@ -2547,3 +2547,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Operativo interfuerzas en la Autovía Artigas: cuatro detenidos con pedidos de captura y secuestro de drogas — https://concordia24.com.ar/operativo-interfuerzas-en-la-autovia-artigas-cuatro-detenidos-con-pedidos-de-captura-y-secuestro-de-drogas/ _(bloqueado: contiene keyword 'detenido')_
 - “¿Otra vez te pegó?”: los chats y las imágenes que difundió un amigo del joven asesinado por su novia en Chaco — https://diarioelsol.com.ar/contenido/62183/otra-vez-te-pego-los-chats-y-las-imagenes-que-difundio-un-amigo-del-joven-asesin _(bloqueado: contiene keyword 'asesin')_
 - Facundo Moyano quedó en libertad tras declarar en la fiscalía y continúa imputado en la causa — https://diarioelsol.com.ar/contenido/62187/facundo-moyano-quedo-en-libertad-tras-declarar-en-la-fiscalia-y-continua-imputad _(bloqueado: contiene keyword 'imputado')_
+
+
+## Tanda 2026-09-17 10:47 UTC
+- Demandan mayor presupuesto por robos en escuelas — https://diarioelsol.com.ar/contenido/62191/demandan-mayor-presupuesto-por-robos-en-escuelas _(bloqueado: contiene keyword 'robo')_
