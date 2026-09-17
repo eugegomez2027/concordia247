@@ -2551,3 +2551,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-17 10:47 UTC
 - Demandan mayor presupuesto por robos en escuelas — https://diarioelsol.com.ar/contenido/62191/demandan-mayor-presupuesto-por-robos-en-escuelas _(bloqueado: contiene keyword 'robo')_
+
+
+## Tanda 2026-09-17 16:01 UTC
+- Piden a la Justicia investigar quién autorizó las obras en Paso Vera y qué pasó con la arena removida — https://concordia24.com.ar/piden-a-la-justicia-investigar-quien-autorizo-las-obras-en-paso-vera-y-que-paso-con-la-arena-removida/ _(bloqueado: contiene keyword 'denuncia')_
