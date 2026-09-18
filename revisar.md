@@ -2560,3 +2560,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-09-18 02:39 UTC
 - Con la declaración del “Ñoño” Benítez, comenzó el juicio por el crimen de Luisina Leoncino — https://diarioelsol.com.ar/contenido/62203/con-la-declaracion-del-nono-benitez-comenzo-el-juicio-por-el-crimen-de-luisina-l _(bloqueado: contiene keyword 'crimen')_
 - Que calamidad, cayó Calamita !!,  imputado desarmar motos robadas para vender sus repuestos. — https://diarioelsol.com.ar/contenido/62202/que-calamidad-cayo-calamita-imputado-desarmar-motos-robadas-para-vender-sus-repu _(bloqueado: contiene keyword 'robo')_
+
+
+## Tanda 2026-09-18 10:23 UTC
+- Atacaron a pedradas un colectivo, hiriendo a una pasajera en un ojo. — https://diarioelsol.com.ar/contenido/62209/atacaron-a-pedradas-un-colectivo-hiriendo-a-una-pasajera-en-un-ojo _(bloqueado: contiene keyword 'policía')_
