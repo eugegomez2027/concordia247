@@ -2555,3 +2555,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-17 16:01 UTC
 - Piden a la Justicia investigar quién autorizó las obras en Paso Vera y qué pasó con la arena removida — https://concordia24.com.ar/piden-a-la-justicia-investigar-quien-autorizo-las-obras-en-paso-vera-y-que-paso-con-la-arena-removida/ _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-09-18 02:39 UTC
+- Con la declaración del “Ñoño” Benítez, comenzó el juicio por el crimen de Luisina Leoncino — https://diarioelsol.com.ar/contenido/62203/con-la-declaracion-del-nono-benitez-comenzo-el-juicio-por-el-crimen-de-luisina-l _(bloqueado: contiene keyword 'crimen')_
+- Que calamidad, cayó Calamita !!,  imputado desarmar motos robadas para vender sus repuestos. — https://diarioelsol.com.ar/contenido/62202/que-calamidad-cayo-calamita-imputado-desarmar-motos-robadas-para-vender-sus-repu _(bloqueado: contiene keyword 'robo')_
