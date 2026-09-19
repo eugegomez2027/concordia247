@@ -2570,3 +2570,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Allanamientos en Concordia: secuestraron cocaína y detuvieron a un hombre de 33 años — https://concordia24.com.ar/allanamientos-en-concordia-secuestraron-cocaina-y-detuvieron-a-un-hombre-de-33-anos/ _(bloqueado: contiene keyword 'allanamiento')_
 - Llevaban al Paraguay una Toyota SW4 que había sido robada el 30 de julio en Buenos Aires — https://diarioelsol.com.ar/contenido/62231/llevaban-al-paraguay-una-toyota-sw4-que-habia-sido-robada-el-30-de-julio-en-buen _(bloqueado: contiene keyword 'policial')_
 - El Deliberante local aprobó la emergencia hídrica y climática ante el fenómeno “El Niño” — https://diarioelsol.com.ar/contenido/62230/el-deliberante-local-aprobo-la-emergencia-hidrica-y-climatica-ante-el-fenomeno-e _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-09-19 15:09 UTC
+- Aprobaron con recortes y modificaciones la Ley de Inviolabilidad de la Propiedad Privada a la 1:41 de la madrugada. — https://diarioelsol.com.ar/contenido/62241/aprobaron-con-recortes-y-modificaciones-la-ley-de-inviolabilidad-de-la-propiedad _(bloqueado: contiene keyword 'detenido')_
+- Jurado declaró culpable al femicida de Luisina Leoncino y ahora le espera prisión perpetua — https://diarioelsol.com.ar/contenido/62236/jurado-declaro-culpable-al-femicida-de-luisina-leoncino-y-ahora-le-espera-prisio _(bloqueado: contiene keyword 'asesin')_
