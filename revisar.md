@@ -2564,3 +2564,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-18 10:23 UTC
 - Atacaron a pedradas un colectivo, hiriendo a una pasajera en un ojo. — https://diarioelsol.com.ar/contenido/62209/atacaron-a-pedradas-un-colectivo-hiriendo-a-una-pasajera-en-un-ojo _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-09-19 10:06 UTC
+- Allanamientos en Concordia: secuestraron cocaína y detuvieron a un hombre de 33 años — https://concordia24.com.ar/allanamientos-en-concordia-secuestraron-cocaina-y-detuvieron-a-un-hombre-de-33-anos/ _(bloqueado: contiene keyword 'allanamiento')_
+- Llevaban al Paraguay una Toyota SW4 que había sido robada el 30 de julio en Buenos Aires — https://diarioelsol.com.ar/contenido/62231/llevaban-al-paraguay-una-toyota-sw4-que-habia-sido-robada-el-30-de-julio-en-buen _(bloqueado: contiene keyword 'policial')_
+- El Deliberante local aprobó la emergencia hídrica y climática ante el fenómeno “El Niño” — https://diarioelsol.com.ar/contenido/62230/el-deliberante-local-aprobo-la-emergencia-hidrica-y-climatica-ante-el-fenomeno-e _(bloqueado: contiene keyword 'niño')_
