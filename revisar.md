@@ -2575,3 +2575,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-09-19 15:09 UTC
 - Aprobaron con recortes y modificaciones la Ley de Inviolabilidad de la Propiedad Privada a la 1:41 de la madrugada. — https://diarioelsol.com.ar/contenido/62241/aprobaron-con-recortes-y-modificaciones-la-ley-de-inviolabilidad-de-la-propiedad _(bloqueado: contiene keyword 'detenido')_
 - Jurado declaró culpable al femicida de Luisina Leoncino y ahora le espera prisión perpetua — https://diarioelsol.com.ar/contenido/62236/jurado-declaro-culpable-al-femicida-de-luisina-leoncino-y-ahora-le-espera-prisio _(bloqueado: contiene keyword 'asesin')_
+
+
+## Tanda 2026-09-19 19:52 UTC
+- Un adolescente mató a tiros a sus abuelos y a otras cinco personas en un colegio de Tailandia — https://diarioelsol.com.ar/contenido/62248/un-adolescente-mato-a-tiros-a-sus-abuelos-y-a-otras-cinco-personas-en-un-colegio _(bloqueado: contiene keyword 'adolescente')_
