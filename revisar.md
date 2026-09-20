@@ -2587,3 +2587,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Federalense le disparó a un ciclista y luego se entregó a la Policía — https://diarioelsol.com.ar/contenido/62246/federalense-le-disparo-a-un-ciclista-y-luego-se-entrego-a-la-policia _(bloqueado: contiene keyword 'policía')_
 - ALLANAMIENTOS CONJUNTOS ENTRE LAS JEFATURAS DE CONCORDIA Y LA PAZ: SECUESTRO DE ARMAS, MUNICIONES Y VEHÍCULOS — https://diarioelsol.com.ar/contenido/62253/allanamientos-conjuntos-entre-las-jefaturas-de-concordia-y-la-paz-secuestro-de-a _(bloqueado: contiene keyword 'allanamiento')_
 - "Ni la matera dejaron": el relato de Franco Colapinto tras sufrir un robo en Italia — https://diarioelsol.com.ar/contenido/62252/ni-la-matera-dejaron-el-relato-de-franco-colapinto-tras-sufrir-un-robo-en-italia _(bloqueado: contiene keyword 'robo')_
+
+
+## Tanda 2026-09-20 10:25 UTC
+- Narcomenudeo: allanamientos en el barrio Cipo dejaron dos detenidos y 89 envoltorios de cocaína secuestrados — https://concordia24.com.ar/narcomenudeo-allanamientos-en-el-barrio-cipo-dejaron-dos-detenidos-y-89-envoltorios-de-cocaina-secuestrados/ _(bloqueado: contiene keyword 'detenido')_
+- La Policía detectó la venta "al paso" de cocaína en plena calle por una pareja, acompañados por un menor, fueron detenidos. — https://diarioelsol.com.ar/contenido/62254/la-policia-detecto-la-venta-al-paso-de-cocaina-en-plena-calle-por-una-pareja-aco _(bloqueado: contiene keyword 'policía')_
