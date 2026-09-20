@@ -2579,3 +2579,11 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-19 19:52 UTC
 - Un adolescente mató a tiros a sus abuelos y a otras cinco personas en un colegio de Tailandia — https://diarioelsol.com.ar/contenido/62248/un-adolescente-mato-a-tiros-a-sus-abuelos-y-a-otras-cinco-personas-en-un-colegio _(bloqueado: contiene keyword 'adolescente')_
+
+
+## Tanda 2026-09-20 02:50 UTC
+- Denunció el faltante de dinero, instaló una cámara y descubrió a su empleada tomando efectivo — https://concordia24.com.ar/denuncio-el-faltante-de-dinero-instalo-una-camara-y-descubrio-a-su-empleada-tomando-efectivo/ _(bloqueado: URL contiene '/denunc')_
+- Dos detenidos con un fusil en un camino rural entre Federal y Concordia: también secuestraron un auto — https://concordia24.com.ar/dos-detenidos-con-un-fusil-en-un-camino-rural-entre-federal-y-concordia-tambien-secuestraron-un-auto/ _(bloqueado: contiene keyword 'detenido')_
+- Federalense le disparó a un ciclista y luego se entregó a la Policía — https://diarioelsol.com.ar/contenido/62246/federalense-le-disparo-a-un-ciclista-y-luego-se-entrego-a-la-policia _(bloqueado: contiene keyword 'policía')_
+- ALLANAMIENTOS CONJUNTOS ENTRE LAS JEFATURAS DE CONCORDIA Y LA PAZ: SECUESTRO DE ARMAS, MUNICIONES Y VEHÍCULOS — https://diarioelsol.com.ar/contenido/62253/allanamientos-conjuntos-entre-las-jefaturas-de-concordia-y-la-paz-secuestro-de-a _(bloqueado: contiene keyword 'allanamiento')_
+- "Ni la matera dejaron": el relato de Franco Colapinto tras sufrir un robo en Italia — https://diarioelsol.com.ar/contenido/62252/ni-la-matera-dejaron-el-relato-de-franco-colapinto-tras-sufrir-un-robo-en-italia _(bloqueado: contiene keyword 'robo')_
