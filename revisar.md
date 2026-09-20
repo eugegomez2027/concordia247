@@ -2592,3 +2592,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-09-20 10:25 UTC
 - Narcomenudeo: allanamientos en el barrio Cipo dejaron dos detenidos y 89 envoltorios de cocaína secuestrados — https://concordia24.com.ar/narcomenudeo-allanamientos-en-el-barrio-cipo-dejaron-dos-detenidos-y-89-envoltorios-de-cocaina-secuestrados/ _(bloqueado: contiene keyword 'detenido')_
 - La Policía detectó la venta "al paso" de cocaína en plena calle por una pareja, acompañados por un menor, fueron detenidos. — https://diarioelsol.com.ar/contenido/62254/la-policia-detecto-la-venta-al-paso-de-cocaina-en-plena-calle-por-una-pareja-aco _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-09-20 15:14 UTC
+- Por el crimen de su pareja, la húngara Melina Persotzi, de 45 años y madre de tres hijos, Daniel "Loli" Brilla tiene asegurada la cadena perpetua en España. — https://diarioelsol.com.ar/contenido/62263/por-el-crimen-de-su-pareja-la-hungara-melina-persotzi-de-45-anos-y-madre-de-tres _(bloqueado: contiene keyword 'policía')_
