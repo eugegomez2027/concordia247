@@ -2596,3 +2596,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-20 15:14 UTC
 - Por el crimen de su pareja, la húngara Melina Persotzi, de 45 años y madre de tres hijos, Daniel "Loli" Brilla tiene asegurada la cadena perpetua en España. — https://diarioelsol.com.ar/contenido/62263/por-el-crimen-de-su-pareja-la-hungara-melina-persotzi-de-45-anos-y-madre-de-tres _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-09-21 11:41 UTC
+- Hombre detenido por sustraer cables del tendido eléctrico — https://concordia24.com.ar/hombre-detenido-por-sustraer-cables-del-tendido-electrico/ _(bloqueado: contiene keyword 'policial')_
