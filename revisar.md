@@ -2600,3 +2600,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-21 11:41 UTC
 - Hombre detenido por sustraer cables del tendido eléctrico — https://concordia24.com.ar/hombre-detenido-por-sustraer-cables-del-tendido-electrico/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-09-22 02:48 UTC
+- "SE CAE EL CONTRATO Y NOS QUEDAMOS SIN COBERTURA": JUBILADOS ALERTAN QUE 14 MIL AFILIADOS DEL PAMI PODRÍAN PERDER ATENCIÓN EN EL SANATORIO CONCORDIA — https://diarioelsol.com.ar/contenido/62282/se-cae-el-contrato-y-nos-quedamos-sin-cobertura-jubilados-alertan-que-14-mil-afi _(bloqueado: contiene keyword 'denunció')_
