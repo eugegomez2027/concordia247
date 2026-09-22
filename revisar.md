@@ -2604,3 +2604,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-22 02:48 UTC
 - "SE CAE EL CONTRATO Y NOS QUEDAMOS SIN COBERTURA": JUBILADOS ALERTAN QUE 14 MIL AFILIADOS DEL PAMI PODRÍAN PERDER ATENCIÓN EN EL SANATORIO CONCORDIA — https://diarioelsol.com.ar/contenido/62282/se-cae-el-contrato-y-nos-quedamos-sin-cobertura-jubilados-alertan-que-14-mil-afi _(bloqueado: contiene keyword 'denunció')_
+
+
+## Tanda 2026-09-22 10:44 UTC
+- Allanamientos por robo: recuperaron elementos sustraídos, secuestraron cocaína y detuvieron a un hombre — https://concordia24.com.ar/allanamientos-por-robo-recuperaron-elementos-sustraidos-secuestraron-cocaina-y-detuvieron-a-un-hombre/ _(bloqueado: contiene keyword 'robo')_
+- Detuvieron a un menor de 16 años que llevaba un revólver calibre .22 cargado — https://concordia24.com.ar/detuvieron-a-un-menor-de-16-anos-que-llevaba-un-revolver-calibre-22-cargado/ _(bloqueado: contiene keyword 'detenido')_
+- Más liga provincial: En un partidazo el Club Social y Deportivo Federación se hizo fuerte fuera de casa — https://diarioelsol.com.ar/contenido/62293/mas-liga-provincial-en-un-partidazo-el-club-social-y-deportivo-federacion-se-hiz _(bloqueado: contiene keyword 'robo')_
