@@ -2614,3 +2614,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-23 15:54 UTC
 - La Policía de Entre Ríos secuestró 40 kilos de cristal y pastillas de éxtasis — https://concordia24.com.ar/la-policia-de-entre-rios-secuestro-40-kilos-de-cristal-y-pastillas-de-extasis/ _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-09-23 20:56 UTC
+- Clínicas privadas en alerta: denuncian atrasos en los pagos de obras sociales y un desfasaje del 160% del PAMI — https://diarioelsol.com.ar/contenido/62350/clinicas-privadas-en-alerta-denuncian-atrasos-en-los-pagos-de-obras-sociales-y-u _(bloqueado: contiene keyword 'denuncia')_
