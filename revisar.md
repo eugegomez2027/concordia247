@@ -2618,3 +2618,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-23 20:56 UTC
 - Clínicas privadas en alerta: denuncian atrasos en los pagos de obras sociales y un desfasaje del 160% del PAMI — https://diarioelsol.com.ar/contenido/62350/clinicas-privadas-en-alerta-denuncian-atrasos-en-los-pagos-de-obras-sociales-y-u _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-09-24 02:38 UTC
+- Agmer acusó al Gobierno de activar maniobras para avanzar con la tercerización de los comedores — https://diarioelsol.com.ar/contenido/62362/agmer-acuso-al-gobierno-de-activar-maniobras-para-avanzar-con-la-tercerizacion-d _(bloqueado: contiene keyword 'acusó')_
+- Las 20 frases más fuertes del Americano Soria en el juicio por Loan — https://diarioelsol.com.ar/contenido/62360/las-20-frases-mas-fuertes-del-americano-soria-en-el-juicio-por-loan _(bloqueado: contiene keyword 'acusación')_
