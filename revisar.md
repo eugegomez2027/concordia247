@@ -2628,3 +2628,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-09-24 10:54 UTC
 - Allanamientos por causa de hurto y estafa: dos detenidos y secuestro de elementos de interés — https://diarioelsol.com.ar/contenido/62370/allanamientos-por-causa-de-hurto-y-estafa-dos-detenidos-y-secuestro-de-elementos _(bloqueado: contiene keyword 'policía')_
 - Acusación insólita: Lilia Lemoine apunta al supuesto sobrepeso de Villarruel — https://diarioelsol.com.ar/contenido/62374/acusacion-insolita-lilia-lemoine-apunta-al-supuesto-sobrepeso-de-villarruel _(bloqueado: contiene keyword 'acusación')_
+
+
+## Tanda 2026-09-24 16:17 UTC
+- Frigerio entregó nuevos vehículos y equipamiento para fortalecer la Policía de Entre Ríos — https://concordia24.com.ar/frigerio-entrego-nuevos-vehiculos-y-equipamiento-para-fortalecer-la-policia-de-entre-rios/ _(bloqueado: contiene keyword 'policía')_
