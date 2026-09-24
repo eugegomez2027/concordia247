@@ -2623,3 +2623,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-09-24 02:38 UTC
 - Agmer acusó al Gobierno de activar maniobras para avanzar con la tercerización de los comedores — https://diarioelsol.com.ar/contenido/62362/agmer-acuso-al-gobierno-de-activar-maniobras-para-avanzar-con-la-tercerizacion-d _(bloqueado: contiene keyword 'acusó')_
 - Las 20 frases más fuertes del Americano Soria en el juicio por Loan — https://diarioelsol.com.ar/contenido/62360/las-20-frases-mas-fuertes-del-americano-soria-en-el-juicio-por-loan _(bloqueado: contiene keyword 'acusación')_
+
+
+## Tanda 2026-09-24 10:54 UTC
+- Allanamientos por causa de hurto y estafa: dos detenidos y secuestro de elementos de interés — https://diarioelsol.com.ar/contenido/62370/allanamientos-por-causa-de-hurto-y-estafa-dos-detenidos-y-secuestro-de-elementos _(bloqueado: contiene keyword 'policía')_
+- Acusación insólita: Lilia Lemoine apunta al supuesto sobrepeso de Villarruel — https://diarioelsol.com.ar/contenido/62374/acusacion-insolita-lilia-lemoine-apunta-al-supuesto-sobrepeso-de-villarruel _(bloqueado: contiene keyword 'acusación')_
