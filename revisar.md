@@ -2632,3 +2632,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-24 16:17 UTC
 - Frigerio entregó nuevos vehículos y equipamiento para fortalecer la Policía de Entre Ríos — https://concordia24.com.ar/frigerio-entrego-nuevos-vehiculos-y-equipamiento-para-fortalecer-la-policia-de-entre-rios/ _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-09-25 02:56 UTC
+- Estafas a trabajadores de moto mandados: La investigación permitió individualizar al autor — https://concordia24.com.ar/estafas-a-trabajadores-de-moto-mandados-la-investigacion-permitio-individualizar-al-autor/ _(bloqueado: contiene keyword 'allanamiento')_
