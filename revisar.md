@@ -2636,3 +2636,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-25 02:56 UTC
 - Estafas a trabajadores de moto mandados: La investigación permitió individualizar al autor — https://concordia24.com.ar/estafas-a-trabajadores-de-moto-mandados-la-investigacion-permitio-individualizar-al-autor/ _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-09-25 10:56 UTC
+- El misterioso "sello del delfín": qué significa la marca que aparece en paquetes de cocaína secuestrados en allanamientos — https://diarioelsol.com.ar/contenido/62391/el-misterioso-sello-del-delfin-que-significa-la-marca-que-aparece-en-paquetes-de _(bloqueado: contiene keyword 'allanamiento')_
