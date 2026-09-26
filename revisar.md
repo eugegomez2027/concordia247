@@ -2652,3 +2652,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Robo en una sucursal de Bahillo: un ladrón rompió la vidriera y se llevó la caja registradora — https://diarioelsol.com.ar/contenido/62422/robo-en-una-sucursal-de-bahillo-un-ladron-rompio-la-vidriera-y-se-llevo-la-caja- _(bloqueado: contiene keyword 'robo')_
 - Intervención policial para resguardar un equino en mal estado de salud — https://diarioelsol.com.ar/contenido/62421/intervencion-policial-para-resguardar-un-equino-en-mal-estado-de-salud _(bloqueado: contiene keyword 'policial')_
 - Otro allanamiento por drogas y un nuevo detenido por la venta de cocaína. — https://diarioelsol.com.ar/contenido/62430/otro-allanamiento-por-drogas-y-un-nuevo-detenido-por-la-venta-de-cocaina _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-09-26 20:30 UTC
+- Jóvenes de Libertad Asistida participaron de una jornada socioeducativa en Paraná — https://concordia24.com.ar/jovenes-de-libertad-asistida-participaron-de-una-jornada-socioeducativa-en-parana/ _(bloqueado: contiene keyword 'adolescente')_
