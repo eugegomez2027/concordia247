@@ -2645,3 +2645,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-09-26 02:59 UTC
 - Dos allanamientos simultáneos por una causa de estafa en General Campos — https://concordia24.com.ar/dos-allanamientos-simultaneos-por-una-causa-de-estafa-en-general-campos/ _(bloqueado: contiene keyword 'policía')_
 - Golpe al narcotráfico en Santa Fe: secuestraron más de 20 kilos de marihuana y detuvieron a tres personas — https://concordia24.com.ar/golpe-al-narcotrafico-en-santa-fe-secuestraron-mas-de-20-kilos-de-marihuana-y-detuvieron-a-tres-personas/ _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-09-26 10:37 UTC
+- Dos mujeres se pelearon por una gallina y una adolescente terminó herida — https://diarioelsol.com.ar/contenido/62423/dos-mujeres-se-pelearon-por-una-gallina-y-una-adolescente-termino-herida _(bloqueado: contiene keyword 'robo')_
+- Robo en una sucursal de Bahillo: un ladrón rompió la vidriera y se llevó la caja registradora — https://diarioelsol.com.ar/contenido/62422/robo-en-una-sucursal-de-bahillo-un-ladron-rompio-la-vidriera-y-se-llevo-la-caja- _(bloqueado: contiene keyword 'robo')_
+- Intervención policial para resguardar un equino en mal estado de salud — https://diarioelsol.com.ar/contenido/62421/intervencion-policial-para-resguardar-un-equino-en-mal-estado-de-salud _(bloqueado: contiene keyword 'policial')_
+- Otro allanamiento por drogas y un nuevo detenido por la venta de cocaína. — https://diarioelsol.com.ar/contenido/62430/otro-allanamiento-por-drogas-y-un-nuevo-detenido-por-la-venta-de-cocaina _(bloqueado: contiene keyword 'detenido')_
