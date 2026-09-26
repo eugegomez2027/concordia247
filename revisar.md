@@ -2640,3 +2640,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-25 10:56 UTC
 - El misterioso "sello del delfín": qué significa la marca que aparece en paquetes de cocaína secuestrados en allanamientos — https://diarioelsol.com.ar/contenido/62391/el-misterioso-sello-del-delfin-que-significa-la-marca-que-aparece-en-paquetes-de _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-09-26 02:59 UTC
+- Dos allanamientos simultáneos por una causa de estafa en General Campos — https://concordia24.com.ar/dos-allanamientos-simultaneos-por-una-causa-de-estafa-en-general-campos/ _(bloqueado: contiene keyword 'policía')_
+- Golpe al narcotráfico en Santa Fe: secuestraron más de 20 kilos de marihuana y detuvieron a tres personas — https://concordia24.com.ar/golpe-al-narcotrafico-en-santa-fe-secuestraron-mas-de-20-kilos-de-marihuana-y-detuvieron-a-tres-personas/ _(bloqueado: contiene keyword 'allanamiento')_
