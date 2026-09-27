@@ -2656,3 +2656,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-26 20:30 UTC
 - Jóvenes de Libertad Asistida participaron de una jornada socioeducativa en Paraná — https://concordia24.com.ar/jovenes-de-libertad-asistida-participaron-de-una-jornada-socioeducativa-en-parana/ _(bloqueado: contiene keyword 'adolescente')_
+
+
+## Tanda 2026-09-27 03:03 UTC
+- Tres detenidos tras recuperar un motor y un motoreductor robados de un aserradero — https://concordia24.com.ar/tres-detenidos-tras-recuperar-un-motor-y-un-motoreductor-robados-de-un-aserradero/ _(bloqueado: contiene keyword 'policía')_
