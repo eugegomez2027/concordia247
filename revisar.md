@@ -2665,3 +2665,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-09-27 16:11 UTC
 - Detienen a joven entrerriana que arrojaba piedras a la casa de su ex — https://diarioelsol.com.ar/contenido/62465/detienen-a-joven-entrerriana-que-arrojaba-piedras-a-la-casa-de-su-ex _(bloqueado: contiene keyword 'policía')_
 - Toque de queda para niños en Italia: los padres pueden pagar 500 euros si sus hijos salen solos de noche — https://diarioelsol.com.ar/contenido/62469/toque-de-queda-para-ninos-en-italia-los-padres-pueden-pagar-500-euros-si-sus-hij _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-09-27 20:41 UTC
+- El comerciante que mató a un menor al evitar el robo de su camioneta pidió resguardo en la cárcel porque teme por su vida — https://diarioelsol.com.ar/contenido/62475/el-comerciante-que-mato-a-un-menor-al-evitar-el-robo-de-su-camioneta-pidio-resgu _(bloqueado: contiene keyword 'asesin')_
