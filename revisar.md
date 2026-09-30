@@ -2677,3 +2677,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-30 11:44 UTC
 - El caso de la nena que era buscada en San Luis y apareció dormida horas después en el mismo predio donde vive — https://diarioelsol.com.ar/contenido/62563/el-caso-de-la-nena-que-era-buscada-en-san-luis-y-aparecio-dormida-horas-despues- _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-09-30 17:24 UTC
+- OTRA VEZ SOPA !!: Seguirá lloviendo este jueves y aumenta el caudal hídrico del río Uruguay. — https://diarioelsol.com.ar/contenido/62565/otra-vez-sopa-seguira-lloviendo-este-jueves-y-aumenta-el-caudal-hidrico-del-rio- _(bloqueado: contiene keyword 'niño')_
