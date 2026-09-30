@@ -2673,3 +2673,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-30 03:28 UTC
 - Uno de los detenidos por el "escaneo de ojos" está relacionado con el dueño de Sur Finanzas, el concordiense Ariel Vallejo — https://diarioelsol.com.ar/contenido/62537/uno-de-los-detenidos-por-el-escaneo-de-ojos-esta-relacionado-con-el-dueno-de-sur _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-09-30 11:44 UTC
+- El caso de la nena que era buscada en San Luis y apareció dormida horas después en el mismo predio donde vive — https://diarioelsol.com.ar/contenido/62563/el-caso-de-la-nena-que-era-buscada-en-san-luis-y-aparecio-dormida-horas-despues- _(bloqueado: contiene keyword 'menor')_
