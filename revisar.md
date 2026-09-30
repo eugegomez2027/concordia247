@@ -2681,3 +2681,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-30 17:24 UTC
 - OTRA VEZ SOPA !!: Seguirá lloviendo este jueves y aumenta el caudal hídrico del río Uruguay. — https://diarioelsol.com.ar/contenido/62565/otra-vez-sopa-seguira-lloviendo-este-jueves-y-aumenta-el-caudal-hidrico-del-rio- _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-09-30 21:45 UTC
+- El comisario Rosatelli fue alojado en la cárcel y será indagado en las próximas horas — https://diarioelsol.com.ar/contenido/62566/el-comisario-rosatelli-fue-alojado-en-la-carcel-y-sera-indagado-en-las-proximas- _(bloqueado: contiene keyword 'detenido')_
