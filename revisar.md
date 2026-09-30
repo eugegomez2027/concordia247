@@ -2669,3 +2669,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-27 20:41 UTC
 - El comerciante que mató a un menor al evitar el robo de su camioneta pidió resguardo en la cárcel porque teme por su vida — https://diarioelsol.com.ar/contenido/62475/el-comerciante-que-mato-a-un-menor-al-evitar-el-robo-de-su-camioneta-pidio-resgu _(bloqueado: contiene keyword 'asesin')_
+
+
+## Tanda 2026-09-30 03:28 UTC
+- Uno de los detenidos por el "escaneo de ojos" está relacionado con el dueño de Sur Finanzas, el concordiense Ariel Vallejo — https://diarioelsol.com.ar/contenido/62537/uno-de-los-detenidos-por-el-escaneo-de-ojos-esta-relacionado-con-el-dueno-de-sur _(bloqueado: contiene keyword 'detenido')_
