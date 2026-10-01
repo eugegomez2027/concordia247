@@ -2694,3 +2694,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Detención de Rosatelli: Roncaglia negó una venganza por el 911 y no descartó la participación de más policías — https://diarioelsol.com.ar/contenido/62593/detencion-de-rosatelli-roncaglia-nego-una-venganza-por-el-911-y-no-descarto-la-p _(bloqueado: contiene keyword 'policía')_
 - Demoran a cuatro adolescentes por una réplica de arma en la vía pública — https://diarioelsol.com.ar/contenido/62588/demoran-a-cuatro-adolescentes-por-una-replica-de-arma-en-la-via-publica _(bloqueado: contiene keyword 'policía')_
 - Una cuenta policial volvió a activarse y apuntó contra la cúpula tras la detención de Rosatelli — https://diarioelsol.com.ar/contenido/62597/una-cuenta-policial-volvio-a-activarse-y-apunto-contra-la-cupula-tras-la-detenci _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-10-01 22:13 UTC
+- Condenaron a 10 años de prisión a un hombre que intentó asesinar a su expareja — https://diarioelsol.com.ar/contenido/62594/condenaron-a-10-anos-de-prision-a-un-hombre-que-intento-asesinar-a-su-expareja _(bloqueado: contiene keyword 'asesin')_
+- Rodrigo Lussich acusó a Fernando Cerimedo de estafa inmobiliaria a su familia: "Nunca devolvió la plata" — https://diarioelsol.com.ar/contenido/62602/rodrigo-lussich-acuso-a-fernando-cerimedo-de-estafa-inmobiliaria-a-su-familia-nu _(bloqueado: contiene keyword 'acusó')_
