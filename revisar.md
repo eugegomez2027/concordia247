@@ -2685,3 +2685,12 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-09-30 21:45 UTC
 - El comisario Rosatelli fue alojado en la cárcel y será indagado en las próximas horas — https://diarioelsol.com.ar/contenido/62566/el-comisario-rosatelli-fue-alojado-en-la-carcel-y-sera-indagado-en-las-proximas- _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-10-01 12:13 UTC
+- La Alcaldía de París le pide al canciller de Francia que investigue los polémicos manejos de la Casa Argentina en esa ciudad — https://diarioelsol.com.ar/contenido/62585/la-alcaldia-de-paris-le-pide-al-canciller-de-francia-que-investigue-los-polemico _(bloqueado: contiene keyword 'denuncia')_
+- Allanamientos por una causa de estafa con cheques robados: secuestro de aberturas, camionetas, armas de fuego y cartuchería, y un hombre detenido — https://diarioelsol.com.ar/contenido/62584/allanamientos-por-una-causa-de-estafa-con-cheques-robados-secuestro-de-aberturas _(bloqueado: contiene keyword 'detenido')_
+- Federal: secuestraron un automóvil por una causa de amenazas y detuvieron a un hombre por violencia de género — https://concordia24.com.ar/federal-secuestraron-un-automovil-por-una-causa-de-amenazas-y-detuvieron-a-un-hombre-por-violencia-de-genero/ _(bloqueado: contiene keyword 'policial')_
+- Detención de Rosatelli: Roncaglia negó una venganza por el 911 y no descartó la participación de más policías — https://diarioelsol.com.ar/contenido/62593/detencion-de-rosatelli-roncaglia-nego-una-venganza-por-el-911-y-no-descarto-la-p _(bloqueado: contiene keyword 'policía')_
+- Demoran a cuatro adolescentes por una réplica de arma en la vía pública — https://diarioelsol.com.ar/contenido/62588/demoran-a-cuatro-adolescentes-por-una-replica-de-arma-en-la-via-publica _(bloqueado: contiene keyword 'policía')_
+- Una cuenta policial volvió a activarse y apuntó contra la cúpula tras la detención de Rosatelli — https://diarioelsol.com.ar/contenido/62597/una-cuenta-policial-volvio-a-activarse-y-apunto-contra-la-cupula-tras-la-detenci _(bloqueado: contiene keyword 'policial')_
