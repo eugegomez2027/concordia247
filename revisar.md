@@ -2699,3 +2699,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-10-01 22:13 UTC
 - Condenaron a 10 años de prisión a un hombre que intentó asesinar a su expareja — https://diarioelsol.com.ar/contenido/62594/condenaron-a-10-anos-de-prision-a-un-hombre-que-intento-asesinar-a-su-expareja _(bloqueado: contiene keyword 'asesin')_
 - Rodrigo Lussich acusó a Fernando Cerimedo de estafa inmobiliaria a su familia: "Nunca devolvió la plata" — https://diarioelsol.com.ar/contenido/62602/rodrigo-lussich-acuso-a-fernando-cerimedo-de-estafa-inmobiliaria-a-su-familia-nu _(bloqueado: contiene keyword 'acusó')_
+
+
+## Tanda 2026-10-02 17:14 UTC
+- Operativo de saturación: detuvieron a una joven con cocaína fraccionada y $390.000 — https://concordia24.com.ar/operativo-de-saturacion-detuvieron-a-una-joven-con-cocaina-fraccionada-y-390-000/ _(bloqueado: contiene keyword 'policial')_
