@@ -2712,3 +2712,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-03 10:56 UTC
 - En Federación se realizó un encuentro donde personal de CTM informó sobre el Fenómeno Climático “El Niño” — https://concordia24.com.ar/en-federacion-se-realizo-un-encuentro-donde-personal-de-ctm-informo-sobre-el-fenomeno-climatico-el-nino/ _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-10-03 15:32 UTC
+- Próvolo: la Corte de Mendoza condenó a la monja Kosaka por abusos a niños y niñas en el instituto religioso — https://diarioelsol.com.ar/contenido/62637/provolo-la-corte-de-mendoza-condeno-a-la-monja-kosaka-por-abusos-a-ninos-y-ninas _(bloqueado: contiene keyword 'niño')_
+- Fernando Cerimedo quedó alojado en la cárcel de Palmasola para cumplir 180 días de prisión preventiva — https://diarioelsol.com.ar/contenido/62636/fernando-cerimedo-quedo-alojado-en-la-carcel-de-palmasola-para-cumplir-180-dias- _(bloqueado: contiene keyword 'detenido')_
+- Tras el intento frustrado, demolieron la casona señalada por contrabando en la Pampa Soler — https://diarioelsol.com.ar/contenido/62644/tras-el-intento-frustrado-demolieron-la-casona-senalada-por-contrabando-en-la-pa _(bloqueado: contiene keyword 'policía')_
