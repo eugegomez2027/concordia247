@@ -2718,3 +2718,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Próvolo: la Corte de Mendoza condenó a la monja Kosaka por abusos a niños y niñas en el instituto religioso — https://diarioelsol.com.ar/contenido/62637/provolo-la-corte-de-mendoza-condeno-a-la-monja-kosaka-por-abusos-a-ninos-y-ninas _(bloqueado: contiene keyword 'niño')_
 - Fernando Cerimedo quedó alojado en la cárcel de Palmasola para cumplir 180 días de prisión preventiva — https://diarioelsol.com.ar/contenido/62636/fernando-cerimedo-quedo-alojado-en-la-carcel-de-palmasola-para-cumplir-180-dias- _(bloqueado: contiene keyword 'detenido')_
 - Tras el intento frustrado, demolieron la casona señalada por contrabando en la Pampa Soler — https://diarioelsol.com.ar/contenido/62644/tras-el-intento-frustrado-demolieron-la-casona-senalada-por-contrabando-en-la-pa _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-10-03 20:26 UTC
+- Policías salvaron la vida de una bebé de tres meses que había dejado de respirar en Concordia — https://concordia24.com.ar/policias-salvaron-la-vida-de-una-bebe-de-tres-meses-que-habia-dejado-de-respirar-en-concordia/ _(bloqueado: contiene keyword 'policía')_
