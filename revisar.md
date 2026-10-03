@@ -2703,3 +2703,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-02 17:14 UTC
 - Operativo de saturación: detuvieron a una joven con cocaína fraccionada y $390.000 — https://concordia24.com.ar/operativo-de-saturacion-detuvieron-a-una-joven-con-cocaina-fraccionada-y-390-000/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-10-03 03:17 UTC
+- Violento choque frontal en Ruta 18: hay tres personas heridas — https://diarioelsol.com.ar/contenido/62625/violento-choque-frontal-en-ruta-18-hay-tres-personas-heridas _(bloqueado: URL contiene '/viol')_
+- Un niño de dos años murió tras caer a un pozo ciego en una vivienda de La Paz — https://diarioelsol.com.ar/contenido/62624/un-nino-de-dos-anos-murio-tras-caer-a-un-pozo-ciego-en-una-vivienda-de-la-paz _(bloqueado: contiene keyword 'niño')_
