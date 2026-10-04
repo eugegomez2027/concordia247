@@ -2722,3 +2722,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-03 20:26 UTC
 - Policías salvaron la vida de una bebé de tres meses que había dejado de respirar en Concordia — https://concordia24.com.ar/policias-salvaron-la-vida-de-una-bebe-de-tres-meses-que-habia-dejado-de-respirar-en-concordia/ _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-10-04 03:45 UTC
+- Conductor alcoholizado chocó varios autos, intentó huir y terminó detenido: la camioneta tenía pedido de secuestro — https://concordia24.com.ar/conductor-alcoholizado-choco-varios-autos-intento-huir-y-termino-detenido-la-camioneta-tenia-pedido-de-secuestro/ _(bloqueado: contiene keyword 'detenido')_
