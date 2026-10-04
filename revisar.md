@@ -2732,3 +2732,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Nadia Beller recibe el alta y sale en silla de ruedas de la clínica, en medio de resguardo policial — https://diarioelsol.com.ar/contenido/62654/nadia-beller-recibe-el-alta-y-sale-en-silla-de-ruedas-de-la-clinica-en-medio-de- _(bloqueado: contiene keyword 'policial')_
 - El área que comprende Salto Grande se prepara por el fenómeno “El niño” — https://diarioelsol.com.ar/contenido/62653/el-area-que-comprende-salto-grande-se-prepara-por-el-fenomeno-el-nino _(bloqueado: contiene keyword 'niño')_
 - Con orden judicial allanaron una casa y rescataron tres perros que estaban atados y desnutridos. — https://diarioelsol.com.ar/contenido/62652/con-orden-judicial-allanaron-una-casa-y-rescataron-tres-perros-que-estaban-atado _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-10-04 20:45 UTC
+- Quebrado ofrecía cebollines de cocaína "al paso", lo llevaron preso con muletas y todo. — https://diarioelsol.com.ar/contenido/62661/quebrado-ofrecia-cebollines-de-cocaina-al-paso-lo-llevaron-preso-con-muletas-y-t _(bloqueado: contiene keyword 'policía')_
+- Se equivocaron de blanco: asaltaron a dos policías y murieron acribillados a balazos. — https://diarioelsol.com.ar/contenido/62656/se-equivocaron-de-blanco-asaltaron-a-dos-policias-y-murieron-acribillados-a-bala _(bloqueado: contiene keyword 'policía')_
