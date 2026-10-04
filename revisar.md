@@ -2726,3 +2726,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-04 03:45 UTC
 - Conductor alcoholizado chocó varios autos, intentó huir y terminó detenido: la camioneta tenía pedido de secuestro — https://concordia24.com.ar/conductor-alcoholizado-choco-varios-autos-intento-huir-y-termino-detenido-la-camioneta-tenia-pedido-de-secuestro/ _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-10-04 11:38 UTC
+- Nadia Beller recibe el alta y sale en silla de ruedas de la clínica, en medio de resguardo policial — https://diarioelsol.com.ar/contenido/62654/nadia-beller-recibe-el-alta-y-sale-en-silla-de-ruedas-de-la-clinica-en-medio-de- _(bloqueado: contiene keyword 'policial')_
+- El área que comprende Salto Grande se prepara por el fenómeno “El niño” — https://diarioelsol.com.ar/contenido/62653/el-area-que-comprende-salto-grande-se-prepara-por-el-fenomeno-el-nino _(bloqueado: contiene keyword 'niño')_
+- Con orden judicial allanaron una casa y rescataron tres perros que estaban atados y desnutridos. — https://diarioelsol.com.ar/contenido/62652/con-orden-judicial-allanaron-una-casa-y-rescataron-tres-perros-que-estaban-atado _(bloqueado: contiene keyword 'allanamiento')_
