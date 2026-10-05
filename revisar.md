@@ -2741,3 +2741,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-05 03:30 UTC
 - La gripe alcanzó un récord de contagios en Argentina: superó los 790 mil casos en lo que va del 2026 — https://diarioelsol.com.ar/contenido/62672/la-gripe-alcanzo-un-record-de-contagios-en-argentina-supero-los-790-mil-casos-en _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-10-05 13:17 UTC
+- Dos menores de 15 años fueron aprehendidos: uno con drogas y dinero y otro con un revólver calibre .38 — https://concordia24.com.ar/dos-menores-de-15-anos-fueron-aprehendidos-uno-con-drogas-y-dinero-y-otro-con-un-revolver-calibre-38/ _(bloqueado: contiene keyword 'policial')_
+- Marcos Senesi tuvo un gesto solidario con los niños internados en el Hospital Masvernat — https://diarioelsol.com.ar/contenido/62678/marcos-senesi-tuvo-un-gesto-solidario-con-los-ninos-internados-en-el-hospital-ma _(bloqueado: contiene keyword 'niño')_
