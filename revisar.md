@@ -2737,3 +2737,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-10-04 20:45 UTC
 - Quebrado ofrecía cebollines de cocaína "al paso", lo llevaron preso con muletas y todo. — https://diarioelsol.com.ar/contenido/62661/quebrado-ofrecia-cebollines-de-cocaina-al-paso-lo-llevaron-preso-con-muletas-y-t _(bloqueado: contiene keyword 'policía')_
 - Se equivocaron de blanco: asaltaron a dos policías y murieron acribillados a balazos. — https://diarioelsol.com.ar/contenido/62656/se-equivocaron-de-blanco-asaltaron-a-dos-policias-y-murieron-acribillados-a-bala _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-10-05 03:30 UTC
+- La gripe alcanzó un récord de contagios en Argentina: superó los 790 mil casos en lo que va del 2026 — https://diarioelsol.com.ar/contenido/62672/la-gripe-alcanzo-un-record-de-contagios-en-argentina-supero-los-790-mil-casos-en _(bloqueado: contiene keyword 'menor')_
