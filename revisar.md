@@ -2746,3 +2746,12 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-10-05 13:17 UTC
 - Dos menores de 15 años fueron aprehendidos: uno con drogas y dinero y otro con un revólver calibre .38 — https://concordia24.com.ar/dos-menores-de-15-anos-fueron-aprehendidos-uno-con-drogas-y-dinero-y-otro-con-un-revolver-calibre-38/ _(bloqueado: contiene keyword 'policial')_
 - Marcos Senesi tuvo un gesto solidario con los niños internados en el Hospital Masvernat — https://diarioelsol.com.ar/contenido/62678/marcos-senesi-tuvo-un-gesto-solidario-con-los-ninos-internados-en-el-hospital-ma _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-10-06 04:18 UTC
+- Dos detenidos con 39 envoltorios de cocaína tras un procedimiento policial — https://concordia24.com.ar/206214-2/ _(bloqueado: contiene keyword 'policial')_
+- Federal: Dos detenidos por desobediencia judicial durante la tarde de este lunes — https://concordia24.com.ar/federal-dos-detenidos-por-desobediencia-judicial-durante-la-tarde-de-este-lunes/ _(bloqueado: contiene keyword 'detenido')_
+- Tres detenidos por una conexión eléctrica clandestina en Concordia — https://concordia24.com.ar/tres-detenidos-por-una-conexion-electrica-clandestina-en-concordia/ _(bloqueado: contiene keyword 'detenido')_
+- Unión por la Patria impulsa una ley para regular los créditos de las billeteras virtuales — https://diarioelsol.com.ar/contenido/62682/union-por-la-patria-impulsa-una-ley-para-regular-los-creditos-de-las-billeteras- _(bloqueado: contiene keyword 'menor')_
+- La expareja de Cerimedo denunció otro intento de ataque cuando estuvo internada — https://diarioelsol.com.ar/contenido/62681/la-expareja-de-cerimedo-denuncio-otro-intento-de-ataque-cuando-estuvo-internada _(bloqueado: contiene keyword 'denunció')_
+- Un policía descarriló su auto dentro de un arroyo en la ruta 14. — https://diarioelsol.com.ar/contenido/62683/un-policia-descarrilo-su-auto-dentro-de-un-arroyo-en-la-ruta-14 _(bloqueado: contiene keyword 'policía')_
