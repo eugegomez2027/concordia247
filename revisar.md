@@ -2760,3 +2760,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-10-07 03:44 UTC
 - La Policía Federal Argentina desbarató una importante organización criminal por comercio ilegal de mercaderías desde Paraguay hasta Uruguay — https://concordia24.com.ar/la-policia-federal-argentina-desbarato-una-importante-organizacion-criminal-por-comercio-ilegal-de-mercaderias-desde-paraguay-hasta-uruguay/ _(bloqueado: contiene keyword 'policía')_
 - Monseñor Raúl Martín celebró la Santa Misa en la Jefatura Central de Policía — https://concordia24.com.ar/monsenor-raul-martin-celebro-la-santa-misa-en-la-jefatura-central-de-policia/ _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-10-07 12:27 UTC
+- Se conocieron estremecedores chats del menor acusado del femicidio en Alvear — https://diarioelsol.com.ar/contenido/62712/se-conocieron-estremecedores-chats-del-menor-acusado-del-femicidio-en-alvear _(bloqueado: contiene keyword 'asesin')_
+- Chats filtrados destapan el vínculo entre Silvina Murúa y un empresario clave de la causa Comedores — https://diarioelsol.com.ar/contenido/62717/chats-filtrados-destapan-el-vinculo-entre-silvina-murua-y-un-empresario-clave-de _(bloqueado: contiene keyword 'imputado')_
