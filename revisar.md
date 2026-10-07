@@ -2755,3 +2755,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Unión por la Patria impulsa una ley para regular los créditos de las billeteras virtuales — https://diarioelsol.com.ar/contenido/62682/union-por-la-patria-impulsa-una-ley-para-regular-los-creditos-de-las-billeteras- _(bloqueado: contiene keyword 'menor')_
 - La expareja de Cerimedo denunció otro intento de ataque cuando estuvo internada — https://diarioelsol.com.ar/contenido/62681/la-expareja-de-cerimedo-denuncio-otro-intento-de-ataque-cuando-estuvo-internada _(bloqueado: contiene keyword 'denunció')_
 - Un policía descarriló su auto dentro de un arroyo en la ruta 14. — https://diarioelsol.com.ar/contenido/62683/un-policia-descarrilo-su-auto-dentro-de-un-arroyo-en-la-ruta-14 _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-10-07 03:44 UTC
+- La Policía Federal Argentina desbarató una importante organización criminal por comercio ilegal de mercaderías desde Paraguay hasta Uruguay — https://concordia24.com.ar/la-policia-federal-argentina-desbarato-una-importante-organizacion-criminal-por-comercio-ilegal-de-mercaderias-desde-paraguay-hasta-uruguay/ _(bloqueado: contiene keyword 'policía')_
+- Monseñor Raúl Martín celebró la Santa Misa en la Jefatura Central de Policía — https://concordia24.com.ar/monsenor-raul-martin-celebro-la-santa-misa-en-la-jefatura-central-de-policia/ _(bloqueado: contiene keyword 'policía')_
