@@ -2765,3 +2765,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-10-07 12:27 UTC
 - Se conocieron estremecedores chats del menor acusado del femicidio en Alvear — https://diarioelsol.com.ar/contenido/62712/se-conocieron-estremecedores-chats-del-menor-acusado-del-femicidio-en-alvear _(bloqueado: contiene keyword 'asesin')_
 - Chats filtrados destapan el vínculo entre Silvina Murúa y un empresario clave de la causa Comedores — https://diarioelsol.com.ar/contenido/62717/chats-filtrados-destapan-el-vinculo-entre-silvina-murua-y-un-empresario-clave-de _(bloqueado: contiene keyword 'imputado')_
+
+
+## Tanda 2026-10-08 12:36 UTC
+- Una ciclista fue derivada a Concordia tras ser embestida por un camión — https://diarioelsol.com.ar/contenido/62743/una-ciclista-fue-derivada-a-concordia-tras-ser-embestida-por-un-camion _(bloqueado: contiene keyword 'adolescente')_
+- Juicio por Loan: declaran un policía, un periodista y un camarógrafo — https://diarioelsol.com.ar/contenido/62742/juicio-por-loan-declaran-un-policia-un-periodista-y-un-camarografo _(bloqueado: contiene keyword 'policía')_
+- Allanamientos por amenazas armadas: un detenido, drogas y municiones secuestradas — https://diarioelsol.com.ar/contenido/62744/allanamientos-por-amenazas-armadas-un-detenido-drogas-y-municiones-secuestradas _(bloqueado: contiene keyword 'policía')_
