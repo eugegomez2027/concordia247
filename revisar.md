@@ -2771,3 +2771,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Una ciclista fue derivada a Concordia tras ser embestida por un camión — https://diarioelsol.com.ar/contenido/62743/una-ciclista-fue-derivada-a-concordia-tras-ser-embestida-por-un-camion _(bloqueado: contiene keyword 'adolescente')_
 - Juicio por Loan: declaran un policía, un periodista y un camarógrafo — https://diarioelsol.com.ar/contenido/62742/juicio-por-loan-declaran-un-policia-un-periodista-y-un-camarografo _(bloqueado: contiene keyword 'policía')_
 - Allanamientos por amenazas armadas: un detenido, drogas y municiones secuestradas — https://diarioelsol.com.ar/contenido/62744/allanamientos-por-amenazas-armadas-un-detenido-drogas-y-municiones-secuestradas _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-10-08 22:43 UTC
+- Asalto a mano armada de un Banco en Pando. — https://diarioelsol.com.ar/contenido/62750/asalto-a-mano-armada-de-un-banco-en-pando _(bloqueado: contiene keyword 'asalto')_
+- “Respuestas, no discursos”: Agmer para por 48 horas y denuncia una pérdida salarial del 16,1% — https://diarioelsol.com.ar/contenido/62748/respuestas-no-discursos-agmer-para-por-48-horas-y-denuncia-una-perdida-salarial- _(bloqueado: contiene keyword 'denuncia')_
