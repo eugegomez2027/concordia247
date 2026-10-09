@@ -2776,3 +2776,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-10-08 22:43 UTC
 - Asalto a mano armada de un Banco en Pando. — https://diarioelsol.com.ar/contenido/62750/asalto-a-mano-armada-de-un-banco-en-pando _(bloqueado: contiene keyword 'asalto')_
 - “Respuestas, no discursos”: Agmer para por 48 horas y denuncia una pérdida salarial del 16,1% — https://diarioelsol.com.ar/contenido/62748/respuestas-no-discursos-agmer-para-por-48-horas-y-denuncia-una-perdida-salarial- _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-10-09 04:03 UTC
+- Intervención por presunto maltrato animal: dos perros fueron retirados y puestos bajo resguardo municipal — https://concordia24.com.ar/intervencion-por-presunto-maltrato-animal-dos-perros-fueron-retirados-y-puestos-bajo-resguardo-municipal/ _(bloqueado: contiene keyword 'denuncia')_
+- La defensa de Daniel Rosatelli habla de una causa armada y apunta a una venganza institucional — https://diarioelsol.com.ar/contenido/62757/la-defensa-de-daniel-rosatelli-habla-de-una-causa-armada-y-apunta-a-una-venganza _(bloqueado: contiene keyword 'denuncia')_
