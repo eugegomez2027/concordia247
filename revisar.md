@@ -2795,3 +2795,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-10 11:44 UTC
 - Robo en Tatutí: cuatro detenidos y autos secuestrados tras mega operativo con allanamientos en Chajarí y Federación — https://diarioelsol.com.ar/contenido/62762/robo-en-tatuti-cuatro-detenidos-y-autos-secuestrados-tras-mega-operativo-con-all _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-10-10 16:45 UTC
+- Rechazaron la excarcelación del comisario Rosatelli en la causa que lo investiga por presuntos vínculos con el narcotráfico — https://diarioelsol.com.ar/contenido/62786/rechazaron-la-excarcelacion-del-comisario-rosatelli-en-la-causa-que-lo-investiga _(bloqueado: contiene keyword 'presunto')_
+- Súper Niño en Entre Ríos: ganaderos apuran el traslado de hacienda del Delta por temor a inundaciones — https://diarioelsol.com.ar/contenido/62784/super-nino-en-entre-rios-ganaderos-apuran-el-traslado-de-hacienda-del-delta-por- _(bloqueado: contiene keyword 'niño')_
+- Policías asistieron a un niño descompensado y desmayado en Yuquerí y San Lorenzo. — https://diarioelsol.com.ar/contenido/62783/policias-asistieron-a-un-nino-descompensado-y-desmayado-en-yuqueri-y-san-lorenzo _(bloqueado: contiene keyword 'policía')_
