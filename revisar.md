@@ -2791,3 +2791,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Judiciales anticipan un escenario de conflicto si avanza el proyecto de derogación de la Ley de Enganche — https://diarioelsol.com.ar/contenido/62761/judiciales-anticipan-un-escenario-de-conflicto-si-avanza-el-proyecto-de-derogaci _(bloqueado: URL contiene '/judicial')_
 - “Las quiero a todas ataditas”: 15 detenidos por las torturas y violaciones a presas en el penal de Magdalena — https://diarioelsol.com.ar/contenido/62760/las-quiero-a-todas-ataditas-15-detenidos-por-las-torturas-y-violaciones-a-presas _(bloqueado: contiene keyword 'detenido')_
 - Pagliotto advirtió que si Tecnofoods comienza a distribuir alimentos en las escuelas denunciará penalmente a Frigerio — https://diarioelsol.com.ar/contenido/62759/pagliotto-advirtio-que-si-tecnofoods-comienza-a-distribuir-alimentos-en-las-escu _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-10-10 11:44 UTC
+- Robo en Tatutí: cuatro detenidos y autos secuestrados tras mega operativo con allanamientos en Chajarí y Federación — https://diarioelsol.com.ar/contenido/62762/robo-en-tatuti-cuatro-detenidos-y-autos-secuestrados-tras-mega-operativo-con-all _(bloqueado: contiene keyword 'policial')_
