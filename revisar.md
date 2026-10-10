@@ -2801,3 +2801,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Rechazaron la excarcelación del comisario Rosatelli en la causa que lo investiga por presuntos vínculos con el narcotráfico — https://diarioelsol.com.ar/contenido/62786/rechazaron-la-excarcelacion-del-comisario-rosatelli-en-la-causa-que-lo-investiga _(bloqueado: contiene keyword 'presunto')_
 - Súper Niño en Entre Ríos: ganaderos apuran el traslado de hacienda del Delta por temor a inundaciones — https://diarioelsol.com.ar/contenido/62784/super-nino-en-entre-rios-ganaderos-apuran-el-traslado-de-hacienda-del-delta-por- _(bloqueado: contiene keyword 'niño')_
 - Policías asistieron a un niño descompensado y desmayado en Yuquerí y San Lorenzo. — https://diarioelsol.com.ar/contenido/62783/policias-asistieron-a-un-nino-descompensado-y-desmayado-en-yuqueri-y-san-lorenzo _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-10-10 20:59 UTC
+- “Hay dos prófugos y se los busca en toda la provincia”: habló el jefe policial tras el megaoperativo en Chajarí-Federación. — https://diarioelsol.com.ar/contenido/62787/hay-dos-profugos-y-se-los-busca-en-toda-la-provincia-hablo-el-jefe-policial-tras _(bloqueado: contiene keyword 'policial')_
+- Se entregó uno de los prófugos por el millonario robo en Federación — https://diarioelsol.com.ar/contenido/62791/se-entrego-uno-de-los-profugos-por-el-millonario-robo-en-federacion _(bloqueado: contiene keyword 'robo')_
