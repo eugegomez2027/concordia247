@@ -2785,3 +2785,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-09 22:06 UTC
 - El gobierno provincial refuerza las acciones de prevención ante el avance del fenómeno El Niño — https://concordia24.com.ar/el-gobierno-provincial-refuerza-las-acciones-de-prevencion-ante-el-avance-del-fenomeno-el-nino/ _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-10-10 03:48 UTC
+- Judiciales anticipan un escenario de conflicto si avanza el proyecto de derogación de la Ley de Enganche — https://diarioelsol.com.ar/contenido/62761/judiciales-anticipan-un-escenario-de-conflicto-si-avanza-el-proyecto-de-derogaci _(bloqueado: URL contiene '/judicial')_
+- “Las quiero a todas ataditas”: 15 detenidos por las torturas y violaciones a presas en el penal de Magdalena — https://diarioelsol.com.ar/contenido/62760/las-quiero-a-todas-ataditas-15-detenidos-por-las-torturas-y-violaciones-a-presas _(bloqueado: contiene keyword 'detenido')_
+- Pagliotto advirtió que si Tecnofoods comienza a distribuir alimentos en las escuelas denunciará penalmente a Frigerio — https://diarioelsol.com.ar/contenido/62759/pagliotto-advirtio-que-si-tecnofoods-comienza-a-distribuir-alimentos-en-las-escu _(bloqueado: contiene keyword 'denuncia')_
