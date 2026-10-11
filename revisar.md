@@ -2806,3 +2806,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-10-10 20:59 UTC
 - “Hay dos prófugos y se los busca en toda la provincia”: habló el jefe policial tras el megaoperativo en Chajarí-Federación. — https://diarioelsol.com.ar/contenido/62787/hay-dos-profugos-y-se-los-busca-en-toda-la-provincia-hablo-el-jefe-policial-tras _(bloqueado: contiene keyword 'policial')_
 - Se entregó uno de los prófugos por el millonario robo en Federación — https://diarioelsol.com.ar/contenido/62791/se-entrego-uno-de-los-profugos-por-el-millonario-robo-en-federacion _(bloqueado: contiene keyword 'robo')_
+
+
+## Tanda 2026-10-11 03:22 UTC
+- Paz ordena investigar todas las denuncias que rodean a su asesor Cerimedo — https://diarioelsol.com.ar/contenido/62798/paz-ordena-investigar-todas-las-denuncias-que-rodean-a-su-asesor-cerimedo _(bloqueado: contiene keyword 'denuncia')_
+- OTRA VEZ SOPA !!  anuncian lluvia débil para hoy jueves y tormentas con ALERTA AMARILLO para el viernes. — https://diarioelsol.com.ar/contenido/62803/otra-vez-sopa-anuncian-lluvia-debil-para-manana-jueves-y-tormentas-con-alerta-am _(bloqueado: contiene keyword 'niño')_
+- El emotivo relato de un profesor tras ayudar a una joven en el puente Chaco-Corrientes — https://diarioelsol.com.ar/contenido/62802/el-emotivo-relato-de-un-profesor-tras-ayudar-a-una-joven-en-el-puente-chaco-corr _(bloqueado: contiene keyword 'adolescente')_
