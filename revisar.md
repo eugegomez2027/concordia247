@@ -2812,3 +2812,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Paz ordena investigar todas las denuncias que rodean a su asesor Cerimedo — https://diarioelsol.com.ar/contenido/62798/paz-ordena-investigar-todas-las-denuncias-que-rodean-a-su-asesor-cerimedo _(bloqueado: contiene keyword 'denuncia')_
 - OTRA VEZ SOPA !!  anuncian lluvia débil para hoy jueves y tormentas con ALERTA AMARILLO para el viernes. — https://diarioelsol.com.ar/contenido/62803/otra-vez-sopa-anuncian-lluvia-debil-para-manana-jueves-y-tormentas-con-alerta-am _(bloqueado: contiene keyword 'niño')_
 - El emotivo relato de un profesor tras ayudar a una joven en el puente Chaco-Corrientes — https://diarioelsol.com.ar/contenido/62802/el-emotivo-relato-de-un-profesor-tras-ayudar-a-una-joven-en-el-puente-chaco-corr _(bloqueado: contiene keyword 'adolescente')_
+
+
+## Tanda 2026-10-11 11:56 UTC
+- En Feliciano atraparon a un prófugo y son seis los detenidos por el millonario robo a una estancia — https://diarioelsol.com.ar/contenido/62807/en-feliciano-atraparon-a-un-profugo-y-son-seis-los-detenidos-por-el-millonario-r _(bloqueado: contiene keyword 'policía')_
+- Millonario robo: “El detenido dijo haber tragado bolsas de cocaína” por lo que fue trasladado al hospital Masvernat. — https://diarioelsol.com.ar/contenido/62811/millonario-robo-el-detenido-dijo-haber-tragado-bolsas-de-cocaina _(bloqueado: contiene keyword 'robo')_
