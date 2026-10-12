@@ -2817,3 +2817,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-10-11 11:56 UTC
 - En Feliciano atraparon a un prófugo y son seis los detenidos por el millonario robo a una estancia — https://diarioelsol.com.ar/contenido/62807/en-feliciano-atraparon-a-un-profugo-y-son-seis-los-detenidos-por-el-millonario-r _(bloqueado: contiene keyword 'policía')_
 - Millonario robo: “El detenido dijo haber tragado bolsas de cocaína” por lo que fue trasladado al hospital Masvernat. — https://diarioelsol.com.ar/contenido/62811/millonario-robo-el-detenido-dijo-haber-tragado-bolsas-de-cocaina _(bloqueado: contiene keyword 'robo')_
+
+
+## Tanda 2026-10-12 03:45 UTC
+- Fin de la causa contra Marcelo Corazza: la justicia lo liberó de culpa y cargo por corrupción de menores — https://diarioelsol.com.ar/contenido/62817/fin-de-la-causa-contra-marcelo-corazza-la-justicia-lo-libero-de-culpa-y-cargo-po _(bloqueado: contiene keyword 'menor')_
