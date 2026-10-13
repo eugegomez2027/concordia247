@@ -2821,3 +2821,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-12 03:45 UTC
 - Fin de la causa contra Marcelo Corazza: la justicia lo liberó de culpa y cargo por corrupción de menores — https://diarioelsol.com.ar/contenido/62817/fin-de-la-causa-contra-marcelo-corazza-la-justicia-lo-libero-de-culpa-y-cargo-po _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-10-13 00:01 UTC
+- El Gobierno de Entre Ríos secuestró más de 38.000 pastillas de psicofármacos en un operativo — https://concordia24.com.ar/el-gobierno-de-entre-rios-secuestro-mas-de-38-000-pastillas-de-psicofarmacos-en-un-operativo/ _(bloqueado: contiene keyword 'policía')_
+- Dolor: la autopsia confirmó la causa de muerte del niño de 12 años en Entre Ríos — https://diarioelsol.com.ar/contenido/62830/dolor-la-autopsia-confirmo-la-causa-de-muerte-del-nino-de-12-anos-en-entre-rios _(bloqueado: contiene keyword 'niño')_
+- Cámaras de seguridad y una denuncia anónima permitieron esclarecer el robo en "La Rosalía" — https://diarioelsol.com.ar/contenido/62828/camaras-de-seguridad-y-una-denuncia-anonima-permitieron-esclarecer-el-robo-en-la _(bloqueado: contiene keyword 'crimen')_
