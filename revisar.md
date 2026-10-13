@@ -2827,3 +2827,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - El Gobierno de Entre Ríos secuestró más de 38.000 pastillas de psicofármacos en un operativo — https://concordia24.com.ar/el-gobierno-de-entre-rios-secuestro-mas-de-38-000-pastillas-de-psicofarmacos-en-un-operativo/ _(bloqueado: contiene keyword 'policía')_
 - Dolor: la autopsia confirmó la causa de muerte del niño de 12 años en Entre Ríos — https://diarioelsol.com.ar/contenido/62830/dolor-la-autopsia-confirmo-la-causa-de-muerte-del-nino-de-12-anos-en-entre-rios _(bloqueado: contiene keyword 'niño')_
 - Cámaras de seguridad y una denuncia anónima permitieron esclarecer el robo en "La Rosalía" — https://diarioelsol.com.ar/contenido/62828/camaras-de-seguridad-y-una-denuncia-anonima-permitieron-esclarecer-el-robo-en-la _(bloqueado: contiene keyword 'crimen')_
+
+
+## Tanda 2026-10-13 13:19 UTC
+- Video: un camión arroja basura en la Defensa Sur de Concordia y genera preocupación entre los vecinos — https://concordia24.com.ar/video-un-camion-arroja-basura-en-la-defensa-sur-de-concordia-y-genera-preocupacion-entre-los-vecinos/ _(bloqueado: contiene keyword 'denunció')_
+- El gremio de los viales volvió a denunciar un esquema para vaciar Vialidad y manejar fondos públicos con menos controles — https://diarioelsol.com.ar/contenido/62832/el-gremio-de-los-viales-volvio-a-denunciar-un-esquema-para-vaciar-vialidad-y-man _(bloqueado: contiene keyword 'denuncia')_
