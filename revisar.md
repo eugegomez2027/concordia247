@@ -2832,3 +2832,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-10-13 13:19 UTC
 - Video: un camión arroja basura en la Defensa Sur de Concordia y genera preocupación entre los vecinos — https://concordia24.com.ar/video-un-camion-arroja-basura-en-la-defensa-sur-de-concordia-y-genera-preocupacion-entre-los-vecinos/ _(bloqueado: contiene keyword 'denunció')_
 - El gremio de los viales volvió a denunciar un esquema para vaciar Vialidad y manejar fondos públicos con menos controles — https://diarioelsol.com.ar/contenido/62832/el-gremio-de-los-viales-volvio-a-denunciar-un-esquema-para-vaciar-vialidad-y-man _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-10-14 03:04 UTC
+- Fenómeno de El Niño: “Entre Ríos está en una zona de riesgo” — https://diarioelsol.com.ar/contenido/62843/fenomeno-de-el-nino-entre-rios-esta-en-una-zona-de-riesgo _(bloqueado: contiene keyword 'niño')_
