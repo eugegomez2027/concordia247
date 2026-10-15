@@ -2852,3 +2852,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - En Federación fue declarado culpable un hombre imputado por abuso sexual gravemente ultrajante. — https://diarioelsol.com.ar/contenido/62884/en-federacion-fue-declarado-culpable-un-hombre-imputado-por-abuso-sexual-graveme _(bloqueado: contiene keyword 'imputado')_
 - Caso Laurta: autorizan una denuncia por presunta Trata y ordenan su traslado a Córdoba — https://diarioelsol.com.ar/contenido/62886/caso-laurta-autorizan-una-denuncia-por-presunta-trata-y-ordenan-su-traslado-a-co _(bloqueado: contiene keyword 'homicidio')_
 - Denunció abusos de su tío durante su niñez y pide que la causa no prescriba en Concordia: crudo testimonio de la mujer — https://diarioelsol.com.ar/contenido/62885/denuncio-abusos-de-su-tio-durante-su-ninez-y-pide-que-la-causa-no-prescriba-en-c _(bloqueado: URL contiene '/denunc')_
+
+
+## Tanda 2026-10-15 20:49 UTC
+- Un menor en moto chocó contra un colectivo, intentó escapar y terminó impactando contra un automóvil — https://concordia24.com.ar/un-menor-en-moto-choco-contra-un-colectivo-intento-escapar-y-termino-impactando-contra-un-automovil/ _(bloqueado: contiene keyword 'menor')_
