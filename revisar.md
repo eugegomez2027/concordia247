@@ -2836,3 +2836,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-14 03:04 UTC
 - Fenómeno de El Niño: “Entre Ríos está en una zona de riesgo” — https://diarioelsol.com.ar/contenido/62843/fenomeno-de-el-nino-entre-rios-esta-en-una-zona-de-riesgo _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-10-15 02:43 UTC
+- Ingeniero denuncia que en Islas del Ibicuy “se destruye el humedal más grande de Argentina” para llevar arena a Vaca Muerta — https://diarioelsol.com.ar/contenido/62868/ingeniero-denuncia-que-en-islas-del-ibicuy-se-destruye-el-humedal-mas-grande-de _(bloqueado: contiene keyword 'denuncia')_
