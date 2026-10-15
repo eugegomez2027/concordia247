@@ -2845,3 +2845,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-10-15 10:41 UTC
 - Misiones: intentó entregar a sus hijos a cambio de dos camionetas — https://diarioelsol.com.ar/contenido/62873/misiones-intento-entregar-a-sus-hijos-a-cambio-de-dos-camionetas _(bloqueado: contiene keyword 'detenido')_
 - Heroico rescate en Puerto Yeruá: policías salvaron a un niño durante el temporal — https://diarioelsol.com.ar/contenido/62880/heroico-rescate-en-puerto-yerua-policias-salvaron-a-un-nino-durante-el-temporal _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-10-15 16:06 UTC
+- El gobierno provincial monitorea de manera permanente la situación hídrica ante el fenómeno de El Niño — https://concordia24.com.ar/el-gobierno-provincial-monitorea-de-manera-permanente-la-situacion-hidrica-ante-el-fenomeno-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
+- En Federación fue declarado culpable un hombre imputado por abuso sexual gravemente ultrajante. — https://diarioelsol.com.ar/contenido/62884/en-federacion-fue-declarado-culpable-un-hombre-imputado-por-abuso-sexual-graveme _(bloqueado: contiene keyword 'imputado')_
+- Caso Laurta: autorizan una denuncia por presunta Trata y ordenan su traslado a Córdoba — https://diarioelsol.com.ar/contenido/62886/caso-laurta-autorizan-una-denuncia-por-presunta-trata-y-ordenan-su-traslado-a-co _(bloqueado: contiene keyword 'homicidio')_
+- Denunció abusos de su tío durante su niñez y pide que la causa no prescriba en Concordia: crudo testimonio de la mujer — https://diarioelsol.com.ar/contenido/62885/denuncio-abusos-de-su-tio-durante-su-ninez-y-pide-que-la-causa-no-prescriba-en-c _(bloqueado: URL contiene '/denunc')_
