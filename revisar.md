@@ -2840,3 +2840,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-15 02:43 UTC
 - Ingeniero denuncia que en Islas del Ibicuy “se destruye el humedal más grande de Argentina” para llevar arena a Vaca Muerta — https://diarioelsol.com.ar/contenido/62868/ingeniero-denuncia-que-en-islas-del-ibicuy-se-destruye-el-humedal-mas-grande-de _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-10-15 10:41 UTC
+- Misiones: intentó entregar a sus hijos a cambio de dos camionetas — https://diarioelsol.com.ar/contenido/62873/misiones-intento-entregar-a-sus-hijos-a-cambio-de-dos-camionetas _(bloqueado: contiene keyword 'detenido')_
+- Heroico rescate en Puerto Yeruá: policías salvaron a un niño durante el temporal — https://diarioelsol.com.ar/contenido/62880/heroico-rescate-en-puerto-yerua-policias-salvaron-a-un-nino-durante-el-temporal _(bloqueado: contiene keyword 'policía')_
