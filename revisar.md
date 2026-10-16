@@ -2856,3 +2856,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-15 20:49 UTC
 - Un menor en moto chocó contra un colectivo, intentó escapar y terminó impactando contra un automóvil — https://concordia24.com.ar/un-menor-en-moto-choco-contra-un-colectivo-intento-escapar-y-termino-impactando-contra-un-automovil/ _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-10-16 02:40 UTC
+- Doble femicidio en Córdoba y asesinato del remisero en Concordia: cuál es la estrategia que presentará Pablo Laurta para su defensa — https://diarioelsol.com.ar/contenido/62906/doble-femicidio-en-cordoba-y-asesinato-del-remisero-en-concordia-cual-es-la-estr _(bloqueado: contiene keyword 'asesin')_
