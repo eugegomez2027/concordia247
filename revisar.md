@@ -2860,3 +2860,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-16 02:40 UTC
 - Doble femicidio en Córdoba y asesinato del remisero en Concordia: cuál es la estrategia que presentará Pablo Laurta para su defensa — https://diarioelsol.com.ar/contenido/62906/doble-femicidio-en-cordoba-y-asesinato-del-remisero-en-concordia-cual-es-la-estr _(bloqueado: contiene keyword 'asesin')_
+
+
+## Tanda 2026-10-16 10:28 UTC
+- Intentó ocultar 25 envoltorios de cocaína en su boca durante un operativo policial y terminó detenido — https://concordia24.com.ar/intento-ocultar-25-envoltorios-de-cocaina-en-su-boca-durante-un-operativo-policial-y-termino-detenido/ _(bloqueado: contiene keyword 'policía')_
+- Fiscalía Boliviana abre el cuarto proceso contra Cerimedo; ahora por narcotráfico — https://diarioelsol.com.ar/contenido/62907/fiscalia-boliviana-abre-el-cuarto-proceso-contra-cerimedo-ahora-por-narcotrafico _(bloqueado: contiene keyword 'detenido')_
