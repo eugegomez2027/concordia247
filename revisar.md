@@ -2865,3 +2865,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-10-16 10:28 UTC
 - Intentó ocultar 25 envoltorios de cocaína en su boca durante un operativo policial y terminó detenido — https://concordia24.com.ar/intento-ocultar-25-envoltorios-de-cocaina-en-su-boca-durante-un-operativo-policial-y-termino-detenido/ _(bloqueado: contiene keyword 'policía')_
 - Fiscalía Boliviana abre el cuarto proceso contra Cerimedo; ahora por narcotráfico — https://diarioelsol.com.ar/contenido/62907/fiscalia-boliviana-abre-el-cuarto-proceso-contra-cerimedo-ahora-por-narcotrafico _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-10-16 15:54 UTC
+- Defensa Civil de Entre Ríos coordinó acciones preventivas con municipios de Gualeguay y Gualeguaychú — https://concordia24.com.ar/defensa-civil-de-entre-rios-coordino-acciones-preventivas-con-municipios-de-gualeguay-y-gualeguaychu/ _(bloqueado: contiene keyword 'niño')_
+- La Policía detuvo en la ciudad de Federal a un hombre condenado por abuso sexual agravado — https://concordia24.com.ar/la-policia-detuvo-en-la-ciudad-de-federal-a-un-hombre-condenado-por-abuso-sexual-agravado/ _(bloqueado: contiene keyword 'policía')_
