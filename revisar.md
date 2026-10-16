@@ -2870,3 +2870,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-10-16 15:54 UTC
 - Defensa Civil de Entre Ríos coordinó acciones preventivas con municipios de Gualeguay y Gualeguaychú — https://concordia24.com.ar/defensa-civil-de-entre-rios-coordino-acciones-preventivas-con-municipios-de-gualeguay-y-gualeguaychu/ _(bloqueado: contiene keyword 'niño')_
 - La Policía detuvo en la ciudad de Federal a un hombre condenado por abuso sexual agravado — https://concordia24.com.ar/la-policia-detuvo-en-la-ciudad-de-federal-a-un-hombre-condenado-por-abuso-sexual-agravado/ _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-10-16 20:22 UTC
+- Funcionarios policiales asistieron a una mujer que atravesaba una situación de crisis emocional y evitan un desenlace fatal. — https://diarioelsol.com.ar/contenido/62947/funcionarios-policiales-asistieron-a-una-mujer-que-atravesaba-una-situacion-de-c _(bloqueado: contiene keyword 'policial')_
+- Joven de 18 años sufrió fractura expuesta al caer de su moto mientras escapaba de un control policial — https://diarioelsol.com.ar/contenido/62940/joven-de-18-anos-sufrio-fractura-expuesta-al-caer-de-su-moto-mientras-escapaba-d _(bloqueado: contiene keyword 'policial')_
