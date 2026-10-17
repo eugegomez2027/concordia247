@@ -2892,3 +2892,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-17 14:47 UTC
 - Conducía alcoholizado, realizaba maniobras peligrosas y terminó con el automóvil retenido en Concordia — https://concordia24.com.ar/conducia-alcoholizado-realizaba-maniobras-peligrosas-y-termino-con-el-automovil-retenido-en-concordia/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-10-17 19:56 UTC
+- Detienen a ciudadano uruguayo armado, prófugo de la justicia uruguaya y con droga — https://concordia24.com.ar/detienen-a-un-ciudadano-uruguayo-armado-profugo-de-la-justicia-uruguaya-y-con-droga/ _(bloqueado: contiene keyword 'policía')_
