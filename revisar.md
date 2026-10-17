@@ -2883,3 +2883,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - El director de una escuela que evacuó a 900 niños minutos antes de que las inundaciones en Nepal azotaran las aulas — https://diarioelsol.com.ar/contenido/62955/el-director-de-una-escuela-que-evacuo-a-900-ninos-minutos-antes-de-que-las-inund _(bloqueado: contiene keyword 'niño')_
 - El Niño en Entre Ríos: anticipan más lluvias y temperaturas elevadas para los próximos tres meses — https://diarioelsol.com.ar/contenido/62954/el-nino-en-entre-rios-anticipan-mas-lluvias-y-temperaturas-elevadas-para-los-pro _(bloqueado: contiene keyword 'niño')_
 - Dos hombres llevaban una moto que habían robado de un boliche: fueron detenidos. — https://diarioelsol.com.ar/contenido/62959/dos-hombres-llevaban-una-moto-que-habian-robado-de-un-boliche-fueron-detenidos _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-10-17 09:58 UTC
+- Desmantelaron una casilla que era utilizada como presunto búnker para la venta de drogas — https://concordia24.com.ar/desmantelaron-una-casilla-que-era-utilizada-como-presunto-bunker-para-la-venta-de-drogas/ _(bloqueado: contiene keyword 'policía')_
+- Realizaron tres allanamientos por el robo en una vivienda y detuvieron a un hombre con un arma de fuego — https://diarioelsol.com.ar/contenido/62966/realizaron-tres-allanamientos-por-el-robo-en-una-vivienda-y-detuvieron-a-un-homb _(bloqueado: contiene keyword 'robo')_
