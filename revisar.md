@@ -2875,3 +2875,11 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-10-16 20:22 UTC
 - Funcionarios policiales asistieron a una mujer que atravesaba una situación de crisis emocional y evitan un desenlace fatal. — https://diarioelsol.com.ar/contenido/62947/funcionarios-policiales-asistieron-a-una-mujer-que-atravesaba-una-situacion-de-c _(bloqueado: contiene keyword 'policial')_
 - Joven de 18 años sufrió fractura expuesta al caer de su moto mientras escapaba de un control policial — https://diarioelsol.com.ar/contenido/62940/joven-de-18-anos-sufrio-fractura-expuesta-al-caer-de-su-moto-mientras-escapaba-d _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-10-17 02:32 UTC
+- Ciclista de 18 años terminó hospitalizado tras protagonizar un accidente con un camión — https://concordia24.com.ar/ciclista-de-18-anos-termino-hospitalizado-tras-protagonizar-un-accidente-con-un-camion/ _(bloqueado: contiene keyword 'policial')_
+- Transitaba conduciendo su bicicleta por calle Salta cuando se desplomó y falleció — https://diarioelsol.com.ar/contenido/62948/transitaba-conduciendo-su-bicicleta-por-calle-salta-cuando-se-desplomo-y-falleci _(bloqueado: contiene keyword 'policía')_
+- El director de una escuela que evacuó a 900 niños minutos antes de que las inundaciones en Nepal azotaran las aulas — https://diarioelsol.com.ar/contenido/62955/el-director-de-una-escuela-que-evacuo-a-900-ninos-minutos-antes-de-que-las-inund _(bloqueado: contiene keyword 'niño')_
+- El Niño en Entre Ríos: anticipan más lluvias y temperaturas elevadas para los próximos tres meses — https://diarioelsol.com.ar/contenido/62954/el-nino-en-entre-rios-anticipan-mas-lluvias-y-temperaturas-elevadas-para-los-pro _(bloqueado: contiene keyword 'niño')_
+- Dos hombres llevaban una moto que habían robado de un boliche: fueron detenidos. — https://diarioelsol.com.ar/contenido/62959/dos-hombres-llevaban-una-moto-que-habian-robado-de-un-boliche-fueron-detenidos _(bloqueado: contiene keyword 'detenido')_
