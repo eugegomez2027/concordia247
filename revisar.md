@@ -2888,3 +2888,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-10-17 09:58 UTC
 - Desmantelaron una casilla que era utilizada como presunto búnker para la venta de drogas — https://concordia24.com.ar/desmantelaron-una-casilla-que-era-utilizada-como-presunto-bunker-para-la-venta-de-drogas/ _(bloqueado: contiene keyword 'policía')_
 - Realizaron tres allanamientos por el robo en una vivienda y detuvieron a un hombre con un arma de fuego — https://diarioelsol.com.ar/contenido/62966/realizaron-tres-allanamientos-por-el-robo-en-una-vivienda-y-detuvieron-a-un-homb _(bloqueado: contiene keyword 'robo')_
+
+
+## Tanda 2026-10-17 14:47 UTC
+- Conducía alcoholizado, realizaba maniobras peligrosas y terminó con el automóvil retenido en Concordia — https://concordia24.com.ar/conducia-alcoholizado-realizaba-maniobras-peligrosas-y-termino-con-el-automovil-retenido-en-concordia/ _(bloqueado: contiene keyword 'policial')_
