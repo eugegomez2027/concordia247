@@ -2904,3 +2904,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Caso Rosatelli: el supuesto dueño de la droga sigue prófugo pero designó abogado — https://diarioelsol.com.ar/contenido/62983/caso-rosatelli-el-supuesto-dueno-de-la-droga-sigue-profugo-pero-designo-abogado _(bloqueado: contiene keyword 'presunto')_
 - Procesaron a agentes de inteligencia por crímenes de lesa humanidad cometidos en el Regimiento de Concordia. — https://diarioelsol.com.ar/contenido/62982/procesaron-a-agentes-de-inteligencia-por-crimenes-de-lesa-humanidad-cometidos-en _(bloqueado: contiene keyword 'homicidio')_
 - Dictaron prisión preventiva para seis acusados por millonario asalto a productor entrerriano — https://diarioelsol.com.ar/contenido/62988/dictaron-prision-preventiva-para-seis-acusados-por-millonario-asalto-a-productor _(bloqueado: contiene keyword 'robo')_
+
+
+## Tanda 2026-10-18 19:56 UTC
+- Un hombre murió en el banco de una plaza y la Policía investiga las causas — https://diarioelsol.com.ar/contenido/62998/un-hombre-murio-en-el-banco-de-una-plaza-y-la-policia-investiga-las-causas _(bloqueado: contiene keyword 'policía')_
