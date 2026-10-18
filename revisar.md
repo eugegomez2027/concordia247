@@ -2896,3 +2896,11 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-17 19:56 UTC
 - Detienen a ciudadano uruguayo armado, prófugo de la justicia uruguaya y con droga — https://concordia24.com.ar/detienen-a-un-ciudadano-uruguayo-armado-profugo-de-la-justicia-uruguaya-y-con-droga/ _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-10-18 10:12 UTC
+- Golpe al narcomenudeo en Concordia: secuestraron 500 dosis de cocaína y detuvieron a cinco personas — https://concordia24.com.ar/golpe-al-narcomenudeo-en-concordia-secuestraron-500-dosis-de-cocaina-y-detuvieron-a-cinco-personas/ _(bloqueado: contiene keyword 'allanamiento')_
+- Confirmaron la prisión domiciliaria de dos de las acusadas por el crimen de Jessica Bravo — https://diarioelsol.com.ar/contenido/62985/confirmaron-la-prision-domiciliaria-de-dos-de-las-acusadas-por-el-crimen-de-jess _(bloqueado: contiene keyword 'crimen')_
+- Caso Rosatelli: el supuesto dueño de la droga sigue prófugo pero designó abogado — https://diarioelsol.com.ar/contenido/62983/caso-rosatelli-el-supuesto-dueno-de-la-droga-sigue-profugo-pero-designo-abogado _(bloqueado: contiene keyword 'presunto')_
+- Procesaron a agentes de inteligencia por crímenes de lesa humanidad cometidos en el Regimiento de Concordia. — https://diarioelsol.com.ar/contenido/62982/procesaron-a-agentes-de-inteligencia-por-crimenes-de-lesa-humanidad-cometidos-en _(bloqueado: contiene keyword 'homicidio')_
+- Dictaron prisión preventiva para seis acusados por millonario asalto a productor entrerriano — https://diarioelsol.com.ar/contenido/62988/dictaron-prision-preventiva-para-seis-acusados-por-millonario-asalto-a-productor _(bloqueado: contiene keyword 'robo')_
