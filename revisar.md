@@ -2919,3 +2919,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Detuvieron a un joven de 18 años que circulaba en moto con cocaína y marihuana — https://concordia24.com.ar/detuvieron-a-un-joven-de-18-anos-que-circulaba-en-moto-con-cocaina-y-marihuana/ _(bloqueado: contiene keyword 'policía')_
 - Violento choque en Concordia: un conductor alcoholizado perdió el control y colisionó contra un automóvil y una motocicleta — https://concordia24.com.ar/violento-choque-en-concordia-un-conductor-alcoholizado-perdio-el-control-y-colisiono-contra-un-automovil-y-una-motocicleta/ _(bloqueado: URL contiene '/viol')_
 - Allanamientos en Concordia: secuestran electrodomésticos y materiales robados de un sanatorio — https://diarioelsol.com.ar/contenido/63032/allanamientos-en-concordia-secuestran-electrodomesticos-y-materiales-robados-de- _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-10-19 18:08 UTC
+- Exitosas pruebas de funcionamiento de los grupos electrógenos en La Estación de Bombeo de la Defensa Sur — https://concordia24.com.ar/exitosas-pruebas-de-funcionamiento-de-los-grupos-electrogenos-en-la-estacion-de-bombeo-de-la-defensa-sur/ _(bloqueado: contiene keyword 'niño')_
