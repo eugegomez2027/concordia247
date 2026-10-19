@@ -2908,3 +2908,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-18 19:56 UTC
 - Un hombre murió en el banco de una plaza y la Policía investiga las causas — https://diarioelsol.com.ar/contenido/62998/un-hombre-murio-en-el-banco-de-una-plaza-y-la-policia-investiga-las-causas _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-10-19 02:46 UTC
+- Denunció el robo en la casa de sus patrones... pero él mismo era el autor — https://diarioelsol.com.ar/contenido/63006/denuncio-el-robo-en-la-casa-de-sus-patrones-pero-el-mismo-era-el-autor _(bloqueado: URL contiene '/denunc')_
+- Femicidio en La Bianca: mató a golpes a su pareja y se entregó en la comisaría — https://diarioelsol.com.ar/contenido/63011/femicidio-en-la-bianca-mato-a-golpes-a-su-pareja-y-se-entrego-en-la-comisaria _(bloqueado: contiene keyword 'detenido')_
