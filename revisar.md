@@ -2931,3 +2931,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-20 16:09 UTC
 - Nueva convocatoria pública del Registro de Adoptantes — https://concordia24.com.ar/nueva-convocatoria-publica-del-registro-de-adoptantes/ _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-10-20 21:06 UTC
+- Insólito: un robot atacó a golpes a un cliente en una tienda y el video se hizo viral — https://diarioelsol.com.ar/contenido/63064/insolito-un-robot-ataco-a-golpes-a-un-cliente-en-una-tienda-y-el-video-se-hizo-v _(bloqueado: contiene keyword 'robo')_
+- La ONU confirmó que El Niño será inédito en la región: se “intensificará muy fuerte los próximos meses” — https://diarioelsol.com.ar/contenido/63068/la-onu-confirmo-que-el-nino-sera-inedito-en-la-region-se-intensificara-muy-fuert _(bloqueado: contiene keyword 'niño')_
