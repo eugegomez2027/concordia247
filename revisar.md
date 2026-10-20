@@ -2927,3 +2927,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-20 02:57 UTC
 - Secuestraron 60 envoltorios de cocaína que una encargada de cuadrilla de cosecha llevaba ocultos en sus partes íntimas — https://concordia24.com.ar/secuestraron-60-envoltorios-de-cocaina-que-una-encargada-de-cuadrilla-de-cosecha-llevaba-ocultos-en-sus-partes-intimas/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-10-20 16:09 UTC
+- Nueva convocatoria pública del Registro de Adoptantes — https://concordia24.com.ar/nueva-convocatoria-publica-del-registro-de-adoptantes/ _(bloqueado: contiene keyword 'niño')_
