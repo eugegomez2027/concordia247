@@ -2923,3 +2923,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-19 18:08 UTC
 - Exitosas pruebas de funcionamiento de los grupos electrógenos en La Estación de Bombeo de la Defensa Sur — https://concordia24.com.ar/exitosas-pruebas-de-funcionamiento-de-los-grupos-electrogenos-en-la-estacion-de-bombeo-de-la-defensa-sur/ _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-10-20 02:57 UTC
+- Secuestraron 60 envoltorios de cocaína que una encargada de cuadrilla de cosecha llevaba ocultos en sus partes íntimas — https://concordia24.com.ar/secuestraron-60-envoltorios-de-cocaina-que-una-encargada-de-cuadrilla-de-cosecha-llevaba-ocultos-en-sus-partes-intimas/ _(bloqueado: contiene keyword 'policial')_
