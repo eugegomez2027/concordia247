@@ -2936,3 +2936,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-10-20 21:06 UTC
 - Insólito: un robot atacó a golpes a un cliente en una tienda y el video se hizo viral — https://diarioelsol.com.ar/contenido/63064/insolito-un-robot-ataco-a-golpes-a-un-cliente-en-una-tienda-y-el-video-se-hizo-v _(bloqueado: contiene keyword 'robo')_
 - La ONU confirmó que El Niño será inédito en la región: se “intensificará muy fuerte los próximos meses” — https://diarioelsol.com.ar/contenido/63068/la-onu-confirmo-que-el-nino-sera-inedito-en-la-region-se-intensificara-muy-fuert _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-10-21 10:58 UTC
+- Motociclista cayó en un control Policial con una piedra de cocaína de 20 gramos. — https://diarioelsol.com.ar/contenido/63080/motociclista-cayo-en-un-control-policial-con-una-piedra-de-cocaina-de-20-gramos _(bloqueado: contiene keyword 'policial')_
+- Buscaban un celular y se toparon con dosis de cocaína lista para la venta y la feroz oposición a ser detenido de un transa. — https://diarioelsol.com.ar/contenido/63079/buscaban-un-celular-y-se-toparon-con-dosis-de-cocaina-lista-para-la-venta-y-la-f _(bloqueado: contiene keyword 'policía')_
+- Secuestraron cebollines y piedras de cocaína listas para su venta en la investigación de una causa por amenazas — https://diarioelsol.com.ar/contenido/63078/secuestraron-cebollines-y-piedras-de-cocaina-listas-para-su-venta-en-la-investig _(bloqueado: contiene keyword 'allanamiento')_
+- DROGAS COMO SALARIO  Pagaban con cocaína a los cosecheros: dos detenidos en un operativo sobre la Ruta 14 — https://diarioelsol.com.ar/contenido/63083/drogas-como-salario-pagaban-con-cocaina-a-los-cosecheros-dos-detenidos-en-un-ope _(bloqueado: contiene keyword 'detenido')_
