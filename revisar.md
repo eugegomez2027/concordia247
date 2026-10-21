@@ -2943,3 +2943,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Buscaban un celular y se toparon con dosis de cocaína lista para la venta y la feroz oposición a ser detenido de un transa. — https://diarioelsol.com.ar/contenido/63079/buscaban-un-celular-y-se-toparon-con-dosis-de-cocaina-lista-para-la-venta-y-la-f _(bloqueado: contiene keyword 'policía')_
 - Secuestraron cebollines y piedras de cocaína listas para su venta en la investigación de una causa por amenazas — https://diarioelsol.com.ar/contenido/63078/secuestraron-cebollines-y-piedras-de-cocaina-listas-para-su-venta-en-la-investig _(bloqueado: contiene keyword 'allanamiento')_
 - DROGAS COMO SALARIO  Pagaban con cocaína a los cosecheros: dos detenidos en un operativo sobre la Ruta 14 — https://diarioelsol.com.ar/contenido/63083/drogas-como-salario-pagaban-con-cocaina-a-los-cosecheros-dos-detenidos-en-un-ope _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-10-21 16:25 UTC
+- La Policía encontró la moto que le habían robado, mientras la desguazaban, la recuperó y se la devolvieron "en pedacitos". — https://diarioelsol.com.ar/contenido/63092/la-policia-encontro-la-moto-que-le-habian-robado-mientras-la-desguazaban-la-recu _(bloqueado: contiene keyword 'policía')_
