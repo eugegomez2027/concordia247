@@ -2947,3 +2947,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-21 16:25 UTC
 - La Policía encontró la moto que le habían robado, mientras la desguazaban, la recuperó y se la devolvieron "en pedacitos". — https://diarioelsol.com.ar/contenido/63092/la-policia-encontro-la-moto-que-le-habian-robado-mientras-la-desguazaban-la-recu _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-10-21 21:06 UTC
+- Encuentran un hombre muerto en plena calle del barrio Sapito, todo indica que fue asesinado. — https://diarioelsol.com.ar/contenido/63104/encuentran-un-hombre-muerto-en-plena-calle-del-barrio-sapito-todo-indica-que-fue _(bloqueado: contiene keyword 'asesin')_
+- Leopoldo Fortunato Milei — https://diarioelsol.com.ar/contenido/63113/leopoldo-fortunato-milei _(bloqueado: contiene keyword 'niño')_
