@@ -2957,3 +2957,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-10-22 10:57 UTC
 - Cayeron uno a uno: los integrantes de la banda de Butch Cassidy fueron detenidos. — https://diarioelsol.com.ar/contenido/63117/cayeron-uno-a-uno-los-integrantes-de-la-banda-de-butch-cassidy-fueron-detenidos _(bloqueado: contiene keyword 'detenido')_
 - Incendio en vivienda de Paraná: Rescataron a dos adultos mayores que debieron ser hospitalizados — https://diarioelsol.com.ar/contenido/63121/incendio-en-vivienda-de-parana-rescataron-a-dos-adultos-mayores-que-debieron-ser _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-10-22 21:04 UTC
+- Empieza juicio por el crimen de un hombre asesinado por sus cómplices tras un robo — https://diarioelsol.com.ar/contenido/63141/empieza-juicio-por-el-crimen-de-un-hombre-asesinado-por-sus-complices-tras-un-ro _(bloqueado: contiene keyword 'crimen')_
