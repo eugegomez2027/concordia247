@@ -2952,3 +2952,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-10-21 21:06 UTC
 - Encuentran un hombre muerto en plena calle del barrio Sapito, todo indica que fue asesinado. — https://diarioelsol.com.ar/contenido/63104/encuentran-un-hombre-muerto-en-plena-calle-del-barrio-sapito-todo-indica-que-fue _(bloqueado: contiene keyword 'asesin')_
 - Leopoldo Fortunato Milei — https://diarioelsol.com.ar/contenido/63113/leopoldo-fortunato-milei _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-10-22 10:57 UTC
+- Cayeron uno a uno: los integrantes de la banda de Butch Cassidy fueron detenidos. — https://diarioelsol.com.ar/contenido/63117/cayeron-uno-a-uno-los-integrantes-de-la-banda-de-butch-cassidy-fueron-detenidos _(bloqueado: contiene keyword 'detenido')_
+- Incendio en vivienda de Paraná: Rescataron a dos adultos mayores que debieron ser hospitalizados — https://diarioelsol.com.ar/contenido/63121/incendio-en-vivienda-de-parana-rescataron-a-dos-adultos-mayores-que-debieron-ser _(bloqueado: contiene keyword 'policía')_
