@@ -2966,3 +2966,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-10-23 02:54 UTC
 - ATE realizará un paro este martes por la crisis en el PAMI — https://diarioelsol.com.ar/contenido/63145/ate-realizara-un-paro-este-martes-por-la-crisis-en-el-pami _(bloqueado: contiene keyword 'denuncia')_
 - Ofensiva del Gobierno: Milei denunció a empresas que buscan explotar petróleo en Malvinas — https://diarioelsol.com.ar/contenido/63146/ofensiva-del-gobierno-milei-denuncio-a-empresas-que-buscan-explotar-petroleo-en- _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-10-23 20:51 UTC
+- Pasó a un cuarto intermedio la audiencia por el homicidio en el barrio Sapito y este jueves definirán la situación procesal de los acusados — https://diarioelsol.com.ar/contenido/63183/paso-a-un-cuarto-intermedio-la-audiencia-por-el-homicidio-en-el-barrio-sapito-y- _(bloqueado: contiene keyword 'crimen')_
+- “El narcotráfico ha penetrado en los barrios por las ganancias siderales que deja” — https://diarioelsol.com.ar/contenido/63182/el-narcotrafico-ha-penetrado-en-los-barrios-por-las-ganancias-siderales-que-deja _(bloqueado: contiene keyword 'menor')_
