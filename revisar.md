@@ -2961,3 +2961,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-22 21:04 UTC
 - Empieza juicio por el crimen de un hombre asesinado por sus cómplices tras un robo — https://diarioelsol.com.ar/contenido/63141/empieza-juicio-por-el-crimen-de-un-hombre-asesinado-por-sus-complices-tras-un-ro _(bloqueado: contiene keyword 'crimen')_
+
+
+## Tanda 2026-10-23 02:54 UTC
+- ATE realizará un paro este martes por la crisis en el PAMI — https://diarioelsol.com.ar/contenido/63145/ate-realizara-un-paro-este-martes-por-la-crisis-en-el-pami _(bloqueado: contiene keyword 'denuncia')_
+- Ofensiva del Gobierno: Milei denunció a empresas que buscan explotar petróleo en Malvinas — https://diarioelsol.com.ar/contenido/63146/ofensiva-del-gobierno-milei-denuncio-a-empresas-que-buscan-explotar-petroleo-en- _(bloqueado: contiene keyword 'denuncia')_
