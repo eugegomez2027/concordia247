@@ -2971,3 +2971,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-10-23 20:51 UTC
 - Pasó a un cuarto intermedio la audiencia por el homicidio en el barrio Sapito y este jueves definirán la situación procesal de los acusados — https://diarioelsol.com.ar/contenido/63183/paso-a-un-cuarto-intermedio-la-audiencia-por-el-homicidio-en-el-barrio-sapito-y- _(bloqueado: contiene keyword 'crimen')_
 - “El narcotráfico ha penetrado en los barrios por las ganancias siderales que deja” — https://diarioelsol.com.ar/contenido/63182/el-narcotrafico-ha-penetrado-en-los-barrios-por-las-ganancias-siderales-que-deja _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-10-24 02:51 UTC
+- Grave denuncia de alumnas de una escuela de Concordia por presunto acoso digital mediante inteligencia artificial — https://concordia24.com.ar/grave-denuncia-de-alumnas-de-una-escuela-de-concordia-por-presunto-acoso-digital-mediante-inteligencia-artificial/ _(bloqueado: contiene keyword 'menor')_
+- ATE rechazó la denuncia del gobierno y defendió “el derecho de los trabajadores a reclamar” — https://diarioelsol.com.ar/contenido/63189/ate-rechazo-la-denuncia-del-gobierno-y-defendio-el-derecho-de-los-trabajadores-a _(bloqueado: contiene keyword 'denuncia')_
