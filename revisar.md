@@ -2980,3 +2980,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-24 10:05 UTC
 - Detuvieron a Elías Barrionuevo, acusado de matar a su novia de 18 años en Ituzaingó — https://diarioelsol.com.ar/contenido/63196/detuvieron-a-elias-barrionuevo-acusado-de-matar-a-su-novia-de-18-anos-en-ituzain _(bloqueado: contiene keyword 'crimen')_
+
+
+## Tanda 2026-10-24 15:12 UTC
+- Advierten sobre el avance de los deepfakes entre adolescentes tras las denuncias de alumnas de una escuela de Estancia Grande — https://concordia24.com.ar/advierten-sobre-el-avance-de-los-deepfakes-entre-adolescentes-tras-las-denuncias-de-alumnas-de-una-escuela-de-estancia-grande/ _(bloqueado: contiene keyword 'adolescente')_
+- Concordia en Emergencia: Denuncian que Proyecto de subsidios tras las crecidas «naturaliza las inundaciones» y excluyen a los vecinos afectados — https://concordia24.com.ar/concordia-en-emergencia-denuncian-que-proyecto-de-subsidios-tras-las-crecidas-naturaliza-las-inundaciones-y-excluyen-a-los-vecinos-afectados/ _(bloqueado: contiene keyword 'denuncia')_
+- La Policía demoró a un grupo de jóvenes que pintaban stencils por la Noche de los Lápices en Paraná — https://diarioelsol.com.ar/contenido/63205/la-policia-demoro-a-un-grupo-de-jovenes-que-pintaban-stencils-por-la-noche-de-lo _(bloqueado: contiene keyword 'policía')_
+- La Policía informó que detuvo al primer menor de 16 años por imperio de la nueva ley Penal y decisión del fiscal de turno. — https://diarioelsol.com.ar/contenido/63207/la-policia-informo-que-detuvo-al-primer-menor-de-16-anos-por-imperio-de-la-nueva _(bloqueado: contiene keyword 'policía')_
