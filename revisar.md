@@ -2987,3 +2987,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Concordia en Emergencia: Denuncian que Proyecto de subsidios tras las crecidas «naturaliza las inundaciones» y excluyen a los vecinos afectados — https://concordia24.com.ar/concordia-en-emergencia-denuncian-que-proyecto-de-subsidios-tras-las-crecidas-naturaliza-las-inundaciones-y-excluyen-a-los-vecinos-afectados/ _(bloqueado: contiene keyword 'denuncia')_
 - La Policía demoró a un grupo de jóvenes que pintaban stencils por la Noche de los Lápices en Paraná — https://diarioelsol.com.ar/contenido/63205/la-policia-demoro-a-un-grupo-de-jovenes-que-pintaban-stencils-por-la-noche-de-lo _(bloqueado: contiene keyword 'policía')_
 - La Policía informó que detuvo al primer menor de 16 años por imperio de la nueva ley Penal y decisión del fiscal de turno. — https://diarioelsol.com.ar/contenido/63207/la-policia-informo-que-detuvo-al-primer-menor-de-16-anos-por-imperio-de-la-nueva _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-10-24 20:03 UTC
+- Sacó el auto sin autorización de sus padres y lo volcó — https://diarioelsol.com.ar/contenido/63211/saco-el-auto-sin-autorizacion-de-sus-padres-y-lo-volco _(bloqueado: contiene keyword 'menor')_
