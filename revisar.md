@@ -2976,3 +2976,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-10-24 02:51 UTC
 - Grave denuncia de alumnas de una escuela de Concordia por presunto acoso digital mediante inteligencia artificial — https://concordia24.com.ar/grave-denuncia-de-alumnas-de-una-escuela-de-concordia-por-presunto-acoso-digital-mediante-inteligencia-artificial/ _(bloqueado: contiene keyword 'menor')_
 - ATE rechazó la denuncia del gobierno y defendió “el derecho de los trabajadores a reclamar” — https://diarioelsol.com.ar/contenido/63189/ate-rechazo-la-denuncia-del-gobierno-y-defendio-el-derecho-de-los-trabajadores-a _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-10-24 10:05 UTC
+- Detuvieron a Elías Barrionuevo, acusado de matar a su novia de 18 años en Ituzaingó — https://diarioelsol.com.ar/contenido/63196/detuvieron-a-elias-barrionuevo-acusado-de-matar-a-su-novia-de-18-anos-en-ituzain _(bloqueado: contiene keyword 'crimen')_
