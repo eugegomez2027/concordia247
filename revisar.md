@@ -2999,3 +2999,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-25 10:30 UTC
 - Vio la Policía, descartó el matute y lo llevaron preso: eran drogas. — https://diarioelsol.com.ar/contenido/63225/vio-la-policia-descarto-el-matute-y-lo-llevqron-preso-eran-drogas _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-10-25 20:15 UTC
+- Intento de femicidio de Huck: Corvalán aceptó en juicio abreviado una pena de 10 años de cárcel — https://diarioelsol.com.ar/contenido/63240/intento-de-femicidio-de-huck-corvalan-acepto-en-juicio-abreviado-una-pena-de-10- _(bloqueado: contiene keyword 'policía')_
