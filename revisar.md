@@ -2991,3 +2991,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-24 20:03 UTC
 - Sacó el auto sin autorización de sus padres y lo volcó — https://diarioelsol.com.ar/contenido/63211/saco-el-auto-sin-autorizacion-de-sus-padres-y-lo-volco _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-10-25 02:43 UTC
+- "Yo no la maté": el video que difundió Elías Barrionuevo antes de ser detenido — https://diarioelsol.com.ar/contenido/63214/yo-no-la-mate-el-video-que-difundio-elias-barrionuevo-antes-de-ser-detenido _(bloqueado: contiene keyword 'policía')_
