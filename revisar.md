@@ -2995,3 +2995,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-25 02:43 UTC
 - "Yo no la maté": el video que difundió Elías Barrionuevo antes de ser detenido — https://diarioelsol.com.ar/contenido/63214/yo-no-la-mate-el-video-que-difundio-elias-barrionuevo-antes-de-ser-detenido _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-10-25 10:30 UTC
+- Vio la Policía, descartó el matute y lo llevaron preso: eran drogas. — https://diarioelsol.com.ar/contenido/63225/vio-la-policia-descarto-el-matute-y-lo-llevqron-preso-eran-drogas _(bloqueado: contiene keyword 'policía')_
