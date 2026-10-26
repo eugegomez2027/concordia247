@@ -3003,3 +3003,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-25 20:15 UTC
 - Intento de femicidio de Huck: Corvalán aceptó en juicio abreviado una pena de 10 años de cárcel — https://diarioelsol.com.ar/contenido/63240/intento-de-femicidio-de-huck-corvalan-acepto-en-juicio-abreviado-una-pena-de-10- _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-10-26 12:03 UTC
+- Allanamientos positivos: secuestro de arma de fuego, motocicleta con pedido de secuestro, y otros elementos — https://diarioelsol.com.ar/contenido/63247/allanamientos-positivos-secuestro-de-arma-de-fuego-motocicleta-con-pedido-de-sec _(bloqueado: contiene keyword 'allanamiento')_
