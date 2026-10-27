@@ -3011,3 +3011,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-27 03:15 UTC
 - Tres niños de 10, 11 y 12 años robaron un auto, chocaron una moto y huyeron a toda velocidad en Brasil — https://diarioelsol.com.ar/contenido/63257/tres-ninos-de-10-11-y-12-anos-robaron-un-auto-chocaron-una-moto-y-huyeron-a-toda _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-10-27 11:23 UTC
+- Tres detenidos en operativos policiales con secuestro de cocaína y marihuana — https://concordia24.com.ar/tres-detenidos-en-operativos-policiales-con-secuestro-de-cocaina-y-marihuana/ _(bloqueado: contiene keyword 'policía')_
+- Primer caso entrerriano bajo el Régimen Penal Juvenil se originó en Concordia por drogas. — https://diarioelsol.com.ar/contenido/63277/primer-caso-entrerriano-bajo-el-regimen-penal-juvenil-se-origino-en-concordia-po _(bloqueado: contiene keyword 'adolescente')_
