@@ -3007,3 +3007,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-26 12:03 UTC
 - Allanamientos positivos: secuestro de arma de fuego, motocicleta con pedido de secuestro, y otros elementos — https://diarioelsol.com.ar/contenido/63247/allanamientos-positivos-secuestro-de-arma-de-fuego-motocicleta-con-pedido-de-sec _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-10-27 03:15 UTC
+- Tres niños de 10, 11 y 12 años robaron un auto, chocaron una moto y huyeron a toda velocidad en Brasil — https://diarioelsol.com.ar/contenido/63257/tres-ninos-de-10-11-y-12-anos-robaron-un-auto-chocaron-una-moto-y-huyeron-a-toda _(bloqueado: contiene keyword 'policía')_
