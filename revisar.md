@@ -3020,3 +3020,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-28 03:30 UTC
 - Frigerio recorrió la obra de 10 viviendas destinadas personal policial en Chajarí — https://concordia24.com.ar/frigerio-recorrio-la-obra-de-10-viviendas-destinadas-personal-policial-en-chajari/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-10-28 11:56 UTC
+- Ocho allanamientos: 16 motos secuestradas por picadas en la via pública — https://concordia24.com.ar/ocho-allanamientos-16-motos-secuestradas-por-picadas-en-la-via-publica/ _(bloqueado: contiene keyword 'allanamiento')_
+- Operativo Saturación en Concordia: dos detenidos y secuestro de cocaína, marihuana, dinero y una motocicleta — https://concordia24.com.ar/operativo-saturacion-en-concordia-dos-detenidos-y-secuestro-de-cocaina-marihuana-dinero-y-una-motocicleta/ _(bloqueado: contiene keyword 'policía')_
