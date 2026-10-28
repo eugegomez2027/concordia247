@@ -3025,3 +3025,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-10-28 11:56 UTC
 - Ocho allanamientos: 16 motos secuestradas por picadas en la via pública — https://concordia24.com.ar/ocho-allanamientos-16-motos-secuestradas-por-picadas-en-la-via-publica/ _(bloqueado: contiene keyword 'allanamiento')_
 - Operativo Saturación en Concordia: dos detenidos y secuestro de cocaína, marihuana, dinero y una motocicleta — https://concordia24.com.ar/operativo-saturacion-en-concordia-dos-detenidos-y-secuestro-de-cocaina-marihuana-dinero-y-una-motocicleta/ _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-10-28 17:52 UTC
+- El viernes cierra la convocatoria pública provincial para la adopción de cinco niños y niñas — https://concordia24.com.ar/el-viernes-cierra-la-convocatoria-publica-provincial-para-la-adopcion-de-cinco-ninos-y-ninas/ _(bloqueado: contiene keyword 'niño')_
+- Clausuraron una carnicería en Concordia por falta de higiene y presencia de roedores: decomisaron 138 kilos de carne en mal estado — https://concordia24.com.ar/clausuraron-una-carniceria-en-concordia-por-falta-de-higiene-y-presencia-de-roedores-decomisaron-138-kilos-de-carne-en-mal-estado/ _(bloqueado: contiene keyword 'policía')_
+- Escándalo por el oro del BCRA: la oposición ampliará este lunes la denuncia contra Caputo y Bausili — https://diarioelsol.com.ar/contenido/63298/escandalo-por-el-oro-del-bcra-la-oposicion-ampliara-este-lunes-la-denuncia-contr _(bloqueado: contiene keyword 'denuncia')_
