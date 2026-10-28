@@ -3031,3 +3031,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - El viernes cierra la convocatoria pública provincial para la adopción de cinco niños y niñas — https://concordia24.com.ar/el-viernes-cierra-la-convocatoria-publica-provincial-para-la-adopcion-de-cinco-ninos-y-ninas/ _(bloqueado: contiene keyword 'niño')_
 - Clausuraron una carnicería en Concordia por falta de higiene y presencia de roedores: decomisaron 138 kilos de carne en mal estado — https://concordia24.com.ar/clausuraron-una-carniceria-en-concordia-por-falta-de-higiene-y-presencia-de-roedores-decomisaron-138-kilos-de-carne-en-mal-estado/ _(bloqueado: contiene keyword 'policía')_
 - Escándalo por el oro del BCRA: la oposición ampliará este lunes la denuncia contra Caputo y Bausili — https://diarioelsol.com.ar/contenido/63298/escandalo-por-el-oro-del-bcra-la-oposicion-ampliara-este-lunes-la-denuncia-contr _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-10-28 22:05 UTC
+- Ante las posibles crecientes por El Niño, Frigerio supervisó en Concordia el operativo de prevención y asistencia — https://concordia24.com.ar/ante-las-posibles-crecientes-por-el-nino-frigerio-superviso-en-concordia-el-operativo-de-prevencion-y-asistencia/ _(bloqueado: contiene keyword 'niño')_
