@@ -3035,3 +3035,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-28 22:05 UTC
 - Ante las posibles crecientes por El Niño, Frigerio supervisó en Concordia el operativo de prevención y asistencia — https://concordia24.com.ar/ante-las-posibles-crecientes-por-el-nino-frigerio-superviso-en-concordia-el-operativo-de-prevencion-y-asistencia/ _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-10-29 03:52 UTC
+- Vecinos golpearon a un hombre acusado de intentar abusar sexualmente de dos niñas — https://concordia24.com.ar/vecinos-golpearon-a-un-hombre-acusado-de-intentar-abusar-sexualmente-de-dos-ninas/ _(bloqueado: contiene keyword 'niña')_
