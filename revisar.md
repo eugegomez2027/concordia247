@@ -3043,3 +3043,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-30 03:54 UTC
 - ARCA detectó 15.000 relojes inteligentes con presunto fraude marcario en el Puente Internacional Salto Grande — https://concordia24.com.ar/arca-detecto-15-000-relojes-inteligentes-con-presunto-fraude-marcario-en-el-puente-internacional-salto-grande/ _(bloqueado: contiene keyword 'presunto')_
+
+
+## Tanda 2026-10-30 11:57 UTC
+- Fuerte operativo saturación en Concordia: varios detenidos y secuestro de cocaína y marihuana en tres sectores de la ciudad — https://concordia24.com.ar/fuerte-operativo-saturacion-en-concordia-varios-detenidos-y-secuestro-de-cocaina-y-marihuana-en-tres-sectores-de-la-ciudad/ _(bloqueado: contiene keyword 'policial')_
