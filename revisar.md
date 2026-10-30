@@ -3039,3 +3039,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-29 03:52 UTC
 - Vecinos golpearon a un hombre acusado de intentar abusar sexualmente de dos niñas — https://concordia24.com.ar/vecinos-golpearon-a-un-hombre-acusado-de-intentar-abusar-sexualmente-de-dos-ninas/ _(bloqueado: contiene keyword 'niña')_
+
+
+## Tanda 2026-10-30 03:54 UTC
+- ARCA detectó 15.000 relojes inteligentes con presunto fraude marcario en el Puente Internacional Salto Grande — https://concordia24.com.ar/arca-detecto-15-000-relojes-inteligentes-con-presunto-fraude-marcario-en-el-puente-internacional-salto-grande/ _(bloqueado: contiene keyword 'presunto')_
