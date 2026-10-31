@@ -3056,3 +3056,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-31 16:39 UTC
 - Intentaron escapar de un control policial en Ruta 22 y les secuestraron un fusil de grueso calibre — https://concordia24.com.ar/intentaron-escapar-de-un-control-policial-en-ruta-22-y-les-secuestraron-un-fusil-de-grueso-calibre/ _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-10-31 20:52 UTC
+- Violento choque entre dos camiones en Ruta 015: un conductor fue trasladado al Hospital Masvernat — https://concordia24.com.ar/violento-choque-entre-dos-camiones-en-ruta-015-un-conductor-fue-trasladado-al-hospital-masvernat/ _(bloqueado: URL contiene '/viol')_
