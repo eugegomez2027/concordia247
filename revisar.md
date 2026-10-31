@@ -3052,3 +3052,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-10-31 03:39 UTC
 - Dos allanamientos en Concordia terminaron con el secuestro de cocaína, marihuana y tres detenidos tras agredir a policías — https://concordia24.com.ar/dos-allanamientos-en-concordia-terminaron-con-el-secuestro-de-cocaina-marihuana-y-tres-detenidos-tras-agredir-a-policias/ _(bloqueado: contiene keyword 'policía')_
 - La Fiscalía respaldó la clausura preventiva de la planta de efluentes del Parque Industrial de Gualeguaychú — https://diarioelsol.com.ar/contenido/63369/la-fiscalia-respaldo-la-clausura-preventiva-de-la-planta-de-efluentes-del-parque _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-10-31 16:39 UTC
+- Intentaron escapar de un control policial en Ruta 22 y les secuestraron un fusil de grueso calibre — https://concordia24.com.ar/intentaron-escapar-de-un-control-policial-en-ruta-22-y-les-secuestraron-un-fusil-de-grueso-calibre/ _(bloqueado: contiene keyword 'policía')_
