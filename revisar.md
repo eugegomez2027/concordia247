@@ -3047,3 +3047,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-30 11:57 UTC
 - Fuerte operativo saturación en Concordia: varios detenidos y secuestro de cocaína y marihuana en tres sectores de la ciudad — https://concordia24.com.ar/fuerte-operativo-saturacion-en-concordia-varios-detenidos-y-secuestro-de-cocaina-y-marihuana-en-tres-sectores-de-la-ciudad/ _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-10-31 03:39 UTC
+- Dos allanamientos en Concordia terminaron con el secuestro de cocaína, marihuana y tres detenidos tras agredir a policías — https://concordia24.com.ar/dos-allanamientos-en-concordia-terminaron-con-el-secuestro-de-cocaina-marihuana-y-tres-detenidos-tras-agredir-a-policias/ _(bloqueado: contiene keyword 'policía')_
+- La Fiscalía respaldó la clausura preventiva de la planta de efluentes del Parque Industrial de Gualeguaychú — https://diarioelsol.com.ar/contenido/63369/la-fiscalia-respaldo-la-clausura-preventiva-de-la-planta-de-efluentes-del-parque _(bloqueado: contiene keyword 'denuncia')_
