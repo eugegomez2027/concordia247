@@ -3060,3 +3060,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-10-31 20:52 UTC
 - Violento choque entre dos camiones en Ruta 015: un conductor fue trasladado al Hospital Masvernat — https://concordia24.com.ar/violento-choque-entre-dos-camiones-en-ruta-015-un-conductor-fue-trasladado-al-hospital-masvernat/ _(bloqueado: URL contiene '/viol')_
+
+
+## Tanda 2026-11-01 03:45 UTC
+- La nueva vida del perro que sufría maltratos de un hombre en la calle e igual lo defendió de la Policía — https://diarioelsol.com.ar/contenido/63402/la-nueva-vida-del-perro-que-sufria-maltratos-de-un-hombre-en-la-calle-e-igual-lo _(bloqueado: contiene keyword 'policía')_
