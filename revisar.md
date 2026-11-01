@@ -3064,3 +3064,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-11-01 03:45 UTC
 - La nueva vida del perro que sufría maltratos de un hombre en la calle e igual lo defendió de la Policía — https://diarioelsol.com.ar/contenido/63402/la-nueva-vida-del-perro-que-sufria-maltratos-de-un-hombre-en-la-calle-e-igual-lo _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-11-01 12:29 UTC
+- AGMER denunció que en la escuela de La Criolla "trabaja una cuadrilla fantasma" — https://diarioelsol.com.ar/contenido/63415/agmer-denuncio-que-en-la-escuela-de-la-criolla-trabaja-una-cuadrilla-fantasma _(bloqueado: contiene keyword 'denunció')_
