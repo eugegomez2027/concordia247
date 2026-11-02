@@ -3068,3 +3068,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-11-01 12:29 UTC
 - AGMER denunció que en la escuela de La Criolla "trabaja una cuadrilla fantasma" — https://diarioelsol.com.ar/contenido/63415/agmer-denuncio-que-en-la-escuela-de-la-criolla-trabaja-una-cuadrilla-fantasma _(bloqueado: contiene keyword 'denunció')_
+
+
+## Tanda 2026-11-02 03:50 UTC
+- Clausuraron un drugstore que funcionaba como boliche bailable: 14 motos retenidas y una mujer detenida — https://concordia24.com.ar/clausuraron-un-drugstore-que-funcionaba-como-boliche-bailable-14-motos-retenidas-y-una-mujer-detenida/ _(bloqueado: contiene keyword 'policía')_
+- Tres heridos en un choque de motos y un hombre detenido por resistencia a la autoridad — https://concordia24.com.ar/tres-heridos-en-un-choque-de-motos-y-un-hombre-detenido-por-resistencia-a-la-autoridad/ _(bloqueado: contiene keyword 'detenido')_
+- Dos cacos de Concordia fueron a Federación, robaron una moto y fueron detenidos en la ruta. — https://diarioelsol.com.ar/contenido/63416/dos-cacos-de-concordia-fueron-a-federacion-robaron-una-moto-y-fueron-detenidos-e _(bloqueado: contiene keyword 'policía')_
