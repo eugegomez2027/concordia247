@@ -3074,3 +3074,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Clausuraron un drugstore que funcionaba como boliche bailable: 14 motos retenidas y una mujer detenida — https://concordia24.com.ar/clausuraron-un-drugstore-que-funcionaba-como-boliche-bailable-14-motos-retenidas-y-una-mujer-detenida/ _(bloqueado: contiene keyword 'policía')_
 - Tres heridos en un choque de motos y un hombre detenido por resistencia a la autoridad — https://concordia24.com.ar/tres-heridos-en-un-choque-de-motos-y-un-hombre-detenido-por-resistencia-a-la-autoridad/ _(bloqueado: contiene keyword 'detenido')_
 - Dos cacos de Concordia fueron a Federación, robaron una moto y fueron detenidos en la ruta. — https://diarioelsol.com.ar/contenido/63416/dos-cacos-de-concordia-fueron-a-federacion-robaron-una-moto-y-fueron-detenidos-e _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-11-03 00:18 UTC
+- Se realizará un nuevo encuentro para personas interesadas en inscribirse en el RUAER — https://concordia24.com.ar/se-realizara-un-nuevo-encuentro-para-personas-interesadas-en-inscribirse-en-el-ruaer/ _(bloqueado: contiene keyword 'adolescente')_
+- Detuvieron a una acompañante terapéutica acusada de sustraer una billetera y realizar compras por un millón de pesos — https://concordia24.com.ar/detuvieron-a-una-acompanante-terapeutica-acusada-de-sustraer-una-billetera-y-realizar-compras-por-un-millon-de-pesos/ _(bloqueado: contiene keyword 'allanamiento')_
+- Otras dos personas detenidas, cocaína y más de 4 millones de pesos en sendos allanamientos — https://diarioelsol.com.ar/contenido/63435/otras-dos-personas-detenidas-cocaina-y-mas-de-4-millones-de-pesos-en-sendos-alla _(bloqueado: contiene keyword 'policía')_
+- Cayó un presunto puesto de venta de cocaína que funcionaba detrás de un taller de motos: hay una empleada municipal y un mecánico detenidos — https://diarioelsol.com.ar/contenido/63433/cayo-un-presunto-puesto-de-venta-de-cocaina-que-funcionaba-detras-de-un-taller-d _(bloqueado: contiene keyword 'detenido')_
