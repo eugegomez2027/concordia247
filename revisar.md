@@ -3081,3 +3081,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Detuvieron a una acompañante terapéutica acusada de sustraer una billetera y realizar compras por un millón de pesos — https://concordia24.com.ar/detuvieron-a-una-acompanante-terapeutica-acusada-de-sustraer-una-billetera-y-realizar-compras-por-un-millon-de-pesos/ _(bloqueado: contiene keyword 'allanamiento')_
 - Otras dos personas detenidas, cocaína y más de 4 millones de pesos en sendos allanamientos — https://diarioelsol.com.ar/contenido/63435/otras-dos-personas-detenidas-cocaina-y-mas-de-4-millones-de-pesos-en-sendos-alla _(bloqueado: contiene keyword 'policía')_
 - Cayó un presunto puesto de venta de cocaína que funcionaba detrás de un taller de motos: hay una empleada municipal y un mecánico detenidos — https://diarioelsol.com.ar/contenido/63433/cayo-un-presunto-puesto-de-venta-de-cocaina-que-funcionaba-detras-de-un-taller-d _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-11-04 04:22 UTC
+- Reclamo de vecinos de los barrios Nebel y Lamadrid: denuncian varios días sin agua potable y falta de respuestas — https://concordia24.com.ar/reclamo-de-vecinos-de-los-barrios-nebel-y-lamadrid-denuncian-varios-dias-sin-agua-potable-y-falta-de-respuestas/ _(bloqueado: contiene keyword 'denuncia')_
