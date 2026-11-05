@@ -3085,3 +3085,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-11-04 04:22 UTC
 - Reclamo de vecinos de los barrios Nebel y Lamadrid: denuncian varios días sin agua potable y falta de respuestas — https://concordia24.com.ar/reclamo-de-vecinos-de-los-barrios-nebel-y-lamadrid-denuncian-varios-dias-sin-agua-potable-y-falta-de-respuestas/ _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-11-05 04:39 UTC
+- Allanaron una vivienda y secuestraron una moto por realizar picadas frente a una escuela — https://concordia24.com.ar/allanaron-una-vivienda-y-secuestraron-una-moto-por-realizar-picadas-frente-a-una-escuela/ _(bloqueado: contiene keyword 'adolescente')_
