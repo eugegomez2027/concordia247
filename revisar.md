@@ -3094,3 +3094,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-11-06 04:39 UTC
 - Federal: secuestraron armas de fuego sin documentación y detectaron la caza irregular de nueve animales — https://concordia24.com.ar/federal-secuestraron-armas-de-fuego-sin-documentacion-y-detectaron-la-caza-irregular-de-nueve-animales/ _(bloqueado: contiene keyword 'policía')_
 - La caída de la mano derecha de Karina Milei: historias de magia negra, un gato con despacho propio y el escándalo de Olivos — https://diarioelsol.com.ar/contenido/63528/la-caida-de-la-mano-derecha-de-karina-milei-historias-de-magia-negra-un-gato-con _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-11-06 22:37 UTC
+- Decomisaron cerca de mil kilos de pescado en un operativo conjunto en Concordia — https://concordia24.com.ar/decomisaron-cerca-de-mil-kilos-de-pescado-en-un-operativo-conjunto-en-concordia/ _(bloqueado: contiene keyword 'policía')_
