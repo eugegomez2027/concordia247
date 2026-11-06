@@ -3089,3 +3089,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-11-05 04:39 UTC
 - Allanaron una vivienda y secuestraron una moto por realizar picadas frente a una escuela — https://concordia24.com.ar/allanaron-una-vivienda-y-secuestraron-una-moto-por-realizar-picadas-frente-a-una-escuela/ _(bloqueado: contiene keyword 'adolescente')_
+
+
+## Tanda 2026-11-06 04:39 UTC
+- Federal: secuestraron armas de fuego sin documentación y detectaron la caza irregular de nueve animales — https://concordia24.com.ar/federal-secuestraron-armas-de-fuego-sin-documentacion-y-detectaron-la-caza-irregular-de-nueve-animales/ _(bloqueado: contiene keyword 'policía')_
+- La caída de la mano derecha de Karina Milei: historias de magia negra, un gato con despacho propio y el escándalo de Olivos — https://diarioelsol.com.ar/contenido/63528/la-caida-de-la-mano-derecha-de-karina-milei-historias-de-magia-negra-un-gato-con _(bloqueado: contiene keyword 'denuncia')_
