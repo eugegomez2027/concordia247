@@ -3098,3 +3098,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-11-06 22:37 UTC
 - Decomisaron cerca de mil kilos de pescado en un operativo conjunto en Concordia — https://concordia24.com.ar/decomisaron-cerca-de-mil-kilos-de-pescado-en-un-operativo-conjunto-en-concordia/ _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-11-07 12:14 UTC
+- Hondo pesar en Concordia por la muerte de un comisario de la Policía de Entre Ríos — https://diarioelsol.com.ar/contenido/63557/hondo-pesar-en-concordia-por-la-muerte-de-un-comisario-de-la-policia-de-entre-ri _(bloqueado: contiene keyword 'policía')_
+- Detuvieron a un chico de 15 años que tenía un revólver cargado en una plaza — https://diarioelsol.com.ar/contenido/63556/detuvieron-a-un-chico-de-15-anos-que-tenia-un-revolver-cargado-en-una-plaza _(bloqueado: contiene keyword 'detenido')_
+- Aprehendieron a dos hombres con millones de pesos, dólares y joyas de dudosa procedencia — https://diarioelsol.com.ar/contenido/63561/aprehendieron-a-dos-hombres-con-millones-de-pesos-dolares-y-joyas-de-dudosa-proc _(bloqueado: contiene keyword 'policía')_
