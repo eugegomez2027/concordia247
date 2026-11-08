@@ -3104,3 +3104,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Hondo pesar en Concordia por la muerte de un comisario de la Policía de Entre Ríos — https://diarioelsol.com.ar/contenido/63557/hondo-pesar-en-concordia-por-la-muerte-de-un-comisario-de-la-policia-de-entre-ri _(bloqueado: contiene keyword 'policía')_
 - Detuvieron a un chico de 15 años que tenía un revólver cargado en una plaza — https://diarioelsol.com.ar/contenido/63556/detuvieron-a-un-chico-de-15-anos-que-tenia-un-revolver-cargado-en-una-plaza _(bloqueado: contiene keyword 'detenido')_
 - Aprehendieron a dos hombres con millones de pesos, dólares y joyas de dudosa procedencia — https://diarioelsol.com.ar/contenido/63561/aprehendieron-a-dos-hombres-con-millones-de-pesos-dolares-y-joyas-de-dudosa-proc _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-11-08 12:35 UTC
+- Fuerte choque entre dos motocicletas y un automóvil : cuatro personas fueron hospitalizadas — https://concordia24.com.ar/fuerte-choque-entre-dos-motocicletas-y-un-automovil-cuatro-personas-fueron-hospitalizadas/ _(bloqueado: contiene keyword 'adolescente')_
+- Trabajadores de Granja Tres Arroyos denuncian que la empresa quiere pagar los sueldos con pollos — https://diarioelsol.com.ar/contenido/63572/trabajadores-de-granja-tres-arroyos-denuncian-que-la-empresa-quiere-pagar-los-su _(bloqueado: contiene keyword 'denuncia')_
+- Los detenidos con dólares y joyas habían engañado a un matrimonio de 86 y 91 años con el cuento del hijo secuestrado — https://diarioelsol.com.ar/contenido/63576/los-detenidos-con-dolares-y-joyas-habian-enganado-a-un-matrimonio-de-86-y-91-ano _(bloqueado: contiene keyword 'detenido')_
