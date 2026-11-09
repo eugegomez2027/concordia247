@@ -3118,3 +3118,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - El Defensor General de Entre Ríos respaldó a la jueza que declaró la inconstitucional de la punibilidad a los 14 años — https://diarioelsol.com.ar/contenido/63591/el-defensor-general-de-entre-rios-respaldo-a-la-jueza-que-declaro-la-inconstituc _(bloqueado: contiene keyword 'robo')_
 - Falleció el empresario Roberto Pietroboni ex piloto de automovilismo y artífice del Autódromo Ciudad de Concordia. — https://diarioelsol.com.ar/contenido/63594/fallecio-el-empresario-roberto-pietroboni-ex-piloto-de-automovilismo-y-artifice _(bloqueado: contiene keyword 'robo')_
 - Urribarri, Báez y Aguilera, frente a la jueza: la vida en la Unidad Penal 9 tras "siete días horribles" — https://diarioelsol.com.ar/contenido/63602/urribarri-baez-y-aguilera-frente-a-la-jueza-la-vida-en-la-unidad-penal-9-tras-si _(bloqueado: contiene keyword 'denunció')_
+
+
+## Tanda 2026-11-09 14:53 UTC
+- Dolores Fonzi cuestionó el desfinanciamiento del cine argentino y calificó a Javier Milei como "desalmado" — https://diarioelsol.com.ar/contenido/63605/dolores-fonzi-cuestiono-el-desfinanciamiento-del-cine-argentino-y-califico-a-jav _(bloqueado: contiene keyword 'acusó')_
