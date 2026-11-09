@@ -3110,3 +3110,11 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Fuerte choque entre dos motocicletas y un automóvil : cuatro personas fueron hospitalizadas — https://concordia24.com.ar/fuerte-choque-entre-dos-motocicletas-y-un-automovil-cuatro-personas-fueron-hospitalizadas/ _(bloqueado: contiene keyword 'adolescente')_
 - Trabajadores de Granja Tres Arroyos denuncian que la empresa quiere pagar los sueldos con pollos — https://diarioelsol.com.ar/contenido/63572/trabajadores-de-granja-tres-arroyos-denuncian-que-la-empresa-quiere-pagar-los-su _(bloqueado: contiene keyword 'denuncia')_
 - Los detenidos con dólares y joyas habían engañado a un matrimonio de 86 y 91 años con el cuento del hijo secuestrado — https://diarioelsol.com.ar/contenido/63576/los-detenidos-con-dolares-y-joyas-habian-enganado-a-un-matrimonio-de-86-y-91-ano _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-11-09 04:01 UTC
+- Nuevo homicidio en Paraná: un hombre murió apuñalado en una aparente pelea — https://diarioelsol.com.ar/contenido/63587/nuevo-homicidio-en-parana-un-hombre-murio-apunalado-en-una-aparente-pelea _(bloqueado: contiene keyword 'policía')_
+- Roberto Pietroboni — https://diarioelsol.com.ar/contenido/63593/roberto-pietroboni _(bloqueado: contiene keyword 'robo')_
+- El Defensor General de Entre Ríos respaldó a la jueza que declaró la inconstitucional de la punibilidad a los 14 años — https://diarioelsol.com.ar/contenido/63591/el-defensor-general-de-entre-rios-respaldo-a-la-jueza-que-declaro-la-inconstituc _(bloqueado: contiene keyword 'robo')_
+- Falleció el empresario Roberto Pietroboni ex piloto de automovilismo y artífice del Autódromo Ciudad de Concordia. — https://diarioelsol.com.ar/contenido/63594/fallecio-el-empresario-roberto-pietroboni-ex-piloto-de-automovilismo-y-artifice _(bloqueado: contiene keyword 'robo')_
+- Urribarri, Báez y Aguilera, frente a la jueza: la vida en la Unidad Penal 9 tras "siete días horribles" — https://diarioelsol.com.ar/contenido/63602/urribarri-baez-y-aguilera-frente-a-la-jueza-la-vida-en-la-unidad-penal-9-tras-si _(bloqueado: contiene keyword 'denunció')_
