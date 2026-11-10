@@ -3127,3 +3127,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-11-10 01:03 UTC
 - Chocó, se dio a la fuga y fue detenido: investigan si conducía bajo los efectos del alcohol — https://concordia24.com.ar/choco-se-dio-a-la-fuga-y-fue-detenido-investigan-si-conducia-bajo-los-efectos-del-alcohol/ _(bloqueado: contiene keyword 'detenido')_
 - Axel Kicillof: "No existe 'el milagro argentino' si la gente no puede pagar la factura de luz o la comida" — https://diarioelsol.com.ar/contenido/63606/axel-kicillof-no-existe-el-milagro-argentino-si-la-gente-no-puede-pagar-la-factu _(bloqueado: contiene keyword 'denunció')_
+
+
+## Tanda 2026-11-10 14:05 UTC
+- Conflicto entre vecinos derivó en allanamiento: secuestro de dos armas de fuego, municiones y tres aprehendidos — https://concordia24.com.ar/conflicto-entre-vecinos-derivo-en-allanamiento-secuestro-de-dos-armas-de-fuego-municiones-y-tres-aprehendidos/ _(bloqueado: contiene keyword 'allanamiento')_
