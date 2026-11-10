@@ -3131,3 +3131,10 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-11-10 14:05 UTC
 - Conflicto entre vecinos derivó en allanamiento: secuestro de dos armas de fuego, municiones y tres aprehendidos — https://concordia24.com.ar/conflicto-entre-vecinos-derivo-en-allanamiento-secuestro-de-dos-armas-de-fuego-municiones-y-tres-aprehendidos/ _(bloqueado: contiene keyword 'allanamiento')_
+
+
+## Tanda 2026-11-10 22:42 UTC
+- El gobierno provincial analizó las negociaciones paritarias, el proyecto de ley de Ética Pública y la asistencia por el fenómeno de El Niño — https://concordia24.com.ar/el-gobierno-provincial-analizo-las-negociaciones-paritarias-el-proyecto-de-ley-de-etica-publica-y-la-asistencia-por-el-fenomeno-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
+- PIETROBONI, ROBERTO GUILLERMO — https://diarioelsol.com.ar/contenido/63618/pietroboni-roberto-guillermo _(bloqueado: contiene keyword 'robo')_
+- Se agrava la crisis en la obra social de las Fuerzas Armadas: renunció el administrador y trabajadores ocuparon la sede — https://diarioelsol.com.ar/contenido/63622/se-agrava-la-crisis-en-la-obra-social-de-las-fuerzas-armadas-renuncio-el-adminis _(bloqueado: contiene keyword 'denuncia')_
+- Casación revocó el fallo de la jueza que frenó la aplicación de la nueva ley penal juvenil — https://diarioelsol.com.ar/contenido/63621/casacion-revoco-el-fallo-de-la-jueza-que-freno-la-aplicacion-de-la-nueva-ley-pen _(bloqueado: contiene keyword 'menor')_
