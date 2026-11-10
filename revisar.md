@@ -3122,3 +3122,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-11-09 14:53 UTC
 - Dolores Fonzi cuestionó el desfinanciamiento del cine argentino y calificó a Javier Milei como "desalmado" — https://diarioelsol.com.ar/contenido/63605/dolores-fonzi-cuestiono-el-desfinanciamiento-del-cine-argentino-y-califico-a-jav _(bloqueado: contiene keyword 'acusó')_
+
+
+## Tanda 2026-11-10 01:03 UTC
+- Chocó, se dio a la fuga y fue detenido: investigan si conducía bajo los efectos del alcohol — https://concordia24.com.ar/choco-se-dio-a-la-fuga-y-fue-detenido-investigan-si-conducia-bajo-los-efectos-del-alcohol/ _(bloqueado: contiene keyword 'detenido')_
+- Axel Kicillof: "No existe 'el milagro argentino' si la gente no puede pagar la factura de luz o la comida" — https://diarioelsol.com.ar/contenido/63606/axel-kicillof-no-existe-el-milagro-argentino-si-la-gente-no-puede-pagar-la-factu _(bloqueado: contiene keyword 'denunció')_
