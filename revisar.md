@@ -3142,3 +3142,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-11-11 04:07 UTC
 - El represor Christian von Wernich quiere que lo trasladen a Devoto para recibir la bendición del Papa León XIV — https://diarioelsol.com.ar/contenido/63627/el-represor-christian-von-wernich-quiere-que-lo-trasladen-a-devoto-para-recibir- _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-11-11 13:22 UTC
+- Docentes fueron capacitados sobre detención temprana de problemáticas que atraviesan jóvenes y adolescentes — https://concordia24.com.ar/docentes-fueron-capacitados-sobre-detencion-temprana-de-problematicas-que-atraviesan-jovenes-y-adolescentes/ _(bloqueado: contiene keyword 'adolescente')_
