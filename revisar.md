@@ -3138,3 +3138,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - PIETROBONI, ROBERTO GUILLERMO — https://diarioelsol.com.ar/contenido/63618/pietroboni-roberto-guillermo _(bloqueado: contiene keyword 'robo')_
 - Se agrava la crisis en la obra social de las Fuerzas Armadas: renunció el administrador y trabajadores ocuparon la sede — https://diarioelsol.com.ar/contenido/63622/se-agrava-la-crisis-en-la-obra-social-de-las-fuerzas-armadas-renuncio-el-adminis _(bloqueado: contiene keyword 'denuncia')_
 - Casación revocó el fallo de la jueza que frenó la aplicación de la nueva ley penal juvenil — https://diarioelsol.com.ar/contenido/63621/casacion-revoco-el-fallo-de-la-jueza-que-freno-la-aplicacion-de-la-nueva-ley-pen _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-11-11 04:07 UTC
+- El represor Christian von Wernich quiere que lo trasladen a Devoto para recibir la bendición del Papa León XIV — https://diarioelsol.com.ar/contenido/63627/el-represor-christian-von-wernich-quiere-que-lo-trasladen-a-devoto-para-recibir- _(bloqueado: contiene keyword 'policía')_
