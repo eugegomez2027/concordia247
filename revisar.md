@@ -3156,3 +3156,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - La policía realizó allanamiento por micro tráfico en Federal con secuestro de estupefacientes y un arma de fuego — https://concordia24.com.ar/la-policia-realizo-allanamiento-por-micro-trafico-en-federal-con-secuestro-de-estupefacientes-y-un-arma-de-fuego/ _(bloqueado: contiene keyword 'policía')_
 - Concordia 24 — https://concordia24.com.ar/207743-2/ _(bloqueado: contiene keyword 'policial')_
 - Cuatro periodistas fueron condenados a cinco días de arresto por una cobertura en Formosa — https://diarioelsol.com.ar/contenido/63666/cuatro-periodistas-fueron-condenados-a-cinco-dias-de-arresto-por-una-cobertura-e _(bloqueado: contiene keyword 'denuncia')_
+
+
+## Tanda 2026-11-12 23:03 UTC
+- Chocaron tres autos en calle Garat y uno se dio a la fuga — https://diarioelsol.com.ar/contenido/63674/chocaron-tres-autos-en-calle-garat-y-uno-se-dio-a-la-fuga _(bloqueado: contiene keyword 'policía')_
+- Recuperan un motor y un motorreductor robados a un aserradero: tres aprehendidos — https://diarioelsol.com.ar/contenido/63672/recuperan-un-motor-y-un-motorreductor-robados-a-un-aserradero-tres-aprehendidos _(bloqueado: contiene keyword 'policía')_
