@@ -3150,3 +3150,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-11-12 05:26 UTC
 - Quiso robar una moto con un arma de juguete, se llevó sólo el casco y terminó detenido — https://diarioelsol.com.ar/contenido/63654/quiso-robar-una-moto-con-un-arma-de-juguete-se-llevo-solo-el-casco-y-termino-det _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-11-12 14:27 UTC
+- La policía realizó allanamiento por micro tráfico en Federal con secuestro de estupefacientes y un arma de fuego — https://concordia24.com.ar/la-policia-realizo-allanamiento-por-micro-trafico-en-federal-con-secuestro-de-estupefacientes-y-un-arma-de-fuego/ _(bloqueado: contiene keyword 'policía')_
+- Concordia 24 — https://concordia24.com.ar/207743-2/ _(bloqueado: contiene keyword 'policial')_
+- Cuatro periodistas fueron condenados a cinco días de arresto por una cobertura en Formosa — https://diarioelsol.com.ar/contenido/63666/cuatro-periodistas-fueron-condenados-a-cinco-dias-de-arresto-por-una-cobertura-e _(bloqueado: contiene keyword 'denuncia')_
