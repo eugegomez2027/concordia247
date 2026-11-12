@@ -3146,3 +3146,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-11-11 13:22 UTC
 - Docentes fueron capacitados sobre detención temprana de problemáticas que atraviesan jóvenes y adolescentes — https://concordia24.com.ar/docentes-fueron-capacitados-sobre-detencion-temprana-de-problematicas-que-atraviesan-jovenes-y-adolescentes/ _(bloqueado: contiene keyword 'adolescente')_
+
+
+## Tanda 2026-11-12 05:26 UTC
+- Quiso robar una moto con un arma de juguete, se llevó sólo el casco y terminó detenido — https://diarioelsol.com.ar/contenido/63654/quiso-robar-una-moto-con-un-arma-de-juguete-se-llevo-solo-el-casco-y-termino-det _(bloqueado: contiene keyword 'detenido')_
