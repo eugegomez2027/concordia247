@@ -3161,3 +3161,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-11-12 23:03 UTC
 - Chocaron tres autos en calle Garat y uno se dio a la fuga — https://diarioelsol.com.ar/contenido/63674/chocaron-tres-autos-en-calle-garat-y-uno-se-dio-a-la-fuga _(bloqueado: contiene keyword 'policía')_
 - Recuperan un motor y un motorreductor robados a un aserradero: tres aprehendidos — https://diarioelsol.com.ar/contenido/63672/recuperan-un-motor-y-un-motorreductor-robados-a-un-aserradero-tres-aprehendidos _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-11-13 13:45 UTC
+- Operativos de saturación en Concordia: dos detenidos y secuestro de cocaína en la vía pública — https://concordia24.com.ar/operativos-de-saturacion-en-concordia-dos-detenidos-y-secuestro-de-cocaina-en-la-via-publica/ _(bloqueado: contiene keyword 'policía')_
