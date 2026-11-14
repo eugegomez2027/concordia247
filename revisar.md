@@ -3165,3 +3165,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-11-13 13:45 UTC
 - Operativos de saturación en Concordia: dos detenidos y secuestro de cocaína en la vía pública — https://concordia24.com.ar/operativos-de-saturacion-en-concordia-dos-detenidos-y-secuestro-de-cocaina-en-la-via-publica/ _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-11-14 21:52 UTC
+- Detuvieron a “La Chicha” López y al “Bocha” Carrera con cocaína y marihuana mientras cumplían arresto domiciliario — https://concordia24.com.ar/detuvieron-a-la-chicha-lopez-y-al-bocha-carrera-con-cocaina-y-marihuana-mientras-cumplian-arresto-domiciliario/ _(bloqueado: contiene keyword 'detenido')_
