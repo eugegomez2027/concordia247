@@ -3173,3 +3173,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-11-15 04:17 UTC
 - Robó elementos de una vivienda, intentó escapar de la Policía y terminó detenido — https://concordia24.com.ar/robo-elementos-de-una-vivienda-intento-escapar-de-la-policia-y-termino-detenido/ _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-11-15 13:16 UTC
+- Asesinaron de un piedrazo en la cabeza a un joven de 22 años a la salida de un boliche en Ezeiza: hay cuatro detenidos — https://diarioelsol.com.ar/contenido/63725/asesinaron-de-un-piedrazo-en-la-cabeza-a-un-joven-de-22-anos-a-la-salida-de-un-b _(bloqueado: contiene keyword 'asesin')_
+- La perversa doble cara del DT de hockey que formaba a Leonas y cayó por abuso: “No seas tonta, lo que pasó anoche es lo que pasa entre nenas y nenes” — https://diarioelsol.com.ar/contenido/63722/la-perversa-doble-cara-del-dt-de-hockey-que-formaba-a-leonas-y-cayo-por-abuso-no _(bloqueado: contiene keyword 'detenido')_
