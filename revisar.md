@@ -3169,3 +3169,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-11-14 21:52 UTC
 - Detuvieron a “La Chicha” López y al “Bocha” Carrera con cocaína y marihuana mientras cumplían arresto domiciliario — https://concordia24.com.ar/detuvieron-a-la-chicha-lopez-y-al-bocha-carrera-con-cocaina-y-marihuana-mientras-cumplian-arresto-domiciliario/ _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-11-15 04:17 UTC
+- Robó elementos de una vivienda, intentó escapar de la Policía y terminó detenido — https://concordia24.com.ar/robo-elementos-de-una-vivienda-intento-escapar-de-la-policia-y-termino-detenido/ _(bloqueado: contiene keyword 'policía')_
