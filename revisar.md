@@ -3178,3 +3178,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-11-15 13:16 UTC
 - Asesinaron de un piedrazo en la cabeza a un joven de 22 años a la salida de un boliche en Ezeiza: hay cuatro detenidos — https://diarioelsol.com.ar/contenido/63725/asesinaron-de-un-piedrazo-en-la-cabeza-a-un-joven-de-22-anos-a-la-salida-de-un-b _(bloqueado: contiene keyword 'asesin')_
 - La perversa doble cara del DT de hockey que formaba a Leonas y cayó por abuso: “No seas tonta, lo que pasó anoche es lo que pasa entre nenas y nenes” — https://diarioelsol.com.ar/contenido/63722/la-perversa-doble-cara-del-dt-de-hockey-que-formaba-a-leonas-y-cayo-por-abuso-no _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-11-15 22:21 UTC
+- Vendía drogas como si fueran caramelos en plena calle, fue detenido. — https://diarioelsol.com.ar/contenido/63739/vendia-drogas-como-si-fueran-caramelos-en-plena-calle-fue-detenido _(bloqueado: contiene keyword 'detenido')_
