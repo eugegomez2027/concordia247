@@ -3187,3 +3187,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-11-16 04:15 UTC
 - Redrado demostró en la Justicia que no es el padre de la hija de Luciana Salazar y no debe cuota alimentaria — https://diarioelsol.com.ar/contenido/63743/redrado-demostro-en-la-justicia-que-no-es-el-padre-de-la-hija-de-luciana-salazar _(bloqueado: contiene keyword 'niña')_
 - Llamado de atención sobre las condiciones de detención en comisarías entrerrianas — https://diarioelsol.com.ar/contenido/63748/llamado-de-atencion-sobre-las-condiciones-de-detencion-en-comisarias-entrerriana _(bloqueado: contiene keyword 'policial')_
+
+
+## Tanda 2026-11-16 14:31 UTC
+- Fuerte operativo policial en Zona Verde y Costanera: retuvieron 16 motos y secuestraron un automóvil por alcoholemia positiva — https://concordia24.com.ar/fuerte-operativo-policial-en-zona-verde-y-costanera-retuvieron-16-motos-y-secuestraron-un-automovil-por-alcoholemia-positiva/ _(bloqueado: contiene keyword 'policial')_
+- Allanamiento en Federal en el marco de una causa por presunto abuso sexual — https://concordia24.com.ar/allanamiento-en-federal-en-el-marco-de-una-causa-por-presunto-abuso-sexual/ _(bloqueado: contiene keyword 'policía')_
