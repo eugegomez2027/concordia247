@@ -3182,3 +3182,8 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-11-15 22:21 UTC
 - Vendía drogas como si fueran caramelos en plena calle, fue detenido. — https://diarioelsol.com.ar/contenido/63739/vendia-drogas-como-si-fueran-caramelos-en-plena-calle-fue-detenido _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-11-16 04:15 UTC
+- Redrado demostró en la Justicia que no es el padre de la hija de Luciana Salazar y no debe cuota alimentaria — https://diarioelsol.com.ar/contenido/63743/redrado-demostro-en-la-justicia-que-no-es-el-padre-de-la-hija-de-luciana-salazar _(bloqueado: contiene keyword 'niña')_
+- Llamado de atención sobre las condiciones de detención en comisarías entrerrianas — https://diarioelsol.com.ar/contenido/63748/llamado-de-atencion-sobre-las-condiciones-de-detencion-en-comisarias-entrerriana _(bloqueado: contiene keyword 'policial')_
