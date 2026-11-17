@@ -3192,3 +3192,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 ## Tanda 2026-11-16 14:31 UTC
 - Fuerte operativo policial en Zona Verde y Costanera: retuvieron 16 motos y secuestraron un automóvil por alcoholemia positiva — https://concordia24.com.ar/fuerte-operativo-policial-en-zona-verde-y-costanera-retuvieron-16-motos-y-secuestraron-un-automovil-por-alcoholemia-positiva/ _(bloqueado: contiene keyword 'policial')_
 - Allanamiento en Federal en el marco de una causa por presunto abuso sexual — https://concordia24.com.ar/allanamiento-en-federal-en-el-marco-de-una-causa-por-presunto-abuso-sexual/ _(bloqueado: contiene keyword 'policía')_
+
+
+## Tanda 2026-11-17 15:20 UTC
+- Allanamientos por narcomenudeo en barrio Tiro Federal, con cinco detenidos y secuestro de cocaína — https://concordia24.com.ar/allanamientos-por-narcomenudeo-en-barrio-tiro-federal-con-cinco-detenidos-y-secuestro-de-cocaina/ _(bloqueado: contiene keyword 'detenido')_
