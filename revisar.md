@@ -3196,3 +3196,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-11-17 15:20 UTC
 - Allanamientos por narcomenudeo en barrio Tiro Federal, con cinco detenidos y secuestro de cocaína — https://concordia24.com.ar/allanamientos-por-narcomenudeo-en-barrio-tiro-federal-con-cinco-detenidos-y-secuestro-de-cocaina/ _(bloqueado: contiene keyword 'detenido')_
+
+
+## Tanda 2026-11-18 00:21 UTC
+- Provincia y municipio coordinan acciones ante El Niño y avanzan en obras para Concordia — https://concordia24.com.ar/provincia-y-municipio-coordinan-acciones-ante-el-nino-y-avanzan-en-obras-para-concordia/ _(bloqueado: contiene keyword 'niño')_
