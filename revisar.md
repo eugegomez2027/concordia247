@@ -3206,3 +3206,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Allanaron dos viviendas por el robo de un celular y encontraron más de 700 gramos de cocaína — https://concordia24.com.ar/allanaron-dos-viviendas-por-el-robo-de-un-celular-y-encontraron-mas-de-700-gramos-de-cocaina/ _(bloqueado: contiene keyword 'robo')_
 - La provincia y el municipio de Paraná fortalecen la coordinación ante el fenómeno de El Niño — https://concordia24.com.ar/la-provincia-y-el-municipio-de-parana-fortalecen-la-coordinacion-ante-el-fenomeno-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
 - Convocan a personas de todo el país a postularse para adoptar una niña de 7 años — https://concordia24.com.ar/convocan-a-personas-de-todo-el-pais-a-postularse-para-adoptar-una-nina-de-7-anos/ _(bloqueado: contiene keyword 'niña')_
+
+
+## Tanda 2026-11-19 15:01 UTC
+- Hallaron sin vida el cuerpo de un joven en el rio Uruguay — https://concordia24.com.ar/hallaron-sin-vida-el-cuerpo-de-un-joven-en-el-rio-uruguay/ _(bloqueado: contiene keyword 'adolescente')_
