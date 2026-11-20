@@ -3216,3 +3216,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Fallecimiento de una menor en el Hospital Masvernat: las autoridades iniciaron una revisión exhaustiva de la atención médica — https://concordia24.com.ar/fallecimiento-de-una-menor-en-el-hospital-masvernat-las-autoridades-iniciaron-una-revision-exhaustiva-de-la-atencion-medica/ _(bloqueado: contiene keyword 'menor')_
 - Tres allanamientos por narcomenudeo en barrio Las Colinas y secuestro de más de $1,6 millones — https://concordia24.com.ar/tres-allanamientos-por-narcomenudeo-en-barrio-las-colinas-y-secuestro-de-mas-de-16-millones/ _(bloqueado: contiene keyword 'allanamiento')_
 - El Ministerio de Desarrollo Humano de Entre Ríos refuerza la asistencia a familias afectadas ante el fenómeno de El Niño — https://concordia24.com.ar/el-ministerio-de-desarrollo-humano-de-entre-rios-refuerza-la-asistencia-a-familias-afectadas-ante-el-fenomeno-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-11-20 23:33 UTC
+- El Hornerito no se toma vacaciones: la cerámica sigue siendo un espacio para encontrarse — https://concordia24.com.ar/el-hornerito-no-se-toma-vacaciones-la-ceramica-sigue-siendo-un-espacio-para-encontrarse/ _(bloqueado: contiene keyword 'niño')_
