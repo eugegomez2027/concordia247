@@ -3210,3 +3210,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-11-19 15:01 UTC
 - Hallaron sin vida el cuerpo de un joven en el rio Uruguay — https://concordia24.com.ar/hallaron-sin-vida-el-cuerpo-de-un-joven-en-el-rio-uruguay/ _(bloqueado: contiene keyword 'adolescente')_
+
+
+## Tanda 2026-11-20 14:44 UTC
+- Fallecimiento de una menor en el Hospital Masvernat: las autoridades iniciaron una revisión exhaustiva de la atención médica — https://concordia24.com.ar/fallecimiento-de-una-menor-en-el-hospital-masvernat-las-autoridades-iniciaron-una-revision-exhaustiva-de-la-atencion-medica/ _(bloqueado: contiene keyword 'menor')_
+- Tres allanamientos por narcomenudeo en barrio Las Colinas y secuestro de más de $1,6 millones — https://concordia24.com.ar/tres-allanamientos-por-narcomenudeo-en-barrio-las-colinas-y-secuestro-de-mas-de-16-millones/ _(bloqueado: contiene keyword 'allanamiento')_
+- El Ministerio de Desarrollo Humano de Entre Ríos refuerza la asistencia a familias afectadas ante el fenómeno de El Niño — https://concordia24.com.ar/el-ministerio-de-desarrollo-humano-de-entre-rios-refuerza-la-asistencia-a-familias-afectadas-ante-el-fenomeno-de-el-nino/ _(bloqueado: contiene keyword 'niño')_
