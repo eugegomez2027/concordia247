@@ -3224,3 +3224,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-11-21 05:07 UTC
 - Atropelló a un ciclista de 14 años, huyó y protagonizó otras colisiones: el conductor tiene 73 años — https://concordia24.com.ar/atropello-a-un-ciclista-de-14-anos-huyo-y-protagonizo-otras-colisiones-el-conductor-tiene-73-anos/ _(bloqueado: contiene keyword 'adolescente')_
+
+
+## Tanda 2026-11-21 22:40 UTC
+- Homicidio en Colonia Roca: asesinaron de un disparo a un joven de 25 años y hay dos detenidos — https://concordia24.com.ar/homicidio-en-colonia-roca-asesinaron-de-un-disparo-a-un-joven-de-25-anos-y-hay-dos-detenidos/ _(bloqueado: URL contiene '/homic')_
