@@ -3220,3 +3220,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-11-20 23:33 UTC
 - El Hornerito no se toma vacaciones: la cerámica sigue siendo un espacio para encontrarse — https://concordia24.com.ar/el-hornerito-no-se-toma-vacaciones-la-ceramica-sigue-siendo-un-espacio-para-encontrarse/ _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-11-21 05:07 UTC
+- Atropelló a un ciclista de 14 años, huyó y protagonizó otras colisiones: el conductor tiene 73 años — https://concordia24.com.ar/atropello-a-un-ciclista-de-14-anos-huyo-y-protagonizo-otras-colisiones-el-conductor-tiene-73-anos/ _(bloqueado: contiene keyword 'adolescente')_
