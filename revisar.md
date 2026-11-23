@@ -3228,3 +3228,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-11-21 22:40 UTC
 - Homicidio en Colonia Roca: asesinaron de un disparo a un joven de 25 años y hay dos detenidos — https://concordia24.com.ar/homicidio-en-colonia-roca-asesinaron-de-un-disparo-a-un-joven-de-25-anos-y-hay-dos-detenidos/ _(bloqueado: URL contiene '/homic')_
+
+
+## Tanda 2026-11-23 17:03 UTC
+- Con viajes más cortos y menor consumo, el fin de semana largo por el Día de la Soberanía Nacional dejó un impacto de $ 332.557 millones — https://concordia24.com.ar/con-viajes-mas-cortos-y-menor-consumo-el-fin-de-semana-largo-por-el-dia-de-la-soberania-nacional-dejo-un-impacto-de-332-557-millones/ _(bloqueado: contiene keyword 'menor')_
