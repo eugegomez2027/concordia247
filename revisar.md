@@ -3232,3 +3232,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-11-23 17:03 UTC
 - Con viajes más cortos y menor consumo, el fin de semana largo por el Día de la Soberanía Nacional dejó un impacto de $ 332.557 millones — https://concordia24.com.ar/con-viajes-mas-cortos-y-menor-consumo-el-fin-de-semana-largo-por-el-dia-de-la-soberania-nacional-dejo-un-impacto-de-332-557-millones/ _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-11-25 16:37 UTC
+- Allanamientos en Concordia: secuestraron 284 envoltorios y 20 piedras de cocaína y detuvieron a dos hombres — https://concordia24.com.ar/allanamientos-en-concordia-secuestraron-284-envoltorios-y-20-piedras-de-cocaina-y-detuvieron-a-dos-hombres/ _(bloqueado: contiene keyword 'robo')_
