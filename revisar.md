@@ -3236,3 +3236,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-11-25 16:37 UTC
 - Allanamientos en Concordia: secuestraron 284 envoltorios y 20 piedras de cocaína y detuvieron a dos hombres — https://concordia24.com.ar/allanamientos-en-concordia-secuestraron-284-envoltorios-y-20-piedras-de-cocaina-y-detuvieron-a-dos-hombres/ _(bloqueado: contiene keyword 'robo')_
+
+
+## Tanda 2026-11-26 01:25 UTC
+- OSER: Mediante un amparo presentado por Emmanuel Almirón la Justicia ordenó cubrir el 100 % de dos dispositivos tecnológicos para un menor con discapacidad visual — https://concordia24.com.ar/oser-mediante-un-amparo-presentado-por-emmanuel-almiron-la-justicia-ordeno-cubrir-el-100-de-dos-dispositivos-tecnologicos-para-un-menor-con-discapacidad-visual/ _(bloqueado: contiene keyword 'menor')_
