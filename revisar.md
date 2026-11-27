@@ -3240,3 +3240,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-11-26 01:25 UTC
 - OSER: Mediante un amparo presentado por Emmanuel Almirón la Justicia ordenó cubrir el 100 % de dos dispositivos tecnológicos para un menor con discapacidad visual — https://concordia24.com.ar/oser-mediante-un-amparo-presentado-por-emmanuel-almiron-la-justicia-ordeno-cubrir-el-100-de-dos-dispositivos-tecnologicos-para-un-menor-con-discapacidad-visual/ _(bloqueado: contiene keyword 'menor')_
+
+
+## Tanda 2026-11-27 01:22 UTC
+- El Club Atlético Las Heras sumó nuevos jugadores a sus filas a través de la Escuela Los Leones — https://concordia24.com.ar/el-club-atletico-las-heras-sumo-nuevos-jugadores-a-sus-filas-a-traves-de-la-escuela-los-leones/ _(bloqueado: contiene keyword 'niño')_
