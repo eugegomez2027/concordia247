@@ -3244,3 +3244,9 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 
 ## Tanda 2026-11-27 01:22 UTC
 - El Club Atlético Las Heras sumó nuevos jugadores a sus filas a través de la Escuela Los Leones — https://concordia24.com.ar/el-club-atletico-las-heras-sumo-nuevos-jugadores-a-sus-filas-a-traves-de-la-escuela-los-leones/ _(bloqueado: contiene keyword 'niño')_
+
+
+## Tanda 2026-11-27 15:56 UTC
+- Intervención por presunto maltrato animal: dos perros fueron retirados y puestos bajo resguardo municipal — https://diarioelsol.com.ar/contenido/63971/intervencion-por-presunto-maltrato-animal-dos-perros-fueron-retirados-y-puestos- _(bloqueado: contiene keyword 'presunto')_
+- TEMPORAL: Un menor sufrió heridas tras la voladura del techo de una vivienda — https://diarioelsol.com.ar/contenido/63970/temporal-un-menor-sufrio-heridas-tras-la-voladura-del-techo-de-una-vivienda _(bloqueado: contiene keyword 'menor')_
+- Juicio por la muerte de Maradona: la Fiscalía pidió 12 años de prisión para Leopoldo Luque y 8 para Agustina Cosachov — https://diarioelsol.com.ar/contenido/63969/juicio-por-la-muerte-de-maradona-la-fiscalia-pidio-12-anos-de-prision-para-leopo _(bloqueado: contiene keyword 'homicidio')_
