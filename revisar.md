@@ -3250,3 +3250,7 @@ Items bloqueados por política (denuncias / menores / crimen / acusaciones) o ba
 - Intervención por presunto maltrato animal: dos perros fueron retirados y puestos bajo resguardo municipal — https://diarioelsol.com.ar/contenido/63971/intervencion-por-presunto-maltrato-animal-dos-perros-fueron-retirados-y-puestos- _(bloqueado: contiene keyword 'presunto')_
 - TEMPORAL: Un menor sufrió heridas tras la voladura del techo de una vivienda — https://diarioelsol.com.ar/contenido/63970/temporal-un-menor-sufrio-heridas-tras-la-voladura-del-techo-de-una-vivienda _(bloqueado: contiene keyword 'menor')_
 - Juicio por la muerte de Maradona: la Fiscalía pidió 12 años de prisión para Leopoldo Luque y 8 para Agustina Cosachov — https://diarioelsol.com.ar/contenido/63969/juicio-por-la-muerte-de-maradona-la-fiscalia-pidio-12-anos-de-prision-para-leopo _(bloqueado: contiene keyword 'homicidio')_
+
+
+## Tanda 2026-11-28 00:56 UTC
+- La Policía de Concordia incorporó 32 operadores de dispositivos de letalidad reducida Byrna — https://concordia24.com.ar/la-policia-de-concordia-incorporo-32-operadores-de-dispositivos-de-letalidad-reducida-byrna/ _(bloqueado: contiene keyword 'policía')_
